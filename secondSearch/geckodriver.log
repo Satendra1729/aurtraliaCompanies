@@ -1,0 +1,530 @@
+1512730450636	geckodriver	INFO	geckodriver 0.19.1
+1512730450642	geckodriver	INFO	Listening on 127.0.0.1:63104
+1512730452672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\PROZIO~1\\AppData\\Local\\Temp\\rust_mozprofile.QH3PuvTuyH9B"
+1512730453379	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512730456180	Marionette	INFO	Listening on port 63110
+1512730456466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512730456535	Marionette	DEBUG	Register listener.js for window 4294967297
+1512730526807	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512730527752	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512730527752	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512730528911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730528916	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730536425	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730536950	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730536950	Marionette	DEBUG	Received DOM event "unload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730536994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512730536995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1512730536996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1512730536996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512730536996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730537854	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730547028	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730643335	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730643795	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730643820	Marionette	DEBUG	Received DOM event "unload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730643879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1512730643879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1512730643880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1512730643880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1512730643881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1512730643881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1512730643881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1512730643882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1512730643883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1512730643883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967347"
+1512730643883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1512730643884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1512730643884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1512730643884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967351"
+1512730643884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1512730643885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1512730643885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1512730643885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
+1512730643885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1512730643886	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1512730643886	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1512730643886	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1512730643886	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1512730643887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1512730643887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1512730643887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967389"
+1512730643888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1512730643888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1512730643888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967357"
+1512730643889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1512730643889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730644327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730649558	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512730679732	geckodriver	INFO	geckodriver 0.19.1
+1512730679737	geckodriver	INFO	Listening on 127.0.0.1:63566
+1512730681822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\PROZIO~1\\AppData\\Local\\Temp\\rust_mozprofile.DqMEqVDstUeU"
+1512730682484	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512730685282	Marionette	INFO	Listening on port 63572
+1512730685639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512730685702	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512730718964	geckodriver	INFO	geckodriver 0.19.1
+1512730718970	geckodriver	INFO	Listening on 127.0.0.1:63603
+1512730721051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\PROZIO~1\\AppData\\Local\\Temp\\rust_mozprofile.NvXYpVtfqefS"
+1512730721789	Marionette	INFO	Enabled via --marionette
+1512730724862	Marionette	INFO	Listening on port 63609
+1512730725171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512730725223	Marionette	DEBUG	Register listener.js for window 4294967297
+1512730726358	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512730727672	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512730727672	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512730732045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730732051	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/devtools.js, line 634: TypeError: inspector is undefined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730826759	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730827652	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730827678	Marionette	DEBUG	Received DOM event "unload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730827874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1512730827875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1512730827875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1512730827875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967360"
+1512730827876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1512730827876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1512730827876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512730827877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1512730827877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1512730827878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1512730827878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1512730827879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1512730827879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967371"
+1512730827879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967373"
+1512730827879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1512730827879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967390"
+1512730827880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1512730827880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1512730827881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1512730827881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1512730827882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1512730827882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1512730827882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1512730827883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1512730827883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1512730827883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1512730827883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1512730827883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1512730827884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1512730827884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1512730827884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1512730829277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730834467	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730876279	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730876874	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730876897	Marionette	DEBUG	Received DOM event "unload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730877055	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967434"
+1512730877055	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967436"
+1512730877055	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967438"
+1512730877056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967440"
+1512730877056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967442"
+1512730877056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967444"
+1512730877057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967446"
+1512730877057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967448"
+1512730877057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967450"
+1512730877058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967414"
+1512730877058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967416"
+1512730877059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967421"
+1512730877059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967423"
+1512730877059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967425"
+1512730877060	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967404"
+1512730877060	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967395"
+1512730877060	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967396"
+1512730877060	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967399"
+1512730877061	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967406"
+1512730877061	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967401"
+1512730877061	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967428"
+1512730877061	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967430"
+1512730877062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967452"
+1512730877062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967454"
+1512730877062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967457"
+1512730877062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967408"
+1512730877063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967412"
+1512730877609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730883494	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730908407	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730908913	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512730908932	Marionette	DEBUG	Received DOM event "unload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730909095	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967528"
+1512730909096	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967530"
+1512730909096	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967573"
+1512730909097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967561"
+1512730909097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967563"
+1512730909097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967565"
+1512730909098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967485"
+1512730909098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967474"
+1512730909099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967475"
+1512730909099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967478"
+1512730909099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967503"
+1512730909100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967505"
+1512730909100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967507"
+1512730909100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967509"
+1512730909100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967511"
+1512730909101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967513"
+1512730909101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967515"
+1512730909101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967517"
+1512730909101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967497"
+1512730909102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967499"
+1512730909102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967525"
+1512730909102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967545"
+1512730909102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967547"
+1512730909103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967550"
+1512730909103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967552"
+1512730909103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967487"
+1512730909104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967480"
+1512730909104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967519"
+1512730909104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967521"
+1512730909104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967537"
+1512730909105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967539"
+1512730909105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967541"
+1512730909105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967489"
+1512730909105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967482"
+1512730909106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967494"
+1512730909467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512730913120	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-sanitize.min.js, line 13: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512733671686	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733672597	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733672605	Marionette	DEBUG	Received DOM event "unload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733673749	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733673757	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512733681707	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+console.error: 
+  stylesheets actor: fetch failed for http://www.asx.com.au/css/layout.css, using system principal instead.
+1512733682323	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733682323	Marionette	DEBUG	Received DOM event "unload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733682376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967827"
+1512733682377	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967828"
+1512733682378	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967831"
+1512733682378	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967833"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: get canSetRuleText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1013:1
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1232:9
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:462:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: can't access dead object
+  Stack:
+    get canSetRuleText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1013:1
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1232:9
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:462:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+get canSetRuleText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1013:1
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1232:9
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:462:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512733683659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512733686795	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733707956	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733708543	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733708567	Marionette	DEBUG	Received DOM event "unload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733708656	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967867"
+1512733708657	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967869"
+1512733708657	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967890"
+1512733708658	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967892"
+1512733708659	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967894"
+1512733708660	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967850"
+1512733708661	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967837"
+1512733708661	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967838"
+1512733708661	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967842"
+1512733708662	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967871"
+1512733708663	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967873"
+1512733708664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967887"
+1512733708664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967898"
+1512733708665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967900"
+1512733708665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967902"
+1512733708665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967904"
+1512733708666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967852"
+1512733708666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967844"
+1512733708667	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967861"
+1512733708667	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967863"
+1512733708668	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967879"
+1512733708668	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967881"
+1512733708669	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967883"
+1512733708670	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967854"
+1512733708670	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967846"
+1512733708671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967859"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512733709283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512733713115	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatcUnable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+or: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512733768770	geckodriver	INFO	geckodriver 0.19.1
+1512733768776	geckodriver	INFO	Listening on 127.0.0.1:64716
+1512733770858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\PROZIO~1\\AppData\\Local\\Temp\\rust_mozprofile.3ctatDTjTwEf"
+1512733771478	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512733774166	Marionette	INFO	Listening on port 64722
+1512733774473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512733774518	Marionette	DEBUG	Register listener.js for window 4294967297
+1512733787348	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512733788245	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512733788245	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512733789245	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733789250	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+efox/omni.ja!/components/nsUrlClassifierListManager.js, line 69: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1512733818967	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512733819868	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512733819868	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512733821304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733821306	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.asx.com.au/TSPD/080c95aef9ab20009e431316c10a8a436a49c736d38e3be7ce1ed57ab8d40620141eb60cd40a5c1e?type=8, line 141: Error: WebGL warning: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: http://www.asx.com.au/TSPD/080c95aef9ab20009e431316c10a8a436a49c736d38e3be7ce1ed57ab8d40620141eb60cd40a5c1e?type=8, line 141: Error: WebGL warning: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: http://www.asx.com.au/TSPD/080c95aef9ab20009e431316c10a8a436a49c736d38e3be7ce1ed57ab8d40620141eb60cd40a5c1e?type=8, line 170: Error: WebGL warning: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: http://www.asx.com.au/TSPD/080c95aef9ab20009e431316c10a8a436a49c736d38e3be7ce1ed57ab8d40620141eb60cd40a5c1e?type=8, line 170: Error: WebGL warning: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512733962498	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733963356	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733963370	Marionette	DEBUG	Received DOM event "unload" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+1512733963452	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1512733963452	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1512733963453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1512733963453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1512733963453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1512733963454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512733963454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1512733963455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512733963455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1512733963456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1512733963456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1512733963457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1512733963458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1512733963459	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1512733963459	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1512733963460	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1512733963460	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1512733963461	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1512733963461	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1512733963461	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967357"
+1512733963462	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1512733963463	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1512733963464	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1512733963465	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1512733963465	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1512733963466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1512733963466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1512733963466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1512733963467	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1512733963468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512733964979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512733968995	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.asx.com.au/asx/research/listedCompanies.do?coName=a"
+Unable to read VR Path Registry from C:\Users\Proziod_33\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
