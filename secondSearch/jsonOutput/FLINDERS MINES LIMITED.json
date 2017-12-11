@@ -1,0 +1,156 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FMS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FLINDERS MINES LIMITED",
+    "ASXcode": "FMS",
+    "data": {
+        "summary": {
+            "name_short": "FLINDERS",
+            "name_full": "FLINDERS MINES LIMITED",
+            "code": "FMS",
+            "primary_share_code": "FMS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "FLINDERS MINES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2002-02-20T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 8132 7950",
+            "mailing_address": "Level 1, 135 Fullarton Road, Rose Park, ADELAIDE, SA, AUSTRALIA, 5067",
+            "principal_activities": ".",
+            "fax_number": "08 8132 7999",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-15T07:14:38+1000",
+                    "number_of_pages": 48,
+                    "id": "01896345",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-15T08:22:25+1000",
+                    "size": "686.7KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170915/pdf/43mc1q6bhyw82d.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3068692,
+                "status": [],
+                "market_cap": 265989164,
+                "code": "FMS",
+                "indices": [],
+                "year_open_price": 0.0283,
+                "previous_close_price": 0.079,
+                "year_change_price": 0.0537,
+                "year_low_date": "2016-12-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 3366951446,
+                "eps": -0.0007,
+                "change_in_percent": "3.797%",
+                "change_price": 0.003,
+                "deprecated_number_of_shares": 3366951446,
+                "pe": 0,
+                "offer_price": 0.082,
+                "suspended": false,
+                "last_price": 0.082,
+                "deprecated_market_cap": 276090000,
+                "day_low_price": 0.079,
+                "open_price": 0.079,
+                "year_high_date": "2017-01-30T00:00:00+1100",
+                "previous_day_percentage_change": "9.722%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.09,
+                "bid_price": 0.081,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.082,
+                "year_change_in_percentage": "189.753%",
+                "average_daily_volume": 485247,
+                "year_low_price": 0.022,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.flindersmines.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Neil Warburton",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warburton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David McAdam",
+                    "first_name": "David",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McAdam",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Evan Davies",
+                    "first_name": "Evan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davies",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Kennedy",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kennedy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Wolley",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wolley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Smart",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smart",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Shannon Coates",
+                    "first_name": "Shannon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Coates",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

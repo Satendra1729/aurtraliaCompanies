@@ -1,0 +1,165 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DTI",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "DTI GROUP LTD",
+    "ASXcode": "DTI",
+    "data": {
+        "summary": {
+            "name_short": "DTI GROUP",
+            "name_full": "DTI GROUP LTD",
+            "code": "DTI",
+            "primary_share_code": "DTI",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "DTI GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2014-12-09T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "raj.surendran@dti.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9479 1195",
+            "mailing_address": "31 Affleck Road, PERTH AIRPORT, WA, AUSTRALIA, 6105",
+            "principal_activities": "Provider of integrated surveillance systems and fleet management solutions for the global mobile security market.",
+            "fax_number": "(08) 9479 1190",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-08-29T18:49:55+1000",
+                    "number_of_pages": 83,
+                    "id": "01889808",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T18:52:48+1000",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lvr6vkqq34v8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 42860,
+                "status": [],
+                "market_cap": 15200589,
+                "code": "DTI",
+                "indices": [],
+                "deprecated_number_of_shares": 126671579,
+                "previous_close_price": 0.12,
+                "year_low_date": "2017-11-24T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 126671579,
+                "eps": -0.0638,
+                "change_in_percent": "-8.333%",
+                "change_price": -0.01,
+                "pe": 0,
+                "offer_price": 0.12,
+                "suspended": false,
+                "last_price": 0.11,
+                "deprecated_market_cap": 13934000,
+                "day_low_price": 0.11,
+                "open_price": 0.115,
+                "year_high_date": "2017-01-20T00:00:00+1100",
+                "previous_day_percentage_change": "-7.692%",
+                "year_open_date": null,
+                "year_high_price": 0.44,
+                "bid_price": 0.11,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.115,
+                "average_daily_volume": 162655,
+                "year_low_price": 0.1,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.dti.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.dti.com.au/investors/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Christopher John Morris",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morris",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Peter John Tazewell",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tazewell",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Glyn Denison",
+                    "first_name": "Glyn",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Denison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil Edward Goodey",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goodey",
+                    "middle_name": "Edward"
+                },
+                {
+                    "full_name": "Mr Richard Andrew Johnson",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnson",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Mr Jeremy Philip King",
+                    "first_name": "Jeremy",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "King",
+                    "middle_name": "Philip"
+                },
+                {
+                    "full_name": "Mr Raj Surendran",
+                    "first_name": "Raj",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Surendran",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Raj Surendran",
+                    "first_name": "Raj",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Surendran",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

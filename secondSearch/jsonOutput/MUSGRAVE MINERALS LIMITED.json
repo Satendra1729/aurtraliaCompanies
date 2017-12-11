@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MGV",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MUSGRAVE MINERALS LIMITED",
+    "ASXcode": "MGV",
+    "data": {
+        "summary": {
+            "name_short": "MUSGRAVE",
+            "name_full": "MUSGRAVE MINERALS LIMITED",
+            "code": "MGV",
+            "primary_share_code": "MGV",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MUSGRAVE MINERALS",
+            "foreign_exempt": false,
+            "listing_date": "2011-04-29T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9324 1061",
+            "mailing_address": "28 Richardson Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Musgrave Minerals Limited is a dedicated minerals exploration company focused on increasing shareholder value through exploration discovery and development of gold and base metal resources within Australia.",
+            "fax_number": "(08) 9324 1014",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-24T11:26:40+1100",
+                    "number_of_pages": 64,
+                    "id": "01911680",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T11:30:37+1100",
+                    "size": "3.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43nj31g8jyjyp4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5658030,
+                "status": [],
+                "market_cap": 18651759,
+                "code": "MGV",
+                "indices": [],
+                "year_open_price": 0.085,
+                "previous_close_price": 0.067,
+                "year_change_price": -0.01,
+                "year_low_date": "2017-11-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 278384457,
+                "eps": -0.0292,
+                "change_in_percent": "11.94%",
+                "change_price": 0.008,
+                "deprecated_number_of_shares": 278384457,
+                "pe": 0,
+                "offer_price": 0.076,
+                "suspended": false,
+                "last_price": 0.075,
+                "deprecated_market_cap": 20879000,
+                "day_low_price": 0.073,
+                "open_price": 0.077,
+                "year_high_date": "2017-04-20T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.105,
+                "bid_price": 0.075,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.08,
+                "year_change_in_percentage": "-11.765%",
+                "average_daily_volume": 433510,
+                "year_low_price": 0.059,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.musgraveminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graham Ascough",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ascough",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Waugh",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Waugh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Percival",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Percival",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kelly Ross",
+                    "first_name": "Kelly",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ross",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Trish Farr",
+                    "first_name": "Trish",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Farr",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

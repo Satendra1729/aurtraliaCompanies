@@ -1,0 +1,133 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BAH",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "BOJUN AGRICULTURE HOLDINGS LIMITED",
+    "ASXcode": "BAH",
+    "data": {
+        "summary": {
+            "name_short": "BOJUN AG",
+            "name_full": "BOJUN AGRICULTURE HOLDINGS LIMITED",
+            "code": "BAH",
+            "primary_share_code": "BAH",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "BOJUN AGRICULTURE",
+            "foreign_exempt": false,
+            "listing_date": "2017-12-01T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "0390098818",
+            "mailing_address": "Level 12, 225 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The entity engages in the business of manufacturing processed foods and beverages on a made-to-order business model. Its key products include fruit cider vinegar beverages and fruit confections, which are derived from agricultural fruit produce.",
+            "fax_number": "0390098818",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 84974,
+                "status": [],
+                "market_cap": 36453604,
+                "code": "BAH",
+                "indices": [],
+                "deprecated_number_of_shares": 121512013,
+                "previous_close_price": 0.3,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 121512013,
+                "eps": 0,
+                "change_in_percent": "3.333%",
+                "change_price": 0.01,
+                "pe": 0,
+                "offer_price": 0.305,
+                "suspended": false,
+                "last_price": 0.31,
+                "deprecated_market_cap": 37669000,
+                "day_low_price": 0.3,
+                "open_price": 0.3,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "-1.639%",
+                "year_open_date": null,
+                "year_high_price": 0.32,
+                "bid_price": 0.225,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.31,
+                "average_daily_volume": 352364,
+                "year_low_price": 0.3,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.bojunagriculture.com",
+            "fiscal_year_end": "30/09",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "The Hon Andrew Stoner",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "Stoner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Zhen Yu",
+                    "first_name": "Zhen",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Yu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Bo Zhu",
+                    "first_name": "Bo",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Zhu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Ong",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Qingfeng Zhang",
+                    "first_name": "Qingfeng",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nicholas Ong",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ong",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

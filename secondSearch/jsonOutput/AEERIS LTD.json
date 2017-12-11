@@ -1,0 +1,122 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AER",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "AEERIS LTD",
+    "ASXcode": "AER",
+    "data": {
+        "summary": {
+            "name_short": "AEERIS",
+            "name_full": "AEERIS LTD",
+            "code": "AER",
+            "primary_share_code": "AER",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "AEERIS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-04-01T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 6674 2711",
+            "mailing_address": "Level 12, 225 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provision of warning alerts and forecasting services to individuals, Small Business, Large Business & Corporations across Australia and Internationally.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-13T11:59:12+1100",
+                    "number_of_pages": 67,
+                    "id": "01907645",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T12:02:31+1100",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6gbx12vhgsk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 26274,
+                "status": [],
+                "market_cap": 2379672,
+                "code": "AER",
+                "indices": [],
+                "deprecated_number_of_shares": 56658858,
+                "previous_close_price": 0.042,
+                "year_low_date": "2017-06-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 56658858,
+                "eps": -0.0371,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.051,
+                "suspended": false,
+                "last_price": 0.042,
+                "deprecated_market_cap": 2380000,
+                "day_low_price": 0.042,
+                "open_price": 0.042,
+                "year_high_date": "2016-12-20T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.08,
+                "bid_price": 0.035,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.042,
+                "average_daily_volume": 55224,
+                "year_low_price": 0.03,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.aeeris.com/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kerry Plowright",
+                    "first_name": "Kerry",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Plowright",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ben Loiterton",
+                    "first_name": "Ben",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Loiterton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bryce Reynolds",
+                    "first_name": "Bryce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reynolds",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Elissa Hansen",
+                    "first_name": "Elissa",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hansen",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

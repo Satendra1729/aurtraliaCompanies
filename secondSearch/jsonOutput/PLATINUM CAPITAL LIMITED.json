@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PMC",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "PLATINUM CAPITAL LIMITED",
+    "ASXcode": "PMC",
+    "data": {
+        "summary": {
+            "name_short": "PLATINUM",
+            "name_full": "PLATINUM CAPITAL LIMITED",
+            "code": "PMC",
+            "primary_share_code": "PMC",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "PLATINUM CAPITAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "1994-06-29T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "6C FRANKED @30%; DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-17T00:00:00+1000",
+                "record_date": "2017-08-23T00:00:00+1000",
+                "payable_date": "2017-09-11T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.06,
+                "ex_date": "2017-08-22T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9255 7500",
+            "mailing_address": "C/-Platinum Asset Management, Level 8, 7 Macquarie Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Equity investor.",
+            "fax_number": "(02) 9254 5555",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-11T08:35:04+1000",
+                    "number_of_pages": 123,
+                    "id": "01894528",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-11T08:37:16+1000",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170911/pdf/43m6xk115qydc0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 337971,
+                "status": [],
+                "market_cap": 573089212,
+                "code": "PMC",
+                "indices": [],
+                "year_open_price": 1.815,
+                "previous_close_price": 2.01,
+                "year_change_price": 0.185,
+                "year_low_date": "2017-04-03T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 285119011,
+                "eps": 0.2003,
+                "change_in_percent": "-0.498%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 285119006,
+                "pe": 9.99,
+                "offer_price": 2.04,
+                "suspended": false,
+                "last_price": 2,
+                "deprecated_market_cap": 570238000,
+                "day_low_price": 2,
+                "open_price": 2.03,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "-1.471%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.06,
+                "bid_price": 2.01,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.05,
+                "year_change_in_percentage": "10.193%",
+                "average_daily_volume": 256937,
+                "year_low_price": 1.49,
+                "annual_dividend_yield": 5
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.platinum.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David B Coleman",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coleman",
+                    "middle_name": "B"
+                },
+                {
+                    "full_name": "Mr James L Clegg",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clegg",
+                    "middle_name": "L"
+                },
+                {
+                    "full_name": "Mr Richard Morath",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morath",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Joanne Maree Jefferies",
+                    "first_name": "Joanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Jefferies",
+                    "middle_name": "Maree"
+                }
+            ]
+        }
+    }
+}

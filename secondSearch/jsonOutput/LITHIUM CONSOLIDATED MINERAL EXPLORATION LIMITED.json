@@ -1,0 +1,135 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LI3",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LITHIUM CONSOLIDATED MINERAL EXPLORATION LIMITED",
+    "ASXcode": "LI3",
+    "data": {
+        "summary": {
+            "name_short": "LCME",
+            "name_full": "LITHIUM CONSOLIDATED MINERAL EXPLORATION LIMITED",
+            "code": "LI3",
+            "primary_share_code": "LI3",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LCME LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-03-28T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@lithiumconsolidated.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 3212 6299",
+            "mailing_address": "Level 10, 110 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "",
+            "fax_number": "07 3212 6250",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T08:34:24+1000",
+                    "number_of_pages": 72,
+                    "id": "01901740",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:36:38+1000",
+                    "size": "969.3KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrrzh3j2ckvd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 133182,
+                "status": [],
+                "market_cap": 12146236,
+                "code": "LI3",
+                "indices": [],
+                "deprecated_number_of_shares": 46682122,
+                "previous_close_price": 0.135,
+                "year_low_date": "2017-07-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 89972122,
+                "eps": 0,
+                "change_in_percent": "-3.704%",
+                "change_price": -0.005,
+                "pe": 0,
+                "offer_price": 0.135,
+                "suspended": false,
+                "last_price": 0.13,
+                "deprecated_market_cap": 6069000,
+                "day_low_price": 0.13,
+                "open_price": 0.14,
+                "year_high_date": "2017-11-09T00:00:00+1100",
+                "previous_day_percentage_change": "-6.897%",
+                "year_open_date": null,
+                "year_high_price": 0.27,
+                "bid_price": 0.13,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.14,
+                "average_daily_volume": 196821,
+                "year_low_price": 0.07,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.lithiumconsolidated.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jim McKerlie",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKerlie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Shanthar Pathmanathan",
+                    "first_name": "Shanthar",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pathmanathan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Vincent Mascolo",
+                    "first_name": "Vincent",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mascolo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brian Moller",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moller",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Duncan Cornish",
+                    "first_name": "Duncan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cornish",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

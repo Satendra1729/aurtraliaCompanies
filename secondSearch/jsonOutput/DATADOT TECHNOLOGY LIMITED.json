@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DDT",
+    "GICSindustrygroup": "Automobiles & Components",
+    "Companyname": "DATADOT TECHNOLOGY LIMITED",
+    "ASXcode": "DDT",
+    "data": {
+        "summary": {
+            "name_short": "DATADOT",
+            "name_full": "DATADOT TECHNOLOGY LIMITED",
+            "code": "DDT",
+            "primary_share_code": "DDT",
+            "industry_group_name": "Automobiles & Components",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "DATADOT TECHNOLOGY",
+            "foreign_exempt": false,
+            "listing_date": "2005-01-12T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 89774900",
+            "mailing_address": "Unit 9, 19 Rodborough Road, FRENCHS FOREST, NSW, AUSTRALIA, 2086",
+            "principal_activities": "The Company has developed a patented microdot application technology that allows various types of assets and their component parts to be uniquely marked and made uniquely identifiable.",
+            "fax_number": "(02) 9975 4700",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-24T16:51:19+1100",
+                    "number_of_pages": 64,
+                    "id": "01911908",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T17:06:18+1100",
+                    "size": "3.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43njkhxzlfc3gx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2000,
+                "status": [],
+                "market_cap": 4053032,
+                "code": "DDT",
+                "indices": [],
+                "year_open_price": 0.033,
+                "previous_close_price": 0.005,
+                "year_change_price": -0.028,
+                "year_low_date": "2017-09-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 810606351,
+                "eps": -0.0018,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 810606351,
+                "pe": 0,
+                "offer_price": 0.006,
+                "suspended": false,
+                "last_price": 0.005,
+                "deprecated_market_cap": 4053000,
+                "day_low_price": 0.005,
+                "open_price": 0.005,
+                "year_high_date": "2017-02-01T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.016,
+                "bid_price": 0.005,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.005,
+                "year_change_in_percentage": "-84.848%",
+                "average_daily_volume": 1266497,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.datadotdna.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bruce Rathie",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rathie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Temogen Hield",
+                    "first_name": "Temogen",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hield",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Flowers",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Flowers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephe Wilks",
+                    "first_name": "Stephe",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilks",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Patrick Raper",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Raper",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NIB",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "NORDIC INVESTMENT BANK",
+    "ASXcode": "NIB",
+    "data": {
+        "summary": {
+            "name_full": "NORDIC INVESTMENT BANK",
+            "code": "NIB",
+            "name_short": "NORDIC",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "NORDIC INVESTMENT",
+            "foreign_exempt": false,
+            "listing_date": "1999-03-24T00:00:00+1100",
+            "registry_address": "REGISTER OF INSCRIBED STOCK, 65 MARTIN PLACE, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [],
+            "phone_number": "+35 810618001",
+            "mailing_address": "Fabianinkatu 34, PO Box 249, AUSTRALIA,",
+            "principal_activities": "Nordic Investment Bank is a multilateral financial institution established pursuant to an agreement dated 4 December 1975 between the governments of Denmark, Finland, Iceland, Norway and Sweden.",
+            "fax_number": "+35 8106180714",
+            "latest_annual_reports": [],
+            "registry_phone_number": "(02) 9551 8111",
+            "web_address": "http://www.nib.int/home",
+            "fiscal_year_end": "31/12",
+            "registry_name": "RESERVE BANK OF AUSTRALIA",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Claes de Neergaard",
+                    "first_name": "Claes",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "de Neergaard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bolli Thor Bollason",
+                    "first_name": "Bolli Thor",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bollason",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bo Goran Eriksson",
+                    "first_name": "Bo Goran",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Eriksson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr IB Katznelson",
+                    "first_name": "IB",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Katznelson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lars Kolte",
+                    "first_name": "Lars",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kolte",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bo Marking",
+                    "first_name": "Bo",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marking",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Thorsteinn Olafsson",
+                    "first_name": "Thorsteinn",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Olafsson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kristina Sarjo",
+                    "first_name": "Kristina",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Sarjo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Arild Sundberg",
+                    "first_name": "Arild",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sundberg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Eli Telhaug",
+                    "first_name": "Eli",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Telhaug",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Britt-Marie Olin",
+                    "first_name": "Britt-Marie",
+                    "roles": [
+                        "Finance Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Olin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Torben Nielsen",
+                    "first_name": "Torben",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nielsen",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Ulrika Ehrst\u00bfn",
+                    "first_name": "Ulrika",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ehrst\u00bfn",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

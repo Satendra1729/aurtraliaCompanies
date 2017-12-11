@@ -1,0 +1,107 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BPB",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "BP CAPITAL MARKETS PLC",
+    "ASXcode": "BPB",
+    "data": {
+        "summary": {
+            "name_full": "BP CAPITAL MARKETS PLC",
+            "products": [],
+            "phone_number": "+44 207 948 4123",
+            "mailing_address": "Chertsey Road, Sunbury-on-Thames, AUSTRALIA,",
+            "principal_activities": "",
+            "name_short": "BP CAP PLC",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "BP CAPITAL PLC",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-05-11T22:14:13+1000",
+                    "number_of_pages": 20,
+                    "id": "01856803",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-05-12T08:42:13+1000",
+                    "size": "946.5KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170512/pdf/43j6rsxqnb2dp4.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-05-11T22:13:02+1000",
+                    "number_of_pages": 18,
+                    "id": "01856802",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-05-12T08:41:58+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170512/pdf/43j6rr4lggj607.pdf"
+                }
+            ],
+            "foreign_exempt": false,
+            "code": "BPB",
+            "registry_address": "LEVEL 23, 2 PARK STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2012-10-16T00:00:00+1100",
+            "fax_number": "+44 207 948 7783",
+            "web_address": null,
+            "registry_name": "CITIGROUP PTY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Nicholas Mark Hargrave Bamfield",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bamfield",
+                    "middle_name": "Mark Hargrave"
+                },
+                {
+                    "full_name": "Mr David James Bucknall",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bucknall",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Dr Brian Gilvary",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Gilvary",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Roger Christopher Harrington",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harrington",
+                    "middle_name": "Christopher"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Patrick Halpin",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Halpin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

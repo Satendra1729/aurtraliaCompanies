@@ -1,0 +1,116 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OGH",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "OCHRE GROUP HOLDINGS LIMITED",
+    "ASXcode": "OGH",
+    "data": {
+        "summary": {
+            "name_short": "OCHRE GRP",
+            "name_full": "OCHRE GROUP HOLDINGS LIMITED",
+            "code": "OGH",
+            "primary_share_code": "OGH",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "OCHRE GROUP HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": "1991-01-17T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8316 3996",
+            "mailing_address": "Level 11, 52 Phillip Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Mineral exploration (Iron ore) & mining.",
+            "fax_number": "(02) 8316 3999",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "OGH",
+                "indices": [],
+                "year_open_price": 0.84,
+                "previous_close_price": 0.068,
+                "year_change_price": -0.772,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 33583307,
+                "eps": -0.1655,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 33583307,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.068,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-04-14T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.085,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-91.905%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.ochreresources.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Nathan Featherby",
+                    "first_name": "Nathan",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Featherby",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Saxon Ball",
+                    "first_name": "Saxon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ball",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Shane Pentony",
+                    "first_name": "Shane",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pentony",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Trent Franklin",
+                    "first_name": "Trent",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Franklin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

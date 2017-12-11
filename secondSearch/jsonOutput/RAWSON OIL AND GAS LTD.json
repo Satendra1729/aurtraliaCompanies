@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RAW",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "RAWSON OIL AND GAS LTD",
+    "ASXcode": "RAW",
+    "data": {
+        "summary": {
+            "name_full": "RAWSON OIL AND GAS LTD",
+            "code": "RAW",
+            "name_short": "RAWSON",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "RAWSON OIL & GAS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RAW?image_size=L&v=1486003343000",
+            "foreign_exempt": false,
+            "listing_date": "2005-09-22T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "sarah@rawsonresources.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 (02) 9095 4226",
+            "mailing_address": "C/- McCullough Robertson, Level 32, 19 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Oil and Gas Exploration",
+            "fax_number": "+61 (02) 8079 0702",
+            "latest_annual_reports": [
+                {
+                    "header": "Updated Annual Report",
+                    "document_date": "2017-10-03T09:49:41+1100",
+                    "number_of_pages": 73,
+                    "id": "01903556",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-03T09:53:23+1100",
+                    "size": "995.9KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171003/pdf/43mwxd5036tyt8.pdf"
+                },
+                {
+                    "header": "Rawson Oil and Gas Annual Report 2017",
+                    "document_date": "2017-10-01T17:19:20+1100",
+                    "number_of_pages": 73,
+                    "id": "01902980",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:05:51+1100",
+                    "size": "857.9KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvmyqnrcl4t1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 3137509,
+                "code": "RAW",
+                "indices": [],
+                "year_open_price": 0.041,
+                "previous_close_price": 0.032,
+                "year_change_price": -0.009,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 98047150,
+                "eps": -0.0034,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 98047150,
+                "pe": 0,
+                "offer_price": 0.062,
+                "suspended": false,
+                "last_price": 0.032,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-12T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.063,
+                "bid_price": 0.033,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-21.951%",
+                "average_daily_volume": 259790,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "RAW",
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.rawsonresources.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Allister Richardson",
+                    "first_name": "Allister",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richardson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Ash",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ash",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael McGowan",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGowan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sarah Potter",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Potter",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sarah Potter",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Potter",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

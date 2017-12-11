@@ -1,0 +1,90 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NFN",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "NUFARM FINANCE (NZ) LIMITED",
+    "ASXcode": "NFN",
+    "data": {
+        "summary": {
+            "name_full": "NUFARM FINANCE (NZ) LIMITED",
+            "products": [
+                "convertible-notes"
+            ],
+            "phone_number": "(03) 9282 1000",
+            "mailing_address": "c/- Nufarm Limited, 103 - 105 Pipe Road, LAVERTON NORTH, VIC, AUSTRALIA, 3026",
+            "principal_activities": "The Company is a special purpose vehicle established to issue the Notes.",
+            "name_short": "NUFARMFIN",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "NUFARM FINANCE (NZ)",
+            "registry_phone_number": "1800 501 366",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report and s209C Notice",
+                    "document_date": "2017-10-26T10:05:54+1100",
+                    "number_of_pages": 32,
+                    "id": "01912907",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-26T10:14:27+1100",
+                    "size": "4.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171026/pdf/43nlr7byn6mjx6.pdf"
+                }
+            ],
+            "foreign_exempt": false,
+            "code": "NFN",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "listing_date": "2006-11-27T00:00:00+1100",
+            "fax_number": "(03) 9282 1132",
+            "web_address": "http://www.nufarm.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY. LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Paul Andrew Binfield",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Binfield",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Dr Wiiliam Bruce Goodfellow",
+                    "first_name": "Wiiliam",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Goodfellow",
+                    "middle_name": "Bruce"
+                },
+                {
+                    "full_name": "Mr Phillip John Hull",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hull",
+                    "middle_name": "John"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Rodney Heath",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Heath",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SXL",
+    "GICSindustrygroup": "Media",
+    "Companyname": "SOUTHERN CROSS MEDIA GROUP LIMITED",
+    "ASXcode": "SXL",
+    "data": {
+        "summary": {
+            "name_short": "STHNXMEDIA",
+            "name_full": "SOUTHERN CROSS MEDIA GROUP LIMITED",
+            "code": "SXL",
+            "primary_share_code": "SXL",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "STHN CROSS MEDIA",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SXL?image_size=L&v=1422502910000",
+            "foreign_exempt": false,
+            "listing_date": "2005-11-17T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "4C FRANKED @ 30%; DR P SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-11T00:00:00+1000",
+                "payable_date": "2017-10-10T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.04,
+                "ex_date": "2017-09-08T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(03) 9252 1019",
+            "mailing_address": "Level 2, 257 Clarendon Street, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Media",
+            "fax_number": "(03) 9252 1270",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-22T09:20:39+1000",
+                    "number_of_pages": 100,
+                    "id": "01898820",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T09:22:51+1000",
+                    "size": "7.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mk0b1znnslmy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2857242,
+                "status": [],
+                "market_cap": 926661394,
+                "code": "SXL",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    }
+                ],
+                "year_open_price": 1.445,
+                "previous_close_price": 1.205,
+                "year_change_price": -0.225,
+                "year_low_date": "2017-11-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 769013605,
+                "eps": 0.1412,
+                "change_in_percent": "1.245%",
+                "change_price": 0.015,
+                "deprecated_number_of_shares": 769013605,
+                "pe": 8.64,
+                "offer_price": 1.22,
+                "suspended": false,
+                "last_price": 1.22,
+                "deprecated_market_cap": 938197000,
+                "day_low_price": 1.197,
+                "open_price": 1.205,
+                "year_high_date": "2017-01-03T00:00:00+1100",
+                "previous_day_percentage_change": "-0.413%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.57,
+                "bid_price": 1.195,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.22,
+                "year_change_in_percentage": "-15.571%",
+                "average_daily_volume": 2800489,
+                "year_low_price": 1.06,
+                "annual_dividend_yield": 6.35
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.southerncrossaustereo.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.southerncrossaustereo.com.au/investors/governance/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Bush",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bush",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leon Pasternak",
+                    "first_name": "Leon",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pasternak",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Blackley",
+                    "first_name": "Grant",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Blackley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Glen Boreham",
+                    "first_name": "Glen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boreham",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rob Murray",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Helen Nash",
+                    "first_name": "Helen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Nash",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Melanie Willis",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Willis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nick McKechnie",
+                    "first_name": "Nick",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKechnie",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tony Hudson",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hudson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

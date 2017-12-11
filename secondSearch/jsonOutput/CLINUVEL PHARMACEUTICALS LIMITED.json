@@ -1,0 +1,155 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CUV",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "CLINUVEL PHARMACEUTICALS LIMITED",
+    "ASXcode": "CUV",
+    "data": {
+        "summary": {
+            "name_short": "CLINUVEL",
+            "name_full": "CLINUVEL PHARMACEUTICALS LIMITED",
+            "code": "CUV",
+            "primary_share_code": "CUV",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "CLINUVEL PHARMACEUT.",
+            "foreign_exempt": false,
+            "listing_date": "2001-02-13T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 3 9660 4900",
+            "mailing_address": "Level 06, 15 Queen Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Clinuvel Pharmaceuticals Ltd. is a leading and innovative Australian company focused on the development of SCENESSE\u00bf  (afamelanotide), its proprietary first-in-class drug, as a photoprotective in a range of UV and light related skin disorders and as a repigmentation therapy in the common skin disorder vitiligo.",
+            "fax_number": "61 3 9660 4999",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T09:09:41+1100",
+                    "number_of_pages": 58,
+                    "id": "01913429",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T09:11:59+1100",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nmx0bsgcbv3q.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 50353,
+                "status": [],
+                "market_cap": 381881816,
+                "code": "CUV",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.58,
+                "previous_close_price": 8,
+                "year_change_price": 6.42,
+                "year_low_date": "2017-07-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 47735227,
+                "eps": 0.149,
+                "change_in_percent": "0%",
+                "change_price": 0,
+                "deprecated_number_of_shares": 47735227,
+                "pe": 53.69,
+                "offer_price": 8.1,
+                "suspended": false,
+                "last_price": 8,
+                "deprecated_market_cap": 381882000,
+                "day_low_price": 7.86,
+                "open_price": 8.01,
+                "year_high_date": "2017-11-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 9.44,
+                "bid_price": 7.75,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 8.29,
+                "year_change_in_percentage": "406.329%",
+                "average_daily_volume": 38013,
+                "year_low_price": 5.91,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.clinuvel.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stanley McLiesh",
+                    "first_name": "Stanley",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McLiesh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philippe Wolgen",
+                    "first_name": "Philippe",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wolgen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Willem Blijdorp",
+                    "first_name": "Willem",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Blijdorp",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Brenda Shanahan",
+                    "first_name": "Brenda",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Shanahan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Darren Keamy",
+                    "first_name": "Darren",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keamy",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Darren Keamy",
+                    "first_name": "Darren",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keamy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KLH",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "KALIA LIMITED",
+    "ASXcode": "KLH",
+    "data": {
+        "summary": {
+            "name_short": "KALIA",
+            "name_full": "KALIA LIMITED",
+            "code": "KLH",
+            "primary_share_code": "KLH",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "KALIA LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2007-06-07T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6555 0322",
+            "mailing_address": "Suite 2, 26 Eastbrook Terrace, EAST PERTH, WA, AUSTRALIA, 6004",
+            "principal_activities": "Exploration of precious and energy metals",
+            "fax_number": "08 9325 1238",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 252743,
+                "status": [],
+                "market_cap": 29262711,
+                "code": "KLH",
+                "indices": [],
+                "year_open_price": 0.003,
+                "previous_close_price": 0.015,
+                "year_change_price": 0.013,
+                "year_low_date": "2016-12-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1950847391,
+                "eps": -0.001,
+                "change_in_percent": "6.667%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 1950847391,
+                "pe": 0,
+                "offer_price": 0.016,
+                "suspended": false,
+                "last_price": 0.016,
+                "deprecated_market_cap": 31214000,
+                "day_low_price": 0.016,
+                "open_price": 0.016,
+                "year_high_date": "2017-11-16T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-12T11:00:00+1100",
+                "year_high_price": 0.02,
+                "bid_price": 0.015,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.016,
+                "year_change_in_percentage": "433.333%",
+                "average_daily_volume": 1758840,
+                "year_low_price": 0.003,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.kaliagroup.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "The Hon David Albert Johnston",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "Johnston",
+                    "middle_name": "Albert"
+                },
+                {
+                    "full_name": "Mr Terence Larkan",
+                    "first_name": "Terence",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Larkan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Ross Burn",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burn",
+                    "middle_name": "Ross"
+                },
+                {
+                    "full_name": "Mrs Anna MacKintosh",
+                    "first_name": "Anna",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "MacKintosh",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Anna MacKintosh",
+                    "first_name": "Anna",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "MacKintosh",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

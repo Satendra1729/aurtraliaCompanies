@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IRC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "INTERMIN RESOURCES LIMITED",
+    "ASXcode": "IRC",
+    "data": {
+        "summary": {
+            "name_short": "INTERMIN",
+            "name_full": "INTERMIN RESOURCES LIMITED",
+            "code": "IRC",
+            "primary_share_code": "IRC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "INTERMIN RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "1992-02-06T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "iadmin@intermin.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9386 9534",
+            "mailing_address": "163-167 Stirling Highway, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Exploration for gold and other economic resources",
+            "fax_number": "(08) 9389 1597",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-29T08:51:13+1000",
+                    "number_of_pages": 76,
+                    "id": "01901776",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:54:03+1000",
+                    "size": "11.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrv2kgd1smx0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 651411,
+                "status": [],
+                "market_cap": 29967248,
+                "code": "IRC",
+                "indices": [],
+                "year_open_price": 0.055,
+                "previous_close_price": 0.135,
+                "year_change_price": 0.065,
+                "year_low_date": "2017-08-16T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 221979618,
+                "eps": -0.0021,
+                "change_in_percent": "-11.111%",
+                "change_price": -0.015,
+                "deprecated_number_of_shares": 221979618,
+                "pe": 0,
+                "offer_price": 0.13,
+                "suspended": false,
+                "last_price": 0.12,
+                "deprecated_market_cap": 26638000,
+                "day_low_price": 0.12,
+                "open_price": 0.13,
+                "year_high_date": "2017-11-21T00:00:00+1100",
+                "previous_day_percentage_change": "3.846%",
+                "year_open_date": "2014-03-05T11:00:00+1100",
+                "year_high_price": 0.175,
+                "bid_price": 0.12,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.13,
+                "year_change_in_percentage": "118.182%",
+                "average_daily_volume": 344198,
+                "year_low_price": 0.085,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.intermin.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Bilbe",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bilbe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jon Price",
+                    "first_name": "Jon",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Price",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lorry Hughes",
+                    "first_name": "Lorry",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hughes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Hunt",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hunt",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Bianca Taveira",
+                    "first_name": "Bianca",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Taveira",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

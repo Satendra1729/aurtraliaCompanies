@@ -1,0 +1,173 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RNT",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "RENT.COM.AU LIMITED",
+    "ASXcode": "RNT",
+    "data": {
+        "summary": {
+            "name_full": "RENT.COM.AU LIMITED",
+            "code": "RNT",
+            "name_short": "RENTDOTCOM",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "RENT.COM.AU LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RNT?image_size=L&v=1435754894000",
+            "foreign_exempt": false,
+            "listing_date": "1994-05-26T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "investors@rent.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 7600",
+            "mailing_address": "945 Wellington Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Online rental real estate portal.",
+            "fax_number": "(08) 9322 7602",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-23T22:42:24+1100",
+                    "number_of_pages": 64,
+                    "id": "01911365",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T08:21:07+1100",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43nhh7qbj00ldd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 250000,
+                "status": [],
+                "market_cap": 11191605,
+                "code": "RNT",
+                "indices": [],
+                "year_open_price": 0.007,
+                "previous_close_price": 0.056,
+                "year_change_price": 0.049,
+                "year_low_date": "2017-08-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 199850097,
+                "eps": -0.0472,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 199850097,
+                "pe": 0,
+                "offer_price": 0.058,
+                "suspended": false,
+                "last_price": 0.056,
+                "deprecated_market_cap": 11192000,
+                "day_low_price": 0.056,
+                "open_price": 0.057,
+                "year_high_date": "2017-05-17T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.105,
+                "bid_price": 0.056,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.057,
+                "year_change_in_percentage": "700%",
+                "average_daily_volume": 204998,
+                "year_low_price": 0.045,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "RNT",
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://investors.rent.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": "http://investors.rent.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Garry Garside",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Garside",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Bader",
+                    "first_name": "Greg",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bader",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Samuel McDonagh",
+                    "first_name": "Samuel",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDonagh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phil Warren",
+                    "first_name": "Phil",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warren",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Wood",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jan Ferreira",
+                    "first_name": "Jan",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferreira",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jan Ferreira",
+                    "first_name": "Jan",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferreira",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Wood",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wood",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

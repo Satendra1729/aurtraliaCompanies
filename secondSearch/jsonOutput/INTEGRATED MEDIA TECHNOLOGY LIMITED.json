@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ITL",
+    "GICSindustrygroup": "Media",
+    "Companyname": "INTEGRATED MEDIA TECHNOLOGY LIMITED",
+    "ASXcode": "ITL",
+    "data": {
+        "summary": {
+            "name_short": "INTMEDIA",
+            "name_full": "INTEGRATED MEDIA TECHNOLOGY LIMITED",
+            "code": "ITL",
+            "primary_share_code": "ITL",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "INTEGRATED MEDIA",
+            "foreign_exempt": false,
+            "listing_date": "2013-02-25T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": " info@imtechltd.com ",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 7324 6018",
+            "mailing_address": "Level 7, 420 King William Street, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "IMT is an ASX-listed company principally engaged in the development of glasses-free 3D (autostereoscopic) digital advertising platforms, distribution of digital displays, distribution of 3D software, provision of 3D solutions, consultancy services and di",
+            "fax_number": "(08) 8312 0248",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-03T07:40:16+1000",
+                    "number_of_pages": 74,
+                    "id": "01844221",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-03T08:21:39+1000",
+                    "size": "9.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170403/pdf/43h77gr190fb50.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 17844374,
+                "code": "ITL",
+                "indices": [],
+                "deprecated_number_of_shares": 2643611,
+                "previous_close_price": 6.75,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2643611,
+                "eps": 1.315,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 5.13,
+                "offer_price": 6.78,
+                "suspended": false,
+                "last_price": 6.75,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-23T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 6.8,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 2278,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.imtechltd.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Herbert Ying Chiu Lee",
+                    "first_name": "Herbert",
+                    "roles": [
+                        "Chairman",
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Lee",
+                    "middle_name": "Ying Chiu"
+                },
+                {
+                    "full_name": "Dr Man-Chung Chan",
+                    "first_name": "Man-Chung",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Chang Yuen Chan",
+                    "first_name": "Chang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Chan",
+                    "middle_name": "Yuen"
+                },
+                {
+                    "full_name": "Mr Wilton Timothy Carr Ingram",
+                    "first_name": "Wilton",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ingram",
+                    "middle_name": "Timothy Carr"
+                },
+                {
+                    "full_name": "Mr Con Unerkov",
+                    "first_name": "Con",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Unerkov",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr George Yatzis",
+                    "first_name": "George",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yatzis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

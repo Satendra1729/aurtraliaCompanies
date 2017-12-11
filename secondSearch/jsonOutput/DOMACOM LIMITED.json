@@ -1,0 +1,91 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DCL",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "DOMACOM LIMITED",
+    "ASXcode": "DCL",
+    "data": {
+        "summary": {
+            "name_short": "DOMACOM",
+            "name_full": "DOMACOM LIMITED",
+            "code": "DCL",
+            "primary_share_code": "DCL",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "DOMACOM LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2016-11-07T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8609 7077",
+            "mailing_address": "Level 6, 99 Queen Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Investment management and financial services",
+            "latest_annual_reports": [
+                {
+                    "header": "DomaCom FY2017 Annual Report",
+                    "document_date": "2017-08-31T15:53:02+1000",
+                    "number_of_pages": 58,
+                    "id": "01891196",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T15:55:27+1000",
+                    "size": "573.6KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lynrzp53f979.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 15129151,
+                "code": "DCL",
+                "indices": [],
+                "deprecated_number_of_shares": 89293955,
+                "previous_close_price": 0.135,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 112067784,
+                "eps": -0.0568,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.14,
+                "suspended": false,
+                "last_price": 0.135,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-12T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.285,
+                "bid_price": 0.12,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 116949,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.domacom.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Philip John Robson Chard",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chard",
+                    "middle_name": "John Robson"
+                }
+            ]
+        }
+    }
+}

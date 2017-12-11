@@ -1,0 +1,143 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MMJ",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "MMJ PHYTOTECH LIMITED",
+    "ASXcode": "MMJ",
+    "data": {
+        "summary": {
+            "name_short": "MMJ PHYTO",
+            "name_full": "MMJ PHYTOTECH LIMITED",
+            "code": "MMJ",
+            "primary_share_code": "MMJ",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "MMJ PHYTOTECH LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-01-22T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@mmjphytotech.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9389 3150",
+            "mailing_address": "Suite 5 CPC, 145 Stirling Highway, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Development of medical devices, research into medical cannabis treatments and commercialisation of growing facilities for medical cannabis.",
+            "fax_number": "08 9389 3199",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T19:28:30+1100",
+                    "number_of_pages": 112,
+                    "id": "01914193",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T19:31:44+1100",
+                    "size": "4.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43npd9kwg7jh6j.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 494418,
+                "status": [],
+                "market_cap": 88842957,
+                "code": "MMJ",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "deprecated_number_of_shares": 211530850,
+                "previous_close_price": 0.42,
+                "year_low_date": "2017-01-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 211530850,
+                "eps": -0.0554,
+                "change_in_percent": "-2.381%",
+                "change_price": -0.01,
+                "pe": 0,
+                "offer_price": 0.42,
+                "suspended": false,
+                "last_price": 0.41,
+                "deprecated_market_cap": 86728000,
+                "day_low_price": 0.41,
+                "open_price": 0.415,
+                "year_high_date": "2017-03-29T00:00:00+1100",
+                "previous_day_percentage_change": "2.439%",
+                "year_open_date": null,
+                "year_high_price": 0.83,
+                "bid_price": 0.41,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.42,
+                "average_daily_volume": 1538297,
+                "year_low_price": 0.175,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.mmjphytotech.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Wall",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andreas Gedeon",
+                    "first_name": "Andreas",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gedeon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jason Bednar",
+                    "first_name": "Jason",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bednar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Winton Willesee",
+                    "first_name": "Winton",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Willesee",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Miss Erlyn Dale",
+                    "first_name": "Erlyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Miss",
+                    "last_name": "Dale",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

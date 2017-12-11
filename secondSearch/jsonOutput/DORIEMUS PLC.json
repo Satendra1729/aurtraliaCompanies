@@ -1,0 +1,80 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DOR",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "DORIEMUS PLC",
+    "ASXcode": "DOR",
+    "data": {
+        "summary": {
+            "name_short": "DORIEMUS",
+            "name_full": "DORIEMUS PLC",
+            "code": "DOR",
+            "primary_share_code": "DOR",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "DORIEMUS PLC",
+            "foreign_exempt": false,
+            "listing_date": "2017-09-29T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+44 020 7440 0642",
+            "mailing_address": "Suite 3B, Princes House, 38 Jermyn Street, AUSTRALIA,",
+            "principal_activities": "Oil and Gas Exploration",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 9743,
+                "status": [],
+                "market_cap": 10336122,
+                "code": "DOR",
+                "indices": [],
+                "deprecated_number_of_shares": 50420109,
+                "previous_close_price": 0.205,
+                "year_low_date": "2017-11-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 50420109,
+                "eps": 0,
+                "change_in_percent": "7.317%",
+                "change_price": 0.015,
+                "pe": 0,
+                "offer_price": 0.225,
+                "suspended": false,
+                "last_price": 0.22,
+                "deprecated_market_cap": 11092000,
+                "day_low_price": 0.21,
+                "open_price": 0.21,
+                "year_high_date": "2017-10-05T00:00:00+1100",
+                "previous_day_percentage_change": "-8.889%",
+                "year_open_date": null,
+                "year_high_price": 0.62,
+                "bid_price": 0.215,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0.22,
+                "average_daily_volume": 177987,
+                "year_low_price": 0.2,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.doriemus.co.uk/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Donald Ian George Layman Strang",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Strang",
+                    "middle_name": "Ian George Layman"
+                }
+            ]
+        }
+    }
+}

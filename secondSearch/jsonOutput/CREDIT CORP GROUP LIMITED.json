@@ -1,0 +1,258 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CCP",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "CREDIT CORP GROUP LIMITED",
+    "ASXcode": "CCP",
+    "data": {
+        "summary": {
+            "name_short": "CREDITCORP",
+            "name_full": "CREDIT CORP GROUP LIMITED",
+            "code": "CCP",
+            "primary_share_code": "CCP",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "CREDIT CORP GROUP",
+            "foreign_exempt": false,
+            "listing_date": "2000-09-04T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "31C FRANKED @ 30%; D RP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-01T00:00:00+1000",
+                "record_date": "2017-11-08T00:00:00+1100",
+                "payable_date": "2017-11-17T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.31,
+                "ex_date": "2017-11-07T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(02) 9347 3600",
+            "mailing_address": "Level 15, 201 Kent Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The Company operates within the Australian debt collection industry.",
+            "fax_number": "(02) 9347 3650",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-03T08:19:58+1100",
+                    "number_of_pages": 84,
+                    "id": "01903448",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-03T08:25:28+1100",
+                    "size": "15.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171003/pdf/43mwpvtwgv6bpc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 198976,
+                "status": [],
+                "market_cap": 1101601387,
+                "code": "CCP",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 9.37,
+                "previous_close_price": 23.09,
+                "year_change_price": 13.45,
+                "year_low_date": "2017-02-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 47709025,
+                "eps": 1.168,
+                "change_in_percent": "-1.169%",
+                "change_price": -0.27,
+                "deprecated_number_of_shares": 47709025,
+                "pe": 19.54,
+                "offer_price": 22.85,
+                "suspended": false,
+                "last_price": 22.82,
+                "deprecated_market_cap": 1088720000,
+                "day_low_price": 22.74,
+                "open_price": 23.38,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "1.316%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 23.99,
+                "bid_price": 22.72,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 23.99,
+                "year_change_in_percentage": "143.543%",
+                "average_daily_volume": 159383,
+                "year_low_price": 16.02,
+                "annual_dividend_yield": 2.54
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.creditcorp.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Donald McLay",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McLay",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Thomas Beregi",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beregi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Eric Dodd",
+                    "first_name": "Eric",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dodd",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Leslie Martin",
+                    "first_name": "Leslie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Martin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Shaw",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shaw",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Thomas",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thomas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Angell",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Angell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Eadie",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Eadie",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Thomas Beregi",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beregi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Eadie",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Eadie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Templeton",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Templeton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

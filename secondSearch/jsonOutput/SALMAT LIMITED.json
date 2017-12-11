@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SLM",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "SALMAT LIMITED",
+    "ASXcode": "SLM",
+    "data": {
+        "summary": {
+            "name_short": "SALMAT",
+            "name_full": "SALMAT LIMITED",
+            "code": "SLM",
+            "primary_share_code": "SLM",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "SALMAT LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2002-12-02T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9928 6500",
+            "mailing_address": "Level 3, 116 Miller Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Customer communication through direct mail advertising, mailing, computer and telemarketing services.",
+            "fax_number": "(02) 9928 6652",
+            "latest_annual_reports": [
+                {
+                    "header": "Salmat Financial Report",
+                    "document_date": "2017-09-27T15:56:57+1000",
+                    "number_of_pages": 68,
+                    "id": "01900657",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T16:03:00+1000",
+                    "size": "830.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mpfr176df1p1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 89848386,
+                "code": "SLM",
+                "indices": [],
+                "year_open_price": 2.01,
+                "previous_close_price": 0.45,
+                "year_change_price": -1.56,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 199663080,
+                "eps": 0.023,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 199663080,
+                "pe": 19.57,
+                "offer_price": 0.48,
+                "suspended": false,
+                "last_price": 0.45,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-30T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.66,
+                "bid_price": 0.45,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-77.612%",
+                "average_daily_volume": 37193,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.salmat.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter W Mattick",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mattick",
+                    "middle_name": "W"
+                },
+                {
+                    "full_name": "Ms Rebecca Lowde - Acting",
+                    "first_name": "Rebecca",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lowde - Acting",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Fiona Balfour",
+                    "first_name": "Fiona",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Balfour",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Nash",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nash",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bart Vogel",
+                    "first_name": "Bart",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vogel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Webster",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Webster",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Alex Panich - Acting",
+                    "first_name": "Alex",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Panich - Acting",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Stephen Bardwell",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bardwell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

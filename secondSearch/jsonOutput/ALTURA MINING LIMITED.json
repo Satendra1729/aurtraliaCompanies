@@ -1,0 +1,173 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AJM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ALTURA MINING LIMITED",
+    "ASXcode": "AJM",
+    "data": {
+        "summary": {
+            "name_short": "ALTURA",
+            "name_full": "ALTURA MINING LIMITED",
+            "code": "AJM",
+            "primary_share_code": "AJM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ALTURA MINING LTD",
+            "foreign_exempt": false,
+            "listing_date": "2001-01-08T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "cosec@alturamining.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9488 5100",
+            "mailing_address": "Units 5 & 6, 25 Hamilton Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Mineral exploration and services business.",
+            "fax_number": "+61 8 9488 5199",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T09:31:49+1100",
+                    "number_of_pages": 92,
+                    "id": "01915318",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T09:33:53+1100",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43ns5ynnwdh5z6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4041045,
+                "status": [],
+                "market_cap": 620272918,
+                "code": "AJM",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.22,
+                "previous_close_price": 0.35,
+                "year_change_price": 0.14,
+                "year_low_date": "2017-07-03T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1772208338,
+                "eps": -0.0045,
+                "change_in_percent": "2.857%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 1772208338,
+                "pe": 0,
+                "offer_price": 0.365,
+                "suspended": false,
+                "last_price": 0.36,
+                "deprecated_market_cap": 637995000,
+                "day_low_price": 0.35,
+                "open_price": 0.35,
+                "year_high_date": "2017-11-07T00:00:00+1100",
+                "previous_day_percentage_change": "-4.11%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.465,
+                "bid_price": 0.355,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.37,
+                "year_change_in_percentage": "63.636%",
+                "average_daily_volume": 8301421,
+                "year_low_price": 0.125,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.alturamining.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James Brown",
+                    "first_name": "James",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Mantell",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mantell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Allan Buckler",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Buckler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr B T Kuan",
+                    "first_name": "B T",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kuan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dan O'Neill",
+                    "first_name": "Dan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Neill",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Noel Young",
+                    "first_name": "Noel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Young",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Damon Cox",
+                    "first_name": "Damon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cox",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

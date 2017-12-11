@@ -1,0 +1,203 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ERA",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "ENERGY RESOURCES OF AUSTRALIA LIMITED",
+    "ASXcode": "ERA",
+    "data": {
+        "summary": {
+            "name_short": "ERA",
+            "name_full": "ENERGY RESOURCES OF AUSTRALIA LIMITED",
+            "code": "ERA",
+            "primary_share_code": "ERA",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "ENERGY RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ERA?image_size=L&v=1385535563000",
+            "foreign_exempt": false,
+            "listing_date": "1980-11-19T00:00:00+1100",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 8924 3500",
+            "mailing_address": "C/-Mallesons Stephen Jaques, Level 5, NICTA Building B, 7 London Circuit, CANBERRA CITY, ACT, AUSTRALIA, 2601",
+            "principal_activities": "Uranium mining company",
+            "fax_number": "+61 8 89243506",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-02-13T08:41:52+1100",
+                    "number_of_pages": 125,
+                    "id": "01827562",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-02-13T08:43:46+1100",
+                    "size": "3.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170213/pdf/43fyh3mb9pwc7w.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 197455,
+                "status": [],
+                "market_cap": 458186680,
+                "code": "ERA",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 1.35,
+                "previous_close_price": 0.885,
+                "year_change_price": -0.445,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 517725062,
+                "eps": -0.163,
+                "change_in_percent": "2.26%",
+                "change_price": 0.02,
+                "deprecated_number_of_shares": 517725062,
+                "pe": 0,
+                "offer_price": 0.905,
+                "suspended": false,
+                "last_price": 0.905,
+                "deprecated_market_cap": 468541000,
+                "day_low_price": 0.865,
+                "open_price": 0.895,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "-6.842%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.98,
+                "bid_price": 0.875,
+                "desc_full": "Ordinary Fully Paid 'a'",
+                "day_high_price": 0.915,
+                "year_change_in_percentage": "-32.963%",
+                "average_daily_volume": 303825,
+                "year_low_price": 0.33,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.energyres.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Mansell",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mansell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Andrea Sutton",
+                    "first_name": "Andrea",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Sutton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Shane Charles",
+                    "first_name": "Shane",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Charles",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Dowd",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dowd",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Zara Fisher",
+                    "first_name": "Zara",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Fisher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Trott",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trott",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James May",
+                    "first_name": "James",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "May",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James O'Connell",
+                    "first_name": "James",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Connell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Rachel Storrs",
+                    "first_name": "Rachel",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Storrs",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr James O'Connell",
+                    "first_name": "James",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Connell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

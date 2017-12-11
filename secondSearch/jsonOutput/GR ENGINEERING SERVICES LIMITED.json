@@ -1,0 +1,191 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GNG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GR ENGINEERING SERVICES LIMITED",
+    "ASXcode": "GNG",
+    "data": {
+        "summary": {
+            "name_short": "GR ENGIN",
+            "name_full": "GR ENGINEERING SERVICES LIMITED",
+            "code": "GNG",
+            "primary_share_code": "GNG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GR ENGINEERING LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-04-19T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "5C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-02-27T00:00:00+1100",
+                "record_date": "2017-03-14T00:00:00+1100",
+                "payable_date": "2017-03-30T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.05,
+                "ex_date": "2017-03-13T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6272 6000",
+            "mailing_address": "179 Great Eastern Highway, BELMONT, WA, AUSTRALIA, 6104",
+            "principal_activities": "The provision of process engineering, design and construction services to the mining and minerals processing industries.",
+            "fax_number": "(08) 6272 6001",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-10-12T12:50:49+1100",
+                    "number_of_pages": 88,
+                    "id": "01907194",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-12T12:53:25+1100",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171012/pdf/43n5fm502l2d81.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 21874,
+                "status": [],
+                "market_cap": 208425794,
+                "code": "GNG",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.69,
+                "previous_close_price": 1.36,
+                "year_change_price": 0.63,
+                "year_low_date": "2017-08-25T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 153254260,
+                "eps": 0.0841,
+                "change_in_percent": "-2.941%",
+                "change_price": -0.04,
+                "deprecated_number_of_shares": 153254260,
+                "pe": 15.7,
+                "offer_price": 1.36,
+                "suspended": false,
+                "last_price": 1.32,
+                "deprecated_market_cap": 202296000,
+                "day_low_price": 1.32,
+                "open_price": 1.325,
+                "year_high_date": "2017-02-20T00:00:00+1100",
+                "previous_day_percentage_change": "0.741%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.76,
+                "bid_price": 1.32,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.36,
+                "year_change_in_percentage": "91.304%",
+                "average_daily_volume": 184492,
+                "year_low_price": 1.03,
+                "annual_dividend_yield": 7.58
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.gres.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Joe Ricciardo",
+                    "first_name": "Joe",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ricciardo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Jones",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tony Patrizi",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Patrizi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Hood",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Barry Patterson",
+                    "first_name": "Barry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Patterson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terrence Strapp",
+                    "first_name": "Terrence",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Strapp",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joe Totaro",
+                    "first_name": "Joe",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Totaro",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Joe Totaro",
+                    "first_name": "Joe",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Totaro",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

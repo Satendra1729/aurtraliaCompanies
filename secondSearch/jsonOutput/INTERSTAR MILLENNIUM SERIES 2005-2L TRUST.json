@@ -1,0 +1,96 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IMO",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "INTERSTAR MILLENNIUM SERIES 2005-2L TRUST",
+    "ASXcode": "IMO",
+    "data": {
+        "summary": {
+            "name_full": "INTERSTAR MILLENNIUM SERIES 2005-2L TRUST",
+            "products": [],
+            "phone_number": "(03) 8616 1600",
+            "mailing_address": "c/- Challenger Securitisation Management, Level 15, 255 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "name_short": "IMS2005-2L",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "INTERSTAR MI.SR05-2L",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "IMO",
+            "registry_address": "LEVEL 7, 9 CASTLEREAGH STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2005-09-05T00:00:00+1000",
+            "fax_number": "(03) 9614 6226",
+            "web_address": null,
+            "registry_name": "PERPETUAL TRUSTEE COMPANY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brian Benari",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Benari",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Tobin",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tobin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Willis",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Willis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Chantal Travers",
+                    "first_name": "Chantal",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Travers",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Suzie Koeppenkastrop",
+                    "first_name": "Suzie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Koeppenkastrop",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Vardanega",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vardanega",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SSN",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "SAMSON OIL & GAS LIMITED",
+    "ASXcode": "SSN",
+    "data": {
+        "summary": {
+            "name_short": "SAMSON",
+            "name_full": "SAMSON OIL & GAS LIMITED",
+            "code": "SSN",
+            "primary_share_code": "SSN",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "SAMSON OIL & GAS LTD",
+            "foreign_exempt": false,
+            "listing_date": "1980-04-17T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9220 9830",
+            "mailing_address": "Level 16, AMP Building, 140 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Oil & gas exploration and development",
+            "fax_number": "(08) 9220 9820",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-29T14:44:20+1000",
+                    "number_of_pages": 87,
+                    "id": "01902285",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T14:46:35+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mstltwq79jzz.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 12060441,
+                "status": [],
+                "market_cap": 6566001,
+                "code": "SSN",
+                "indices": [],
+                "year_open_price": 0.025,
+                "previous_close_price": 0.002,
+                "year_change_price": -0.023,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 3283000444,
+                "eps": -0.001,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 3283000444,
+                "pe": 0,
+                "offer_price": 0.003,
+                "suspended": false,
+                "last_price": 0.002,
+                "deprecated_market_cap": 6566000,
+                "day_low_price": 0.002,
+                "open_price": 0.002,
+                "year_high_date": "2017-01-23T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.006,
+                "bid_price": 0.002,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.002,
+                "year_change_in_percentage": "-92%",
+                "average_daily_volume": 4304105,
+                "year_low_price": 0.002,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.samsonoilandgas.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Peter Hill",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terence Maxwell Barr",
+                    "first_name": "Terence",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barr",
+                    "middle_name": "Maxwell"
+                },
+                {
+                    "full_name": "Mr Denis Ivan Rakich",
+                    "first_name": "Denis",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rakich",
+                    "middle_name": "Ivan"
+                },
+                {
+                    "full_name": "Mr Gregory John Channon",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Channon",
+                    "middle_name": "John"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Denis Ivan Rakich",
+                    "first_name": "Denis",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rakich",
+                    "middle_name": "Ivan"
+                }
+            ]
+        }
+    }
+}

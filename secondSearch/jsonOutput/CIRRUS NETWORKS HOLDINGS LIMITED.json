@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CNW",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "CIRRUS NETWORKS HOLDINGS LIMITED",
+    "ASXcode": "CNW",
+    "data": {
+        "summary": {
+            "name_full": "CIRRUS NETWORKS HOLDINGS LIMITED",
+            "code": "CNW",
+            "name_short": "CIRRUS NET",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "CIRRUS NET HOLD LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CNW?image_size=L&v=1436151650000",
+            "foreign_exempt": false,
+            "listing_date": "2004-02-10T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "investors@cirrusnetworks.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 61804222",
+            "mailing_address": "Arcadia Chambers, Level 3, 1 Roydhouse Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Information & Cloud Technology",
+            "fax_number": "+61 8 93812310",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report and App 4E",
+                    "document_date": "2017-08-29T11:33:14+1000",
+                    "number_of_pages": 84,
+                    "id": "01889556",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T11:39:21+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lv70td1c9yyj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 11000,
+                "status": [],
+                "market_cap": 15951128,
+                "code": "CNW",
+                "indices": [],
+                "year_open_price": 0.04,
+                "previous_close_price": 0.019,
+                "year_change_price": -0.022,
+                "year_low_date": "2017-06-29T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 839533029,
+                "eps": 0.0006,
+                "change_in_percent": "-5.263%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 795187885,
+                "pe": 30,
+                "offer_price": 0.019,
+                "suspended": false,
+                "last_price": 0.018,
+                "deprecated_market_cap": 14313000,
+                "day_low_price": 0.018,
+                "open_price": 0.018,
+                "year_high_date": "2017-09-06T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.026,
+                "bid_price": 0.018,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.018,
+                "year_change_in_percentage": "-55%",
+                "average_daily_volume": 2013797,
+                "year_low_price": 0.015,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "CNW",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.cirrusnetworks.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Milner",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Milner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Sullivan",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sullivan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Glovac",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Glovac",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Rohr",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rohr",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Catherine Elizabeth Anderson",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Anderson",
+                    "middle_name": "Elizabeth"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Catherine Elizabeth Anderson",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Anderson",
+                    "middle_name": "Elizabeth"
+                }
+            ]
+        }
+    }
+}

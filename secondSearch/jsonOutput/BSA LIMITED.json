@@ -1,0 +1,187 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BSA",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "BSA LIMITED",
+    "ASXcode": "BSA",
+    "data": {
+        "summary": {
+            "name_short": "BSA AUST",
+            "name_full": "BSA LIMITED",
+            "code": "BSA",
+            "primary_share_code": "BSA",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "BSA LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1999-11-15T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "0.5C FRANKED @ 30%;  DRP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-10-12T00:00:00+1100",
+                "payable_date": "2017-11-02T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.005,
+                "ex_date": "2017-10-11T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8748 2464",
+            "mailing_address": "Level 7, 3 Thomas Holt Drive, MACQUARIE PARK, NSW, AUSTRALIA, 2113",
+            "principal_activities": "National provider of contracting services to subscription TV and telecommunication companies who require satellite and telecommunication installation services; The supply of TV aerials and digital television and communication/alarm equipment to the home through franchise brands; and delivery of infrastructure projects, services and equipment to the Building Services industries.",
+            "fax_number": "(02) 8748 2566",
+            "latest_annual_reports": [
+                {
+                    "header": "APP 4E and Annual Report to shareholders",
+                    "document_date": "2017-08-28T09:28:33+1000",
+                    "number_of_pages": 97,
+                    "id": "01888796",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-28T09:33:54+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170828/pdf/43lsm2n8krkgxt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 163228,
+                "status": [],
+                "market_cap": 154361181,
+                "code": "BSA",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.11721,
+                "previous_close_price": 0.365,
+                "year_change_price": 0.23779,
+                "year_low_date": "2017-05-18T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 422907346,
+                "eps": 0.0094,
+                "change_in_percent": "-2.74%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 422907346,
+                "pe": 37.77,
+                "offer_price": 0.365,
+                "suspended": false,
+                "last_price": 0.355,
+                "deprecated_market_cap": 150132000,
+                "day_low_price": 0.355,
+                "open_price": 0.36,
+                "year_high_date": "2017-09-19T00:00:00+1000",
+                "previous_day_percentage_change": "2.817%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.4,
+                "bid_price": 0.355,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.36,
+                "year_change_in_percentage": "202.875%",
+                "average_daily_volume": 1081777,
+                "year_low_price": 0.3,
+                "annual_dividend_yield": 1.41
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.bsa.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Nathan Givoni",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Givoni",
+                    "middle_name": "Nathan"
+                },
+                {
+                    "full_name": "Mr Nicholas Yates",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yates",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme Barclay",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barclay",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Edwin Maxwell Cowley",
+                    "first_name": "Edwin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cowley",
+                    "middle_name": "Maxwell"
+                },
+                {
+                    "full_name": "Mr Mark Lowe",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lowe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Teisseire",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Teisseire",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Benson",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Benson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Graham Allan Seppelt",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Seppelt",
+                    "middle_name": "Allan"
+                }
+            ]
+        }
+    }
+}

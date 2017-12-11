@@ -1,0 +1,178 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LYL",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "LYCOPODIUM LIMITED",
+    "ASXcode": "LYL",
+    "data": {
+        "summary": {
+            "name_short": "LYCOPODIUM",
+            "name_full": "LYCOPODIUM LIMITED",
+            "code": "LYL",
+            "primary_share_code": "LYL",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "LYCOPODIUM LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2004-12-17T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "9C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-25T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-13T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.09,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6210 5222",
+            "mailing_address": "1 Adelaide Terrace, EAST PERTH, WA, AUSTRALIA, 6004",
+            "principal_activities": "Engineering consultation.",
+            "fax_number": "(08) 6210 5201",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-24T14:14:06+1100",
+                    "number_of_pages": 108,
+                    "id": "01911774",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T14:16:18+1100",
+                    "size": "12.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43nj941xzmmbjy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 22564,
+                "status": [],
+                "market_cap": 171246528,
+                "code": "LYL",
+                "indices": [],
+                "year_open_price": 4.26,
+                "previous_close_price": 4.31,
+                "year_change_price": 0.04,
+                "year_low_date": "2017-02-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 39732373,
+                "eps": 0.259,
+                "change_in_percent": "-0.232%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 39732373,
+                "pe": 16.6,
+                "offer_price": 4.32,
+                "suspended": false,
+                "last_price": 4.3,
+                "deprecated_market_cap": 170849000,
+                "day_low_price": 4.3,
+                "open_price": 4.32,
+                "year_high_date": "2017-10-04T00:00:00+1100",
+                "previous_day_percentage_change": "2.133%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 4.96,
+                "bid_price": 4.3,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 4.33,
+                "year_change_in_percentage": "0.939%",
+                "average_daily_volume": 36613,
+                "year_low_price": 2.48,
+                "annual_dividend_yield": 4.19
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.lycopodium.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Caratti",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Caratti",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rodney Leonard",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Managing Director",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leonard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter De Leo",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "De Leo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Osmetti",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Osmetti",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruno Ruggiero",
+                    "first_name": "Bruno",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ruggiero",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lawrence Marshall",
+                    "first_name": "Lawrence",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marshall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Keith John Bakker",
+                    "first_name": "Keith",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bakker",
+                    "middle_name": "John"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Keith John Bakker",
+                    "first_name": "Keith",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bakker",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

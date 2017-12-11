@@ -1,0 +1,124 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CXZ",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "CONNEXION MEDIA LIMITED",
+    "ASXcode": "CXZ",
+    "data": {
+        "summary": {
+            "name_short": "CONNEXION",
+            "name_full": "CONNEXION MEDIA LIMITED",
+            "code": "CXZ",
+            "primary_share_code": "CXZ",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "CONNEXION MEDIA LTD",
+            "foreign_exempt": false,
+            "listing_date": "1974-01-01T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9529 2655",
+            "mailing_address": "Level 1, 11-19 Bank Place, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Technology development, with a focus on in-vehicle infotainment services and vehicle data analytics services.",
+            "fax_number": "(03) 8640 0779",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts & Annual Report to Shareholders",
+                    "document_date": "2017-09-28T15:43:20+1000",
+                    "number_of_pages": 45,
+                    "id": "01901298",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T15:45:28+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqtdhccm1qf1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 165783,
+                "status": [],
+                "market_cap": 5023177,
+                "code": "CXZ",
+                "indices": [],
+                "deprecated_number_of_shares": 715596735,
+                "previous_close_price": 0.007,
+                "year_low_date": "2017-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 717596735,
+                "eps": -0.0377,
+                "change_in_percent": "28.571%",
+                "change_price": 0.002,
+                "pe": 0,
+                "offer_price": 0.009,
+                "suspended": false,
+                "last_price": 0.009,
+                "deprecated_market_cap": 6440000,
+                "day_low_price": 0.008,
+                "open_price": 0.008,
+                "year_high_date": "2017-02-23T00:00:00+1100",
+                "previous_day_percentage_change": "-22.222%",
+                "year_open_date": null,
+                "year_high_price": 0.14,
+                "bid_price": 0.008,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.009,
+                "average_daily_volume": 456103,
+                "year_low_price": 0.007,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.connexionltd.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Caruso",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Caruso",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Connolly",
+                    "first_name": "David",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Connolly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Downey",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Downey",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Torre",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Torre",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

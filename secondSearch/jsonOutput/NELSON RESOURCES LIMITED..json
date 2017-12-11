@@ -1,0 +1,79 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NES",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NELSON RESOURCES LIMITED.",
+    "ASXcode": "NES",
+    "data": {
+        "summary": {
+            "name_short": "NELSON RES",
+            "name_full": "NELSON RESOURCES LIMITED.",
+            "code": "NES",
+            "primary_share_code": "NES",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NELSON RESOURCES.",
+            "foreign_exempt": false,
+            "listing_date": "2017-12-07T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9481 0389",
+            "mailing_address": "Level 11 London House, 216 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Mining",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 340000,
+                "status": [],
+                "market_cap": 8662641,
+                "code": "NES",
+                "indices": [],
+                "deprecated_number_of_shares": 35582877,
+                "previous_close_price": 0.19,
+                "year_low_date": "2017-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 45592846,
+                "eps": 0,
+                "change_in_percent": "5.263%",
+                "change_price": 0.01,
+                "pe": 0,
+                "offer_price": 0.2,
+                "suspended": false,
+                "last_price": 0.2,
+                "deprecated_market_cap": 7117000,
+                "day_low_price": 0.195,
+                "open_price": 0.195,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "year_open_date": null,
+                "year_high_price": 0.2,
+                "bid_price": 0.195,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.2,
+                "average_daily_volume": 957700,
+                "year_low_price": 0.18,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://https//www.nelsonresources.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Stephen Brockhurst",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brockhurst",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SVW",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "SEVEN GROUP HOLDINGS LIMITED",
+    "ASXcode": "SVW",
+    "data": {
+        "summary": {
+            "name_short": "SEVEN GRP",
+            "name_full": "SEVEN GROUP HOLDINGS LIMITED",
+            "code": "SVW",
+            "primary_share_code": "SVW",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "SEVEN GROUP HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": "2010-04-30T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "21C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-22T00:00:00+1000",
+                "record_date": "2017-09-14T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.21,
+                "ex_date": "2017-09-13T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "hybrid-securities"
+            ],
+            "phone_number": "02 8777 7447        02 8777 74",
+            "mailing_address": "Level 2, 38-42 Pirrama Road, PYRMONT, NSW, AUSTRALIA, 2009",
+            "principal_activities": "A diversified operating and investment group which comprises wholly-owned industrial operating businesses alongside key strategic investments in media and industrial equipment hire.",
+            "fax_number": "02 8777 7192",
+            "latest_annual_reports": [
+                {
+                    "header": "Seven Group Holdings 2017 Annual Report",
+                    "document_date": "2017-08-22T07:06:54+1000",
+                    "number_of_pages": 148,
+                    "id": "01886025",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-22T08:15:45+1000",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170822/pdf/43llb5bxs7fr4k.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 196153,
+                "status": [],
+                "market_cap": 4310528533,
+                "code": "SVW",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Inds",
+                        "index_code": "XNJ",
+                        "name_abrev": "Industrials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Industrials (Sector)"
+                    }
+                ],
+                "year_open_price": 8.23,
+                "previous_close_price": 13.62,
+                "year_change_price": 5.15,
+                "year_low_date": "2017-01-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 316485208,
+                "eps": 0.0741,
+                "change_in_percent": "-1.762%",
+                "change_price": -0.24,
+                "deprecated_number_of_shares": 316485208,
+                "pe": 180.57,
+                "offer_price": 13.45,
+                "suspended": false,
+                "last_price": 13.38,
+                "deprecated_market_cap": 4234572000,
+                "day_low_price": 13.3,
+                "open_price": 13.62,
+                "year_high_date": "2017-11-21T00:00:00+1100",
+                "previous_day_percentage_change": "0.147%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 14.53,
+                "bid_price": 13.2,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 13.73,
+                "year_change_in_percentage": "62.576%",
+                "average_daily_volume": 558985,
+                "year_low_price": 7.11,
+                "annual_dividend_yield": 3.06
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.sevengroup.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kerry Stokes",
+                    "first_name": "Kerry",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stokes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ryan Stokes",
+                    "first_name": "Ryan",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stokes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Annabelle Chaplain",
+                    "first_name": "Annabelle",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chaplain",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terry Davis",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Mackay",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackay",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Ian McEvoy",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McEvoy",
+                    "middle_name": "Ian"
+                },
+                {
+                    "full_name": "Mr Bruce McWilliam",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McWilliam",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "The Hon Warwick Smith",
+                    "first_name": "Warwick",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Uechtritz",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Uechtritz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Richards",
+                    "first_name": "Richard",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richards",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Warren Coatsworth",
+                    "first_name": "Warren",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coatsworth",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Kinninmont",
+                    "first_name": "John",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kinninmont",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

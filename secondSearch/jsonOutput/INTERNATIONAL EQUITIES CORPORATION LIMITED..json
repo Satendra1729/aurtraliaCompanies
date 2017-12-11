@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IEQ",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "INTERNATIONAL EQUITIES CORPORATION LIMITED.",
+    "ASXcode": "IEQ",
+    "data": {
+        "summary": {
+            "name_short": "INTER.EQ",
+            "name_full": "INTERNATIONAL EQUITIES CORPORATION LIMITED.",
+            "code": "IEQ",
+            "primary_share_code": "IEQ",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "INTERNATIONAL EQUITI",
+            "foreign_exempt": false,
+            "listing_date": "1993-03-11T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03-96852988",
+            "mailing_address": "Suite 6, Seasons of Perth, 37 Pier Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Property Development and Hotel Management",
+            "fax_number": "03-96852968",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-19T15:22:02+1100",
+                    "number_of_pages": 76,
+                    "id": "01909938",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-19T15:24:12+1100",
+                    "size": "5.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171019/pdf/43ncxfqffkj14f.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 8462756,
+                "code": "IEQ",
+                "indices": [],
+                "deprecated_number_of_shares": 128223577,
+                "previous_close_price": 0.066,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 128223577,
+                "eps": -0.0019,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 0.066,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-06-10T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.066,
+                "bid_price": 0.031,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.internationalequities.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Marcus Peng Fye Tow",
+                    "first_name": "Marcus",
+                    "roles": [
+                        "Chairman",
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tow",
+                    "middle_name": "Peng Fye"
+                },
+                {
+                    "full_name": "Mr Aubrey G Menezes",
+                    "first_name": "Aubrey",
+                    "roles": [
+                        "Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Menezes",
+                    "middle_name": "G"
+                },
+                {
+                    "full_name": "Mr Kong Liang Tow",
+                    "first_name": "Kong",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tow",
+                    "middle_name": "Liang"
+                },
+                {
+                    "full_name": "Mr Ambalavanar Anadakrishnan",
+                    "first_name": "Ambalavanar",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anadakrishnan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Aubrey G Menezes",
+                    "first_name": "Aubrey",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Menezes",
+                    "middle_name": "G"
+                }
+            ]
+        }
+    }
+}

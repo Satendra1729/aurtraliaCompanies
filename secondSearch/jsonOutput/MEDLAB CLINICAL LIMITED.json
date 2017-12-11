@@ -1,0 +1,123 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MDC",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "MEDLAB CLINICAL LIMITED",
+    "ASXcode": "MDC",
+    "data": {
+        "summary": {
+            "name_short": "MEDLAB",
+            "name_full": "MEDLAB CLINICAL LIMITED",
+            "code": "MDC",
+            "primary_share_code": "MDC",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "MEDLAB CLINICAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-07-14T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8188 0311",
+            "mailing_address": "66 McCauley Street, ALEXANDRIA, NSW, AUSTRALIA, 2015",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-31T10:25:43+1000",
+                    "number_of_pages": 53,
+                    "id": "01890858",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T10:27:56+1000",
+                    "size": "8.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43ly04b6dvthjq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 28500,
+                "status": [],
+                "market_cap": 134202700,
+                "code": "MDC",
+                "indices": [],
+                "deprecated_number_of_shares": 181355000,
+                "previous_close_price": 0.74,
+                "year_low_date": "2017-09-04T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 181355000,
+                "eps": -0.0208,
+                "change_in_percent": "3.378%",
+                "change_price": 0.025,
+                "pe": 0,
+                "offer_price": 0.765,
+                "suspended": false,
+                "last_price": 0.765,
+                "deprecated_market_cap": 138737000,
+                "day_low_price": 0.71,
+                "open_price": 0.735,
+                "year_high_date": "2017-03-29T00:00:00+1100",
+                "previous_day_percentage_change": "2.069%",
+                "year_open_date": null,
+                "year_high_price": 0.96,
+                "bid_price": 0.72,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.765,
+                "average_daily_volume": 88606,
+                "year_low_price": 0.5,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.medlab.co",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Jack Hall",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hall",
+                    "middle_name": "Jack"
+                },
+                {
+                    "full_name": "Mr Sean Michael Hall",
+                    "first_name": "Sean",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hall",
+                    "middle_name": "Michael"
+                },
+                {
+                    "full_name": "Mr Drew Anthony Townsend",
+                    "first_name": "Drew",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Townsend",
+                    "middle_name": "Anthony"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Alan Dworkin",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dworkin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

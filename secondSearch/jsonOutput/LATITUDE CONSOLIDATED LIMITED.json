@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LCD",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LATITUDE CONSOLIDATED LIMITED",
+    "ASXcode": "LCD",
+    "data": {
+        "summary": {
+            "name_short": "LATCONSOLD",
+            "name_full": "LATITUDE CONSOLIDATED LIMITED",
+            "code": "LCD",
+            "primary_share_code": "LCD",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LATITUDE CONSOLIDATE",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/LCD?image_size=L&v=1452070749000",
+            "foreign_exempt": false,
+            "listing_date": "1999-12-21T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9482 0550",
+            "mailing_address": "Ground Floor, 16 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Minerals Exploration Company",
+            "fax_number": "(08) 9482 0505",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T22:13:40+1000",
+                    "number_of_pages": 62,
+                    "id": "01901647",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:17:38+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrlld803v66z.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 2492401,
+                "code": "LCD",
+                "indices": [],
+                "year_open_price": 0.02,
+                "previous_close_price": 0.019,
+                "year_change_price": -0.001,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 131179002,
+                "eps": -0.0071,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 131179002,
+                "pe": 0,
+                "offer_price": 0.02,
+                "suspended": false,
+                "last_price": 0.019,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "-5%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.049,
+                "bid_price": 0.019,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-5%",
+                "average_daily_volume": 2173437,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.latitudeconsolidated.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Timothy John Moore",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moore",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Morgan Barron",
+                    "first_name": "Morgan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barron",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nick Castleden",
+                    "first_name": "Nick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Castleden",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Roger Steinepreis",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Steinepreis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Joel Ives",
+                    "first_name": "Joel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ives",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

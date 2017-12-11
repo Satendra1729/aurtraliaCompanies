@@ -1,0 +1,251 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SHL",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "SONIC HEALTHCARE LIMITED",
+    "ASXcode": "SHL",
+    "data": {
+        "summary": {
+            "name_full": "SONIC HEALTHCARE LIMITED",
+            "last_dividend": {
+                "comments": "9.2C FRANKED@30%; NI L CFI; DRP",
+                "franked_percentage": "20%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-09-11T00:00:00+1000",
+                "payable_date": "2017-10-11T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.46,
+                "ex_date": "2017-09-08T00:00:00+1000"
+            },
+            "code": "SHL",
+            "name_short": "SONIC HLTH",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "SONIC HEALTHCARE",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SHL?image_size=L&v=1386734058000",
+            "foreign_exempt": false,
+            "listing_date": "1987-04-30T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "investor_relations_email": "sonichealthcare@msn.com.au",
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 9855 5444",
+            "mailing_address": "14 Giffnock Avenue, MACQUARIE PARK, NSW, AUSTRALIA, 2113",
+            "principal_activities": "Sonic Healthcare is one of the world's largest medical diagnostics companies, providing laboratory and radiology services to medical practitioners, hospitals, community health services, and their collective patients. We also operate Australia's largest ne",
+            "fax_number": "(02) 9878 5066",
+            "latest_annual_reports": [
+                {
+                    "header": "Notice of 2017 AGM, Proxy Form and Concise Annual Report",
+                    "document_date": "2017-10-23T14:29:02+1100",
+                    "number_of_pages": 115,
+                    "id": "01911113",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T14:32:04+1100",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43ngw76kn1nk6h.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 579366,
+                "status": [],
+                "market_cap": 9598069442,
+                "code": "SHL",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Health",
+                        "index_code": "XHJ",
+                        "name_abrev": "Health Care",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Health Care (Sector)"
+                    }
+                ],
+                "year_open_price": 17.58,
+                "previous_close_price": 22.71,
+                "year_change_price": 5.27,
+                "year_low_date": "2017-10-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 422636259,
+                "eps": 1.027,
+                "change_in_percent": "0.616%",
+                "change_price": 0.14,
+                "deprecated_number_of_shares": 422636259,
+                "pe": 22.25,
+                "offer_price": 22.9,
+                "suspended": false,
+                "last_price": 22.85,
+                "deprecated_market_cap": 9657239000,
+                "day_low_price": 22.78,
+                "open_price": 22.86,
+                "year_high_date": "2017-06-29T00:00:00+1000",
+                "previous_day_percentage_change": "0.844%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 24.58,
+                "bid_price": 22.7,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 22.87,
+                "year_change_in_percentage": "29.977%",
+                "average_daily_volume": 884762,
+                "year_low_price": 20.605,
+                "annual_dividend_yield": 3.37
+            },
+            "primary_share_code": "SHL",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.sonichealthcare.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.sonichealthcare.com"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark R Compton",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Compton",
+                    "middle_name": "R"
+                },
+                {
+                    "full_name": "Dr Colin S Goldschmidt",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Managing Director",
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Goldschmidt",
+                    "middle_name": "S"
+                },
+                {
+                    "full_name": "Mr Philip Dubois",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dubois",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Wilks",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Executive Director",
+                        "Finance Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilks",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neville Mitchell",
+                    "first_name": "Neville",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitchell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lou Panaccio",
+                    "first_name": "Lou",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Panaccio",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kate D Spargo",
+                    "first_name": "Kate",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Spargo",
+                    "middle_name": "D"
+                },
+                {
+                    "full_name": "Dr Jane Wilson",
+                    "first_name": "Jane",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Paul Alexander",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Alexander",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

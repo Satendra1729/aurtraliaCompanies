@@ -1,0 +1,151 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/QMN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "QUEENSLAND MINING CORPORATION LIMITED",
+    "ASXcode": "QMN",
+    "data": {
+        "summary": {
+            "name_short": "QLD MINING",
+            "name_full": "QUEENSLAND MINING CORPORATION LIMITED",
+            "code": "QMN",
+            "primary_share_code": "QMN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "QLD MINING CORP",
+            "foreign_exempt": false,
+            "listing_date": "2008-10-02T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@qmcl.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 92678932",
+            "mailing_address": "Suite 2004, Level 20, 201 Elizabeth Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Resource Exploration and Development",
+            "fax_number": "02 92690076",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-27T14:26:03+1000",
+                    "number_of_pages": 65,
+                    "id": "01900569",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T14:28:55+1000",
+                    "size": "2.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mp8b01f4j6v5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 178072,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 35533944,
+                "code": "QMN",
+                "indices": [],
+                "year_open_price": 0.013,
+                "previous_close_price": 0.12,
+                "year_change_price": 0.112,
+                "year_low_date": "2017-04-07T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 296116203,
+                "eps": -0.0273,
+                "change_in_percent": "4.167%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 296116203,
+                "pe": 0,
+                "offer_price": 0.135,
+                "suspended": false,
+                "last_price": 0.125,
+                "deprecated_market_cap": 37015000,
+                "day_low_price": 0.12,
+                "open_price": 0.12,
+                "year_high_date": "2017-10-16T00:00:00+1100",
+                "previous_day_percentage_change": "4.348%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.14,
+                "bid_price": 0.125,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.125,
+                "year_change_in_percentage": "861.538%",
+                "average_daily_volume": 90724,
+                "year_low_price": 0.015,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.qmcl.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Lakshman Jayaweera",
+                    "first_name": "Lakshman",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Jayaweera",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Eddy Wu",
+                    "first_name": "Eddy",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jun Qiu",
+                    "first_name": "Jun",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Qiu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Xiaojia Wang",
+                    "first_name": "Xiaojia",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Pipvide Tang",
+                    "first_name": "Pipvide",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Pipvide Tang",
+                    "first_name": "Pipvide",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tang",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

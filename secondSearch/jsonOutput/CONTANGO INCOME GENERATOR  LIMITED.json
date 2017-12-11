@@ -1,0 +1,142 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CIE",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "CONTANGO INCOME GENERATOR  LIMITED",
+    "ASXcode": "CIE",
+    "data": {
+        "summary": {
+            "name_short": "CNTNGO INC",
+            "name_full": "CONTANGO INCOME GENERATOR  LIMITED",
+            "code": "CIE",
+            "primary_share_code": "CIE",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "CONTANGO INC GEN LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-08-14T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "0.8C FRANKED @ 30%;  NIL CFI; DRP",
+                "franked_percentage": "50%",
+                "created_date": "2017-10-31T00:00:00+1100",
+                "record_date": "2017-12-12T00:00:00+1100",
+                "payable_date": "2017-12-21T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.016,
+                "ex_date": "2017-12-11T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9222 2333",
+            "mailing_address": "C/- Contango Asset Management Limited, Level 27, 35 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Investment in ASX listed securities within the small to midcap sector.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-13T13:59:04+1100",
+                    "number_of_pages": 52,
+                    "id": "01907711",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T14:02:06+1100",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6lmlmgc8828.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 369017,
+                "status": [],
+                "market_cap": 94209243,
+                "code": "CIE",
+                "indices": [],
+                "deprecated_number_of_shares": 97122931,
+                "previous_close_price": 0.97,
+                "year_low_date": "2017-03-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 97122931,
+                "eps": 0.094,
+                "change_in_percent": "1.031%",
+                "change_price": 0.01,
+                "pe": 10.43,
+                "offer_price": 0.98,
+                "suspended": false,
+                "last_price": 0.98,
+                "deprecated_market_cap": 95180000,
+                "day_low_price": 0.965,
+                "open_price": 0.965,
+                "year_high_date": "2017-09-20T00:00:00+1000",
+                "previous_day_percentage_change": "-0.513%",
+                "year_open_date": null,
+                "year_high_price": 1.01,
+                "bid_price": 0.965,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.98,
+                "average_daily_volume": 274390,
+                "year_low_price": 0.925,
+                "annual_dividend_yield": 8.27
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.cigl.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Andrew MacDonald",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "MacDonald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Bennett",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bennett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Don Clarke",
+                    "first_name": "Don",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clarke",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Kerr",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kerr",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Hari Morfis",
+                    "first_name": "Hari",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morfis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

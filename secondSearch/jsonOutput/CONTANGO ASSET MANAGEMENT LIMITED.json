@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CGA",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "CONTANGO ASSET MANAGEMENT LIMITED",
+    "ASXcode": "CGA",
+    "data": {
+        "summary": {
+            "name_short": "CONTANGOAM",
+            "name_full": "CONTANGO ASSET MANAGEMENT LIMITED",
+            "code": "CGA",
+            "primary_share_code": "CGA",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "CONTANGO ASSET",
+            "foreign_exempt": false,
+            "listing_date": "2004-09-30T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9222 2333",
+            "mailing_address": "Level 27, 35 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Provider of funds management services for wholesale and institutional clients",
+            "fax_number": "(03) 9222 2345",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-23T09:45:20+1100",
+                    "number_of_pages": 76,
+                    "id": "01910914",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T09:49:32+1100",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43nggn5jfzdms8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 750565,
+                "status": [],
+                "market_cap": 23910528,
+                "code": "CGA",
+                "indices": [],
+                "year_open_price": 0.002,
+                "previous_close_price": 0.5,
+                "year_change_price": 0.443,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 47821056,
+                "eps": -0.233,
+                "change_in_percent": "-11%",
+                "change_price": -0.055,
+                "deprecated_number_of_shares": 47821056,
+                "pe": 0,
+                "offer_price": 0.49,
+                "suspended": false,
+                "last_price": 0.445,
+                "deprecated_market_cap": 21280000,
+                "day_low_price": 0.42,
+                "open_price": 0.44,
+                "year_high_date": "2016-12-20T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 1.6,
+                "bid_price": 0.42,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.445,
+                "year_change_in_percentage": "22,150%",
+                "average_daily_volume": 58864,
+                "year_low_price": 0.42,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.contango.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Roger Amos",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Amos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Charles Aitken",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Aitken",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Switzer",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Switzer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Patricia Toh",
+                    "first_name": "Patricia",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Toh",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Hari Morfis",
+                    "first_name": "Hari",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morfis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

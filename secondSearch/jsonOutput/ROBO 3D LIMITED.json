@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RBO",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "ROBO 3D LIMITED",
+    "ASXcode": "RBO",
+    "data": {
+        "summary": {
+            "name_short": "ROBO3D",
+            "name_full": "ROBO 3D LIMITED",
+            "code": "RBO",
+            "primary_share_code": "RBO",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "ROBO 3D LTD",
+            "foreign_exempt": false,
+            "listing_date": "1988-10-06T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9692 7222",
+            "mailing_address": "Level 4, 100 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Design and distribution of 3D printers and associated products for desktop segment of 3D printing industry.",
+            "fax_number": "(03) 9077 9233",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-09-29T19:25:04+1000",
+                    "number_of_pages": 67,
+                    "id": "01902833",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T19:27:31+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtw1hwxq75j1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 381178,
+                "status": [],
+                "market_cap": 13526275,
+                "code": "RBO",
+                "indices": [],
+                "year_open_price": 0.011,
+                "previous_close_price": 0.048,
+                "year_change_price": 0.035,
+                "year_low_date": "2017-07-11T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 281797400,
+                "eps": -0.0737,
+                "change_in_percent": "-4.167%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 183646061,
+                "pe": 0,
+                "offer_price": 0.048,
+                "suspended": false,
+                "last_price": 0.046,
+                "deprecated_market_cap": 8448000,
+                "day_low_price": 0.045,
+                "open_price": 0.047,
+                "year_high_date": "2016-12-28T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.165,
+                "bid_price": 0.046,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.047,
+                "year_change_in_percentage": "318.182%",
+                "average_daily_volume": 573808,
+                "year_low_price": 0.042,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.robo3d.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ryan Legudi",
+                    "first_name": "Ryan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Legudi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Grice",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grice",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Braydon Moreno",
+                    "first_name": "Braydon",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moreno",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Glovac",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Glovac",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justin Mouchacca",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mouchacca",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/POW",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "PROTEAN ENERGY LIMITED",
+    "ASXcode": "POW",
+    "data": {
+        "summary": {
+            "name_short": "PROTEAN",
+            "name_full": "PROTEAN ENERGY LIMITED",
+            "code": "POW",
+            "primary_share_code": "POW",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "PROTEAN ENERGY LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/POW?image_size=L&v=1456785053000",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-21T00:00:00+1100",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9481 2277",
+            "mailing_address": "Office J, Level 2, 1139 Hay Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Renewable energy development, including wave energy technology.",
+            "fax_number": "(08) 9481 2355",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T19:06:52+1000",
+                    "number_of_pages": 82,
+                    "id": "01902817",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T19:15:21+1000",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtv2m6xs0g9z.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 5902946,
+                "code": "POW",
+                "indices": [],
+                "year_open_price": 0.00882,
+                "previous_close_price": 0.023,
+                "year_change_price": 0.01418,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 256649841,
+                "eps": -0.1766,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 256457698,
+                "pe": 0,
+                "offer_price": 0.027,
+                "suspended": false,
+                "last_price": 0.023,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.27,
+                "bid_price": 0.023,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "160.771%",
+                "average_daily_volume": 1186254,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.proteanwaveenergy.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bevan Tarratt",
+                    "first_name": "Bevan",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tarratt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Rogers",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rogers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Wheeler",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wheeler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Young Yu",
+                    "first_name": "Young",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yu",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Matthew Foy",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Foy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

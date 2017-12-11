@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EGO",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "EMPIRE OIL & GAS NL",
+    "ASXcode": "EGO",
+    "data": {
+        "summary": {
+            "name_short": "EMPIRE OIL",
+            "name_full": "EMPIRE OIL & GAS NL",
+            "code": "EGO",
+            "primary_share_code": "EGO",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "EMPIRE OIL & GAS",
+            "foreign_exempt": false,
+            "listing_date": "1998-01-15T00:00:00+1100",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@empireoil.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9286 4600",
+            "mailing_address": "229 Stirling Highway, CLAREMONT, WA, AUSTRALIA, 6010",
+            "principal_activities": "Oil and gas production and exploration in Western Australia.",
+            "fax_number": "+61 8 9284 6588",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "EGO",
+                "indices": [],
+                "year_open_price": 0.008,
+                "previous_close_price": 0.12,
+                "year_change_price": 0.112,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 102404989,
+                "eps": -0.0399,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 102404989,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.12,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-03T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.35,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "1,400%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.empireoil.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tony Iannello",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Iannello",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ken Aitken",
+                    "first_name": "Ken",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Aitken",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Brown",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Rachel Jane Rees",
+                    "first_name": "Rachel",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Rees",
+                    "middle_name": "Jane"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Unknown Admin Appointed",
+                    "first_name": "Admin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Unknown",
+                    "last_name": "Appointed",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Rachel Jane Rees",
+                    "first_name": "Rachel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Rees",
+                    "middle_name": "Jane"
+                }
+            ]
+        }
+    }
+}

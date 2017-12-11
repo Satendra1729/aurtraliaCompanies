@@ -1,0 +1,115 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ODM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ODIN METALS LIMITED",
+    "ASXcode": "ODM",
+    "data": {
+        "summary": {
+            "name_short": "ODIN",
+            "name_full": "ODIN METALS LIMITED",
+            "code": "ODM",
+            "primary_share_code": "ODM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ODIN METALS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2010-08-05T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 8133 5000",
+            "mailing_address": "C/- HLB Mann Judd (SA) Pty Ltd, 169 Fullarton Road, DULWICH, SA, AUSTRALIA, 5065",
+            "principal_activities": "Gold Exploration",
+            "fax_number": "08 8431 3502",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 112300,
+                "status": [],
+                "market_cap": 31905447,
+                "code": "ODM",
+                "indices": [],
+                "year_open_price": 0.03714,
+                "previous_close_price": 0.23,
+                "year_change_price": 0.19786,
+                "year_low_date": "2017-02-17T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 138719335,
+                "eps": -0.0046,
+                "change_in_percent": "2.174%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 138719335,
+                "pe": 0,
+                "offer_price": 0.25,
+                "suspended": false,
+                "last_price": 0.235,
+                "deprecated_market_cap": 32599000,
+                "day_low_price": 0.23,
+                "open_price": 0.24,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "4.545%",
+                "year_open_date": "2014-03-05T11:00:00+1100",
+                "year_high_price": 0.245,
+                "bid_price": 0.235,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.24,
+                "year_change_in_percentage": "532.741%",
+                "average_daily_volume": 241490,
+                "year_low_price": 0.05,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.lawsongold.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Simon O'Loughlin",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Loughlin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Reid",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reid",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Donald Stephens",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephens",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Donald Stephens",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephens",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SVT",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "SERVTECH GLOBAL HOLDINGS LTD",
+    "ASXcode": "SVT",
+    "data": {
+        "summary": {
+            "name_short": "SERVTECH",
+            "name_full": "SERVTECH GLOBAL HOLDINGS LTD",
+            "code": "SVT",
+            "primary_share_code": "SVT",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "SERVTECH GLOBAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-03-17T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 202 101",
+            "mailing_address": "C/- Bellanhouse, Level 19 Alluvion, 58 Mounts Bay Road, PERT, WA, AUSTRALIA, 6000",
+            "principal_activities": "Technology",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T19:27:32+1100",
+                    "number_of_pages": 70,
+                    "id": "01916379",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T19:30:39+1100",
+                    "size": "942.6KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nv73vpxsl9lx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "SVT",
+                "indices": [],
+                "deprecated_number_of_shares": 54238136,
+                "previous_close_price": 0.021,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 103273131,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.021,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-24T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.22,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 208355,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.servtechglobal.com.au",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Umberto Mondello",
+                    "first_name": "Umberto",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mondello",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Quinn",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Quinn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gianmarco Orgnoni",
+                    "first_name": "Gianmarco",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Orgnoni",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Derek Hall",
+                    "first_name": "Derek",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hall",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Derek Hall",
+                    "first_name": "Derek",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hall",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

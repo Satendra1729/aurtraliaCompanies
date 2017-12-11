@@ -1,0 +1,162 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BNO",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "BIONOMICS LIMITED",
+    "ASXcode": "BNO",
+    "data": {
+        "summary": {
+            "name_short": "BIONOMICS",
+            "name_full": "BIONOMICS LIMITED",
+            "code": "BNO",
+            "primary_share_code": "BNO",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "BIONOMICS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1999-12-21T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 8354 6100",
+            "mailing_address": "31 Dalgleish Street, THEBARTON, SA, AUSTRALIA, 5031",
+            "principal_activities": "Developer of innovative treatments for cancer and diseases of the central nervous system.",
+            "fax_number": "08 8354 6199",
+            "latest_annual_reports": [
+                {
+                    "header": "Bionomics Annual Report 2017",
+                    "document_date": "2017-10-13T14:46:20+1100",
+                    "number_of_pages": 88,
+                    "id": "01907745",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T14:48:31+1100",
+                    "size": "2.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6nry311bt09.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 53833,
+                "status": [],
+                "market_cap": 192900826,
+                "code": "BNO",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.71,
+                "previous_close_price": 0.4,
+                "year_change_price": -0.315,
+                "year_low_date": "2016-12-14T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 482252066,
+                "eps": -0.014,
+                "change_in_percent": "-1.25%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 482252066,
+                "pe": 0,
+                "offer_price": 0.4,
+                "suspended": false,
+                "last_price": 0.395,
+                "deprecated_market_cap": 190490000,
+                "day_low_price": 0.385,
+                "open_price": 0.395,
+                "year_high_date": "2017-08-24T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.505,
+                "bid_price": 0.39,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.4,
+                "year_change_in_percentage": "-44.366%",
+                "average_daily_volume": 255297,
+                "year_low_price": 0.31,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.bionomics.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Errol De Souza",
+                    "first_name": "Errol",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "De Souza",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Deborah Rathjen",
+                    "first_name": "Deborah",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Rathjen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan Fisher",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fisher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Turner",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Turner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Wilson",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jack Moschakis",
+                    "first_name": "Jack",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moschakis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

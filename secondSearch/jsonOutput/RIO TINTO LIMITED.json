@@ -1,0 +1,337 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RIO",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RIO TINTO LIMITED",
+    "ASXcode": "RIO",
+    "data": {
+        "summary": {
+            "name_short": "RIO TINTO",
+            "name_full": "RIO TINTO LIMITED",
+            "code": "RIO",
+            "primary_share_code": "RIO",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RIO TINTO LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RIO?image_size=L&v=1384733810000",
+            "foreign_exempt": false,
+            "listing_date": "1962-09-19T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "137.72C FRANKED@30%;  DRP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-02T00:00:00+1000",
+                "record_date": "2017-08-11T00:00:00+1000",
+                "payable_date": "2017-09-21T00:00:00+1000",
+                "type": "Interim",
+                "amount": 1.3772,
+                "ex_date": "2017-08-10T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(03) 9283 3333",
+            "mailing_address": "Level 7, 360 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Production of copper, gold, iron ore, coal, aluminium, borates, titanium dioxide and other minerals and metals.",
+            "fax_number": "(03) 9283 3707",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual report",
+                    "document_date": "2017-03-02T18:48:55+1100",
+                    "number_of_pages": 256,
+                    "id": "01835446",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-02T19:00:14+1100",
+                    "size": "3.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170302/pdf/43gj515ydg1w3v.pdf"
+                },
+                {
+                    "header": "2016 Annual report, Strategic report, Form 20-F & 2017 AGMs",
+                    "document_date": "2017-03-02T18:48:06+1100",
+                    "number_of_pages": 2,
+                    "id": "01835445",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-02T19:00:04+1100",
+                    "size": "82.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170302/pdf/43gj4zdq036xcj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2738809,
+                "status": [],
+                "market_cap": 28646300751,
+                "code": "RIO",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 20",
+                        "index_code": "XTL",
+                        "name_abrev": "S&P/ASX 20",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 20"
+                    },
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 68.62,
+                "previous_close_price": 69.46,
+                "year_change_price": 0.58,
+                "year_low_date": "2017-05-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 412414350,
+                "eps": 4.6591,
+                "change_in_percent": "-0.374%",
+                "change_price": -0.26,
+                "deprecated_number_of_shares": 412414348,
+                "pe": 14.85,
+                "offer_price": 69.3,
+                "suspended": false,
+                "last_price": 69.2,
+                "deprecated_market_cap": 28539073000,
+                "day_low_price": 68.63,
+                "open_price": 69.11,
+                "year_high_date": "2017-11-09T00:00:00+1100",
+                "previous_day_percentage_change": "0.915%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 75.14,
+                "bid_price": 69,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 69.205,
+                "year_change_in_percentage": "0.845%",
+                "average_daily_volume": 2213624,
+                "year_low_price": 56.72,
+                "annual_dividend_yield": 4.35
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.riotinto.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jan du Plessis",
+                    "first_name": "Jan",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "du Plessis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jean-Sebastien Jacques",
+                    "first_name": "Jean-Sebastien",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jacques",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Lynch",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lynch",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Megan Elizabeth Clark",
+                    "first_name": "Megan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Clark",
+                    "middle_name": "Elizabeth"
+                },
+                {
+                    "full_name": "Mr David Constable",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Constable",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Ann Godbehere",
+                    "first_name": "Ann",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Godbehere",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Henry",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Henry",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Prof. Michael L'Estrange",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "L'Estrange",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Laidlaw",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Laidlaw",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Tellier",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tellier",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Thompson",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thompson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Natalie Worley",
+                    "first_name": "Natalie",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Worley",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tim Paine",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paine",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steve Allen",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Allen",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

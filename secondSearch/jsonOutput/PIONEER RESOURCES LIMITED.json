@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PIO",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PIONEER RESOURCES LIMITED",
+    "ASXcode": "PIO",
+    "data": {
+        "summary": {
+            "name_short": "PIONEER",
+            "name_full": "PIONEER RESOURCES LIMITED",
+            "code": "PIO",
+            "primary_share_code": "PIO",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PIONEER RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2003-12-04T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "pioneer@pioresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 6974",
+            "mailing_address": "21 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Lithium, nickel, cobalt and gold exploration.",
+            "fax_number": "(08) 9486 9393",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Financial Annual Report for the year ended 30 June 2017",
+                    "document_date": "2017-09-28T17:47:06+1000",
+                    "number_of_pages": 66,
+                    "id": "01901479",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T18:00:03+1000",
+                    "size": "493.9KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr597ttkxtjd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 7801156,
+                "status": [],
+                "market_cap": 35741717,
+                "code": "PIO",
+                "indices": [],
+                "year_open_price": 0.011,
+                "previous_close_price": 0.025,
+                "year_change_price": 0.015,
+                "year_low_date": "2017-10-03T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1429668677,
+                "eps": -0.0024,
+                "change_in_percent": "4%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 1429668677,
+                "pe": 0,
+                "offer_price": 0.026,
+                "suspended": false,
+                "last_price": 0.026,
+                "deprecated_market_cap": 37171000,
+                "day_low_price": 0.024,
+                "open_price": 0.025,
+                "year_high_date": "2017-11-14T00:00:00+1100",
+                "previous_day_percentage_change": "-7.407%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.046,
+                "bid_price": 0.025,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.026,
+                "year_change_in_percentage": "136.364%",
+                "average_daily_volume": 17179892,
+                "year_low_price": 0.014,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.pioneerresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Craig McGown",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Crook",
+                    "first_name": "David",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crook",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wayne Spilsbury",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spilsbury",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Gerard Spencer",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spencer",
+                    "middle_name": "Gerard"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Timothy Gerard Spencer",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spencer",
+                    "middle_name": "Gerard"
+                }
+            ]
+        }
+    }
+}

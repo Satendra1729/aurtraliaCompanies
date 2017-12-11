@@ -1,0 +1,151 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KDR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KIDMAN RESOURCES LIMITED",
+    "ASXcode": "KDR",
+    "data": {
+        "summary": {
+            "name_short": "KIDMAN",
+            "name_full": "KIDMAN RESOURCES LIMITED",
+            "code": "KDR",
+            "primary_share_code": "KDR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KIDMAN RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-01-18T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9692 7222",
+            "mailing_address": "Level 4, 100 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Mining explorer.",
+            "fax_number": "(03) 9077 9233",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-09-28T17:32:38+1000",
+                    "number_of_pages": 74,
+                    "id": "01901461",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T17:39:33+1000",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr45pymrbfkm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3035861,
+                "status": [],
+                "market_cap": 498951546,
+                "code": "KDR",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.16,
+                "previous_close_price": 1.425,
+                "year_change_price": 1.315,
+                "year_low_date": "2017-04-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 350141436,
+                "eps": -0.1019,
+                "change_in_percent": "3.509%",
+                "change_price": 0.05,
+                "deprecated_number_of_shares": 350141436,
+                "pe": 0,
+                "offer_price": 1.53,
+                "suspended": false,
+                "last_price": 1.475,
+                "deprecated_market_cap": 516459000,
+                "day_low_price": 1.435,
+                "open_price": 1.45,
+                "year_high_date": "2017-12-01T00:00:00+1100",
+                "previous_day_percentage_change": "-5%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.685,
+                "bid_price": 1.475,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.53,
+                "year_change_in_percentage": "821.875%",
+                "average_daily_volume": 3608047,
+                "year_low_price": 0.335,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.kidmanresources.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Martin Donohue",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Donohue",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Southam",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Southam",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brad Evans",
+                    "first_name": "Brad",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Melanie Leydin",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leydin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Justin Mouchacca",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mouchacca",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

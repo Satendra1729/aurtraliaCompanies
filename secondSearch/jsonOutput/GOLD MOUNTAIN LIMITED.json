@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GMN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GOLD MOUNTAIN LIMITED",
+    "ASXcode": "GMN",
+    "data": {
+        "summary": {
+            "name_short": "GOLDMOUNTN",
+            "name_full": "GOLD MOUNTAIN LIMITED",
+            "code": "GMN",
+            "primary_share_code": "GMN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GOLD MOUNTAIN LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-09-02T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@goldmountainltd.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9283 3880",
+            "mailing_address": "Suite 2501, Level 25, 31 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Mineral exploration for gold in Peru and New South Wales.  Production to commence in Peru shortly through 18.8% interest in incorporated joint venture company Goldsmith Resources SAC.",
+            "fax_number": "+61 2 9477 5565",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-29T09:26:16+1000",
+                    "number_of_pages": 68,
+                    "id": "01901887",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T09:28:53+1000",
+                    "size": "3.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43ms1k7grc6r4s.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 63370,
+                "status": [],
+                "market_cap": 63424475,
+                "code": "GMN",
+                "indices": [],
+                "year_open_price": 0.025,
+                "previous_close_price": 0.14,
+                "year_change_price": 0.12,
+                "year_low_date": "2017-06-02T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 453031965,
+                "eps": -0.0035,
+                "change_in_percent": "3.571%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 453031965,
+                "pe": 0,
+                "offer_price": 0.145,
+                "suspended": false,
+                "last_price": 0.145,
+                "deprecated_market_cap": 65690000,
+                "day_low_price": 0.14,
+                "open_price": 0.145,
+                "year_high_date": "2016-12-13T00:00:00+1100",
+                "previous_day_percentage_change": "-6.667%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.165,
+                "bid_price": 0.135,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.145,
+                "year_change_in_percentage": "480%",
+                "average_daily_volume": 362555,
+                "year_low_price": 0.076,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.goldmountainltd.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graham Edward Kavanagh",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kavanagh",
+                    "middle_name": "Edward"
+                },
+                {
+                    "full_name": "Mr Sin Pyng Teng",
+                    "first_name": "Sin",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Teng",
+                    "middle_name": "Pyng"
+                },
+                {
+                    "full_name": "Mr Matthew Paul Morgan",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morgan",
+                    "middle_name": "Paul"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Eric Kam",
+                    "first_name": "Eric",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kam",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

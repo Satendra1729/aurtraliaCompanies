@@ -1,0 +1,150 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CZI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CASSINI RESOURCES LIMITED",
+    "ASXcode": "CZI",
+    "data": {
+        "summary": {
+            "name_short": "CASSINI",
+            "name_full": "CASSINI RESOURCES LIMITED",
+            "code": "CZI",
+            "primary_share_code": "CZI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CASSINI RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CZI?image_size=L&v=1424325026000",
+            "foreign_exempt": false,
+            "listing_date": "2012-01-09T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 7600",
+            "mailing_address": "Ground Floor, 10 Richardson Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration for gold, nickel, copper, the platinum group of elements and base metals.",
+            "fax_number": "(08) 9322 7602",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-09-28T18:45:19+1000",
+                    "number_of_pages": 75,
+                    "id": "01901552",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T18:57:59+1000",
+                    "size": "5.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr9pz6zxbpzv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 723849,
+                "status": [],
+                "market_cap": 19351824,
+                "code": "CZI",
+                "indices": [],
+                "year_open_price": 0.028,
+                "previous_close_price": 0.07,
+                "year_change_price": 0.039,
+                "year_low_date": "2016-12-19T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 276454634,
+                "eps": -0.0073,
+                "change_in_percent": "-4.286%",
+                "change_price": -0.003,
+                "deprecated_number_of_shares": 276454634,
+                "pe": 0,
+                "offer_price": 0.068,
+                "suspended": false,
+                "last_price": 0.067,
+                "deprecated_market_cap": 18522000,
+                "day_low_price": 0.066,
+                "open_price": 0.07,
+                "year_high_date": "2017-11-14T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.125,
+                "bid_price": 0.067,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.07,
+                "year_change_in_percentage": "139.286%",
+                "average_daily_volume": 823356,
+                "year_low_price": 0.044,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.cassiniresources.com.au",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Young",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Young",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Bevan",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bevan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Miles",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Miles",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Jon Hronsky",
+                    "first_name": "Jon",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Hronsky",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Warren",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warren",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Steven Wood",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wood",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

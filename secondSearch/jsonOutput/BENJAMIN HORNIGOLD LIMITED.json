@@ -1,0 +1,101 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BHD",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "BENJAMIN HORNIGOLD LIMITED",
+    "ASXcode": "BHD",
+    "data": {
+        "summary": {
+            "name_short": "HORNIGOLD",
+            "name_full": "BENJAMIN HORNIGOLD LIMITED",
+            "code": "BHD",
+            "primary_share_code": "BHD",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "BENJAMIN HORNGLD LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-05-12T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 155 396",
+            "mailing_address": "Level 9, 123 Eagle Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Investment company",
+            "latest_annual_reports": [
+                {
+                    "header": "Addendum to Annual Report",
+                    "document_date": "2017-11-06T14:58:54+1100",
+                    "number_of_pages": 1,
+                    "id": "01918412",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-06T15:00:21+1100",
+                    "size": "80.5KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171106/pdf/43p04mc8lb05qr.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-30T19:07:44+1000",
+                    "number_of_pages": 41,
+                    "id": "01890494",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-30T19:20:26+1000",
+                    "size": "1.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lx6jqgbh30xy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3330,
+                "status": [],
+                "market_cap": 17200860,
+                "code": "BHD",
+                "indices": [],
+                "deprecated_number_of_shares": 20001000,
+                "previous_close_price": 0.86,
+                "year_low_date": "2017-09-22T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 20001000,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.89,
+                "suspended": false,
+                "last_price": 0.86,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0.86,
+                "open_price": 0.86,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-4.444%",
+                "year_open_date": null,
+                "year_high_price": 0.86,
+                "bid_price": 0.82,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.86,
+                "average_daily_volume": 26322,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.benjaminhornigold.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jody Anne Wright",
+                    "first_name": "Jody",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wright",
+                    "middle_name": "Anne"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RCW",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "RIGHTCROWD LIMITED",
+    "ASXcode": "RCW",
+    "data": {
+        "summary": {
+            "name_short": "RIGHTCROWD",
+            "name_full": "RIGHTCROWD LIMITED",
+            "code": "RCW",
+            "primary_share_code": "RCW",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "RIGHTCROWD",
+            "foreign_exempt": false,
+            "listing_date": "2017-09-18T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 5593 2581",
+            "mailing_address": "183 Varsity Pde, VARSITY LAKES, Qld, AUSTRALIA, 4227",
+            "principal_activities": "Developer of physical security, safety and compliance software",
+            "fax_number": "0",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T16:37:20+1000",
+                    "number_of_pages": 64,
+                    "id": "01902534",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:38:51+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt98qxsd505v.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 75451,
+                "status": [],
+                "market_cap": 34879778,
+                "code": "RCW",
+                "indices": [],
+                "deprecated_number_of_shares": 63999998,
+                "previous_close_price": 0.275,
+                "year_low_date": "2017-11-27T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 126835556,
+                "eps": 0,
+                "change_in_percent": "-1.818%",
+                "change_price": -0.005,
+                "pe": 0,
+                "offer_price": 0.285,
+                "suspended": false,
+                "last_price": 0.27,
+                "deprecated_market_cap": 17280000,
+                "day_low_price": 0.27,
+                "open_price": 0.27,
+                "year_high_date": "2017-10-23T00:00:00+1100",
+                "previous_day_percentage_change": "-5.172%",
+                "year_open_date": null,
+                "year_high_price": 0.35,
+                "bid_price": 0.27,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.27,
+                "average_daily_volume": 233492,
+                "year_low_price": 0.26,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.rightcrowd.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Baker",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Hill",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Gonanin",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gonanin",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Leslie Milne",
+                    "first_name": "Leslie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Milne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kim Clark",
+                    "first_name": "Kim",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Clark",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CVC",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "CVC LIMITED",
+    "ASXcode": "CVC",
+    "data": {
+        "summary": {
+            "name_short": "CVC LTD",
+            "name_full": "CVC LIMITED",
+            "code": "CVC",
+            "primary_share_code": "CVC",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "CVC LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1985-06-27T00:00:00+1000",
+            "registry_address": "Level 16, 1 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "8C FRANKED @ 30%; DR P SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-21T00:00:00+1000",
+                "record_date": "2017-08-25T00:00:00+1000",
+                "payable_date": "2017-09-06T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.08,
+                "ex_date": "2017-08-24T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9087 8000",
+            "mailing_address": "Level 6, Gold Fields House, 1 Alfred Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Operates as a management and investment company and provides investment capital",
+            "fax_number": "(02) 9087 8088",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-25T10:13:34+1100",
+                    "number_of_pages": 92,
+                    "id": "01912266",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-25T10:17:09+1100",
+                    "size": "3.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171025/pdf/43nkcdx9qp1nx0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 292957354,
+                "code": "CVC",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.18,
+                "previous_close_price": 2.45,
+                "year_change_price": 1.27,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 119574430,
+                "eps": 0.2301,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 119574430,
+                "pe": 10.65,
+                "offer_price": 2.43,
+                "suspended": false,
+                "last_price": 2.45,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.5,
+                "bid_price": 2.4,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "107.627%",
+                "average_daily_volume": 10136,
+                "year_low_price": 0,
+                "annual_dividend_yield": 5.31
+            },
+            "web_address": "http://www.cvc.com.au/",
+            "registry_name": "NEXTREGISTRIES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alexander D Beard",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beard",
+                    "middle_name": "D"
+                },
+                {
+                    "full_name": "Mr Ian Campbell",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Campbell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John D Read",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Read",
+                    "middle_name": "D"
+                },
+                {
+                    "full_name": "Mr John Hunter",
+                    "first_name": "John",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hunter",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Hunter",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hunter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alexander D Beard",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beard",
+                    "middle_name": "D"
+                }
+            ]
+        }
+    }
+}

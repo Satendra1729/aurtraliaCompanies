@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KNM",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "KNEOMEDIA LIMITED",
+    "ASXcode": "KNM",
+    "data": {
+        "summary": {
+            "name_short": "KNEOMEDIA",
+            "name_full": "KNEOMEDIA LIMITED",
+            "code": "KNM",
+            "primary_share_code": "KNM",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "KNEOMEDIA LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1987-06-24T00:00:00+1000",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9286 7500",
+            "mailing_address": "Level 1, 61 Spring Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Educational Solutions",
+            "fax_number": "(03) 9662 1472",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T15:15:39+1000",
+                    "number_of_pages": 60,
+                    "id": "01902357",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T15:27:40+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msywh22xd0g5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1230977,
+                "status": [],
+                "market_cap": 79402767,
+                "code": "KNM",
+                "indices": [],
+                "year_open_price": 0.002,
+                "previous_close_price": 0.135,
+                "year_change_price": 0.128,
+                "year_low_date": "2016-12-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 588168644,
+                "eps": -0.0033,
+                "change_in_percent": "-3.704%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 588168644,
+                "pe": 0,
+                "offer_price": 0.13,
+                "suspended": false,
+                "last_price": 0.13,
+                "deprecated_market_cap": 76462000,
+                "day_low_price": 0.125,
+                "open_price": 0.135,
+                "year_high_date": "2017-11-24T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.152,
+                "bid_price": 0.12,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.135,
+                "year_change_in_percentage": "6,400%",
+                "average_daily_volume": 2831330,
+                "year_low_price": 0.01,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.kneomedia.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James Kellett",
+                    "first_name": "James",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kellett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank Lieberman",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lieberman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeffery Bennett",
+                    "first_name": "Jeffery",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bennett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sophie Karzis",
+                    "first_name": "Sophie",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Karzis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sophie Karzis",
+                    "first_name": "Sophie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Karzis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

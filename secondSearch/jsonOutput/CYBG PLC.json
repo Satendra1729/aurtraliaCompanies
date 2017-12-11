@@ -1,0 +1,175 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CYB",
+    "GICSindustrygroup": "Banks",
+    "Companyname": "CYBG PLC",
+    "ASXcode": "CYB",
+    "data": {
+        "summary": {
+            "name_short": "CYBG PLC",
+            "name_full": "CYBG PLC",
+            "code": "CYB",
+            "primary_share_code": "CYB",
+            "industry_group_name": "Banks",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "CYBG PLC",
+            "foreign_exempt": true,
+            "listing_date": "2016-02-03T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "1 PENCE; UNFRANKED;  NIL CFI;EST$A",
+                "franked_percentage": "0%",
+                "created_date": "2017-11-24T00:00:00+1100",
+                "record_date": "2018-01-19T00:00:00+1100",
+                "payable_date": "2018-02-16T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.01742767,
+                "ex_date": "2018-01-18T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "0044 141 232 4763",
+            "mailing_address": "Level 61, Governor Phillip Tower, 1 Farrer Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Banking products and services",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2016-12-20T18:14:35+1100",
+                    "number_of_pages": 154,
+                    "id": "01815012",
+                    "market_sensitive": false,
+                    "document_release_date": "2016-12-20T18:29:07+1100",
+                    "size": "7.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20161220/pdf/43dw8j26r7zh8k.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1122197,
+                "status": [
+                    "CD"
+                ],
+                "market_cap": 4957965307,
+                "code": "CYB",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 756897396,
+                "previous_close_price": 5.64,
+                "year_low_date": "2017-03-22T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 879071863,
+                "eps": 0.296,
+                "change_in_percent": "2.128%",
+                "change_price": 0.12,
+                "pe": 19.46,
+                "offer_price": 5.79,
+                "suspended": false,
+                "last_price": 5.76,
+                "deprecated_market_cap": 4359729000,
+                "day_low_price": 5.7,
+                "open_price": 5.7,
+                "year_high_date": "2017-12-01T00:00:00+1100",
+                "previous_day_percentage_change": "1.805%",
+                "year_open_date": null,
+                "year_high_price": 5.86,
+                "bid_price": 5.76,
+                "desc_full": "Cdi 1:1 Foreign Exempt Lse",
+                "day_high_price": 5.8,
+                "average_daily_volume": 2175675,
+                "year_low_price": 4.19,
+                "annual_dividend_yield": 0.3
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "https://www.cybg.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Lorna McMillan",
+                    "first_name": "Lorna",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McMillan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kelly Millar",
+                    "first_name": "Kelly",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Millar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael McDermott",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDermott",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

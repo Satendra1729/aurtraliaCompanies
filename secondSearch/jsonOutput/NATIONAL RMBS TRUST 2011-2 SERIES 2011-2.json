@@ -1,0 +1,45 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NAO",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "NATIONAL RMBS TRUST 2011-2 SERIES 2011-2",
+    "ASXcode": "NAO",
+    "data": {
+        "summary": {
+            "name_full": "NATIONAL RMBS TRUST 2011-2 SERIES 2011-2",
+            "products": [],
+            "phone_number": "03 8634 8219",
+            "mailing_address": "National Global MBS Manager Pty Ltd, Level 4, 800 Bourke Street, DOCKLANDS, VIC, AUSTRALIA, 3008",
+            "principal_activities": "",
+            "name_short": "NAT 11-02",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "NATIONAL RMBS 2011-2",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "NAO",
+            "registry_address": "LEVEL 7, 9 CASTLEREAGH STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2012-02-02T00:00:00+1100",
+            "fax_number": "03 8634 3502",
+            "web_address": null,
+            "registry_name": "PERPETUAL TRUSTEE COMPANY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Louise Thomson",
+                    "first_name": "Louise",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Thomson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

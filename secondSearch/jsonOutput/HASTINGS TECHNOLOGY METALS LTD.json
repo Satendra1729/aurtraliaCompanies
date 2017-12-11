@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HAS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "HASTINGS TECHNOLOGY METALS LTD",
+    "ASXcode": "HAS",
+    "data": {
+        "summary": {
+            "name_short": "HASTTECH",
+            "name_full": "HASTINGS TECHNOLOGY METALS LTD",
+            "code": "HAS",
+            "primary_share_code": "HAS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "HASTINGS TECH MET",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/HAS?image_size=L&v=1444612656000",
+            "foreign_exempt": false,
+            "listing_date": "2008-02-20T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9078 7674",
+            "mailing_address": "Suite 2508, Level 25, St Martins Tower, 31 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Rare Earths exploration in Western Australia",
+            "fax_number": "(02) 9078 7661",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T17:48:03+1000",
+                    "number_of_pages": 64,
+                    "id": "01901495",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T18:08:43+1000",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr67q57sgjlp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 193985,
+                "status": [],
+                "market_cap": 221489867,
+                "code": "HAS",
+                "indices": [],
+                "year_open_price": 0.05256,
+                "previous_close_price": 0.33,
+                "year_change_price": 0.29244,
+                "year_low_date": "2016-12-16T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 671181416,
+                "eps": 0,
+                "change_in_percent": "4.545%",
+                "change_price": 0.015,
+                "deprecated_number_of_shares": 671181416,
+                "pe": 0,
+                "offer_price": 0.36,
+                "suspended": false,
+                "last_price": 0.345,
+                "deprecated_market_cap": 231558000,
+                "day_low_price": 0.325,
+                "open_price": 0.33,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "-1.493%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.375,
+                "bid_price": 0.325,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.35,
+                "year_change_in_percentage": "556.393%",
+                "average_daily_volume": 464300,
+                "year_low_price": 0.071,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.hastingstechmetals.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Charles Lew",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Executive Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Aristeidis Stamoulis",
+                    "first_name": "Aristeidis",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stamoulis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jean Claude Steinmetz",
+                    "first_name": "Jean Claude",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Steinmetz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Guy Robertson",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Finance Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robertson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Guy Robertson",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robertson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

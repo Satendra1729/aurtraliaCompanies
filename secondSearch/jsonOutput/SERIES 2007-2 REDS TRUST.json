@@ -1,0 +1,156 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/REQ",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "SERIES 2007-2 REDS TRUST",
+    "ASXcode": "REQ",
+    "data": {
+        "summary": {
+            "name_full": "SERIES 2007-2 REDS TRUST",
+            "products": [],
+            "phone_number": "07 3212 3121",
+            "mailing_address": "B.Q.L. Management Pty Limited, Level 6, 100 Skyring Terrace, BRISBANE, QLD, AUSTRALIA, 4006",
+            "principal_activities": ".",
+            "name_short": "REDSSR07-2",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "S7-2 REDS TRUST",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "REQ",
+            "registry_address": "LEVEL 7, 9 CASTLEREAGH STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2007-12-27T00:00:00+1100",
+            "fax_number": "07 3212 3409",
+            "web_address": null,
+            "registry_name": "PERPETUAL TRUSTEE COMPANY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Roger Andrew Davis",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davis",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Mr Neil Berkett",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Berkett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Carter",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steve Crane",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Carmel Gray",
+                    "first_name": "Carmel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Haire",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haire",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Margaret Seale",
+                    "first_name": "Margaret",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Seale",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Michelle Tredenick",
+                    "first_name": "Michelle",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tredenick",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Willis",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Willis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr James Shaw",
+                    "first_name": "James",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shaw",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Vicki Clarkson",
+                    "first_name": "Vicki",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Clarkson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Amita Laroiya",
+                    "first_name": "Amita",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Laroiya",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

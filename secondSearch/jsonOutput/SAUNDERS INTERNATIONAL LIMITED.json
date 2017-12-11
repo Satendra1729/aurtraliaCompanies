@@ -1,0 +1,151 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SND",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "SAUNDERS INTERNATIONAL LIMITED",
+    "ASXcode": "SND",
+    "data": {
+        "summary": {
+            "name_full": "SAUNDERS INTERNATIONAL LIMITED",
+            "last_dividend": {
+                "comments": "1C FRANKED@30%; DRP  SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-08-31T00:00:00+1000",
+                "payable_date": "2017-09-18T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.01,
+                "ex_date": "2017-08-30T00:00:00+1000"
+            },
+            "code": "SND",
+            "name_short": "SAUNDERS",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "SAUNDERS INTL LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SND?image_size=L&v=1455584120000",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-05T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "mail@saundersint.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9792 2444",
+            "mailing_address": "271 Edgar Street, CONDELL PARK, NSW, AUSTRALIA, 2200",
+            "principal_activities": "The Company specialises in the design, construction and maintenance of steel bulk liquid storage tanks and services a variety of blue chip clients ranging from multinational oil, gas and mining companies to water authorities.",
+            "fax_number": "02 9771 2640",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-23T07:55:12+1000",
+                    "number_of_pages": 59,
+                    "id": "01886575",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-23T08:22:23+1000",
+                    "size": "3.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lmjn2xfldd7d.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 32000,
+                "status": [],
+                "market_cap": 57385616,
+                "code": "SND",
+                "indices": [],
+                "year_open_price": 0.89,
+                "previous_close_price": 0.55,
+                "year_change_price": -0.34,
+                "year_low_date": "2017-06-07T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 104337484,
+                "eps": 0.0176,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 102732484,
+                "pe": 31.25,
+                "offer_price": 0.57,
+                "suspended": false,
+                "last_price": 0.55,
+                "deprecated_market_cap": 56503000,
+                "day_low_price": 0.55,
+                "open_price": 0.555,
+                "year_high_date": "2017-09-22T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.63,
+                "bid_price": 0.55,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.555,
+                "year_change_in_percentage": "-38.202%",
+                "average_daily_volume": 56940,
+                "year_low_price": 0.481,
+                "annual_dividend_yield": 3.64
+            },
+            "primary_share_code": "SND",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.saundersint.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Timothy Burnett",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burnett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Benson",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director",
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Benson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Fletcher",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fletcher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Malcolm McComas",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McComas",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Steven Dadich",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dadich",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

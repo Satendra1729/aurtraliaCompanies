@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RXM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "REX MINERALS LIMITED",
+    "ASXcode": "RXM",
+    "data": {
+        "summary": {
+            "name_short": "REXMIN",
+            "name_full": "REX MINERALS LIMITED",
+            "code": "RXM",
+            "primary_share_code": "RXM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "REX MINERALS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2007-09-20T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "rex@rexminerals.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 8299 7100",
+            "mailing_address": "Level 19, 11 Waymouth Street, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "Australian minerals exploration and development company with large-scale copper-gold projects on the Yorke Peninsula, South Australia",
+            "fax_number": "08 8299 7199",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to shareholders",
+                    "document_date": "2017-09-14T12:15:37+1000",
+                    "number_of_pages": 52,
+                    "id": "01896054",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-14T12:18:04+1000",
+                    "size": "4.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170914/pdf/43mbbymwghcnlp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 365131,
+                "status": [],
+                "market_cap": 21831459,
+                "code": "RXM",
+                "indices": [],
+                "year_open_price": 0.465,
+                "previous_close_price": 0.099,
+                "year_change_price": -0.369,
+                "year_low_date": "2016-12-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 220519784,
+                "eps": -0.0036,
+                "change_in_percent": "-3.03%",
+                "change_price": -0.003,
+                "deprecated_number_of_shares": 220519784,
+                "pe": 0,
+                "offer_price": 0.1,
+                "suspended": false,
+                "last_price": 0.096,
+                "deprecated_market_cap": 21170000,
+                "day_low_price": 0.096,
+                "open_price": 0.1,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.115,
+                "bid_price": 0.095,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.1,
+                "year_change_in_percentage": "-79.355%",
+                "average_daily_volume": 251735,
+                "year_low_price": 0.047,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.rexminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr David Carland",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Carland",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Laufmann",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Laufmann",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mitchell Harry Hooke",
+                    "first_name": "Mitchell",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hooke",
+                    "middle_name": "Harry"
+                },
+                {
+                    "full_name": "Mr Alister Maitland",
+                    "first_name": "Alister",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Maitland",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kay Donehue",
+                    "first_name": "Kay",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Donehue",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

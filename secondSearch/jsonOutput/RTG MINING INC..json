@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RTG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RTG MINING INC.",
+    "ASXcode": "RTG",
+    "data": {
+        "summary": {
+            "name_short": "RTG MINING",
+            "name_full": "RTG MINING INC.",
+            "code": "RTG",
+            "primary_share_code": "RTG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RTG MINING INC.",
+            "foreign_exempt": false,
+            "listing_date": "2014-06-05T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6489 2900",
+            "mailing_address": "Level 2, 338 Barker Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Mining exploration and development.",
+            "fax_number": "+61 8 6489 2920",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-31T19:52:24+1100",
+                    "number_of_pages": 169,
+                    "id": "01844142",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T19:55:34+1100",
+                    "size": "7.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6ll0qf8rh3d.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4257988,
+                "status": [],
+                "market_cap": 46923962,
+                "code": "RTG",
+                "indices": [],
+                "deprecated_number_of_shares": 127952518,
+                "previous_close_price": 0.28,
+                "year_low_date": "2017-09-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 167585577,
+                "eps": -0.8046,
+                "change_in_percent": "30.357%",
+                "change_price": 0.085,
+                "pe": 0,
+                "offer_price": 0.365,
+                "suspended": false,
+                "last_price": 0.365,
+                "deprecated_market_cap": 46703000,
+                "day_low_price": 0.295,
+                "open_price": 0.295,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "19.149%",
+                "year_open_date": null,
+                "year_high_price": 0.385,
+                "bid_price": 0.36,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0.385,
+                "average_daily_volume": 314798,
+                "year_low_price": 0.1,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.rtgmining.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Joseph Carrick",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carrick",
+                    "middle_name": "Joseph"
+                },
+                {
+                    "full_name": "Ms Justine Alexandria Magee",
+                    "first_name": "Justine",
+                    "roles": [
+                        "President",
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Magee",
+                    "middle_name": "Alexandria"
+                },
+                {
+                    "full_name": "Mr David Anthony Thackrah Cruse",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cruse",
+                    "middle_name": "Anthony Thackrah"
+                },
+                {
+                    "full_name": "Mr Phillip Clive Lockyer",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lockyer",
+                    "middle_name": "Clive"
+                },
+                {
+                    "full_name": "Mr Robert Norman Scott",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scott",
+                    "middle_name": "Norman"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ryan Richard Eadie",
+                    "first_name": "Ryan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Eadie",
+                    "middle_name": "Richard"
+                }
+            ]
+        }
+    }
+}

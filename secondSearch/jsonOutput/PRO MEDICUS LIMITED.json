@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PME",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "PRO MEDICUS LIMITED",
+    "ASXcode": "PME",
+    "data": {
+        "summary": {
+            "name_short": "PROMEDICUS",
+            "name_full": "PRO MEDICUS LIMITED",
+            "code": "PME",
+            "primary_share_code": "PME",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "PRO MEDICUS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2000-10-10T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "2.5C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-18T00:00:00+1000",
+                "record_date": "2017-09-08T00:00:00+1000",
+                "payable_date": "2017-09-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.025,
+                "ex_date": "2017-09-07T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9429 8800",
+            "mailing_address": "450 Swan Street, Richmond, VIC, AUSTRALIA, 3121",
+            "principal_activities": "Development and supply of software and IT solutions to the Public and Private Health sectors",
+            "fax_number": "03 9429 9455",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-13T10:35:15+1100",
+                    "number_of_pages": 45,
+                    "id": "01907597",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T10:36:55+1100",
+                    "size": "16.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6c7l0nff9dk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 35791,
+                "status": [],
+                "market_cap": 794715737,
+                "code": "PME",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.79,
+                "previous_close_price": 7.69,
+                "year_change_price": 6.93,
+                "year_low_date": "2017-02-17T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 103344049,
+                "eps": 0.091,
+                "change_in_percent": "0.39%",
+                "change_price": 0.03,
+                "deprecated_number_of_shares": 103344049,
+                "pe": 84.84,
+                "offer_price": 7.84,
+                "suspended": false,
+                "last_price": 7.72,
+                "deprecated_market_cap": 797816000,
+                "day_low_price": 7.6,
+                "open_price": 7.78,
+                "year_high_date": "2017-11-28T00:00:00+1100",
+                "previous_day_percentage_change": "-0.902%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 7.98,
+                "bid_price": 7.59,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 7.95,
+                "year_change_in_percentage": "877.215%",
+                "average_daily_volume": 156012,
+                "year_low_price": 4.27,
+                "annual_dividend_yield": 0.52
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.promedicus.com.au/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Kempen",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kempen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Sam Hupert",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Managing Director",
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Hupert",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Hall",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Roderick Lyle",
+                    "first_name": "Roderick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lyle",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Clayton Hatch",
+                    "first_name": "Clayton",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hatch",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

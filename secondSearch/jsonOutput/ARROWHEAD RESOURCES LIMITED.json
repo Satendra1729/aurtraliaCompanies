@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AR1",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ARROWHEAD RESOURCES LIMITED",
+    "ASXcode": "AR1",
+    "data": {
+        "summary": {
+            "name_short": "ARROWHEAD",
+            "name_full": "ARROWHEAD RESOURCES LIMITED",
+            "code": "AR1",
+            "primary_share_code": "AR1",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ARROWHEAD RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "1971-06-09T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 92464483",
+            "mailing_address": "Suite 1, 58 Southside Drive, Hillarys Boat H, HILLARYS, WA, AUSTRALIA, 6025",
+            "principal_activities": "Embarking on a new mining focussed business strategy and concurrently pursuing its legal rights in Egypt",
+            "fax_number": "0893406060",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-23T20:59:38+1100",
+                    "number_of_pages": 54,
+                    "id": "01911496",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T09:16:17+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43nhqyvyd3k7m6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE",
+                    "XB"
+                ],
+                "market_cap": -1,
+                "indices": [],
+                "year_open_price": 0.003,
+                "previous_close_price": 0,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 136593577,
+                "eps": -0.0026,
+                "code": "AR1",
+                "deprecated_number_of_shares": 136593577,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-06-22T00:00:00+1000",
+                "year_open_date": "2014-03-04T11:00:00+1100",
+                "year_high_price": 0.018,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 269913,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.arrowheadresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Rosenstreich",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rosenstreich",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John D Kenny",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kenny",
+                    "middle_name": "D"
+                },
+                {
+                    "full_name": "Mr Phil Re",
+                    "first_name": "Phil",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Re",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Rowan Caren",
+                    "first_name": "Rowan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Caren",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

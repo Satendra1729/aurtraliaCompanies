@@ -1,0 +1,301 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NAB",
+    "GICSindustrygroup": "Banks",
+    "Companyname": "NATIONAL AUSTRALIA BANK LIMITED",
+    "ASXcode": "NAB",
+    "data": {
+        "summary": {
+            "name_short": "NAT. BANK",
+            "name_full": "NATIONAL AUSTRALIA BANK LIMITED",
+            "code": "NAB",
+            "primary_share_code": "NAB",
+            "industry_group_name": "Banks",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "NATIONAL AUST. BANK",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/NAB?image_size=L&v=1385360985000",
+            "foreign_exempt": false,
+            "listing_date": "1974-01-01T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "99C FR@ 30%; DRP; BS P NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-11-02T00:00:00+1100",
+                "record_date": "2017-11-10T00:00:00+1100",
+                "payable_date": "2017-12-13T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.99,
+                "ex_date": "2017-11-09T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "floating-rate-notes",
+                "hybrid-securities",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "61 3 8872 2461",
+            "mailing_address": "Level 1, 800 Bourke Street, DOCKLANDS, VIC, AUSTRALIA, 3008",
+            "principal_activities": "Banking, financial and related services.",
+            "fax_number": "61 1300 099 249",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 2802256,
+                "status": [
+                    "XD"
+                ],
+                "market_cap": 79706759826,
+                "code": "NAB",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 20",
+                        "index_code": "XTL",
+                        "name_abrev": "S&P/ASX 20",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 20"
+                    },
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 34.51,
+                "previous_close_price": 29.68,
+                "year_change_price": -4.67,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2685537730,
+                "eps": 1.947,
+                "change_in_percent": "0.539%",
+                "change_price": 0.16,
+                "deprecated_number_of_shares": 2685537730,
+                "pe": 15.33,
+                "offer_price": 29.85,
+                "suspended": false,
+                "last_price": 29.84,
+                "deprecated_market_cap": 80136446000,
+                "day_low_price": 29.66,
+                "open_price": 29.78,
+                "year_high_date": "2017-05-01T00:00:00+1000",
+                "previous_day_percentage_change": "0.747%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 34.09,
+                "bid_price": 29.82,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 29.94,
+                "year_change_in_percentage": "-13.532%",
+                "average_daily_volume": 4919282,
+                "year_low_price": 28.59,
+                "annual_dividend_yield": 6.64
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.nabgroup.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Ken Ross Henry",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Henry",
+                    "middle_name": "Ross"
+                },
+                {
+                    "full_name": "Mr Andrew Gregory Thorburn",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thorburn",
+                    "middle_name": "Gregory"
+                },
+                {
+                    "full_name": "Mr David Hugh Armstrong",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Armstrong",
+                    "middle_name": "Hugh"
+                },
+                {
+                    "full_name": "Mr Philip Wayne Chronican",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chronican",
+                    "middle_name": "Wayne"
+                },
+                {
+                    "full_name": "Mr Peeyush Kumar Gupta",
+                    "first_name": "Peeyush",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gupta",
+                    "middle_name": "Kumar"
+                },
+                {
+                    "full_name": "Ms Anne Joan Loveridge",
+                    "first_name": "Anne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Loveridge",
+                    "middle_name": "Joan"
+                },
+                {
+                    "full_name": "Ms Geraldine Celia McBride",
+                    "first_name": "Geraldine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McBride",
+                    "middle_name": "Celia"
+                },
+                {
+                    "full_name": "Mr Doug Alexander McKay",
+                    "first_name": "Doug",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKay",
+                    "middle_name": "Alexander"
+                },
+                {
+                    "full_name": "Mr Anthony KT Yuen",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yuen",
+                    "middle_name": "KT"
+                },
+                {
+                    "full_name": "Ms Natalie Coombe",
+                    "first_name": "Natalie",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Coombe",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Louise Thomson",
+                    "first_name": "Louise",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Thomson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Elizabeth Melville-Jones",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Melville-Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Penny MacRae",
+                    "first_name": "Penny",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "MacRae",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

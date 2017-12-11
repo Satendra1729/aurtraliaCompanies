@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BSM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BASS METALS LTD",
+    "ASXcode": "BSM",
+    "data": {
+        "summary": {
+            "name_short": "BASSMETALS",
+            "name_full": "BASS METALS LTD",
+            "code": "BSM",
+            "primary_share_code": "BSM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BASS METALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2005-10-20T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "david@bassmetals.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 3221 0783",
+            "mailing_address": "Level 5, 10 Market Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Mineral Exploration.",
+            "fax_number": "+61 7 3221 0783",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-22T18:37:13+1000",
+                    "number_of_pages": 88,
+                    "id": "01899220",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T18:40:34+1000",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mkthwp0pcdn9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 962016,
+                "status": [],
+                "market_cap": 35414544,
+                "code": "BSM",
+                "indices": [],
+                "year_open_price": 0.004,
+                "previous_close_price": 0.016,
+                "year_change_price": 0.012,
+                "year_low_date": "2017-06-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2213409028,
+                "eps": -0.0085,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 2213409028,
+                "pe": 0,
+                "offer_price": 0.017,
+                "suspended": false,
+                "last_price": 0.016,
+                "deprecated_market_cap": 35415000,
+                "day_low_price": 0.016,
+                "open_price": 0.017,
+                "year_high_date": "2017-11-08T00:00:00+1100",
+                "previous_day_percentage_change": "-5.882%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.024,
+                "bid_price": 0.016,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.017,
+                "year_change_in_percentage": "300%",
+                "average_daily_volume": 9971924,
+                "year_low_price": 0.007,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.bassmetals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Stacy Anthon",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anthon",
+                    "middle_name": "Stacy"
+                },
+                {
+                    "full_name": "Mr Tim McManus",
+                    "first_name": "Tim",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McManus",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeffrey Marvin",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marvin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Premraj",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Premraj",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Round",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Round",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Round",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Round",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PUJ",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "PUMA SERIES 2013-1",
+    "ASXcode": "PUJ",
+    "data": {
+        "summary": {
+            "name_full": "PUMA SERIES 2013-1",
+            "code": "PUJ",
+            "name_short": "PUMA2013-1",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "PUMA SERIES 2013-1",
+            "foreign_exempt": false,
+            "listing_date": "2013-12-05T00:00:00+1100",
+            "registry_address": "LEVEL 12, ANGEL PLACE, 123 PITT STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "Treasury-TransactionManagement@macquarie.com",
+            "products": [],
+            "phone_number": "02 8232 7083",
+            "mailing_address": "Macquarie Securitisation Limited, Level 6, 50 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Securitisation Trust",
+            "fax_number": "02 8232 9999",
+            "latest_annual_reports": [],
+            "web_address": "http://www.macquarie.com",
+            "fiscal_year_end": "31/03",
+            "registry_name": "PERPETUAL TRUSTEES CONSOLIDATED LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Daniel McGrath",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGrath",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Daniel McGrath",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGrath",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RTE",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "RETECH TECHNOLOGY CO., LIMITED",
+    "ASXcode": "RTE",
+    "data": {
+        "summary": {
+            "name_short": "RETECH",
+            "name_full": "RETECH TECHNOLOGY CO., LIMITED",
+            "code": "RTE",
+            "primary_share_code": "RTE",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "RETECH TECH CO., LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-06-22T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9276 2029",
+            "mailing_address": "Room 1405A, 141F Lucky Centre, 165-171 Wanchai Road, AUSTRALIA,",
+            "principal_activities": "Provides technology solutions to, and builds e-learning platforms and E-Courseware for large companies and training providers, enabling them to deliver their offline training content online.",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 92300378,
+                "code": "RTE",
+                "indices": [],
+                "deprecated_number_of_shares": 230750944,
+                "previous_close_price": 0.4,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 230750944,
+                "eps": 0.0123,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 32.52,
+                "offer_price": 0.48,
+                "suspended": false,
+                "last_price": 0.4,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-06-29T00:00:00+1000",
+                "previous_day_percentage_change": "-2.439%",
+                "year_open_date": null,
+                "year_high_price": 0.555,
+                "bid_price": 0.4,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0,
+                "average_daily_volume": 26848,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.retech-rte.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Liu Cheng",
+                    "first_name": "Liu",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cheng",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Calvin Cheng",
+                    "first_name": "Calvin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cheng",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neville Ide",
+                    "first_name": "Neville",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ide",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zhang Jing",
+                    "first_name": "Zhang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jing",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lu Jiuping",
+                    "first_name": "Lu",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jiuping",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hok Wang Ma",
+                    "first_name": "Hok Wang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ma",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Liu Qing",
+                    "first_name": "Liu",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Qing",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Ryan",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ryan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ai Shungang",
+                    "first_name": "Ai",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shungang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lin Yan",
+                    "first_name": "Lin",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Yan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": []
+        }
+    }
+}

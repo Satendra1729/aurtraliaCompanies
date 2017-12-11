@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RIR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RIVA RESOURCES LIMITED",
+    "ASXcode": "RIR",
+    "data": {
+        "summary": {
+            "name_short": "RIVARESOU",
+            "name_full": "RIVA RESOURCES LIMITED",
+            "code": "RIR",
+            "primary_share_code": "RIR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RIVA RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2009-02-18T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 6009",
+            "mailing_address": "Suite 8, 1297 Hay Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration for iron ore, gold and base metal in Australia.",
+            "fax_number": "(08) 9322 6128",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T16:49:16+1000",
+                    "number_of_pages": 65,
+                    "id": "01902563",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:51:26+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtbzlxwkk1b0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 18771953,
+                "status": [],
+                "market_cap": 5165494,
+                "code": "RIR",
+                "indices": [],
+                "year_open_price": 0.07,
+                "previous_close_price": 0.007,
+                "year_change_price": -0.062,
+                "year_low_date": "2017-08-02T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 737927748,
+                "eps": -0.009,
+                "change_in_percent": "14.286%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 737927748,
+                "pe": 0,
+                "offer_price": 0.008,
+                "suspended": false,
+                "last_price": 0.008,
+                "deprecated_market_cap": 5903000,
+                "day_low_price": 0.007,
+                "open_price": 0.007,
+                "year_high_date": "2017-02-27T00:00:00+1100",
+                "previous_day_percentage_change": "-12.5%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.04,
+                "bid_price": 0.007,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.008,
+                "year_change_in_percentage": "-88.571%",
+                "average_daily_volume": 5919717,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.rivaresources.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jonathan King",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "King",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Keong Kok Chan",
+                    "first_name": "Keong",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chan",
+                    "middle_name": "Kok"
+                },
+                {
+                    "full_name": "Mr Jie Chen",
+                    "first_name": "Jie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joel Fishlock",
+                    "first_name": "Joel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fishlock",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gang Xu",
+                    "first_name": "Gang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Xu",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Keong Kok Chan",
+                    "first_name": "Keong",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chan",
+                    "middle_name": "Kok"
+                }
+            ]
+        }
+    }
+}

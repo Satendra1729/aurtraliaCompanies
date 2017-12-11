@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ICS",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "ICSGLOBAL LIMITED",
+    "ASXcode": "ICS",
+    "data": {
+        "summary": {
+            "name_short": "ICSGLOBAL",
+            "name_full": "ICSGLOBAL LIMITED",
+            "code": "ICS",
+            "primary_share_code": "ICS",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "ICSGLOBAL LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1999-12-23T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-25T00:00:00+1000",
+                "record_date": "2017-10-06T00:00:00+1100",
+                "payable_date": "2017-11-09T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.04,
+                "ex_date": "2017-10-05T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8073 7888",
+            "mailing_address": "c\\- TCAP, Suite 3.03, 20 Bond Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "IT consulting and e-business services",
+            "fax_number": "+61 2 8073 7889",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-25T15:57:10+1000",
+                    "number_of_pages": 61,
+                    "id": "01888416",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-25T16:04:54+1000",
+                    "size": "5.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170825/pdf/43lrcmn0gzk4fg.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6215,
+                "status": [],
+                "market_cap": 14984858,
+                "code": "ICS",
+                "indices": [],
+                "year_open_price": 0.94906,
+                "previous_close_price": 1.41,
+                "year_change_price": 0.46094,
+                "year_low_date": "2017-06-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 10627559,
+                "eps": 0.0438,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 10627559,
+                "pe": 32.19,
+                "offer_price": 1.41,
+                "suspended": false,
+                "last_price": 1.41,
+                "deprecated_market_cap": 14985000,
+                "day_low_price": 1.39,
+                "open_price": 1.39,
+                "year_high_date": "2017-01-27T00:00:00+1100",
+                "previous_day_percentage_change": "1.439%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.63,
+                "bid_price": 1.39,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.41,
+                "year_change_in_percentage": "48.568%",
+                "average_daily_volume": 7046,
+                "year_low_price": 0.98,
+                "annual_dividend_yield": 2.84
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.icsglobal.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kevin Barry",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barry",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Canning",
+                    "first_name": "James",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Canning",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gregory James Quirk",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Quirk",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Viktor Shkolnik",
+                    "first_name": "Viktor",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shkolnik",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gregory James Quirk",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Quirk",
+                    "middle_name": "James"
+                }
+            ]
+        }
+    }
+}

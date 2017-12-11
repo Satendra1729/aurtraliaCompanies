@@ -1,0 +1,179 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CHP",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "CHAPMANS LIMITED",
+    "ASXcode": "CHP",
+    "data": {
+        "summary": {
+            "name_short": "CHAPMANS",
+            "name_full": "CHAPMANS LIMITED",
+            "code": "CHP",
+            "primary_share_code": "CHP",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "CHAPMANS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1971-07-28T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9300 3630",
+            "mailing_address": "Level 10, 52 Phillip Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Diversified Investment Company engaged in special situation investments",
+            "fax_number": "(02) 9300 3677",
+            "latest_annual_reports": [
+                {
+                    "header": "Restated 2016 Annual Report",
+                    "document_date": "2017-09-20T18:39:03+1000",
+                    "number_of_pages": 48,
+                    "id": "01898183",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-20T18:42:50+1000",
+                    "size": "5.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170920/pdf/43mhj1fy998hzh.pdf"
+                },
+                {
+                    "header": "Annual Report - Presentation Version",
+                    "document_date": "2017-05-03T17:08:25+1000",
+                    "number_of_pages": 50,
+                    "id": "01854131",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-05-03T17:12:44+1000",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170503/pdf/43j06cvfzxgy6l.pdf"
+                },
+                {
+                    "header": "Revised Annual Report",
+                    "document_date": "2017-04-13T17:57:10+1000",
+                    "number_of_pages": 1,
+                    "id": "01848185",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-04-13T17:59:52+1000",
+                    "size": "191.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170413/pdf/43hjgvb7qrj58b.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders - Revision",
+                    "document_date": "2017-04-13T17:50:43+1000",
+                    "number_of_pages": 45,
+                    "id": "01848182",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-13T17:54:19+1000",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170413/pdf/43hjgnc81frn53.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-31T19:11:37+1100",
+                    "number_of_pages": 46,
+                    "id": "01844121",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T19:16:52+1100",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6k7b6xtw6f5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 7783738,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 8229944,
+                "code": "CHP",
+                "indices": [],
+                "year_open_price": 0.02,
+                "previous_close_price": 0.009,
+                "year_change_price": -0.011,
+                "year_low_date": "2017-11-02T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 914438236,
+                "eps": -0.0314,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 914438236,
+                "pe": 0,
+                "offer_price": 0.01,
+                "suspended": false,
+                "last_price": 0.009,
+                "deprecated_market_cap": 8230000,
+                "day_low_price": 0.009,
+                "open_price": 0.01,
+                "year_high_date": "2017-05-16T00:00:00+1000",
+                "previous_day_percentage_change": "-10%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.033,
+                "bid_price": 0.009,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.01,
+                "year_change_in_percentage": "-55%",
+                "average_daily_volume": 8661383,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.chapmansltd.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter James Dykes",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dykes",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Dato' Muhamad Adlan bin Berhan",
+                    "first_name": "Dato' Muhamad Adlan",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "bin Berhan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Dunlop",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dunlop",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Newport",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Newport",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Elizabeth Hunt",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Hunt",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

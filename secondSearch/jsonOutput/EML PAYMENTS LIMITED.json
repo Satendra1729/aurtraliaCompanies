@@ -1,0 +1,202 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EML",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "EML PAYMENTS LIMITED",
+    "ASXcode": "EML",
+    "data": {
+        "summary": {
+            "name_short": "EMLPAYMENT",
+            "name_full": "EML PAYMENTS LIMITED",
+            "code": "EML",
+            "primary_share_code": "EML",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "EML PAYMENTS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/EML?image_size=L&v=1475549097000",
+            "foreign_exempt": false,
+            "listing_date": "2006-01-18T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 07 3607 0100",
+            "mailing_address": "Level 2, 26 Commercial Road, NEWSTEAD, QLD, AUSTRALIA, 4006",
+            "principal_activities": "Issuer of pre-paid financial cards.",
+            "fax_number": "+61 07 3607 0111",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-23T14:33:57+1000",
+                    "number_of_pages": 110,
+                    "id": "01887031",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-23T14:38:54+1000",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lnf56b53009r.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 213591,
+                "status": [],
+                "market_cap": 445672142,
+                "code": "EML",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.69,
+                "previous_close_price": 1.805,
+                "year_change_price": 1.16,
+                "year_low_date": "2017-04-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 246909774,
+                "eps": 0,
+                "change_in_percent": "2.493%",
+                "change_price": 0.045,
+                "deprecated_number_of_shares": 246909774,
+                "pe": 0,
+                "offer_price": 1.86,
+                "suspended": false,
+                "last_price": 1.85,
+                "deprecated_market_cap": 456783000,
+                "day_low_price": 1.78,
+                "open_price": 1.78,
+                "year_high_date": "2017-10-10T00:00:00+1100",
+                "previous_day_percentage_change": "0.838%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.26,
+                "bid_price": 1.84,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.87,
+                "year_change_in_percentage": "168.116%",
+                "average_daily_volume": 959917,
+                "year_low_price": 1.4,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.emlpayments.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Martin",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Martin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tom Cregan",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cregan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tony Adcock",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Adcock",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Browning",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Browning",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Liddy",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liddy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Toms",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Toms",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Stewart",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stewart",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Louise Bolger",
+                    "first_name": "Louise",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bolger",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Louise Bolger",
+                    "first_name": "Louise",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bolger",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

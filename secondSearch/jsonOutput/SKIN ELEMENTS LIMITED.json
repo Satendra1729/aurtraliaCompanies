@@ -1,0 +1,90 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SKN",
+    "GICSindustrygroup": "Household & Personal Products",
+    "Companyname": "SKIN ELEMENTS LIMITED",
+    "ASXcode": "SKN",
+    "data": {
+        "summary": {
+            "name_full": "SKIN ELEMENTS LIMITED",
+            "primary_share_code": "SKN",
+            "phone_number": "08 9486 4792",
+            "mailing_address": "7/36 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "",
+            "name_short": "SKNELEMENT",
+            "industry_group_name": "Household & Personal Products",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "primary_share": {
+                "volume": 2000,
+                "status": [],
+                "market_cap": 12434400,
+                "code": "SKN",
+                "indices": [],
+                "deprecated_number_of_shares": 22715001,
+                "previous_close_price": 0.16,
+                "year_low_date": "2017-08-08T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 77715001,
+                "eps": 0,
+                "change_in_percent": "12.5%",
+                "change_price": 0.02,
+                "pe": 0,
+                "offer_price": 0.18,
+                "suspended": false,
+                "last_price": 0.18,
+                "deprecated_market_cap": 4089000,
+                "day_low_price": 0.18,
+                "open_price": 0.18,
+                "year_high_date": "2017-01-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.22,
+                "bid_price": 0.15,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.18,
+                "average_daily_volume": 43571,
+                "year_low_price": 0.1,
+                "annual_dividend_yield": 0
+            },
+            "name_abbrev": "SKIN ELEMENTS LTD",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T18:37:01+1100",
+                    "number_of_pages": 46,
+                    "id": "01916297",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T18:40:09+1100",
+                    "size": "9.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nv26y6fzj6vb.pdf"
+                }
+            ],
+            "products": [
+                "shares"
+            ],
+            "foreign_exempt": false,
+            "code": "SKN",
+            "listing_date": "2017-01-06T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "web_address": "http://www.soleoorganics.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Craig Piercy",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Piercy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CZZ",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "CAPILANO HONEY LIMITED",
+    "ASXcode": "CZZ",
+    "data": {
+        "summary": {
+            "name_full": "CAPILANO HONEY LIMITED",
+            "last_dividend": {
+                "comments": "40C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-06-23T00:00:00+1000",
+                "record_date": "2017-06-30T00:00:00+1000",
+                "payable_date": "2017-07-31T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.4,
+                "ex_date": "2017-06-29T00:00:00+1000"
+            },
+            "code": "CZZ",
+            "name_short": "CAPILANO",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "CAPILANO HONEY LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CZZ?image_size=L&v=1450839588000",
+            "foreign_exempt": false,
+            "listing_date": "2012-07-09T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "a.zbasnik@capilano.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3712 8282",
+            "mailing_address": "399 Archerfield Road, RICHLANDS, QLD, AUSTRALIA, 4077",
+            "principal_activities": "Packaging and marketing of honey.",
+            "fax_number": "(07) 3712 8286",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-07T08:31:32+1000",
+                    "number_of_pages": 74,
+                    "id": "01881188",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-07T08:35:02+1000",
+                    "size": "8.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170807/pdf/43l6gzytrw3vbn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 12907,
+                "status": [],
+                "market_cap": 167586563,
+                "code": "CZZ",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 4.70963,
+                "previous_close_price": 17.72,
+                "year_change_price": 13.23037,
+                "year_low_date": "2017-06-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 9457481,
+                "eps": 1.093,
+                "change_in_percent": "1.242%",
+                "change_price": 0.22,
+                "deprecated_number_of_shares": 9457481,
+                "pe": 16.41,
+                "offer_price": 17.95,
+                "suspended": false,
+                "last_price": 17.94,
+                "deprecated_market_cap": 169667000,
+                "day_low_price": 17.72,
+                "open_price": 17.72,
+                "year_high_date": "2017-11-23T00:00:00+1100",
+                "previous_day_percentage_change": "-1.281%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 19.06,
+                "bid_price": 17.7,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 17.98,
+                "year_change_in_percentage": "280.922%",
+                "average_daily_volume": 8842,
+                "year_low_price": 13.93,
+                "annual_dividend_yield": 2.23
+            },
+            "primary_share_code": "CZZ",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.capilano.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Trevor Morgan",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phillip McHugh",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Vice Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McHugh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Benjamin McKee",
+                    "first_name": "Benjamin",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Newey",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Newey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brian Francis O'Donnell",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Donnell",
+                    "middle_name": "Francis"
+                },
+                {
+                    "full_name": "Mrs Julie Anne Pascoe",
+                    "first_name": "Julie",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Pascoe",
+                    "middle_name": "Anne"
+                },
+                {
+                    "full_name": "Mr Simon Tregoning",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tregoning",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Annette Zbasnik",
+                    "first_name": "Annette",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Zbasnik",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FTZ",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FERTOZ LIMITED",
+    "ASXcode": "FTZ",
+    "data": {
+        "summary": {
+            "name_short": "FERTOZ",
+            "name_full": "FERTOZ LIMITED",
+            "code": "FTZ",
+            "primary_share_code": "FTZ",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "FERTOZ LTD",
+            "foreign_exempt": false,
+            "listing_date": "2013-09-02T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3396 0024",
+            "mailing_address": "40 Balgowlah Street, WAKERLEY, QLD, AUSTRALIA, 4154",
+            "principal_activities": "Phosphate exploration.",
+            "fax_number": "(07) 3396 0024",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 835000,
+                "status": [],
+                "market_cap": 8037160,
+                "code": "FTZ",
+                "indices": [],
+                "year_open_price": 0.415,
+                "previous_close_price": 0.085,
+                "year_change_price": -0.339,
+                "year_low_date": "2017-10-25T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 94554824,
+                "eps": -0.013,
+                "change_in_percent": "-10.588%",
+                "change_price": -0.009,
+                "deprecated_number_of_shares": 94554824,
+                "pe": 0,
+                "offer_price": 0.08,
+                "suspended": false,
+                "last_price": 0.076,
+                "deprecated_market_cap": 7186000,
+                "day_low_price": 0.076,
+                "open_price": 0.083,
+                "year_high_date": "2017-01-23T00:00:00+1100",
+                "previous_day_percentage_change": "-5.556%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.12,
+                "bid_price": 0.075,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.085,
+                "year_change_in_percentage": "-81.687%",
+                "average_daily_volume": 758328,
+                "year_low_price": 0.046,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.fertoz.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James ALEXANDER Chisholm",
+                    "first_name": "James",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chisholm",
+                    "middle_name": "ALEXANDER"
+                },
+                {
+                    "full_name": "Mr Patrick Avery",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Avery",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adrian Paul Byass",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Byass",
+                    "middle_name": "Paul"
+                },
+                {
+                    "full_name": "Mr Julien Francis McInally",
+                    "first_name": "Julien",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McInally",
+                    "middle_name": "Francis"
+                }
+            ],
+            "secretaries": []
+        }
+    }
+}

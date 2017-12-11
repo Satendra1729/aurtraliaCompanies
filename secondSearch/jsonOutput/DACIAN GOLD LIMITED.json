@@ -1,0 +1,172 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DCN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "DACIAN GOLD LIMITED",
+    "ASXcode": "DCN",
+    "data": {
+        "summary": {
+            "name_short": "DACIANGOLD",
+            "name_full": "DACIAN GOLD LIMITED",
+            "code": "DCN",
+            "primary_share_code": "DCN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "DACIAN GOLD LTD",
+            "foreign_exempt": false,
+            "listing_date": "2012-11-14T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9226 4622",
+            "mailing_address": "Level 2, 1 Preston Street, COMO, WA, AUSTRALIA, 6152",
+            "principal_activities": "Gold exploration.",
+            "fax_number": "(08) 9226 4722",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-14T13:16:41+1000",
+                    "number_of_pages": 80,
+                    "id": "01896082",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-14T13:19:24+1000",
+                    "size": "12.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170914/pdf/43mbdt8c8690hg.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 375039,
+                "status": [],
+                "market_cap": 512553587,
+                "code": "DCN",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    }
+                ],
+                "year_open_price": 0.315,
+                "previous_close_price": 2.49,
+                "year_change_price": 2.195,
+                "year_low_date": "2017-05-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 205844814,
+                "eps": -0.119,
+                "change_in_percent": "0.803%",
+                "change_price": 0.02,
+                "deprecated_number_of_shares": 205844814,
+                "pe": 0,
+                "offer_price": 2.59,
+                "suspended": false,
+                "last_price": 2.51,
+                "deprecated_market_cap": 516670000,
+                "day_low_price": 2.465,
+                "open_price": 2.48,
+                "year_high_date": "2017-11-28T00:00:00+1100",
+                "previous_day_percentage_change": "-1.969%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.69,
+                "bid_price": 2.5,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.57,
+                "year_change_in_percentage": "696.825%",
+                "average_daily_volume": 441740,
+                "year_low_price": 1.5,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.daciangold.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Rohan Williams",
+                    "first_name": "Rohan",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Cochrane",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cochrane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Barry Patterson",
+                    "first_name": "Barry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Patterson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Reynolds",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reynolds",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kevin Hart",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hart",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

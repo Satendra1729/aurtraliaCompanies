@@ -1,0 +1,166 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IDT",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "IDT AUSTRALIA LIMITED",
+    "ASXcode": "IDT",
+    "data": {
+        "summary": {
+            "name_short": "IDT AUST",
+            "name_full": "IDT AUSTRALIA LIMITED",
+            "code": "IDT",
+            "primary_share_code": "IDT",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "IDT AUSTRALIA LTD",
+            "foreign_exempt": false,
+            "listing_date": "1991-02-18T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9801 8888",
+            "mailing_address": "45 Wadhurst Drive, BORONIA, VIC, AUSTRALIA, 3155",
+            "principal_activities": "Supply of products and provision of research and development and other technical services for the pharmaceutical and allied industries.",
+            "fax_number": "(03) 9801 8773",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-23T09:37:00+1000",
+                    "number_of_pages": 40,
+                    "id": "01886815",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-23T09:39:43+1000",
+                    "size": "763.8KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lmzlmvp2zgb0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 19504330,
+                "code": "IDT",
+                "indices": [],
+                "year_open_price": 0.33,
+                "previous_close_price": 0.078,
+                "year_change_price": -0.252,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 250055510,
+                "eps": -0.0031,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 250055510,
+                "pe": 0,
+                "offer_price": 0.084,
+                "suspended": false,
+                "last_price": 0.078,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-23T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.2,
+                "bid_price": 0.078,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-76.364%",
+                "average_daily_volume": 285940,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.idtaus.com.au/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alan David Fisher",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fisher",
+                    "middle_name": "David"
+                },
+                {
+                    "full_name": "Mr Graeme Kaufman",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kaufman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Mary Sontrop",
+                    "first_name": "Mary",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Sontrop",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hugh Burrill",
+                    "first_name": "Hugh",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burrill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Reo Shigeno",
+                    "first_name": "Reo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shigeno",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Joanna Elizabeth Johnson",
+                    "first_name": "Joanna",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Johnson",
+                    "middle_name": "Elizabeth"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Dr David Sparling",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Sparling",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Joanna Elizabeth Johnson",
+                    "first_name": "Joanna",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Johnson",
+                    "middle_name": "Elizabeth"
+                }
+            ]
+        }
+    }
+}

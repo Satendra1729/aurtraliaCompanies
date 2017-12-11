@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IAU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "INTREPID MINES LIMITED",
+    "ASXcode": "IAU",
+    "data": {
+        "summary": {
+            "name_short": "INTREPID",
+            "name_full": "INTREPID MINES LIMITED",
+            "code": "IAU",
+            "primary_share_code": "IAU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "INTREPID MINES",
+            "foreign_exempt": false,
+            "listing_date": "1993-11-04T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@intrepidmines.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9357 9000",
+            "mailing_address": "Suite 2, 24 Bolton Street, NEWCASTLE, NSW, AUSTRALIA, 2300",
+            "principal_activities": "Mining and exploration",
+            "fax_number": "+61 2 49253811",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 31 December 2016",
+                    "document_date": "2017-03-29T16:04:55+1100",
+                    "number_of_pages": 60,
+                    "id": "01843066",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-29T16:07:55+1100",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170329/pdf/43h46x4ph87fc5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1360,
+                "status": [],
+                "market_cap": 19457357,
+                "code": "IAU",
+                "indices": [],
+                "year_open_price": 0.25,
+                "previous_close_price": 1.14,
+                "year_change_price": 0.89,
+                "year_low_date": "2017-05-24T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 17067857,
+                "eps": -1.1638,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 17067857,
+                "pe": 0,
+                "offer_price": 1.15,
+                "suspended": false,
+                "last_price": 1.14,
+                "deprecated_market_cap": 19457000,
+                "day_low_price": 1.13,
+                "open_price": 1.15,
+                "year_high_date": "2016-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.255,
+                "bid_price": 1.13,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.15,
+                "year_change_in_percentage": "356%",
+                "average_daily_volume": 21132,
+                "year_low_price": 0.91,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.intrepidmines.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tony De Santis",
+                    "first_name": "Tony",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "De Santis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Baumfield",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baumfield",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Evans",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter James Mitchell Love",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Love",
+                    "middle_name": "James Mitchell"
+                },
+                {
+                    "full_name": "Mr Tony Gregory Wolfe",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wolfe",
+                    "middle_name": "Gregory"
+                },
+                {
+                    "full_name": "Mr Mark Davison",
+                    "first_name": "Mark",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davison",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Crawford",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crawford",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

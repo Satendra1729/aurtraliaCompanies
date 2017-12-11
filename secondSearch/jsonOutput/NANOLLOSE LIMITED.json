@@ -1,0 +1,142 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NC6",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "NANOLLOSE LIMITED",
+    "ASXcode": "NC6",
+    "data": {
+        "summary": {
+            "name_short": "NANOLLOSE",
+            "name_full": "NANOLLOSE LIMITED",
+            "code": "NC6",
+            "primary_share_code": "NC6",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "NANOLLOSE LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2017-10-18T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9389 3120",
+            "mailing_address": "Suite 5, CPC, 145 Stirling Highway, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Research and Development of products and Processes Relating to\nMicrobial Cellulose.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T20:13:48+1100",
+                    "number_of_pages": 45,
+                    "id": "01916422",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T20:16:35+1100",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nv9sjlvbkqwn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 310845,
+                "status": [],
+                "market_cap": 14624999,
+                "code": "NC6",
+                "indices": [],
+                "deprecated_number_of_shares": 34999993,
+                "previous_close_price": 0.195,
+                "year_low_date": "2017-12-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 74999993,
+                "eps": 0,
+                "change_in_percent": "-7.692%",
+                "change_price": -0.015,
+                "pe": 0,
+                "offer_price": 0.19,
+                "suspended": false,
+                "last_price": 0.18,
+                "deprecated_market_cap": 6300000,
+                "day_low_price": 0.18,
+                "open_price": 0.195,
+                "year_high_date": "2017-10-20T00:00:00+1100",
+                "previous_day_percentage_change": "2.632%",
+                "year_open_date": null,
+                "year_high_price": 0.38,
+                "bid_price": 0.175,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.195,
+                "average_daily_volume": 429042,
+                "year_low_price": 0.175,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.nanollose.com",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Wayne Best",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Best",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alfie Germano",
+                    "first_name": "Alfie",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Germano",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Cass",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cass",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terry Walsh",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walsh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Winton Willesee",
+                    "first_name": "Winton",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Willesee",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Miss Erlyn Dale",
+                    "first_name": "Erlyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Miss",
+                    "last_name": "Dale",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

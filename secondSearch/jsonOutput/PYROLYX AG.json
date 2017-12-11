@@ -1,0 +1,103 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PLX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PYROLYX AG",
+    "ASXcode": "PLX",
+    "data": {
+        "summary": {
+            "name_short": "PYROLYX",
+            "name_full": "PYROLYX AG",
+            "code": "PLX",
+            "primary_share_code": "PLX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "PYROLYX AG",
+            "foreign_exempt": false,
+            "listing_date": "2017-08-16T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@pyrolyx.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+49 89 856 335 50",
+            "mailing_address": "Nymphenburger Str. 70, Munich, Germany, MUNICH, DE, GERMANY, 80335",
+            "principal_activities": "German company that has developed a specialised process that transforms waste tyres into high  grade, valuable raw materials, primarily recovered Carbon Black, as well as pyrolysis oil and steel recovered from the Pyrolyx process.",
+            "fax_number": "+49 89 856 335 55",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 136,
+                "status": [],
+                "market_cap": 81262613,
+                "code": "PLX",
+                "indices": [],
+                "deprecated_number_of_shares": 70550490,
+                "previous_close_price": 1.13,
+                "year_low_date": "2017-11-03T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 71913817,
+                "eps": 0,
+                "change_in_percent": "1.77%",
+                "change_price": 0.02,
+                "pe": 0,
+                "offer_price": 1.445,
+                "suspended": false,
+                "last_price": 1.15,
+                "deprecated_market_cap": 81133000,
+                "day_low_price": 1.15,
+                "open_price": 1.15,
+                "year_high_date": "2017-08-16T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.5,
+                "bid_price": 0.91,
+                "desc_full": "Chess Depositary Interests 15:1",
+                "day_high_price": 1.15,
+                "average_daily_volume": 9913,
+                "year_low_price": 1.1,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.pyrolyx.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Fikret Duelger",
+                    "first_name": "Fikret",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Duelger",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Niels Raeder",
+                    "first_name": "Niels",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Raeder",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Hommert",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hommert",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": []
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BIG",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "BIG UN LIMITED",
+    "ASXcode": "BIG",
+    "data": {
+        "summary": {
+            "name_short": "BIG UN",
+            "name_full": "BIG UN LIMITED",
+            "code": "BIG",
+            "primary_share_code": "BIG",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "BIG UN LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-01-16T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9264 1111",
+            "mailing_address": "Level 20, 1 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Online Video Review Platform",
+            "fax_number": "(02) 9264 1344",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report and Financial Statements",
+                    "document_date": "2017-09-29T15:56:25+1000",
+                    "number_of_pages": 92,
+                    "id": "01902437",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T15:57:50+1000",
+                    "size": "4.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt3kvsp1vtyn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 693643,
+                "status": [],
+                "market_cap": 555290717,
+                "code": "BIG",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.011,
+                "previous_close_price": 3.78,
+                "year_change_price": 3.539,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 146902306,
+                "eps": -0.0323,
+                "change_in_percent": "-6.085%",
+                "change_price": -0.23,
+                "deprecated_number_of_shares": 146902306,
+                "pe": 0,
+                "offer_price": 3.65,
+                "suspended": false,
+                "last_price": 3.55,
+                "deprecated_market_cap": 521503000,
+                "day_low_price": 3.53,
+                "open_price": 3.78,
+                "year_high_date": "2017-11-20T00:00:00+1100",
+                "previous_day_percentage_change": "2.439%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 4.98,
+                "bid_price": 3.55,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.89,
+                "year_change_in_percentage": "32,172.727%",
+                "average_daily_volume": 845912,
+                "year_low_price": 0.17,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.bigunlimited.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Hugh Massie",
+                    "first_name": "Hugh",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Massie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brandon Evertz",
+                    "first_name": "Brandon",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evertz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sonia Thurston",
+                    "first_name": "Sonia",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Thurston",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Elissa Kate Lippiatt",
+                    "first_name": "Elissa",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Lippiatt",
+                    "middle_name": "Kate"
+                },
+                {
+                    "full_name": "Mr David Conley",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Conley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

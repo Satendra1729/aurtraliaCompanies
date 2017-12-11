@@ -1,0 +1,177 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ICQ",
+    "GICSindustrygroup": "Media",
+    "Companyname": "ICAR ASIA LIMITED",
+    "ASXcode": "ICQ",
+    "data": {
+        "summary": {
+            "name_short": "ICAR ASIA",
+            "name_full": "ICAR ASIA LIMITED",
+            "code": "ICQ",
+            "primary_share_code": "ICQ",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "ICAR ASIA LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ICQ?image_size=L&v=1453866856000",
+            "foreign_exempt": false,
+            "listing_date": "2012-09-11T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+603 2776 6000",
+            "mailing_address": "C/O Mertons Corporate Services, Level 7, 330 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Owner and distributor of motor vehicle classifieds and content websites across Asia.",
+            "fax_number": "+603 2776 6020",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-26T16:06:17+1000",
+                    "number_of_pages": 81,
+                    "id": "01850571",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-26T16:08:08+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170426/pdf/43hrbn0nx8v65t.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 87664,
+                "status": [],
+                "market_cap": 61222201,
+                "code": "ICQ",
+                "indices": [],
+                "year_open_price": 1.07,
+                "previous_close_price": 0.19,
+                "year_change_price": -0.86,
+                "year_low_date": "2017-11-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 322222109,
+                "eps": -0.0524,
+                "change_in_percent": "10.526%",
+                "change_price": 0.02,
+                "deprecated_number_of_shares": 322222109,
+                "pe": 0,
+                "offer_price": 0.21,
+                "suspended": false,
+                "last_price": 0.21,
+                "deprecated_market_cap": 67667000,
+                "day_low_price": 0.2,
+                "open_price": 0.2,
+                "year_high_date": "2017-03-13T00:00:00+1100",
+                "previous_day_percentage_change": "-5%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.328,
+                "bid_price": 0.205,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.21,
+                "year_change_in_percentage": "-80.374%",
+                "average_daily_volume": 186490,
+                "year_low_price": 0.17,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://icarasia.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Georg Johann Chmiel",
+                    "first_name": "Georg",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chmiel",
+                    "middle_name": "Johann"
+                },
+                {
+                    "full_name": "Mr Hamish Stone",
+                    "first_name": "Hamish",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Everingham",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Everingham",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Y-Kin Grove",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grove",
+                    "middle_name": "Y-Kin"
+                },
+                {
+                    "full_name": "Mr Syed Khalil Bin Syed Ibrahim",
+                    "first_name": "Syed Khalil Bin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ibrahim",
+                    "middle_name": "Syed"
+                },
+                {
+                    "full_name": "Mr Richard Kuo",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kuo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Olsen",
+                    "first_name": "James",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Olsen",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Belinda Ann Cleminson",
+                    "first_name": "Belinda",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Cleminson",
+                    "middle_name": "Ann"
+                },
+                {
+                    "full_name": "Mr Mark Licciardo",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Licciardo",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

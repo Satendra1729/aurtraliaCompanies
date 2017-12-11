@@ -1,0 +1,160 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BOL",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "BOOM LOGISTICS LIMITED",
+    "ASXcode": "BOL",
+    "data": {
+        "summary": {
+            "name_full": "BOOM LOGISTICS LIMITED",
+            "code": "BOL",
+            "name_short": "BOOM",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "BOOM LOGISTICS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BOL?image_size=L&v=1435210854000",
+            "foreign_exempt": false,
+            "listing_date": "2003-10-14T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "info@boomlogistics.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9207 2500",
+            "mailing_address": "Suite B  Level 1, 55 Southbank Boulevard, SOUTHBANK, VIC, AUSTRALIA, 3006",
+            "principal_activities": "Provision of mobile crane and access equipment hire.",
+            "fax_number": "(03) 9207 2400",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-28T10:13:24+1000",
+                    "number_of_pages": 98,
+                    "id": "01901063",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T10:15:31+1000",
+                    "size": "6.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqbl8khvgk2c.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2989104,
+                "status": [],
+                "market_cap": 118717191,
+                "code": "BOL",
+                "indices": [],
+                "year_open_price": 0.17,
+                "previous_close_price": 0.25,
+                "year_change_price": 0.085,
+                "year_low_date": "2017-06-20T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 474868764,
+                "eps": -0.048,
+                "change_in_percent": "2%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 474868764,
+                "pe": 0,
+                "offer_price": 0.255,
+                "suspended": false,
+                "last_price": 0.255,
+                "deprecated_market_cap": 121092000,
+                "day_low_price": 0.245,
+                "open_price": 0.25,
+                "year_high_date": "2017-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "-1.961%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.26,
+                "bid_price": 0.24,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.255,
+                "year_change_in_percentage": "50%",
+                "average_daily_volume": 1729866,
+                "year_low_price": 0.086,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "BOL",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.boomlogistics.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.boomlogistics.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Maxwell John Findlay",
+                    "first_name": "Maxwell",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Findlay",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Brenden Mitchell",
+                    "first_name": "Brenden",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitchell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jean-Pierre Buijtels",
+                    "first_name": "Jean-Pierre",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Buijtels",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terry Francis",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Francis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terence Hebiton",
+                    "first_name": "Terence",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hebiton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tim Rogers",
+                    "first_name": "Tim",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rogers",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Malcolm Peter Ross",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ross",
+                    "middle_name": "Peter"
+                }
+            ]
+        }
+    }
+}

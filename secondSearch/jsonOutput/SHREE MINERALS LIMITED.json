@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SHH",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "SHREE MINERALS LIMITED",
+    "ASXcode": "SHH",
+    "data": {
+        "summary": {
+            "name_short": "SHREE MIN",
+            "name_full": "SHREE MINERALS LIMITED",
+            "code": "SHH",
+            "primary_share_code": "SHH",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "SHREE MINERALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2010-02-18T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 61507565",
+            "mailing_address": "Unit 38, 18 Stirling Hwy, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Mining & production of Iron Ore & Dense Media Magnetite.",
+            "fax_number": "(08) 93891199",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-20T17:58:03+1000",
+                    "number_of_pages": 58,
+                    "id": "01898167",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-20T18:03:55+1000",
+                    "size": "8.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170920/pdf/43mhgz0s38zmws.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 3981158,
+                "code": "SHH",
+                "indices": [],
+                "year_open_price": 0.16286,
+                "previous_close_price": 0.014,
+                "year_change_price": -0.14886,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 284368446,
+                "eps": -0.004,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 284368446,
+                "pe": 0,
+                "offer_price": 0.015,
+                "suspended": false,
+                "last_price": 0.014,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.026,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-91.404%",
+                "average_daily_volume": 126703,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.shreeminerals.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Rajesh Bothra",
+                    "first_name": "Rajesh",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bothra",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sanjay Loyalka",
+                    "first_name": "Sanjay",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Loyalka",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andy Lau",
+                    "first_name": "Andy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lau",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Amrital Shah",
+                    "first_name": "Amrital",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shah",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Sanjay Loyalka",
+                    "first_name": "Sanjay",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Loyalka",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

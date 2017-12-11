@@ -1,0 +1,156 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KAS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KASBAH RESOURCES LIMITED",
+    "ASXcode": "KAS",
+    "data": {
+        "summary": {
+            "name_short": "KASBAH RES",
+            "name_full": "KASBAH RESOURCES LIMITED",
+            "code": "KAS",
+            "primary_share_code": "KAS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KASBAH RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2007-04-27T00:00:00+1000",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9463 6651",
+            "mailing_address": "11 Moreau Mews, Applecross WA 6153, (PO BOX 966, APPLECROSS WA 6153), APPLECROSS, WA, AUSTRALIA, 6153",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "(08) 9463 6652",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-23T09:42:35+1100",
+                    "number_of_pages": 73,
+                    "id": "01910909",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T09:45:22+1100",
+                    "size": "7.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43nggbt1r7d52t.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1000000,
+                "status": [],
+                "market_cap": 16710593,
+                "code": "KAS",
+                "indices": [],
+                "year_open_price": 0.13,
+                "previous_close_price": 0.016,
+                "year_change_price": -0.114,
+                "year_low_date": "2017-10-27T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1044412042,
+                "eps": -0.0079,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1044412042,
+                "pe": 0,
+                "offer_price": 0.016,
+                "suspended": false,
+                "last_price": 0.016,
+                "deprecated_market_cap": 16711000,
+                "day_low_price": 0.016,
+                "open_price": 0.016,
+                "year_high_date": "2016-12-19T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.028,
+                "bid_price": 0.015,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.016,
+                "year_change_in_percentage": "-87.692%",
+                "average_daily_volume": 686055,
+                "year_low_price": 0.011,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.kasbahresources.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Edwin Gooding",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gooding",
+                    "middle_name": "Edwin"
+                },
+                {
+                    "full_name": "Mr Richard Maynard Hedstrom",
+                    "first_name": "Richard",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hedstrom",
+                    "middle_name": "Maynard"
+                },
+                {
+                    "full_name": "Mr Graham Robert Freestone",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Freestone",
+                    "middle_name": "Robert"
+                },
+                {
+                    "full_name": "Mr Stephen Malcom Gill",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gill",
+                    "middle_name": "Malcom"
+                },
+                {
+                    "full_name": "Mr Hedley James Widdup",
+                    "first_name": "Hedley",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Widdup",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Trevor O'Connor",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Connor",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Trevor O'Connor",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Connor",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

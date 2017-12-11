@@ -1,0 +1,162 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RND",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RAND MINING LIMITED",
+    "ASXcode": "RND",
+    "data": {
+        "summary": {
+            "name_short": "RAND MIN",
+            "name_full": "RAND MINING LIMITED",
+            "code": "RND",
+            "primary_share_code": "RND",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RAND MINING LTD",
+            "foreign_exempt": false,
+            "listing_date": "1985-08-15T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "last_dividend": {
+                "comments": "10C FRANKED @30%; SP ECIAL",
+                "franked_percentage": "100%",
+                "created_date": "2017-06-09T00:00:00+1000",
+                "record_date": "2017-07-07T00:00:00+1000",
+                "payable_date": "2017-07-31T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.1,
+                "ex_date": "2017-07-06T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9474 2113",
+            "mailing_address": "Suite G1, 49 Melville Parade, SOUTH PERTH, WA, AUSTRALIA, 6151",
+            "principal_activities": "Mineral exploration and the development of gold interests in Kalgoorlie.",
+            "fax_number": "(08) 9367 9386",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-26T00:18:31+1000",
+                    "number_of_pages": 67,
+                    "id": "01899740",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T08:23:50+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mmh9p5m382mx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 174430578,
+                "code": "RND",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    }
+                ],
+                "year_open_price": 0.49,
+                "previous_close_price": 2.9,
+                "year_change_price": 2.41,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 60148475,
+                "eps": 0.2747,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 60148475,
+                "pe": 10.56,
+                "offer_price": 3.1,
+                "suspended": false,
+                "last_price": 2.9,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-09-06T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 3.2,
+                "bid_price": 2.61,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "491.837%",
+                "average_daily_volume": 3922,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.randmining.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Otakar Demis",
+                    "first_name": "Otakar",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Demis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anton Billis",
+                    "first_name": "Anton",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Billis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gordon Sklenka",
+                    "first_name": "Gordon",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sklenka",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Roland Berzins",
+                    "first_name": "Roland",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Berzins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Otakar Demis",
+                    "first_name": "Otakar",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Demis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

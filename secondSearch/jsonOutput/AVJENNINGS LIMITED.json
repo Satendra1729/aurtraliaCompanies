@@ -1,0 +1,227 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AVJ",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "AVJENNINGS LIMITED",
+    "ASXcode": "AVJ",
+    "data": {
+        "summary": {
+            "name_short": "AVJ",
+            "name_full": "AVJENNINGS LIMITED",
+            "code": "AVJ",
+            "primary_share_code": "AVJ",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "AVJENNINGS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1994-01-27T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "3.5C FRANKED@30%; DR P SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-18T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-09-19T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.035,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8888 4800",
+            "mailing_address": "Level 4, 108 Power Street, HAWTHORN, VIC, AUSTRALIA, 3122",
+            "principal_activities": "Residential property and land developer, integrated housing and apartment builder.",
+            "fax_number": "03 9819 0626",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-20T09:16:01+1100",
+                    "number_of_pages": 84,
+                    "id": "01910197",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T09:18:04+1100",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43ndjw3w832rtr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 129316,
+                "status": [],
+                "market_cap": 280629411,
+                "code": "AVJ",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.645,
+                "previous_close_price": 0.73,
+                "year_change_price": 0.085,
+                "year_low_date": "2017-02-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 384423851,
+                "eps": 0.0931,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 384423851,
+                "pe": 7.84,
+                "offer_price": 0.735,
+                "suspended": false,
+                "last_price": 0.73,
+                "deprecated_market_cap": 280629000,
+                "day_low_price": 0.725,
+                "open_price": 0.735,
+                "year_high_date": "2017-08-28T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.825,
+                "bid_price": 0.73,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.737,
+                "year_change_in_percentage": "13.178%",
+                "average_daily_volume": 227189,
+                "year_low_price": 0.575,
+                "annual_dividend_yield": 6.85
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.avjennings.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Simon Cheong",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cheong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jerome Rowley",
+                    "first_name": "Jerome",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Summers",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Summers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bobby Chin",
+                    "first_name": "Bobby",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Hayman",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hayman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Teck Poh Lai",
+                    "first_name": "Teck",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lai",
+                    "middle_name": "Poh"
+                },
+                {
+                    "full_name": "Ms Elizabeth Sam",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Sam",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Tsang",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tsang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Larry Mahaffy",
+                    "first_name": "Larry",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mahaffy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Carl Thompson",
+                    "first_name": "Carl",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thompson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Carl Thompson",
+                    "first_name": "Carl",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thompson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Chrishanthi Halliday",
+                    "first_name": "Chrishanthi",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Halliday",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

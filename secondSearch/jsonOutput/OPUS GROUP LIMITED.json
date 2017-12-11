@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OPG",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "OPUS GROUP LIMITED",
+    "ASXcode": "OPG",
+    "data": {
+        "summary": {
+            "name_short": "OPUS GRP",
+            "name_full": "OPUS GROUP LIMITED",
+            "last_dividend": {
+                "comments": "1C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-09-15T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.01,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "code": "OPG",
+            "primary_share_code": "OPG",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "OPUS GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2012-04-10T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@opusgroup.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9533 2555",
+            "mailing_address": "138 Bonds Road, RIVERWOOD, NSW, AUSTRALIA, 2210",
+            "principal_activities": "Asia-Pacific business services and communications solutions company, distributing published content to customers across multiple specialist divisions.",
+            "fax_number": "(02) 9533 3719",
+            "latest_annual_reports": [
+                {
+                    "header": "Notice of AGM/Proxy Form/Annual Report",
+                    "document_date": "2017-04-12T18:13:54+1000",
+                    "number_of_pages": 97,
+                    "id": "01847707",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-12T18:17:16+1000",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170412/pdf/43hhdx5wjpncjc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 102500,
+                "status": [],
+                "market_cap": 50867656,
+                "code": "OPG",
+                "indices": [],
+                "year_open_price": 0.35,
+                "previous_close_price": 0.48,
+                "year_change_price": 0.13,
+                "year_low_date": "2017-11-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 105974283,
+                "eps": 0.1108,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 105974283,
+                "pe": 4.33,
+                "offer_price": 0.51,
+                "suspended": false,
+                "last_price": 0.48,
+                "deprecated_market_cap": 50868000,
+                "day_low_price": 0.48,
+                "open_price": 0.48,
+                "year_high_date": "2017-08-04T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.54,
+                "bid_price": 0.48,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.48,
+                "year_change_in_percentage": "37.143%",
+                "average_daily_volume": 77936,
+                "year_low_price": 0.45,
+                "annual_dividend_yield": 4.17
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.opusgroup.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Celarc",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Celarc",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Mei Lan Lam",
+                    "first_name": "Mei Lan",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lam",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chuk Kin Lau",
+                    "first_name": "Chuk Kin",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lau",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Young",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Young",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Virginia Lee",
+                    "first_name": "Virginia",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Laura Lou",
+                    "first_name": "Laura",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lou",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

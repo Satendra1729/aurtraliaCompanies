@@ -1,0 +1,90 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GCM",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "GARDA CAPITAL GROUP",
+    "ASXcode": "GCM",
+    "data": {
+        "summary": {
+            "name_short": "GARDA CAP",
+            "name_full": "GARDA CAPITAL GROUP",
+            "code": "GCM",
+            "primary_share_code": "GCM",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "GARDA CAPITAL GRP",
+            "foreign_exempt": false,
+            "listing_date": "2016-07-14T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "",
+                "franked_percentage": "0%",
+                "created_date": "2017-09-22T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-30T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.00936,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 3002 5300",
+            "mailing_address": "Level 21, 12 Creek Street, BRISBANE, BRI, AUSTRALIA, 4000",
+            "principal_activities": "",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 16700,
+                "status": [],
+                "market_cap": 22202400,
+                "code": "GCM",
+                "indices": [],
+                "deprecated_number_of_shares": 25230000,
+                "previous_close_price": 0.88,
+                "year_low_date": "2017-06-22T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 25230000,
+                "eps": 0.106,
+                "change_in_percent": "2.273%",
+                "change_price": 0.02,
+                "pe": 8.49,
+                "offer_price": 0.95,
+                "suspended": false,
+                "last_price": 0.9,
+                "deprecated_market_cap": 22707000,
+                "day_low_price": 0.88,
+                "open_price": 0.88,
+                "year_high_date": "2017-11-17T00:00:00+1100",
+                "previous_day_percentage_change": "-2.222%",
+                "year_open_date": null,
+                "year_high_price": 1,
+                "bid_price": 0.87,
+                "desc_full": "Stapled Securities",
+                "day_high_price": 0.9,
+                "average_daily_volume": 45239,
+                "year_low_price": 0.82,
+                "annual_dividend_yield": 4.3
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.gardacapital.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Lachlan X Davidson",
+                    "first_name": "Lachlan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davidson",
+                    "middle_name": "X"
+                }
+            ]
+        }
+    }
+}

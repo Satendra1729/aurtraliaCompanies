@@ -1,0 +1,166 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HIG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "HIGHLANDS PACIFIC LIMITED",
+    "ASXcode": "HIG",
+    "data": {
+        "summary": {
+            "name_short": "HIGHLANDS",
+            "name_full": "HIGHLANDS PACIFIC LIMITED",
+            "code": "HIG",
+            "primary_share_code": "HIG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "HIGHLANDS PACIFIC",
+            "foreign_exempt": false,
+            "listing_date": "1997-06-12T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(675) 323 5966",
+            "mailing_address": "Level 1  Allotment 6, Section 58, Sir Hubert Murray Highway, AUSTRALIA,",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "(675) 323 5990",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-03-28T11:32:59+1100",
+                    "number_of_pages": 63,
+                    "id": "01842556",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-28T11:37:43+1100",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170328/pdf/43h3201jtlgtx8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 90185,
+                "status": [],
+                "market_cap": 81424678,
+                "code": "HIG",
+                "indices": [],
+                "year_open_price": 0.072,
+                "previous_close_price": 0.087,
+                "year_change_price": 0.016,
+                "year_low_date": "2017-06-06T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 935915836,
+                "eps": 0.0133,
+                "change_in_percent": "1.149%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 935915836,
+                "pe": 6.62,
+                "offer_price": 0.09,
+                "suspended": false,
+                "last_price": 0.088,
+                "deprecated_market_cap": 82361000,
+                "day_low_price": 0.087,
+                "open_price": 0.088,
+                "year_high_date": "2017-11-09T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.12,
+                "bid_price": 0.087,
+                "desc_full": "40 Toea Ordinary Fully Paid",
+                "day_high_price": 0.089,
+                "year_change_in_percentage": "22.222%",
+                "average_daily_volume": 1071983,
+                "year_low_price": 0.055,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.highlandspacific.com/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ken MacDonald",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "MacDonald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Lennon",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lennon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mike Carroll",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carroll",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bart Philemon",
+                    "first_name": "Bart",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Philemon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dan Wood",
+                    "first_name": "Dan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sylvie Moser",
+                    "first_name": "Sylvie",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Moser",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sylvie Moser",
+                    "first_name": "Sylvie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Moser",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Erik Andersen",
+                    "first_name": "Erik",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Andersen",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

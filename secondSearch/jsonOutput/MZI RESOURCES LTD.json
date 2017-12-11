@@ -1,0 +1,190 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MZI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MZI RESOURCES LTD",
+    "ASXcode": "MZI",
+    "data": {
+        "summary": {
+            "name_full": "MZI RESOURCES LTD",
+            "code": "MZI",
+            "name_short": "MZI RES",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MZI RES LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MZI?image_size=L&v=1420705312000",
+            "foreign_exempt": false,
+            "listing_date": "2004-08-26T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@mzi.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9328 9800",
+            "mailing_address": "Level 2, 100 Royal Street, EAST PERTH, WA, AUSTRALIA, 6004",
+            "principal_activities": "Mineral sands production and development.",
+            "fax_number": "(08) 9328 9911",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-11T20:33:35+1100",
+                    "number_of_pages": 90,
+                    "id": "01906978",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-12T08:18:59+1100",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171012/pdf/43n503qgmx64kh.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 340091,
+                "status": [],
+                "market_cap": 31124619,
+                "code": "MZI",
+                "indices": [],
+                "year_open_price": 0.48,
+                "previous_close_price": 0.135,
+                "year_change_price": -0.345,
+                "year_low_date": "2017-10-11T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 230552731,
+                "eps": -0.15,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 230552731,
+                "pe": 0,
+                "offer_price": 0.14,
+                "suspended": false,
+                "last_price": 0.135,
+                "deprecated_market_cap": 31125000,
+                "day_low_price": 0.135,
+                "open_price": 0.135,
+                "year_high_date": "2017-01-13T00:00:00+1100",
+                "previous_day_percentage_change": "-6.897%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.335,
+                "bid_price": 0.13,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.135,
+                "year_change_in_percentage": "-71.875%",
+                "average_daily_volume": 199392,
+                "year_low_price": 0.105,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "MZI",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.mzi.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Rodney Baxter",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baxter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Purvis",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Purvis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ronald Beevor",
+                    "first_name": "Ronald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beevor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nathan Wong",
+                    "first_name": "Nathan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Maree Arnason",
+                    "first_name": "Maree",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Arnason",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Ward",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ward",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Watters",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Watters",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Westdorp",
+                    "first_name": "John",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Westdorp",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme O'Grady",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Grady",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Traicos",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Traicos",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RDF",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "REDFLEX HOLDINGS LIMITED",
+    "ASXcode": "RDF",
+    "data": {
+        "summary": {
+            "name_short": "REDFLEX",
+            "name_full": "REDFLEX HOLDINGS LIMITED",
+            "code": "RDF",
+            "primary_share_code": "RDF",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "REDFLEX HOLDINGS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RDF?image_size=L&v=1479274393000",
+            "foreign_exempt": false,
+            "listing_date": "1997-01-20T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 90933324",
+            "mailing_address": "31 Market Street, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Build-Own-Operate photo enforcement for red-light cameras, fixed and mobile speed enforcement, hardware sales and support, back office violation management systems.",
+            "fax_number": "+61 3 9699 3566",
+            "latest_annual_reports": [
+                {
+                    "header": "FY2017 Preliminary Final Report and FY2017 Annual Report",
+                    "document_date": "2017-08-29T16:21:31+1000",
+                    "number_of_pages": 106,
+                    "id": "01889703",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T16:24:38+1000",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lvjly8lbcbvg.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 154426,
+                "status": [],
+                "market_cap": 70678119,
+                "code": "RDF",
+                "indices": [],
+                "year_open_price": 1.26,
+                "previous_close_price": 0.53,
+                "year_change_price": -0.735,
+                "year_low_date": "2016-12-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 133354941,
+                "eps": -0.2841,
+                "change_in_percent": "-0.943%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 133354941,
+                "pe": 0,
+                "offer_price": 0.525,
+                "suspended": false,
+                "last_price": 0.525,
+                "deprecated_market_cap": 70011000,
+                "day_low_price": 0.515,
+                "open_price": 0.53,
+                "year_high_date": "2017-03-01T00:00:00+1100",
+                "previous_day_percentage_change": "-3.636%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.657,
+                "bid_price": 0.515,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.53,
+                "year_change_in_percentage": "-58.333%",
+                "average_daily_volume": 122209,
+                "year_low_price": 0.328,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.redflex.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Adam Gray",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark J Talbot",
+                    "first_name": "Mark",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Talbot",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Clark Davey",
+                    "first_name": "Clark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert DeVincenzi",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "DeVincenzi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David McIntyre",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McIntyre",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Herman Schwarz",
+                    "first_name": "Herman",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schwarz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terry Winters",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Winters",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Richard Durham",
+                    "first_name": "Craig",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Durham",
+                    "middle_name": "Richard"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Craig Richard Durham",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Durham",
+                    "middle_name": "Richard"
+                }
+            ]
+        }
+    }
+}

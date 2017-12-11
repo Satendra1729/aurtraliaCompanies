@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AIQ",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "ALTERNATIVE INVESTMENT TRUST",
+    "ASXcode": "AIQ",
+    "data": {
+        "summary": {
+            "name_short": "A INV TRST",
+            "name_full": "ALTERNATIVE INVESTMENT TRUST",
+            "code": "AIQ",
+            "primary_share_code": "AIQ",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "ALTERNATIVE INVEST",
+            "foreign_exempt": false,
+            "listing_date": "2005-05-08T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8277 0000",
+            "mailing_address": "Level 11, 20 Hunter Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The Alternative Investment Trust has investments in a portfolio of international absolute return funds. The objective of the investment portfolio is to provide absolute returns over the long term and in all market conditions.",
+            "fax_number": "+61 2 8580 5700",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-02-28T08:57:35+1100",
+                    "number_of_pages": 50,
+                    "id": "01833624",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-28T09:01:06+1100",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170228/pdf/43gdczpmfjchh6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 11631630,
+                "code": "AIQ",
+                "indices": [],
+                "year_open_price": 0.13114,
+                "previous_close_price": 0.089,
+                "year_change_price": -0.04214,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 130692470,
+                "eps": -0.0139,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 130692470,
+                "pe": 0,
+                "offer_price": 0.089,
+                "suspended": false,
+                "last_price": 0.089,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-20T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.094,
+                "bid_price": 0.085,
+                "desc_full": "Ordinary Units Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-32.134%",
+                "average_daily_volume": 202985,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.thealternativeinvestmenttrust.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Elizabeth Reddy",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Reddy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Justin Epstein",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Epstein",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank Tearle",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tearle",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sarah Wiesener",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wiesener",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank Tearle",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tearle",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

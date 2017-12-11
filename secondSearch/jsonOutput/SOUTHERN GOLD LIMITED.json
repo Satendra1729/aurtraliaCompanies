@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SAU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "SOUTHERN GOLD LIMITED",
+    "ASXcode": "SAU",
+    "data": {
+        "summary": {
+            "name_short": "STHN GOLD",
+            "name_full": "SOUTHERN GOLD LIMITED",
+            "code": "SAU",
+            "primary_share_code": "SAU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "SOUTHERN GOLD",
+            "foreign_exempt": false,
+            "listing_date": "2005-04-21T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "last_dividend": {
+                "comments": "UNFR; NIL CFI; 3C SP ECIAL; DRP NIL DISC",
+                "franked_percentage": "0%",
+                "created_date": "2017-06-06T00:00:00+1000",
+                "record_date": "2017-07-04T00:00:00+1000",
+                "payable_date": "2017-08-30T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.03,
+                "ex_date": "2017-07-03T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 8368 8888",
+            "mailing_address": "Level 1, 8 Beulah Road, NORWOOD, SA, AUSTRALIA, 5067",
+            "principal_activities": "Gold, nickel and base metal mineral exploration in Australia and Cambodia",
+            "fax_number": "(08) 8431 5619",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-29T09:41:56+1000",
+                    "number_of_pages": 40,
+                    "id": "01901920",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T09:43:58+1000",
+                    "size": "2.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43ms3hkszb18tc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 137455,
+                "status": [],
+                "market_cap": 12533391,
+                "code": "SAU",
+                "indices": [],
+                "year_open_price": 0.012,
+                "previous_close_price": 0.255,
+                "year_change_price": 0.228,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 49150553,
+                "eps": 0.0551,
+                "change_in_percent": "-5.882%",
+                "change_price": -0.015,
+                "deprecated_number_of_shares": 49150553,
+                "pe": 4.36,
+                "offer_price": 0.26,
+                "suspended": false,
+                "last_price": 0.24,
+                "deprecated_market_cap": 11796000,
+                "day_low_price": 0.24,
+                "open_price": 0.255,
+                "year_high_date": "2017-07-03T00:00:00+1000",
+                "previous_day_percentage_change": "-5.556%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.33,
+                "bid_price": 0.24,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.26,
+                "year_change_in_percentage": "1,900%",
+                "average_daily_volume": 54738,
+                "year_low_price": 0.219,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.southerngold.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Greg Boulton",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boulton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Mitchell",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitchell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mick Billing",
+                    "first_name": "Mick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Billing",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Turvey",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Turvey",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Daniel Hill",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

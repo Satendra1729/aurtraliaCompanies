@@ -1,0 +1,262 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IPL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "INCITEC PIVOT LIMITED",
+    "ASXcode": "IPL",
+    "data": {
+        "summary": {
+            "name_short": "INCITEC PV",
+            "name_full": "INCITEC PIVOT LIMITED",
+            "code": "IPL",
+            "primary_share_code": "IPL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "INCITEC PIVOT",
+            "foreign_exempt": false,
+            "listing_date": "2003-07-28T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "UNFRANKED;100% CFI;D RP SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-11-14T00:00:00+1100",
+                "record_date": "2017-11-24T00:00:00+1100",
+                "payable_date": "2017-12-19T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.049,
+                "ex_date": "2017-11-23T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "03 86954400",
+            "mailing_address": "Level 8, 28 Freshwater Place, SOUTHBANK, VIC, AUSTRALIA, 3006",
+            "principal_activities": "Manufacture and distribution of industrial explosives, industrial chemicals and fertilisers, and the provision of related services.",
+            "fax_number": "03 8695 4417",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-11-24T09:01:07+1100",
+                    "number_of_pages": 105,
+                    "id": "01925556",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-24T09:03:58+1100",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171124/pdf/43pjx9wnjx5f51.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5640589,
+                "status": [
+                    "XD"
+                ],
+                "market_cap": 6478734801,
+                "code": "IPL",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    }
+                ],
+                "year_open_price": 3.08,
+                "previous_close_price": 3.84,
+                "year_change_price": 0.75,
+                "year_low_date": "2017-08-02T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1687170521,
+                "eps": 0.189,
+                "change_in_percent": "-0.26%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 1687170521,
+                "pe": 20.26,
+                "offer_price": 3.84,
+                "suspended": false,
+                "last_price": 3.83,
+                "deprecated_market_cap": 6461863000,
+                "day_low_price": 3.81,
+                "open_price": 3.84,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "-1.79%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 4.08,
+                "bid_price": 3.83,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.86,
+                "year_change_in_percentage": "24.351%",
+                "average_daily_volume": 4806424,
+                "year_low_price": 3.19,
+                "annual_dividend_yield": 2.45
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.incitecpivot.com.au",
+            "fiscal_year_end": "30/09",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Paul Brasher",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brasher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jeanne Johns",
+                    "first_name": "Jeanne",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Johns",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joseph Breunig",
+                    "first_name": "Joseph",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Breunig",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathryn Fagg",
+                    "first_name": "Kathryn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Fagg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gregory John Hayes",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hayes",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Brian Kruger",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kruger",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Rebecca McGrath",
+                    "first_name": "Rebecca",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McGrath",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Joseph Smorgon AM",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smorgon AM",
+                    "middle_name": "Joseph"
+                },
+                {
+                    "full_name": "Mr Frank Micallef",
+                    "first_name": "Frank",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Micallef",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Charles McGill",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGill",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Daniella Pereira",
+                    "first_name": "Daniella",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Pereira",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

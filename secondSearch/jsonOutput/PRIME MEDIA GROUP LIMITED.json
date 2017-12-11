@@ -1,0 +1,178 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PRT",
+    "GICSindustrygroup": "Media",
+    "Companyname": "PRIME MEDIA GROUP LIMITED",
+    "ASXcode": "PRT",
+    "data": {
+        "summary": {
+            "name_short": "PRIME TV",
+            "name_full": "PRIME MEDIA GROUP LIMITED",
+            "last_dividend": {
+                "comments": "1.7C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-08-31T00:00:00+1000",
+                "payable_date": "2017-09-27T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.017,
+                "ex_date": "2017-08-30T00:00:00+1000"
+            },
+            "code": "PRT",
+            "primary_share_code": "PRT",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "PRIME MEDIA GRP LTD",
+            "foreign_exempt": false,
+            "listing_date": "1984-08-30T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "company.secretary@primemedia.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 6242 3700",
+            "mailing_address": "363 Antill Street, WATSON, ACT, AUSTRALIA, 2602",
+            "principal_activities": "Operation of commercial television stations.",
+            "fax_number": "(02) 6242 3889",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-13T09:08:57+1100",
+                    "number_of_pages": 72,
+                    "id": "01907500",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T09:11:25+1100",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n65bkgb0zhgj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2874664,
+                "status": [],
+                "market_cap": 109899091,
+                "code": "PRT",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.95,
+                "previous_close_price": 0.3,
+                "year_change_price": -0.665,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 366330303,
+                "eps": 0.099,
+                "change_in_percent": "-5%",
+                "change_price": -0.015,
+                "deprecated_number_of_shares": 366330303,
+                "pe": 2.88,
+                "offer_price": 0.29,
+                "suspended": false,
+                "last_price": 0.285,
+                "deprecated_market_cap": 104404000,
+                "day_low_price": 0.282,
+                "open_price": 0.297,
+                "year_high_date": "2017-09-14T00:00:00+1000",
+                "previous_day_percentage_change": "1.695%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.5,
+                "bid_price": 0.285,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.297,
+                "year_change_in_percentage": "-70%",
+                "average_daily_volume": 906392,
+                "year_low_price": 0.282,
+                "annual_dividend_yield": 11.93
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.primemedia.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://www.primemedia.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John K Hartigan",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hartigan",
+                    "middle_name": "K"
+                },
+                {
+                    "full_name": "Mr Ian C Audsley",
+                    "first_name": "Ian",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Audsley",
+                    "middle_name": "C"
+                },
+                {
+                    "full_name": "Mr Peter J Macourt",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Macourt",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Ian R Neal",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Neal",
+                    "middle_name": "R"
+                },
+                {
+                    "full_name": "Ms Cass O'Connor",
+                    "first_name": "Cass",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "O'Connor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Palisi",
+                    "first_name": "John",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Palisi",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Emma McDonald",
+                    "first_name": "Emma",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McDonald",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

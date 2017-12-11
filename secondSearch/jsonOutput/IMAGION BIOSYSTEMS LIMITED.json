@@ -1,0 +1,142 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IBX",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "IMAGION BIOSYSTEMS LIMITED",
+    "ASXcode": "IBX",
+    "data": {
+        "summary": {
+            "name_short": "IMAGIONBIO",
+            "name_full": "IMAGION BIOSYSTEMS LIMITED",
+            "code": "IBX",
+            "primary_share_code": "IBX",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "IMAGION BIOSYS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-06-22T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+1 505-243-1058",
+            "mailing_address": "C/- Holding Redlich, Level 8, 555 Bourke Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Research and development of medical diagnostics",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 19386285,
+                "code": "IBX",
+                "indices": [],
+                "deprecated_number_of_shares": 91232785,
+                "previous_close_price": 0.095,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 204066163,
+                "eps": -0.0204,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.094,
+                "suspended": false,
+                "last_price": 0.095,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-06-27T00:00:00+1000",
+                "previous_day_percentage_change": "-4.04%",
+                "year_open_date": null,
+                "year_high_price": 0.2,
+                "bid_price": 0.085,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 86917,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.imagionbiosystems.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Romeo Proulx",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Executive Chairman",
+                        "President"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Proulx",
+                    "middle_name": "Romeo"
+                },
+                {
+                    "full_name": "Mr Peter Di Chiara",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Di Chiara",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael John Harsh",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harsh",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr David Gerald Ludvigson",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ludvigson",
+                    "middle_name": "Gerald"
+                },
+                {
+                    "full_name": "Ms Jovanka Naumoska",
+                    "first_name": "Jovanka",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Naumoska",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Gerald Van Asten",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Van Asten",
+                    "middle_name": "Gerald"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jovanka Naumoska",
+                    "first_name": "Jovanka",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Naumoska",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

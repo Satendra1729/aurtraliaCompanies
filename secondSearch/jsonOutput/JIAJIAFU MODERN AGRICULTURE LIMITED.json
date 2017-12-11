@@ -1,0 +1,91 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/JJF",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "JIAJIAFU MODERN AGRICULTURE LIMITED",
+    "ASXcode": "JJF",
+    "data": {
+        "summary": {
+            "name_short": "JIAJIAFU",
+            "name_full": "JIAJIAFU MODERN AGRICULTURE LIMITED",
+            "code": "JJF",
+            "primary_share_code": "JJF",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "JIAJIAFU MOD AGR LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-03-09T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 8075 4595",
+            "mailing_address": "Level 27, AMP Centre, 50 Bridge Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-30T03:01:39+1000",
+                    "number_of_pages": 64,
+                    "id": "01902942",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:02:00+1100",
+                    "size": "3.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvkrdslb5myk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 10647998,
+                "code": "JJF",
+                "indices": [],
+                "deprecated_number_of_shares": 85183987,
+                "previous_close_price": 0.125,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 85183987,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.145,
+                "suspended": false,
+                "last_price": 0.125,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-15T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.295,
+                "bid_price": 0.125,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 12630,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.jjfma.com",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nicholas Ong",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ong",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

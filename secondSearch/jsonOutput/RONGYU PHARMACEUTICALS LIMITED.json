@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RY8",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "RONGYU PHARMACEUTICALS LIMITED",
+    "ASXcode": "RY8",
+    "data": {
+        "summary": {
+            "name_short": "RY PHARM",
+            "name_full": "RONGYU PHARMACEUTICALS LIMITED",
+            "code": "RY8",
+            "primary_share_code": "RY8",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "RONGYU PHARM LTD",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8399 6136",
+            "mailing_address": "C/- Moray & Agnew Lawyers of Level 6, 505 Little Collins St, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Pharmaceutical manufacturing",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "RY8",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.rongyupharm.com",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Phillip Grundy",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grundy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

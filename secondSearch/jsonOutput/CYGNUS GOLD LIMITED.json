@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CY5",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "CYGNUS GOLD LIMITED",
+    "ASXcode": "CY5",
+    "data": {
+        "summary": {
+            "name_short": "CYGNUSGOLD",
+            "name_full": "CYGNUS GOLD LIMITED",
+            "code": "CY5",
+            "primary_share_code": "CY5",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "CYGNUS GOLD LIMITED",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 8 9489 2680",
+            "mailing_address": "Level 3, 20 Parkland Road, OSBORNE PARK, WA, AUSTRALIA, 6017",
+            "principal_activities": "Mineral exploration",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "CY5",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.cygnusgold.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Michael Naylor",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Naylor",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

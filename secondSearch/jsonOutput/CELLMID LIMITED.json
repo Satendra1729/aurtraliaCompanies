@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CDY",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "CELLMID LIMITED",
+    "ASXcode": "CDY",
+    "data": {
+        "summary": {
+            "name_short": "CELLMID",
+            "name_full": "CELLMID LIMITED",
+            "code": "CDY",
+            "primary_share_code": "CDY",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "CELLMID LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2005-12-09T00:00:00+1100",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9221 6830",
+            "mailing_address": "Suite 1802, Level 18, 15 Castlereagh Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Developer of products to treat various cancers and chronic inflammatory diseases",
+            "fax_number": "(02) 9221 8535",
+            "latest_annual_reports": [
+                {
+                    "header": "Cellmid Annual Report to Shareholders",
+                    "document_date": "2017-10-23T11:03:44+1100",
+                    "number_of_pages": 76,
+                    "id": "01911011",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T11:06:58+1100",
+                    "size": "2.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43ngnj59w1fytd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 8019,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 20300696,
+                "code": "CDY",
+                "indices": [],
+                "year_open_price": 0.034,
+                "previous_close_price": 0.38,
+                "year_change_price": 0.326,
+                "year_low_date": "2017-11-29T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 53422884,
+                "eps": -0.088,
+                "change_in_percent": "-5.263%",
+                "change_price": -0.02,
+                "deprecated_number_of_shares": 53422884,
+                "pe": 0,
+                "offer_price": 0.37,
+                "suspended": false,
+                "last_price": 0.36,
+                "deprecated_market_cap": 19232000,
+                "day_low_price": 0.36,
+                "open_price": 0.38,
+                "year_high_date": "2017-04-03T00:00:00+1000",
+                "previous_day_percentage_change": "-2.564%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.8,
+                "bid_price": 0.36,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.38,
+                "year_change_in_percentage": "958.824%",
+                "average_daily_volume": 854297,
+                "year_low_price": 0.35,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.cellmid.com.au",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr David King",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "King",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Maria Julianna Halasz",
+                    "first_name": "Maria",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Halasz",
+                    "middle_name": "Julianna"
+                },
+                {
+                    "full_name": "Mr Bruce Gordon",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gordon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Fintan Walton",
+                    "first_name": "Fintan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Walton",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Raymond Ting",
+                    "first_name": "Raymond",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ting",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

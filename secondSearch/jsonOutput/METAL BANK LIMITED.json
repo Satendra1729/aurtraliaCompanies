@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MBK",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "METAL BANK LIMITED",
+    "ASXcode": "MBK",
+    "data": {
+        "summary": {
+            "name_short": "METAL BANK",
+            "name_full": "METAL BANK LIMITED",
+            "code": "MBK",
+            "primary_share_code": "MBK",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "METAL BANK LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-03-02T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "info@metalbank.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 8268 8691",
+            "mailing_address": "Suite 2508, Level 25, 31 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Gold and base metal exploration.",
+            "fax_number": "02 8268 8699",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders Corrected",
+                    "document_date": "2017-09-29T08:56:15+1000",
+                    "number_of_pages": 60,
+                    "id": "01901794",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:57:53+1000",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrw3x9wk95vl.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T15:00:00+1000",
+                    "number_of_pages": 59,
+                    "id": "01901264",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T15:02:02+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqr8p8jrzw46.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2663021,
+                "status": [],
+                "market_cap": 15868975,
+                "code": "MBK",
+                "indices": [],
+                "year_open_price": 0.022,
+                "previous_close_price": 0.018,
+                "year_change_price": -0.004,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 881609712,
+                "eps": -0.0008,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 881609712,
+                "pe": 0,
+                "offer_price": 0.018,
+                "suspended": false,
+                "last_price": 0.018,
+                "deprecated_market_cap": 15869000,
+                "day_low_price": 0.018,
+                "open_price": 0.018,
+                "year_high_date": "2016-12-29T00:00:00+1100",
+                "previous_day_percentage_change": "-5.263%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.042,
+                "bid_price": 0.017,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.018,
+                "year_change_in_percentage": "-18.182%",
+                "average_daily_volume": 1327199,
+                "year_low_price": 0.018,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.metalbank.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Ines Scotland",
+                    "first_name": "Ines",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Scotland",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Guy Adrian Robertson",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robertson",
+                    "middle_name": "Adrian"
+                },
+                {
+                    "full_name": "Mr Anthony Schreck",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schreck",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sue-Ann Higgins",
+                    "first_name": "Sue-Ann",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Higgins",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

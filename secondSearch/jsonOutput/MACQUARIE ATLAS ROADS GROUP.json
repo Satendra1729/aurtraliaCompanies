@@ -1,0 +1,290 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MQA",
+    "GICSindustrygroup": "Transportation",
+    "Companyname": "MACQUARIE ATLAS ROADS GROUP",
+    "ASXcode": "MQA",
+    "data": {
+        "summary": {
+            "name_short": "MACQ ATLAS",
+            "name_full": "MACQUARIE ATLAS ROADS GROUP",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-09-14T00:00:00+1000",
+                "record_date": "2017-09-21T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.1,
+                "ex_date": "2017-09-20T00:00:00+1000"
+            },
+            "code": "MQA",
+            "primary_share_code": "MQA",
+            "industry_group_name": "Transportation",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "MACQ ATLAS ROADS GRP",
+            "foreign_exempt": false,
+            "listing_date": "2010-01-25T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "mqa@macquarie.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8232 7455",
+            "mailing_address": "Level 7, 50 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Operator and manager of a portfolio of toll road assets.",
+            "fax_number": "(02) 8232 4713",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-03-02T09:11:57+1100",
+                    "number_of_pages": 93,
+                    "id": "01835134",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-02T09:14:58+1100",
+                    "size": "3.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170302/pdf/43ghj12tqt3c9g.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2268775,
+                "status": [],
+                "market_cap": 4079012361,
+                "code": "MQA",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Inds",
+                        "index_code": "XNJ",
+                        "name_abrev": "Industrials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Industrials (Sector)"
+                    }
+                ],
+                "year_open_price": 2.96,
+                "previous_close_price": 6.09,
+                "year_change_price": 3.15,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 669788565,
+                "eps": 1.1108,
+                "change_in_percent": "0.328%",
+                "change_price": 0.02,
+                "deprecated_number_of_shares": 669788565,
+                "pe": 5.5,
+                "offer_price": 6.18,
+                "suspended": false,
+                "last_price": 6.11,
+                "deprecated_market_cap": 4092408000,
+                "day_low_price": 5.99,
+                "open_price": 6.06,
+                "year_high_date": "2017-11-23T00:00:00+1100",
+                "previous_day_percentage_change": "1.669%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 6.35,
+                "bid_price": 6.01,
+                "desc_full": "Ordinary Stapled Securities",
+                "day_high_price": 6.12,
+                "year_change_in_percentage": "106.419%",
+                "average_daily_volume": 2058732,
+                "year_low_price": 4.397,
+                "annual_dividend_yield": 3.27
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.macquarieatlasroads.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jeffrey Conyers",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Conyers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Nora Scheinkestel",
+                    "first_name": "Nora",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Scheinkestel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Trent",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trent",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Leslie",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leslie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Roberts",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roberts",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard England",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "England",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Debbie Goodin",
+                    "first_name": "Debbie",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Goodin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Keyes",
+                    "first_name": "James",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keyes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Derek Stapley",
+                    "first_name": "Derek",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stapley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Goodrick",
+                    "first_name": "Mark",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goodrick",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Victoria Hunt",
+                    "first_name": "Victoria",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hunt",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Christine Williams",
+                    "first_name": "Christine",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lyndal Coates",
+                    "first_name": "Lyndal",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Coates",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lovaine Parkes",
+                    "first_name": "Lovaine",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Parkes",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

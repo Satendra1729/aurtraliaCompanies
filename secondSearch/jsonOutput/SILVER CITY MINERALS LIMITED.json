@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SCI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "SILVER CITY MINERALS LIMITED",
+    "ASXcode": "SCI",
+    "data": {
+        "summary": {
+            "name_short": "SILVERCITY",
+            "name_full": "SILVER CITY MINERALS LIMITED",
+            "code": "SCI",
+            "primary_share_code": "SCI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "SILVER CITY MINERALS",
+            "foreign_exempt": false,
+            "listing_date": "2011-07-06T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9437 1737",
+            "mailing_address": "Suite 3, Level 1, 80 Chandos Street, ST LEONARDS, NSW, AUSTRALIA, 2065",
+            "principal_activities": "Exploration discovery in the Broken Hill silver, zinc and lead mineral province.",
+            "fax_number": "(02) 9906 5233",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report including Full Year Statutory Accounts",
+                    "document_date": "2017-09-29T12:01:00+1000",
+                    "number_of_pages": 56,
+                    "id": "01902117",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T12:03:59+1000",
+                    "size": "7.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mshbb6jt1w99.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 419900,
+                "status": [],
+                "market_cap": 6084725,
+                "code": "SCI",
+                "indices": [],
+                "year_open_price": 0.082,
+                "previous_close_price": 0.031,
+                "year_change_price": -0.052,
+                "year_low_date": "2017-04-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 196281438,
+                "eps": -0.0106,
+                "change_in_percent": "-3.226%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 196281438,
+                "pe": 0,
+                "offer_price": 0.03,
+                "suspended": false,
+                "last_price": 0.03,
+                "deprecated_market_cap": 5888000,
+                "day_low_price": 0.03,
+                "open_price": 0.03,
+                "year_high_date": "2017-10-17T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.067,
+                "bid_price": 0.029,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.03,
+                "year_change_in_percentage": "-63.415%",
+                "average_daily_volume": 2117218,
+                "year_low_price": 0.015,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.silvercityminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Besley",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Besley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Edward Torrey",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Torrey",
+                    "middle_name": "Edward"
+                },
+                {
+                    "full_name": "Mr Gregory Jones",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ivo John Polovineo",
+                    "first_name": "Ivo",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Polovineo",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

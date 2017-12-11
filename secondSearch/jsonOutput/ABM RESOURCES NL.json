@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ABU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ABM RESOURCES NL",
+    "ASXcode": "ABU",
+    "data": {
+        "summary": {
+            "name_short": "ABM RES",
+            "name_full": "ABM RESOURCES NL",
+            "code": "ABU",
+            "primary_share_code": "ABU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ABM RESOURCES NL",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ABU?image_size=L&v=1505362319000",
+            "foreign_exempt": false,
+            "listing_date": "1986-08-21T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9423 9777",
+            "mailing_address": "Level 1, 141 Broadway, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "+61 8 9423 9733",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-09-05T18:45:27+1000",
+                    "number_of_pages": 88,
+                    "id": "01893022",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-05T18:47:25+1000",
+                    "size": "6.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170905/pdf/43m31b3sdpkgj5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 95137,
+                "status": [],
+                "market_cap": 34889676,
+                "code": "ABU",
+                "indices": [],
+                "year_open_price": 0.43391,
+                "previous_close_price": 0.093,
+                "year_change_price": -0.33891,
+                "year_low_date": "2017-06-29T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 375157803,
+                "eps": -0.0187,
+                "change_in_percent": "2.151%",
+                "change_price": 0.002,
+                "deprecated_number_of_shares": 375157803,
+                "pe": 0,
+                "offer_price": 0.099,
+                "suspended": false,
+                "last_price": 0.095,
+                "deprecated_market_cap": 35640000,
+                "day_low_price": 0.093,
+                "open_price": 0.095,
+                "year_high_date": "2016-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "2.198%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.175,
+                "bid_price": 0.095,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.095,
+                "year_change_in_percentage": "-78.106%",
+                "average_daily_volume": 220239,
+                "year_low_price": 0.082,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.abmresources.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Thomas David McKeith",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKeith",
+                    "middle_name": "David"
+                },
+                {
+                    "full_name": "Mr Matthew Simon Briggs",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Briggs",
+                    "middle_name": "Simon"
+                },
+                {
+                    "full_name": "Mr Brett Robert Smith",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": "Robert"
+                },
+                {
+                    "full_name": "Ms Jutta Zimmermann",
+                    "first_name": "Jutta",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Zimmermann",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jutta Zimmermann",
+                    "first_name": "Jutta",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Zimmermann",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

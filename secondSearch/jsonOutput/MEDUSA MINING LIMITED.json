@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MML",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MEDUSA MINING LIMITED",
+    "ASXcode": "MML",
+    "data": {
+        "summary": {
+            "name_short": "MEDUSA",
+            "name_full": "MEDUSA MINING LIMITED",
+            "code": "MML",
+            "primary_share_code": "MML",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MEDUSA MINING LTD",
+            "foreign_exempt": false,
+            "listing_date": "2003-12-23T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "08 9474 1330",
+            "mailing_address": "Suite 10, 100 Mill Point road, SOUTH PERTH, WA, AUSTRALIA, 6151",
+            "principal_activities": "Mining Production and Exploration",
+            "fax_number": "08 9474 1342",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-13T13:37:26+1100",
+                    "number_of_pages": 127,
+                    "id": "01907704",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T13:40:01+1100",
+                    "size": "4.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6l48rjtfwj3.pdf"
+                },
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-29T17:43:39+1000",
+                    "number_of_pages": 123,
+                    "id": "01902690",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T17:47:48+1000",
+                    "size": "12.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtlgkxqcmwwb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 100517,
+                "status": [],
+                "market_cap": 86234635,
+                "code": "MML",
+                "indices": [],
+                "year_open_price": 2.18,
+                "previous_close_price": 0.415,
+                "year_change_price": -1.775,
+                "year_low_date": "2017-06-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 207794301,
+                "eps": -0.3887,
+                "change_in_percent": "-2.41%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 207794301,
+                "pe": 0,
+                "offer_price": 0.425,
+                "suspended": false,
+                "last_price": 0.405,
+                "deprecated_market_cap": 84157000,
+                "day_low_price": 0.405,
+                "open_price": 0.415,
+                "year_high_date": "2017-01-11T00:00:00+1100",
+                "previous_day_percentage_change": "-1.19%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.565,
+                "bid_price": 0.405,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.42,
+                "year_change_in_percentage": "-81.422%",
+                "average_daily_volume": 447014,
+                "year_low_price": 0.27,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.medusamining.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Boon San Teo",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Teo",
+                    "middle_name": "Boon San"
+                },
+                {
+                    "full_name": "Mr Boyd Timler",
+                    "first_name": "Boyd",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Timler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Attorney Raul Villanueva",
+                    "first_name": "Attorney",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Villanueva",
+                    "middle_name": "Raul"
+                },
+                {
+                    "full_name": "Mr Ciceron Jun Angeles",
+                    "first_name": "Ciceron",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Angeles",
+                    "middle_name": "Jun"
+                },
+                {
+                    "full_name": "Mr Roy Philip Daniel",
+                    "first_name": "Roy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Daniel",
+                    "middle_name": "Philip"
+                },
+                {
+                    "full_name": "Mr Peter Alphonso",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Alphonso",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Alphonso",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Alphonso",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

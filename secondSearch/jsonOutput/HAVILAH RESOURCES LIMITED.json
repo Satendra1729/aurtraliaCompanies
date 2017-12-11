@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HAV",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "HAVILAH RESOURCES LIMITED",
+    "ASXcode": "HAV",
+    "data": {
+        "summary": {
+            "name_short": "HAVILAH",
+            "name_full": "HAVILAH RESOURCES LIMITED",
+            "code": "HAV",
+            "primary_share_code": "HAV",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "HAVILAH RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/HAV?image_size=L&v=1425950383000",
+            "foreign_exempt": false,
+            "listing_date": "2002-03-21T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 8338 9292",
+            "mailing_address": "31 Flemington Street, GLENSIDE, SA, AUSTRALIA, 5065",
+            "principal_activities": "mineral exploration",
+            "fax_number": "08 8338 9293",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders - 2017",
+                    "document_date": "2017-11-01T08:47:18+1100",
+                    "number_of_pages": 94,
+                    "id": "01916582",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-01T08:51:42+1100",
+                    "size": "12.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171101/pdf/43nvq64vjbsfvx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 117455,
+                "status": [],
+                "market_cap": 36852989,
+                "code": "HAV",
+                "indices": [],
+                "year_open_price": 0.24118,
+                "previous_close_price": 0.18,
+                "year_change_price": -0.05618,
+                "year_low_date": "2017-10-16T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 204738829,
+                "eps": -0.0245,
+                "change_in_percent": "2.778%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 204738829,
+                "pe": 0,
+                "offer_price": 0.185,
+                "suspended": false,
+                "last_price": 0.185,
+                "deprecated_market_cap": 37877000,
+                "day_low_price": 0.175,
+                "open_price": 0.18,
+                "year_high_date": "2017-02-20T00:00:00+1100",
+                "previous_day_percentage_change": "-2.703%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.728,
+                "bid_price": 0.18,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.185,
+                "year_change_in_percentage": "-23.294%",
+                "average_daily_volume": 237223,
+                "year_low_price": 0.17,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.havilah-resources.com.au/",
+            "fiscal_year_end": "31/07",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kenneth Graham Williams",
+                    "first_name": "Kenneth",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": "Graham"
+                },
+                {
+                    "full_name": "Dr Christopher William Giles",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Managing Director",
+                        "Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Giles",
+                    "middle_name": "William"
+                },
+                {
+                    "full_name": "Mr Paul Stratford Mertin",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mertin",
+                    "middle_name": "Stratford"
+                },
+                {
+                    "full_name": "Mr Walter Douglas Richards",
+                    "first_name": "Walter",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richards",
+                    "middle_name": "Douglas"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Walter Douglas Richards",
+                    "first_name": "Walter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richards",
+                    "middle_name": "Douglas"
+                }
+            ]
+        }
+    }
+}

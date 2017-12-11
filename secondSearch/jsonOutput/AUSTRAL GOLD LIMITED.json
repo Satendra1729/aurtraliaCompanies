@@ -1,0 +1,178 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AGD",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AUSTRAL GOLD LIMITED",
+    "ASXcode": "AGD",
+    "data": {
+        "summary": {
+            "name_short": "AUST GOLD",
+            "name_full": "AUSTRAL GOLD LIMITED",
+            "code": "AGD",
+            "primary_share_code": "AGD",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AUSTRAL GOLD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AGD?image_size=L&v=1431487953000",
+            "foreign_exempt": false,
+            "listing_date": "1997-04-18T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI;  SPECIAL",
+                "franked_percentage": "0%",
+                "created_date": "2016-12-22T00:00:00+1100",
+                "record_date": "2017-01-18T00:00:00+1100",
+                "payable_date": "2017-02-01T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.009,
+                "ex_date": "2017-01-17T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9380 7233",
+            "mailing_address": "Suite 203 Terrace Tower, Level 2, 80 William Street, SYDNEY, NSW, AUSTRALIA, 2011",
+            "principal_activities": "Exploration and development of gold interests",
+            "fax_number": "+61 2 8354 0992",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-09-29T16:23:19+1000",
+                    "number_of_pages": 88,
+                    "id": "01902503",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:27:16+1000",
+                    "size": "3.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt7gdv5cb3jq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 72657645,
+                "code": "AGD",
+                "indices": [],
+                "year_open_price": 0.12,
+                "previous_close_price": 0.14,
+                "year_change_price": 0.02,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 518983178,
+                "eps": -0.0111,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 518983178,
+                "pe": 0,
+                "offer_price": 0.145,
+                "suspended": false,
+                "last_price": 0.14,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-07-31T00:00:00+1000",
+                "previous_day_percentage_change": "-3.448%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.2,
+                "bid_price": 0.14,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "16.667%",
+                "average_daily_volume": 65599,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.australgold.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Eduardo Elsztain",
+                    "first_name": "Eduardo",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Elsztain",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stabro Kasaneva",
+                    "first_name": "Stabro",
+                    "roles": [
+                        "Executive Director",
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kasaneva",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wayne Hubert",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hubert",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ben Jarvis",
+                    "first_name": "Ben",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jarvis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Trzebski",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trzebski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Pablo Vergara del Carril",
+                    "first_name": "Pablo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vergara del Carril",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Saul Zang",
+                    "first_name": "Saul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Bursill",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bursill",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

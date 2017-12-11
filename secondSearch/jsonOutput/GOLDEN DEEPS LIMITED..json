@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GED",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GOLDEN DEEPS LIMITED.",
+    "ASXcode": "GED",
+    "data": {
+        "summary": {
+            "name_short": "GOLD DEEP",
+            "name_full": "GOLDEN DEEPS LIMITED.",
+            "code": "GED",
+            "primary_share_code": "GED",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GOLDEN DEEPS",
+            "foreign_exempt": false,
+            "listing_date": "1986-12-04T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9481 7833",
+            "mailing_address": "1st Floor, 8 Parliament Place, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mineral Exploration",
+            "fax_number": "(08) 9481 7835",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T18:48:08+1000",
+                    "number_of_pages": 66,
+                    "id": "01902775",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T18:49:36+1000",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtrkygn6plg6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 142800,
+                "status": [],
+                "market_cap": 7245989,
+                "code": "GED",
+                "indices": [],
+                "year_open_price": 0.016,
+                "previous_close_price": 0.07,
+                "year_change_price": 0.054,
+                "year_low_date": "2017-01-25T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 103514122,
+                "eps": -0.0299,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 103514122,
+                "pe": 0,
+                "offer_price": 0.07,
+                "suspended": false,
+                "last_price": 0.07,
+                "deprecated_market_cap": 7246000,
+                "day_low_price": 0.07,
+                "open_price": 0.07,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "37.255%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.083,
+                "bid_price": 0.065,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.07,
+                "year_change_in_percentage": "337.5%",
+                "average_daily_volume": 153026,
+                "year_low_price": 0.01,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.goldendeeps.com",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Collins",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Collins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Scivolo",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scivolo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Norburn",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Norburn",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Paul Fromson",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fromson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FGF",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "FIRST GROWTH FUNDS LIMITED",
+    "ASXcode": "FGF",
+    "data": {
+        "summary": {
+            "name_short": "FIRSTGRO",
+            "name_full": "FIRST GROWTH FUNDS LIMITED",
+            "code": "FGF",
+            "primary_share_code": "FGF",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "FIRST GROWTH FUNDS",
+            "foreign_exempt": false,
+            "listing_date": "1986-12-19T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 (0) 2 8651 7800",
+            "mailing_address": "C/- Peloton Capital, Level 5, 56 Pitt Sreet, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment and identification, evaluation and acquisition of investment opportunities in the carbon industry together with the development of such opportunities and the management of the portfolio of existing investments.",
+            "fax_number": "+61 (0) 2 9241 6199",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-08-31T16:54:51+1000",
+                    "number_of_pages": 41,
+                    "id": "01891313",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T16:58:00+1000",
+                    "size": "14.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lywprk2mhdn6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 10972858,
+                "status": [],
+                "market_cap": 12971528,
+                "code": "FGF",
+                "indices": [],
+                "deprecated_number_of_shares": 864778612,
+                "previous_close_price": 0.015,
+                "year_low_date": "2017-08-25T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 864768511,
+                "eps": -0.0011,
+                "change_in_percent": "6.667%",
+                "change_price": 0.001,
+                "pe": 0,
+                "offer_price": 0.017,
+                "suspended": false,
+                "last_price": 0.016,
+                "deprecated_market_cap": 13836000,
+                "day_low_price": 0.015,
+                "open_price": 0.015,
+                "year_high_date": "2017-11-16T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.023,
+                "bid_price": 0.015,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.016,
+                "average_daily_volume": 16480778,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.firstgrowthfunds.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoff Barnes",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barnes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Clarke",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clarke",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Athan Lekkas",
+                    "first_name": "Athan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lekkas",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Julie Edwards",
+                    "first_name": "Julie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

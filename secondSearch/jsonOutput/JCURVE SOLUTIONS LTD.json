@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/JCS",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "JCURVE SOLUTIONS LTD",
+    "ASXcode": "JCS",
+    "data": {
+        "summary": {
+            "name_short": "JCURVE",
+            "name_full": "JCURVE SOLUTIONS LTD",
+            "code": "JCS",
+            "primary_share_code": "JCS",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "JCURVE SOLUTIONS",
+            "foreign_exempt": false,
+            "listing_date": "2000-12-08T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9467 9200",
+            "mailing_address": "Level 8, 9 Help Street, CHATSWOOD, NSW, AUSTRALIA, 2067",
+            "principal_activities": "Information Technology",
+            "fax_number": "+61 2 9467 9201",
+            "latest_annual_reports": [
+                {
+                    "header": "Audited Financial Statement and Annual Report",
+                    "document_date": "2017-08-23T08:44:20+1000",
+                    "number_of_pages": 64,
+                    "id": "01886701",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-23T09:01:33+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lmryq09ywj6d.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 33208,
+                "status": [],
+                "market_cap": 12864419,
+                "code": "JCS",
+                "indices": [],
+                "year_open_price": 0.046,
+                "previous_close_price": 0.039,
+                "year_change_price": -0.009,
+                "year_low_date": "2017-06-19T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 329856900,
+                "eps": 0.0014,
+                "change_in_percent": "-5.128%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 329856900,
+                "pe": 26.43,
+                "offer_price": 0.038,
+                "suspended": false,
+                "last_price": 0.037,
+                "deprecated_market_cap": 12205000,
+                "day_low_price": 0.037,
+                "open_price": 0.038,
+                "year_high_date": "2017-11-15T00:00:00+1100",
+                "previous_day_percentage_change": "-2.5%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.048,
+                "bid_price": 0.036,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.038,
+                "year_change_in_percentage": "-19.565%",
+                "average_daily_volume": 876119,
+                "year_low_price": 0.01,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://jcurvesolutions.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bruce Hatchman",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hatchman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Canning",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Canning",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Franks",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Franks",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Jobling",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jobling",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Aulsebrook",
+                    "first_name": "James",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Aulsebrook",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Franks",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Franks",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

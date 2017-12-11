@@ -1,0 +1,284 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CSL",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "CSL LIMITED",
+    "ASXcode": "CSL",
+    "data": {
+        "summary": {
+            "name_short": "CSL",
+            "name_full": "CSL LIMITED",
+            "code": "CSL",
+            "primary_share_code": "CSL",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "CSL LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CSL?image_size=L&v=1382324954000",
+            "foreign_exempt": false,
+            "listing_date": "1994-06-08T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "UNFRANKED; 100% CFI;  DRP SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-09-13T00:00:00+1000",
+                "payable_date": "2017-10-13T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.915264,
+                "ex_date": "2017-09-12T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(03) 9389 1911",
+            "mailing_address": "45 Poplar Road, PARKVILLE, VIC, AUSTRALIA, 3052",
+            "principal_activities": "Development, manufacturing and marketing of pharmaceutical and diagnostic products, cell culture media and human plasma fractions.",
+            "fax_number": "(03) 9389 1434",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-09-15T08:51:52+1000",
+                    "number_of_pages": 132,
+                    "id": "01896392",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-15T08:54:45+1000",
+                    "size": "5.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170915/pdf/43mc4j5zyzwkrs.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1100333,
+                "status": [],
+                "market_cap": 64290011910,
+                "code": "CSL",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 20",
+                        "index_code": "XTL",
+                        "name_abrev": "S&P/ASX 20",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 20"
+                    },
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Health",
+                        "index_code": "XHJ",
+                        "name_abrev": "Health Care",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Health Care (Sector)"
+                    }
+                ],
+                "year_open_price": 71.17,
+                "previous_close_price": 142.15,
+                "year_change_price": 70.86,
+                "year_low_date": "2016-12-12T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 452268814,
+                "eps": 3.8183,
+                "change_in_percent": "-0.084%",
+                "change_price": -0.12,
+                "deprecated_number_of_shares": 452268814,
+                "pe": 37.2,
+                "offer_price": 142.34,
+                "suspended": false,
+                "last_price": 142.03,
+                "deprecated_market_cap": 64235740000,
+                "day_low_price": 141.615,
+                "open_price": 142.15,
+                "year_high_date": "2017-11-28T00:00:00+1100",
+                "previous_day_percentage_change": "0.538%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 149.3,
+                "bid_price": 142,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 142.88,
+                "year_change_in_percentage": "99.564%",
+                "average_daily_volume": 701251,
+                "year_low_price": 91.62,
+                "annual_dividend_yield": 1.23
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.csl.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Prof. John Shine AO",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Shine AO",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Roger Perreault",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Perreault",
+                    "middle_name": "Roger"
+                },
+                {
+                    "full_name": "Mr David Anstice",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anstice",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Brook",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brook",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Megan Clark",
+                    "first_name": "Megan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Clark",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Marie McDonald",
+                    "first_name": "Marie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McDonald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Christine O'Reilly",
+                    "first_name": "Christine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "O'Reilly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Maurice Renshaw",
+                    "first_name": "Maurice",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Renshaw",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Tadataka Yamada",
+                    "first_name": "Tadataka",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Yamada",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Lamont",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lamont",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Dehring",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dehring",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Edward Bailey",
+                    "first_name": "Edward",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bailey",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

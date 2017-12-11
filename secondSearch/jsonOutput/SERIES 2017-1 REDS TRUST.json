@@ -1,0 +1,33 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RFC",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "SERIES 2017-1 REDS TRUST",
+    "ASXcode": "RFC",
+    "data": {
+        "summary": {
+            "name_full": "SERIES 2017-1 REDS TRUST",
+            "products": [],
+            "phone_number": ".",
+            "mailing_address": "., ., ., ., BNE, AUSTRALIA, .",
+            "principal_activities": ".",
+            "name_short": "SER 2017-1",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "SERIES 2017-1 REDS",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "RFC",
+            "listing_date": "2017-05-26T00:00:00+1000",
+            "registry_address": "LEVEL 7, 9 CASTLEREAGH STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "PERPETUAL TRUSTEE COMPANY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": []
+        }
+    }
+}

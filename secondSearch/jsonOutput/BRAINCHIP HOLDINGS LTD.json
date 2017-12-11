@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BRN",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "BRAINCHIP HOLDINGS LTD",
+    "ASXcode": "BRN",
+    "data": {
+        "summary": {
+            "name_short": "BRAINCHIP",
+            "name_full": "BRAINCHIP HOLDINGS LTD",
+            "code": "BRN",
+            "primary_share_code": "BRN",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "BRAINCHIP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-11-09T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@brainchipinc.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9444 2555",
+            "mailing_address": "Level 2, 6 Thelma Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Technology",
+            "fax_number": "(08) 9444 1600",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-03-30T20:20:06+1100",
+                    "number_of_pages": 82,
+                    "id": "01843579",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T20:22:55+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h5cxmcvflj3b.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1723284,
+                "status": [],
+                "market_cap": 169589086,
+                "code": "BRN",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.04,
+                "previous_close_price": 0.175,
+                "year_change_price": 0.145,
+                "year_low_date": "2017-10-10T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 969080489,
+                "eps": -0.0145,
+                "change_in_percent": "5.714%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 969080489,
+                "pe": 0,
+                "offer_price": 0.185,
+                "suspended": false,
+                "last_price": 0.185,
+                "deprecated_market_cap": 179280000,
+                "day_low_price": 0.175,
+                "open_price": 0.18,
+                "year_high_date": "2017-01-19T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.365,
+                "bid_price": 0.18,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.185,
+                "year_change_in_percentage": "362.5%",
+                "average_daily_volume": 3218569,
+                "year_low_price": 0.15,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.brainchipinc.com",
+            "fiscal_year_end": "12/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mick Bolto",
+                    "first_name": "Mick",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bolto",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Louis DiNardo",
+                    "first_name": "Louis",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "DiNardo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter van der Made",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "van der Made",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Emmannuel Hernandez",
+                    "first_name": "Emmannuel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hernandez",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adam Osseiran",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Osseiran",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Julie Stein",
+                    "first_name": "Julie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stein",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Naomi Dolmatoff",
+                    "first_name": "Naomi",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Dolmatoff",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

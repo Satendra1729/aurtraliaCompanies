@@ -1,0 +1,271 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/QUB",
+    "GICSindustrygroup": "Transportation",
+    "Companyname": "QUBE HOLDINGS LIMITED",
+    "ASXcode": "QUB",
+    "data": {
+        "summary": {
+            "name_short": "QUBE",
+            "name_full": "QUBE HOLDINGS LIMITED",
+            "code": "QUB",
+            "primary_share_code": "QUB",
+            "industry_group_name": "Transportation",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "QUBE HOLDINGS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-01-04T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2.8C FRANKED @ 30%;  DRP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-09-12T00:00:00+1000",
+                "payable_date": "2017-10-12T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.028,
+                "ex_date": "2017-09-11T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "floating-rate-notes",
+                "warrants"
+            ],
+            "phone_number": "02 9080 1900",
+            "mailing_address": "Level 27, 45 Clarence Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Logistics",
+            "fax_number": "02 9080 1999",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report and Notice of AGM",
+                    "document_date": "2017-10-19T12:47:10+1100",
+                    "number_of_pages": 159,
+                    "id": "01909847",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-19T12:50:57+1100",
+                    "size": "11.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171019/pdf/43ncql7j0s99j0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2495634,
+                "status": [],
+                "market_cap": 4235169030,
+                "code": "QUB",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Inds",
+                        "index_code": "XNJ",
+                        "name_abrev": "Industrials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Industrials (Sector)"
+                    }
+                ],
+                "year_open_price": 2.04,
+                "previous_close_price": 2.64,
+                "year_change_price": 0.58,
+                "year_low_date": "2017-02-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1604230693,
+                "eps": 0.054,
+                "change_in_percent": "-0.758%",
+                "change_price": -0.02,
+                "deprecated_number_of_shares": 1604230693,
+                "pe": 48.52,
+                "offer_price": 2.63,
+                "suspended": false,
+                "last_price": 2.62,
+                "deprecated_market_cap": 4203084000,
+                "day_low_price": 2.61,
+                "open_price": 2.65,
+                "year_high_date": "2017-08-23T00:00:00+1000",
+                "previous_day_percentage_change": "-0.377%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.83,
+                "bid_price": 2.61,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.65,
+                "year_change_in_percentage": "28.431%",
+                "average_daily_volume": 2428763,
+                "year_low_price": 2.244,
+                "annual_dividend_yield": 2.1
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.qube.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Allan Davies",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davies",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Kaplan",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Deputy Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kaplan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Maurice James",
+                    "first_name": "Maurice",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "James",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross Burney",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burney",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Dexter",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dexter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan Miles",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Miles",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Susan Palmer",
+                    "first_name": "Susan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Palmer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Lewis",
+                    "first_name": "Paul",
+                    "roles": [
+                        "CFO",
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lewis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr William Hara",
+                    "first_name": "William",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hara",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul White",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "White",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Adam Jacobs",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jacobs",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr William Hara",
+                    "first_name": "William",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hara",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

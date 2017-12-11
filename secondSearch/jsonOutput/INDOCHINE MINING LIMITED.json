@@ -1,0 +1,144 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IDC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "INDOCHINE MINING LIMITED",
+    "ASXcode": "IDC",
+    "data": {
+        "summary": {
+            "name_full": "INDOCHINE MINING LIMITED",
+            "code": "IDC",
+            "name_short": "INDOCHINE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "INDOCHINE MINING LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/IDC?image_size=L&v=1399617730000",
+            "foreign_exempt": false,
+            "listing_date": "2010-12-09T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@indochinemining.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9214 1444",
+            "mailing_address": "C/- Ferrier Hodgson, Level 28, 108 St Georges Terrace, PERTH, WA, AUSTRALIA, 600O",
+            "principal_activities": "Project development of the Mt Kare gold-silver project in PNG and mineral exploration in Cambodia.",
+            "fax_number": "+61 8 9214 1400",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders - 30 June 2017",
+                    "document_date": "2017-10-25T11:57:34+1100",
+                    "number_of_pages": 48,
+                    "id": "01912375",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-25T12:24:09+1100",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171025/pdf/43nkl5vnng6kpl.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders - 30 June 2016",
+                    "document_date": "2017-10-25T11:28:12+1100",
+                    "number_of_pages": 57,
+                    "id": "01912331",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-25T11:39:14+1100",
+                    "size": "705.9KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171025/pdf/43nkhgyrl3dt6m.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "indices": [],
+                "year_open_price": 0.07,
+                "previous_close_price": 0,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 3409014,
+                "eps": -0.9298,
+                "code": "IDC",
+                "deprecated_number_of_shares": 3409014,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-03-16T00:00:00+1100",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.8,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "IDC",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.indochinemining.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Craig Dawson",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dawson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Gates",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gates",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Keith Charles Murray",
+                    "first_name": "Keith",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murray",
+                    "middle_name": "Charles"
+                },
+                {
+                    "full_name": "Mr Ashok Jairath",
+                    "first_name": "Ashok",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jairath",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Administrators Appointed",
+                    "first_name": "Administrators",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Appointed",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MCM",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "MC MINING LIMITED",
+    "ASXcode": "MCM",
+    "data": {
+        "summary": {
+            "name_short": "MCMINING",
+            "name_full": "MC MINING LIMITED",
+            "code": "MCM",
+            "primary_share_code": "MCM",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "MC MINING LTD",
+            "foreign_exempt": false,
+            "listing_date": "1980-04-24T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9316 9100",
+            "mailing_address": "Suite 8, 7 The Esplanade, MOUNT PLEASANT, WA, AUSTRALIA, 6153",
+            "principal_activities": "Coal Mining & Metals Processing",
+            "fax_number": "(08) 9315 5475",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 0,
+                "indices": [],
+                "year_open_price": 0.1,
+                "previous_close_price": 0,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 140879585,
+                "eps": -0.2,
+                "code": "MCM",
+                "deprecated_number_of_shares": 140879585,
+                "pe": 0,
+                "offer_price": 0.86,
+                "suspended": false,
+                "last_price": 0,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-04-20T00:00:00+1000",
+                "previous_day_percentage_change": "-100%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.18,
+                "bid_price": 0.64,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 54396,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.coalofafrica.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bernard Pryor",
+                    "first_name": "Bernard",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pryor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Brown",
+                    "first_name": "David",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr De Wet Olivier Schutte",
+                    "first_name": "De Wet",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schutte",
+                    "middle_name": "Olivier"
+                },
+                {
+                    "full_name": "Mr Peter G Cordin",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cordin",
+                    "middle_name": "G"
+                },
+                {
+                    "full_name": "Mr Andrew Mifflin",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mifflin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Khomotso Brian Mosehla",
+                    "first_name": "Khomotso",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mosehla",
+                    "middle_name": "Brian"
+                },
+                {
+                    "full_name": "Mr Thabo Mosololi",
+                    "first_name": "Thabo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mosololi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rudolph Henry Torlage",
+                    "first_name": "Rudolph",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Torlage",
+                    "middle_name": "Henry"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tony Bevan",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bevan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

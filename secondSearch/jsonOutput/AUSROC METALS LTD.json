@@ -1,0 +1,132 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ARK",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AUSROC METALS LTD",
+    "ASXcode": "ARK",
+    "data": {
+        "summary": {
+            "name_short": "AUSROC ME",
+            "name_full": "AUSROC METALS LTD",
+            "code": "ARK",
+            "primary_share_code": "ARKDC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AUSROC METALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2005-09-15T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9488 5220",
+            "mailing_address": "Ground Floor, 1 Havelock Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Advanced Copper/Gold/Silver/Exploration and Development company focused on Africa and the USA.",
+            "fax_number": "+61 8 9324 2400",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "year_high_price": 0.005,
+                "indices": [],
+                "deprecated_number_of_shares": 6095761,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 0,
+                "eps": -0.0008,
+                "code": "ARKDC",
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2014-11-24T00:00:00+1100",
+                "year_open_date": null,
+                "market_cap": 0,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid Deferred Settlement",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.ausamerican.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Landau",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Executive Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Landau",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jim Malone",
+                    "first_name": "Jim",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Malone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Malenga Machel",
+                    "first_name": "Malenga",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Machel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Vinod Sharma",
+                    "first_name": "Vinod",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sharma",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Holmes",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Holmes",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jim Malone",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Malone",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

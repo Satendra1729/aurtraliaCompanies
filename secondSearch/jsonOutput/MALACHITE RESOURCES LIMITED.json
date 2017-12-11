@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MAR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MALACHITE RESOURCES LIMITED",
+    "ASXcode": "MAR",
+    "data": {
+        "summary": {
+            "name_short": "MALACHITE",
+            "name_full": "MALACHITE RESOURCES LIMITED",
+            "code": "MAR",
+            "primary_share_code": "MAR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MALACHITE RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2002-11-26T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9251 0032",
+            "mailing_address": "Level 4, 283 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Mineral explorer focussed on intrusive-related mineral deposits in eastern Australia, with emphasis on gold, silver and associated metals.",
+            "fax_number": "(02) 9475 0439",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-27T11:28:38+1100",
+                    "number_of_pages": 60,
+                    "id": "01913631",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T11:31:10+1100",
+                    "size": "5.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nn94hftpln2t.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 9321359,
+                "code": "MAR",
+                "indices": [],
+                "year_open_price": 0.007,
+                "previous_close_price": 0.007,
+                "year_change_price": 0.0,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1331622660,
+                "eps": -0.001,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1331622660,
+                "pe": 0,
+                "offer_price": 0.007,
+                "suspended": false,
+                "last_price": 0.007,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.008,
+                "bid_price": 0.006,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "0%",
+                "average_daily_volume": 1059845,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.malachite.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Terry Cuthbertson",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cuthbertson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Hiller",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hiller",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Dean",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dean",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew McMillan",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McMillan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew J Cooke",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooke",
+                    "middle_name": "J"
+                }
+            ]
+        }
+    }
+}

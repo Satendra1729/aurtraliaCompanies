@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PNX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PNX METALS LIMITED",
+    "ASXcode": "PNX",
+    "data": {
+        "summary": {
+            "name_short": "PNX METALS",
+            "name_full": "PNX METALS LIMITED",
+            "code": "PNX",
+            "primary_share_code": "PNX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PNX METALS LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PNX?image_size=L&v=1475026768000",
+            "foreign_exempt": false,
+            "listing_date": "2008-02-12T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 8364 3188",
+            "mailing_address": "Level 1, 135 Fullarton Road, ROSE PARK, SA, AUSTRALIA, 5067",
+            "principal_activities": "Copper and gold exploration",
+            "fax_number": "(08) 8364 4288",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-19T12:34:48+1000",
+                    "number_of_pages": 76,
+                    "id": "01897486",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-19T12:37:21+1000",
+                    "size": "10.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170919/pdf/43mfzkt4ql2rbb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1360000,
+                "status": [],
+                "market_cap": 11082426,
+                "code": "PNX",
+                "indices": [],
+                "year_open_price": 0.02463,
+                "previous_close_price": 0.011,
+                "year_change_price": -0.01363,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1007493315,
+                "eps": -0.004,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1007493315,
+                "pe": 0,
+                "offer_price": 0.011,
+                "suspended": false,
+                "last_price": 0.011,
+                "deprecated_market_cap": 11082000,
+                "day_low_price": 0.01,
+                "open_price": 0.011,
+                "year_high_date": "2017-01-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.032,
+                "bid_price": 0.01,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.011,
+                "year_change_in_percentage": "-55.339%",
+                "average_daily_volume": 5896098,
+                "year_low_price": 0.01,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.pnxmetals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graham Leslie Ascough",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ascough",
+                    "middle_name": "Leslie"
+                },
+                {
+                    "full_name": "Mr James Fox",
+                    "first_name": "James",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fox",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul John Dowd",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dowd",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr David Hillier",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hillier",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter James Watson",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Watson",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Tim Moran",
+                    "first_name": "Tim",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moran",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tim Moran",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moran",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

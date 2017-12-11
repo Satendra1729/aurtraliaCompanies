@@ -1,0 +1,333 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MQG",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "MACQUARIE GROUP LIMITED",
+    "ASXcode": "MQG",
+    "data": {
+        "summary": {
+            "name_short": "MACQ GROUP",
+            "name_full": "MACQUARIE GROUP LIMITED",
+            "code": "MQG",
+            "primary_share_code": "MQG",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "MACQUARIE GROUP LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MQG?image_size=L&v=1382590365000",
+            "foreign_exempt": false,
+            "listing_date": "2007-11-05T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "92.25C FR@30%; 112.7 5C CFI; DRP NIL DISC",
+                "franked_percentage": "45%",
+                "created_date": "2017-10-27T00:00:00+1100",
+                "record_date": "2017-11-08T00:00:00+1100",
+                "payable_date": "2017-12-13T00:00:00+1100",
+                "type": "Interim",
+                "amount": 2.05,
+                "ex_date": "2017-11-07T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "hybrid-securities",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 8232 3333",
+            "mailing_address": "Level 6, 50 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Non-operating holding company for consolidated entity - financial services provider of banking, financial, advisory, investment and funds management services.",
+            "fax_number": "(02) 8237 1899",
+            "latest_annual_reports": [
+                {
+                    "header": "Macquarie Group FY17 Annual Report",
+                    "document_date": "2017-05-05T08:15:30+1000",
+                    "number_of_pages": 216,
+                    "id": "01854689",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-05-05T08:18:06+1000",
+                    "size": "11.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170505/pdf/43j1js6r1nhhcb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 836988,
+                "status": [
+                    "XD"
+                ],
+                "market_cap": 32943910928,
+                "code": "MQG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 20",
+                        "index_code": "XTL",
+                        "name_abrev": "S&P/ASX 20",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 20"
+                    },
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 55.82,
+                "previous_close_price": 96.79,
+                "year_change_price": 42.83,
+                "year_low_date": "2017-02-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 340364820,
+                "eps": 7.162,
+                "change_in_percent": "1.922%",
+                "change_price": 1.86,
+                "deprecated_number_of_shares": 340364820,
+                "pe": 13.77,
+                "offer_price": 98.69,
+                "suspended": false,
+                "last_price": 98.65,
+                "deprecated_market_cap": 33576989000,
+                "day_low_price": 97.07,
+                "open_price": 97.49,
+                "year_high_date": "2017-11-29T00:00:00+1100",
+                "previous_day_percentage_change": "0.833%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 101.12,
+                "bid_price": 98.4,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 98.73,
+                "year_change_in_percentage": "76.729%",
+                "average_daily_volume": 964548,
+                "year_low_price": 81.1,
+                "annual_dividend_yield": 4.92
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.macquarie.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter H Warne",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warne",
+                    "middle_name": "H"
+                },
+                {
+                    "full_name": "Mr Nicholas W Moore",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Managing Director",
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moore",
+                    "middle_name": "W"
+                },
+                {
+                    "full_name": "Prof. Gary R Banks",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Banks",
+                    "middle_name": "R"
+                },
+                {
+                    "full_name": "Mr Gordon M Cairns",
+                    "first_name": "Gordon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cairns",
+                    "middle_name": "M"
+                },
+                {
+                    "full_name": "Mr Michael J Coleman",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coleman",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mrs Patricia A Cross",
+                    "first_name": "Patricia",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Cross",
+                    "middle_name": "A"
+                },
+                {
+                    "full_name": "Ms Diane J Grady",
+                    "first_name": "Diane",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Grady",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Michael J Hawker",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hawker",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Glenn Stevens",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stevens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Nicola Wakefield Evans",
+                    "first_name": "Nicola",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wakefield Evans",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Upfold",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Upfold",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Dobson",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dobson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Dennis Leong",
+                    "first_name": "Dennis",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Paula Walsh",
+                    "first_name": "Paula",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Walsh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Ida Lawrance",
+                    "first_name": "Ida",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lawrance",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

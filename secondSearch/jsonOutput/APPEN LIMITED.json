@@ -1,0 +1,205 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/APX",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "APPEN LIMITED",
+    "ASXcode": "APX",
+    "data": {
+        "summary": {
+            "name_short": "APPEN",
+            "name_full": "APPEN LIMITED",
+            "last_dividend": {
+                "comments": "3C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-09-22T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.03,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "code": "APX",
+            "primary_share_code": "APX",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "APPEN LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2015-01-07T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "investorrelations@appen.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9468 6300",
+            "mailing_address": "Level 6, 9 Help Street, CHATSWOOD, NSW, AUSTRALIA, 2067",
+            "principal_activities": "Linguistics services",
+            "fax_number": "(02) 9468 6311",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-02-28T08:02:15+1100",
+                    "number_of_pages": 74,
+                    "id": "01833538",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-28T08:28:29+1100",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170228/pdf/43gd716zlgcpy6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 370276,
+                "status": [],
+                "market_cap": 770030352,
+                "code": "APX",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "deprecated_number_of_shares": 97843755,
+                "previous_close_price": 7.87,
+                "year_low_date": "2017-03-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 97843755,
+                "eps": 0.1354,
+                "change_in_percent": "-0.762%",
+                "change_price": -0.06,
+                "pe": 57.68,
+                "offer_price": 7.82,
+                "suspended": false,
+                "last_price": 7.81,
+                "deprecated_market_cap": 764160000,
+                "day_low_price": 7.66,
+                "open_price": 7.91,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "6.351%",
+                "year_open_date": null,
+                "year_high_price": 7.99,
+                "bid_price": 7.74,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 7.97,
+                "average_daily_volume": 522383,
+                "year_low_price": 2.35,
+                "annual_dividend_yield": 0.77
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.appen.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Christopher Vonwiller",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vonwiller",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Brayan",
+                    "first_name": "Mark",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brayan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steve Hasker",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hasker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Robin Low",
+                    "first_name": "Robin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Low",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bill Pulver",
+                    "first_name": "Bill",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pulver",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Deena Shiff",
+                    "first_name": "Deena",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Shiff",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Levine",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Levine",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Leanne Ralph",
+                    "first_name": "Leanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ralph",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

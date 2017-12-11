@@ -1,0 +1,144 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CGC",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "COSTA GROUP HOLDINGS LIMITED",
+    "ASXcode": "CGC",
+    "data": {
+        "summary": {
+            "name_short": "COSTA GRP",
+            "name_full": "COSTA GROUP HOLDINGS LIMITED",
+            "code": "CGC",
+            "primary_share_code": "CGC",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "COSTA GROUP HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": "2015-07-24T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "7C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-14T00:00:00+1000",
+                "payable_date": "2017-10-05T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.07,
+                "ex_date": "2017-09-13T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8363 9000",
+            "mailing_address": "Unit 1, 271-279 Robinsons Road, RAVENHALL, VIC, AUSTRALIA, 3023",
+            "principal_activities": "Growing, packing and marketing fresh produce",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-10-03T11:57:27+1100",
+                    "number_of_pages": 104,
+                    "id": "01903649",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-03T11:59:29+1100",
+                    "size": "2.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171003/pdf/43mx37bkb9ht58.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 859595,
+                "status": [],
+                "market_cap": 2023692018,
+                "code": "CGC",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Stap",
+                        "index_code": "XSJ",
+                        "name_abrev": "Consumer Staples",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Staples (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 319698581,
+                "previous_close_price": 6.33,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 319698581,
+                "eps": 0.1809,
+                "change_in_percent": "0.79%",
+                "change_price": 0.05,
+                "pe": 35.27,
+                "offer_price": 6.42,
+                "suspended": false,
+                "last_price": 6.38,
+                "deprecated_market_cap": 2039677000,
+                "day_low_price": 6.26,
+                "open_price": 6.36,
+                "year_high_date": "2017-11-09T00:00:00+1100",
+                "previous_day_percentage_change": "1.118%",
+                "year_open_date": null,
+                "year_high_price": 6.97,
+                "bid_price": 6.31,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 6.41,
+                "average_daily_volume": 1298971,
+                "year_low_price": 3.02,
+                "annual_dividend_yield": 1.72
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.costagroup.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Thomas",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thomas",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

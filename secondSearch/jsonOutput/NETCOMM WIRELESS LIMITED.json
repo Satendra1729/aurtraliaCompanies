@@ -1,0 +1,177 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NTC",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "NETCOMM WIRELESS LIMITED",
+    "ASXcode": "NTC",
+    "data": {
+        "summary": {
+            "name_short": "NETCOMM",
+            "name_full": "NETCOMM WIRELESS LIMITED",
+            "code": "NTC",
+            "primary_share_code": "NTC",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "NETCOMM WIRELESS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/NTC?image_size=L&v=1422440724000",
+            "foreign_exempt": false,
+            "listing_date": "1993-12-21T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9424 2000",
+            "mailing_address": "Level 2, 18-20 Orion Road, LANE COVE, NSW, AUSTRALIA, 2066",
+            "principal_activities": "Developer of broadband products for global telecommunication networks with particular expertise in wireless Machine-to-Machine (M2M) and wireless broadband (3G/4G) technologies for consumer, business and industrial applications.",
+            "fax_number": "(02) 9424 2010",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-18T08:48:36+1100",
+                    "number_of_pages": 104,
+                    "id": "01909118",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-18T08:52:46+1100",
+                    "size": "4.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171018/pdf/43nb4qk80szz2n.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 233726,
+                "status": [],
+                "market_cap": 179254135,
+                "code": "NTC",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.37,
+                "previous_close_price": 1.225,
+                "year_change_price": 0.86,
+                "year_low_date": "2017-10-04T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 146329906,
+                "eps": -0.0123,
+                "change_in_percent": "0.408%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 146329906,
+                "pe": 0,
+                "offer_price": 1.23,
+                "suspended": false,
+                "last_price": 1.23,
+                "deprecated_market_cap": 179986000,
+                "day_low_price": 1.22,
+                "open_price": 1.235,
+                "year_high_date": "2016-12-16T00:00:00+1100",
+                "previous_day_percentage_change": "-4.669%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.29,
+                "bid_price": 1.22,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.255,
+                "year_change_in_percentage": "232.432%",
+                "average_daily_volume": 280755,
+                "year_low_price": 1.03,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.netcommwireless.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Justin Milne",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Milne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ken Sheridan",
+                    "first_name": "Ken",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sheridan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Alexander Black",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Black",
+                    "middle_name": "Alexander"
+                },
+                {
+                    "full_name": "Mr Ken Boundy",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boundy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Last",
+                    "first_name": "Chris",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Last",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Chris Last",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Last",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

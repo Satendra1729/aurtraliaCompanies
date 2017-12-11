@@ -1,0 +1,278 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GPT",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "GPT GROUP",
+    "ASXcode": "GPT",
+    "data": {
+        "summary": {
+            "name_short": "GPT",
+            "name_full": "GPT GROUP",
+            "code": "GPT",
+            "primary_share_code": "GPT",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "GPT GROUP",
+            "foreign_exempt": false,
+            "listing_date": "1971-04-01T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "DRP SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-06-22T00:00:00+1000",
+                "record_date": "2017-06-30T00:00:00+1000",
+                "payable_date": "2017-08-31T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.123,
+                "ex_date": "2017-06-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 8239 3555",
+            "mailing_address": "Level 51, MLC Centre, 19 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Property investment.",
+            "fax_number": "(02) 9225 9318",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Result Presentation (with speaker notes)",
+                    "document_date": "2017-02-14T12:26:18+1100",
+                    "number_of_pages": 37,
+                    "id": "01828190",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-02-14T12:31:15+1100",
+                    "size": "3.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170214/pdf/43fzvbyvdcyt6b.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4966377,
+                "status": [],
+                "market_cap": 9728860763,
+                "code": "GPT",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Prop",
+                        "index_code": "XPJ",
+                        "name_abrev": "A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX200 A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 3.71,
+                "previous_close_price": 5.4,
+                "year_change_price": 1.66,
+                "year_low_date": "2017-02-02T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1801640882,
+                "eps": 0.7331,
+                "change_in_percent": "-0.556%",
+                "change_price": -0.03,
+                "deprecated_number_of_shares": 1801640882,
+                "pe": 7.33,
+                "offer_price": 5.42,
+                "suspended": false,
+                "last_price": 5.37,
+                "deprecated_market_cap": 9674812000,
+                "day_low_price": 5.35,
+                "open_price": 5.41,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "0.559%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 5.46,
+                "bid_price": 5.35,
+                "desc_full": "Stapled Securities Fully Paid",
+                "day_high_price": 5.42,
+                "year_change_in_percentage": "44.744%",
+                "average_daily_volume": 3737618,
+                "year_low_price": 4.58,
+                "annual_dividend_yield": 4.51
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.gpt.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Rob Ferguson",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferguson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bob Johnston",
+                    "first_name": "Bob",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brendan Patrick Crotty",
+                    "first_name": "Brendan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crotty",
+                    "middle_name": "Patrick"
+                },
+                {
+                    "full_name": "Dr Eileen Joy Doyle",
+                    "first_name": "Eileen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Doyle",
+                    "middle_name": "Joy"
+                },
+                {
+                    "full_name": "Mr Swe Guan Lim",
+                    "first_name": "Swe Guan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lim",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Michelle Somerville",
+                    "first_name": "Michelle",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Somerville",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gene Thomas Tilbrook",
+                    "first_name": "Gene",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tilbrook",
+                    "middle_name": "Thomas"
+                },
+                {
+                    "full_name": "Mr Mark Fookes",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fookes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Anastasia Clarke",
+                    "first_name": "Anastasia",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Clarke",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Ward",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ward",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Lisa Bau",
+                    "first_name": "Lisa",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bau",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Coyne",
+                    "first_name": "James",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coyne",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

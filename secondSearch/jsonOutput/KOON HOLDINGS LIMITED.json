@@ -1,0 +1,209 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KNH",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "KOON HOLDINGS LIMITED",
+    "ASXcode": "KNH",
+    "data": {
+        "summary": {
+            "name_short": "KOON HLDGS",
+            "name_full": "KOON HOLDINGS LIMITED",
+            "code": "KNH",
+            "primary_share_code": "KNH",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "KOON HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": "2003-07-11T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "0011 65 6261 5788",
+            "mailing_address": "Level 9, 115 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Infrastructure construction, civil engineering, precast concret work, property and investment.",
+            "fax_number": "0011 65 6266 0117",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2016",
+                    "document_date": "2017-04-12T19:06:23+1000",
+                    "number_of_pages": 144,
+                    "id": "01847721",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-12T19:09:52+1000",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170412/pdf/43hhfxj61vv8dv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 18679944,
+                "code": "KNH",
+                "indices": [],
+                "year_open_price": 0.14,
+                "previous_close_price": 0.071,
+                "year_change_price": -0.069,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 263097800,
+                "eps": -0.0005,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 263097800,
+                "pe": 0,
+                "offer_price": 0.12,
+                "suspended": false,
+                "last_price": 0.071,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-14T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.075,
+                "bid_price": 0,
+                "desc_full": "Chess Depositary Interest 1:1",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-49.286%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.koon.com.sg",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ang Sin Liu",
+                    "first_name": "Ang",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sin Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yuen Kai Wing",
+                    "first_name": "Yuen",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kai Wing",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Oh Keng Lim",
+                    "first_name": "Oh",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lim",
+                    "middle_name": "Keng"
+                },
+                {
+                    "full_name": "Mr Oh Koon Sun",
+                    "first_name": "Oh",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sun",
+                    "middle_name": "Koon"
+                },
+                {
+                    "full_name": "Mr Ang Ah Nui",
+                    "first_name": "Ang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ah Nui",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ko Chuan Aun",
+                    "first_name": "Ko",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Aun",
+                    "middle_name": "Chuan"
+                },
+                {
+                    "full_name": "Ms Glenda Mary Sorrell",
+                    "first_name": "Glenda",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Sorrell",
+                    "middle_name": "Mary"
+                },
+                {
+                    "full_name": "Ms Heather Chong",
+                    "first_name": "Heather",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lilian Tan Yin Yen",
+                    "first_name": "Lilian",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tan Yin Yen",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Leanne Ralph",
+                    "first_name": "Leanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ralph",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Ong Beng Hong",
+                    "first_name": "Ong",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hong",
+                    "middle_name": "Beng"
+                },
+                {
+                    "full_name": "Ms Tan Swee Gek",
+                    "first_name": "Tan",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gek",
+                    "middle_name": "Swee"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CSK",
+    "GICSindustrygroup": "Media",
+    "Companyname": "CROWDSPARK LTD",
+    "ASXcode": "CSK",
+    "data": {
+        "summary": {
+            "name_short": "CROWDSPK",
+            "name_full": "CROWDSPARK LTD",
+            "code": "CSK",
+            "primary_share_code": "CSK",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "CROWDSPARK LTD",
+            "foreign_exempt": false,
+            "listing_date": "2000-04-07T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9321 0715",
+            "mailing_address": "Level 1 Office F, 1139 Hay Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Global news wire and digital media agency, crowd sourced editorial and brand publishing and broadcasting software platforms, multimedia content distribution services, related media and information services, integrated advertising and marketing services.",
+            "fax_number": "+61 8 9321 0721",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 6966187,
+                "code": "CSK",
+                "indices": [],
+                "year_open_price": 0.057,
+                "previous_close_price": 0.19,
+                "year_change_price": 0.133,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 36664140,
+                "eps": -1.06,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 36664140,
+                "pe": 0,
+                "offer_price": 0.2,
+                "suspended": false,
+                "last_price": 0.19,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-04T11:00:00+1100",
+                "year_high_price": 0.679,
+                "bid_price": 0.19,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "233.333%",
+                "average_daily_volume": 3269639,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.newzululimited.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Charlie Koones",
+                    "first_name": "Charlie",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Koones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Marc Milgrom",
+                    "first_name": "Marc",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Milgrom",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Christopher Adams",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Adams",
+                    "middle_name": "Christopher"
+                },
+                {
+                    "full_name": "Mr Clive Dickens",
+                    "first_name": "Clive",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dickens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ed Wilson",
+                    "first_name": "Ed",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tom Lieu",
+                    "first_name": "Tom",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lieu",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Karen Logan",
+                    "first_name": "Karen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Logan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CSD",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CONSOLIDATED TIN MINES LIMITED",
+    "ASXcode": "CSD",
+    "data": {
+        "summary": {
+            "name_short": "CONS TIN",
+            "name_full": "CONSOLIDATED TIN MINES LIMITED",
+            "code": "CSD",
+            "primary_share_code": "CSD",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CONSOLIDATED TIN MIN",
+            "foreign_exempt": false,
+            "listing_date": "2008-02-26T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 4032 3319",
+            "mailing_address": "395 Lake Street, CAIRNS, QLD, AUSTRALIA, 4870",
+            "principal_activities": "Base Metals Production and Tin Exploration and Development.",
+            "fax_number": "+61 7 4027 9429",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and 2016 Full Year Statutory Accounts",
+                    "document_date": "2017-07-18T16:25:04+1000",
+                    "number_of_pages": 80,
+                    "id": "01875058",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-07-18T16:47:35+1000",
+                    "size": "5.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170718/pdf/43kqc96fbphpxb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "CSD",
+                "indices": [],
+                "year_open_price": 0.067,
+                "previous_close_price": 0.025,
+                "year_change_price": -0.042,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 889970521,
+                "eps": -0.0449,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 889970521,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.025,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-06-24T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.025,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-62.687%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.csdtin.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ralph De Lacey",
+                    "first_name": "Ralph",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "De Lacey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kwok Ching Tsoi",
+                    "first_name": "Kwok Ching",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tsoi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ze Huang Cai",
+                    "first_name": "Ze Huang",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cai",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Si He Tong",
+                    "first_name": "Si He",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Xiaoyan Tong",
+                    "first_name": "Xiaoyan",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tong",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ze Huang Cai",
+                    "first_name": "Ze Huang",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cai",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

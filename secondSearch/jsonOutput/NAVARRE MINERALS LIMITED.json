@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NML",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NAVARRE MINERALS LIMITED",
+    "ASXcode": "NML",
+    "data": {
+        "summary": {
+            "name_short": "NAVARRE",
+            "name_full": "NAVARRE MINERALS LIMITED",
+            "code": "NML",
+            "primary_share_code": "NML",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NAVARRE MINERALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-03-31T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+ 61 3 5358 8625",
+            "mailing_address": "40-44 Wimmera Street, (PO Box 385), STAWELL, VIC, AUSTRALIA, 3380",
+            "principal_activities": ".",
+            "fax_number": "No fax",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-05T21:48:54+1000",
+                    "number_of_pages": 64,
+                    "id": "01893055",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-06T08:20:44+1000",
+                    "size": "3.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170906/pdf/43m36pr7g1rvgn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 862608,
+                "status": [],
+                "market_cap": 16508578,
+                "code": "NML",
+                "indices": [],
+                "year_open_price": 0.055,
+                "previous_close_price": 0.061,
+                "year_change_price": 0.005,
+                "year_low_date": "2017-06-06T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 270632427,
+                "eps": -0.0034,
+                "change_in_percent": "-1.639%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 270632427,
+                "pe": 0,
+                "offer_price": 0.062,
+                "suspended": false,
+                "last_price": 0.06,
+                "deprecated_market_cap": 16238000,
+                "day_low_price": 0.06,
+                "open_price": 0.06,
+                "year_high_date": "2016-12-09T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.081,
+                "bid_price": 0.061,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.061,
+                "year_change_in_percentage": "9.091%",
+                "average_daily_volume": 875603,
+                "year_low_price": 0.028,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.navarre.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kevin Wilson",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff McDermott",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDermott",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Dorward",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dorward",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colin Naylor",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Naylor",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jane Nosworthy",
+                    "first_name": "Jane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Nosworthy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Jodi Ford",
+                    "first_name": "Jodi",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Ford",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

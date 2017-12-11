@@ -1,0 +1,254 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ORE",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "OROCOBRE LIMITED",
+    "ASXcode": "ORE",
+    "data": {
+        "summary": {
+            "name_short": "OROCOBRE",
+            "name_full": "OROCOBRE LIMITED",
+            "code": "ORE",
+            "primary_share_code": "ORE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "OROCOBRE LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-04T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(07) 3871 3985",
+            "mailing_address": "Level 1, 349 Coronation Drive, MILTON, QLD, AUSTRALIA, 4064",
+            "principal_activities": "Minerals exploration and production company with focus on developing Lithium/Potash resources in Argentina.",
+            "fax_number": "(07) 3720 8988",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 1670491,
+                "status": [],
+                "market_cap": 1166553434,
+                "code": "ORE",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 2.23,
+                "previous_close_price": 5.53,
+                "year_change_price": 3.46,
+                "year_low_date": "2017-03-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 210949988,
+                "eps": 0.1203,
+                "change_in_percent": "2.893%",
+                "change_price": 0.16,
+                "deprecated_number_of_shares": 210949988,
+                "pe": 47.3,
+                "offer_price": 5.7,
+                "suspended": false,
+                "last_price": 5.69,
+                "deprecated_market_cap": 1200305000,
+                "day_low_price": 5.555,
+                "open_price": 5.6,
+                "year_high_date": "2017-12-01T00:00:00+1100",
+                "previous_day_percentage_change": "-1.95%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 6.465,
+                "bid_price": 5.65,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.75,
+                "year_change_in_percentage": "155.157%",
+                "average_daily_volume": 2353353,
+                "year_low_price": 2.62,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.orocobre.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Hubbard",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hubbard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Seville",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Seville",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Gibson",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gibson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Leanne Heywood",
+                    "first_name": "Leanne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Heywood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Federico Nicolson",
+                    "first_name": "Federico",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nicolson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Fernando Oris de Roa",
+                    "first_name": "Fernando",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Oris de Roa",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Courtney Pratt",
+                    "first_name": "Courtney",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pratt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil Kaplan",
+                    "first_name": "Neil",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kaplan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rick Stacy Anthon",
+                    "first_name": "Rick",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anthon",
+                    "middle_name": "Stacy"
+                },
+                {
+                    "full_name": "Mr Andrew Barber",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barber",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Rick Stacy Anthon",
+                    "first_name": "Rick",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anthon",
+                    "middle_name": "Stacy"
+                },
+                {
+                    "full_name": "Mr Neil Kaplan",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kaplan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

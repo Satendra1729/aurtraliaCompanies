@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PZM",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "PISTON MACHINERY LTD.",
+    "ASXcode": "PZM",
+    "data": {
+        "summary": {
+            "name_short": "PISTON",
+            "name_full": "PISTON MACHINERY LTD.",
+            "code": "PZM",
+            "primary_share_code": "PZM",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "PISTON.",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 3002 8767",
+            "mailing_address": "Suite 23.05, One International Towers, 100 Barangaroo Avenue, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Holding company of overseas entities (People\u00bfs Republic of China) which manufacture air conditioner and motor vehicle components",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "PZM",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://au.zqpst.com",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Unknown Keekee Wang",
+                    "first_name": "Keekee",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Unknown",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

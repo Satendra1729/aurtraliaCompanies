@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CYA",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "CENTURY AUSTRALIA INVESTMENTS LIMITED",
+    "ASXcode": "CYA",
+    "data": {
+        "summary": {
+            "name_short": "CENTURY AU",
+            "name_full": "CENTURY AUSTRALIA INVESTMENTS LIMITED",
+            "code": "CYA",
+            "primary_share_code": "CYA",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "CENTURY AUSTRALIA",
+            "foreign_exempt": false,
+            "listing_date": "2004-04-08T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2.7C FRANKED @ 27.5% 1.1C SPECIAL",
+                "franked_percentage": "100%",
+                "created_date": "2017-04-18T00:00:00+1000",
+                "record_date": "2017-04-24T00:00:00+1000",
+                "payable_date": "2017-05-10T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.027,
+                "ex_date": "2017-04-21T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8280 7100",
+            "mailing_address": "C/ - White Outsourcing Pty Limited, Level 12, 680 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The Company is a listed managed investment company, predominantly investing in Australian listed companies.",
+            "fax_number": "(02) 9221 1194",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-26T11:05:34+1000",
+                    "number_of_pages": 65,
+                    "id": "01899943",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T11:08:21+1000",
+                    "size": "1.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mmwl0y45g3qk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 186729,
+                "status": [],
+                "market_cap": 90498038,
+                "code": "CYA",
+                "indices": [],
+                "year_open_price": 0.9,
+                "previous_close_price": 0.96,
+                "year_change_price": 0.05,
+                "year_low_date": "2016-12-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 94268790,
+                "eps": 0.0435,
+                "change_in_percent": "-1.042%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 94268790,
+                "pe": 21.84,
+                "offer_price": 0.955,
+                "suspended": false,
+                "last_price": 0.95,
+                "deprecated_market_cap": 89555000,
+                "day_low_price": 0.95,
+                "open_price": 0.96,
+                "year_high_date": "2017-05-22T00:00:00+1000",
+                "previous_day_percentage_change": "0.524%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.98,
+                "bid_price": 0.95,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.965,
+                "year_change_in_percentage": "5.556%",
+                "average_daily_volume": 79439,
+                "year_low_price": 0.875,
+                "annual_dividend_yield": 3.37
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.centuryaustralia.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Turner",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Turner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross James Finley",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Finley",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Christopher Stott",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stott",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoffrey Wilson",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Menzies",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Menzies",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Naomi Dolmatoff",
+                    "first_name": "Naomi",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Dolmatoff",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

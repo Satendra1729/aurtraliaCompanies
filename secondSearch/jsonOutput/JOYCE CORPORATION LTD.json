@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/JYC",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "JOYCE CORPORATION LTD",
+    "ASXcode": "JYC",
+    "data": {
+        "summary": {
+            "name_short": "JOYCE",
+            "name_full": "JOYCE CORPORATION LTD",
+            "code": "JYC",
+            "primary_share_code": "JYC",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "JOYCE CORPORATION",
+            "foreign_exempt": false,
+            "listing_date": "1986-12-17T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "6C FRANKED @ 30%; 3C  SPECIAL",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-31T00:00:00+1000",
+                "record_date": "2017-10-31T00:00:00+1100",
+                "payable_date": "2017-11-22T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.06,
+                "ex_date": "2017-10-30T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9445 1055",
+            "mailing_address": "14 Collingwood Street, OSBORNE PARK, WA, AUSTRALIA, 6017",
+            "principal_activities": "Retail bedding franchising and property investment",
+            "fax_number": "08 9445 1011",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-27T20:04:33+1000",
+                    "number_of_pages": 73,
+                    "id": "01900850",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T08:24:35+1000",
+                    "size": "937.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mpxz8cfgpl9h.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 22153,
+                "status": [],
+                "market_cap": 42210030,
+                "code": "JYC",
+                "indices": [],
+                "year_open_price": 0.455,
+                "previous_close_price": 1.53,
+                "year_change_price": 1.045,
+                "year_low_date": "2016-12-12T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 27588255,
+                "eps": 0.1,
+                "change_in_percent": "-1.961%",
+                "change_price": -0.03,
+                "deprecated_number_of_shares": 27588255,
+                "pe": 15,
+                "offer_price": 1.55,
+                "suspended": false,
+                "last_price": 1.5,
+                "deprecated_market_cap": 41382000,
+                "day_low_price": 1.47,
+                "open_price": 1.5,
+                "year_high_date": "2017-05-12T00:00:00+1000",
+                "previous_day_percentage_change": "0.658%",
+                "year_open_date": "2014-03-07T11:00:00+1100",
+                "year_high_price": 1.717,
+                "bid_price": 1.49,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.5,
+                "year_change_in_percentage": "229.67%",
+                "average_daily_volume": 17796,
+                "year_low_price": 1.357,
+                "annual_dividend_yield": 4.33
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.joycecorp.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Dan Smetana",
+                    "first_name": "Dan",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smetana",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Gurry",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gurry",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Hantke",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hantke",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Mankarios",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mankarios",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Keith Gray",
+                    "first_name": "Keith",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gray",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Keith Gray",
+                    "first_name": "Keith",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gray",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

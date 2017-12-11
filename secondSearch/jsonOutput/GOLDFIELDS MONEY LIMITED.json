@@ -1,0 +1,168 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GMY",
+    "GICSindustrygroup": "Banks",
+    "Companyname": "GOLDFIELDS MONEY LIMITED",
+    "ASXcode": "GMY",
+    "data": {
+        "summary": {
+            "name_short": "GOLDFIELDS",
+            "name_full": "GOLDFIELDS MONEY LIMITED",
+            "code": "GMY",
+            "primary_share_code": "GMY",
+            "industry_group_name": "Banks",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "GOLDFIELDS MONEY",
+            "foreign_exempt": false,
+            "listing_date": "2012-05-22T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9438 8888",
+            "mailing_address": "120 Egan Street, KALGOORLIE, WA, AUSTRALIA, 6430",
+            "principal_activities": "The provision of banking and financial products and services.",
+            "fax_number": "+61 8 9438 8801",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E & Annual Report",
+                    "document_date": "2017-08-21T17:08:15+1000",
+                    "number_of_pages": 66,
+                    "id": "01885911",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-21T17:11:11+1000",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170821/pdf/43lkzsykz2tjw5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2303,
+                "status": [],
+                "market_cap": 30403439,
+                "code": "GMY",
+                "indices": [],
+                "year_open_price": 1.01,
+                "previous_close_price": 1.35,
+                "year_change_price": 0.36,
+                "year_low_date": "2017-05-16T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 22521066,
+                "eps": -0.051,
+                "change_in_percent": "1.481%",
+                "change_price": 0.02,
+                "deprecated_number_of_shares": 22521066,
+                "pe": 0,
+                "offer_price": 1.44,
+                "suspended": false,
+                "last_price": 1.37,
+                "deprecated_market_cap": 30854000,
+                "day_low_price": 1.37,
+                "open_price": 1.37,
+                "year_high_date": "2017-12-01T00:00:00+1100",
+                "previous_day_percentage_change": "2.273%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 1.45,
+                "bid_price": 1.37,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.37,
+                "year_change_in_percentage": "35.644%",
+                "average_daily_volume": 59262,
+                "year_low_price": 0.9,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.goldfieldsmoney.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Wallace",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wallace",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Lyons",
+                    "first_name": "Simon",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lyons",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Austin",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Austin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Hall",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Keith John",
+                    "first_name": "Keith",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "John",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Derek La Ferla",
+                    "first_name": "Derek",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "La Ferla",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Malcolm William Cowell",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cowell",
+                    "middle_name": "William"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Malcolm William Cowell",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cowell",
+                    "middle_name": "William"
+                }
+            ]
+        }
+    }
+}

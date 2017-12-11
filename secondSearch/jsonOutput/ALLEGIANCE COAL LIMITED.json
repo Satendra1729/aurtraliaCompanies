@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AHQ",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ALLEGIANCE COAL LIMITED",
+    "ASXcode": "AHQ",
+    "data": {
+        "summary": {
+            "name_full": "ALLEGIANCE COAL LIMITED",
+            "code": "AHQ",
+            "name_short": "ALLEGIANCE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ALLEGIANCE COAL LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AHQ?image_size=L&v=1484722266000",
+            "foreign_exempt": false,
+            "listing_date": "2012-05-29T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "info@allegiancecoal.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9233 5579",
+            "mailing_address": "Suite 107, 109 Pitt St, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Coal exploration and development.",
+            "fax_number": "(02) 9233 1349",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-08T11:43:07+1000",
+                    "number_of_pages": 75,
+                    "id": "01894168",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-08T11:49:15+1000",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170908/pdf/43m5p9nllvbm3m.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 18435,
+                "status": [],
+                "market_cap": 11391770,
+                "code": "AHQ",
+                "indices": [],
+                "year_open_price": 0.012,
+                "previous_close_price": 0.033,
+                "year_change_price": 0.02,
+                "year_low_date": "2017-06-14T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 345205159,
+                "eps": -0.008,
+                "change_in_percent": "-3.03%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 345205159,
+                "pe": 0,
+                "offer_price": 0.033,
+                "suspended": false,
+                "last_price": 0.032,
+                "deprecated_market_cap": 11047000,
+                "day_low_price": 0.032,
+                "open_price": 0.032,
+                "year_high_date": "2017-09-04T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-07T11:00:00+1100",
+                "year_high_price": 0.051,
+                "bid_price": 0.031,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.032,
+                "year_change_in_percentage": "166.667%",
+                "average_daily_volume": 281302,
+                "year_low_price": 0.02,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "AHQ",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.allegiancecoal.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Malcolm Carson",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Gray",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Fawcett",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fawcett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jonathan Reynolds",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Finance Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reynolds",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jonathan Reynolds",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reynolds",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

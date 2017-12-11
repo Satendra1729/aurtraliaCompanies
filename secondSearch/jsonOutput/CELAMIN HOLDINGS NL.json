@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CNL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CELAMIN HOLDINGS NL",
+    "ASXcode": "CNL",
+    "data": {
+        "summary": {
+            "name_short": "CELAMIN",
+            "name_full": "CELAMIN HOLDINGS NL",
+            "code": "CNL",
+            "primary_share_code": "CNL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CELAMIN HOLDINGS NL",
+            "foreign_exempt": false,
+            "listing_date": "2009-12-17T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "mleydin@leydinfreyer.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9692 7222",
+            "mailing_address": "Level 4, 100 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Mining exploration in North Africa.",
+            "fax_number": "(03) 9077 9233",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "CNL",
+                "indices": [],
+                "year_open_price": 0.01876,
+                "previous_close_price": 0.01,
+                "year_change_price": -0.00876,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2712293860,
+                "eps": -0.0055,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 2712293860,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.01,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-02-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-04T11:00:00+1100",
+                "year_high_price": 0.01,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-46.695%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.celaminnl.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Martin Broome",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Broome",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nic Clift",
+                    "first_name": "Nic",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clift",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sue-Ann Higgins",
+                    "first_name": "Sue-Ann",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Higgins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tim Markwell",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Markwell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Melanie Leydin",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leydin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

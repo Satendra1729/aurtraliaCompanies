@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EFE",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "EASTERN IRON LIMITED",
+    "ASXcode": "EFE",
+    "data": {
+        "summary": {
+            "name_short": "E IRON",
+            "name_full": "EASTERN IRON LIMITED",
+            "code": "EFE",
+            "primary_share_code": "EFE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "EASTERN IRON",
+            "foreign_exempt": false,
+            "listing_date": "2008-05-16T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9906 7551",
+            "mailing_address": "Suite 3, Level 1, 80 Chandos Street, ST LEONARDS, NSW, AUSTRALIA, 2065",
+            "principal_activities": "The discovery and delineation of iron ore resources and reserves in eastern Australia and the development of those resources into economic cash flow generating businesses.",
+            "fax_number": "02 9906 5233",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-23T14:16:47+1000",
+                    "number_of_pages": 53,
+                    "id": "01887021",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-23T14:21:39+1000",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lndj7lx6m4j1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1138058,
+                "status": [],
+                "market_cap": 6074476,
+                "code": "EFE",
+                "indices": [],
+                "year_open_price": 0.042,
+                "previous_close_price": 0.017,
+                "year_change_price": -0.024,
+                "year_low_date": "2017-06-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 357322090,
+                "eps": -0.0148,
+                "change_in_percent": "5.882%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 357322090,
+                "pe": 0,
+                "offer_price": 0.018,
+                "suspended": false,
+                "last_price": 0.018,
+                "deprecated_market_cap": 6432000,
+                "day_low_price": 0.017,
+                "open_price": 0.017,
+                "year_high_date": "2017-11-30T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.02,
+                "bid_price": 0.017,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.018,
+                "year_change_in_percentage": "-57.143%",
+                "average_daily_volume": 1984666,
+                "year_low_price": 0.008,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.easterniron.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Eddie King",
+                    "first_name": "Eddie",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "King",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Myles Fang",
+                    "first_name": "Myles",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Therese-Marie Taylor",
+                    "first_name": "Therese-Marie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Taylor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dahui Zhang",
+                    "first_name": "Dahui",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nathan Taylor",
+                    "first_name": "Nathan",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Taylor",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian White",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "White",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

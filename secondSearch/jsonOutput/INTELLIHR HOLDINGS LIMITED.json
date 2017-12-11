@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IHR",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "INTELLIHR HOLDINGS LIMITED",
+    "ASXcode": "IHR",
+    "data": {
+        "summary": {
+            "name_short": "INTELLIHR",
+            "name_full": "INTELLIHR HOLDINGS LIMITED",
+            "code": "IHR",
+            "primary_share_code": "IHR",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "INTELLIHR HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 993 803",
+            "mailing_address": "c/- McCullough Robertson Lawyers, Level 11, 66 Eagle Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Human resources software",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "IHR",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.intellihr.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Suzanne Yeates",
+                    "first_name": "Suzanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Yeates",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

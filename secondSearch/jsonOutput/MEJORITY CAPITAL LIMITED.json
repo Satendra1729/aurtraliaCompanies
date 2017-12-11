@@ -1,0 +1,135 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MJC",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "MEJORITY CAPITAL LIMITED",
+    "ASXcode": "MJC",
+    "data": {
+        "summary": {
+            "name_short": "MEJORITY",
+            "name_full": "MEJORITY CAPITAL LIMITED",
+            "code": "MJC",
+            "primary_share_code": "MJC",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "MEJORITY CAPITAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-21T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "info@mejoritycapital.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9381 4108",
+            "mailing_address": "Level 2, Suite 9, 389 Oxford Street, MT HAWTHORN, WA, AUSTRALIA, 6016",
+            "principal_activities": "Financial Services",
+            "fax_number": "+61 8 9380 6761",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-08T15:13:38+1000",
+                    "number_of_pages": 63,
+                    "id": "01894266",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-08T15:15:36+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170908/pdf/43m5ws2lpr916x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 1991349,
+                "code": "MJC",
+                "indices": [],
+                "deprecated_number_of_shares": 84732551,
+                "previous_close_price": 0.016,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 124459291,
+                "eps": -0.0096,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.019,
+                "suspended": false,
+                "last_price": 0.016,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-24T00:00:00+1100",
+                "previous_day_percentage_change": "-15.789%",
+                "year_open_date": null,
+                "year_high_price": 0.032,
+                "bid_price": 0.016,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 533389,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://mejoritycapital.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Chew",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Lill",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil Sheather",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sheather",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Wong",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wong",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Simon Lill",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lill",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

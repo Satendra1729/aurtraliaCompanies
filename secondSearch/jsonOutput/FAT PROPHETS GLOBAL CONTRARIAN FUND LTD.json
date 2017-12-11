@@ -1,0 +1,122 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FPC",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "FAT PROPHETS GLOBAL CONTRARIAN FUND LTD",
+    "ASXcode": "FPC",
+    "data": {
+        "summary": {
+            "name_short": "FATGBLCONT",
+            "name_full": "FAT PROPHETS GLOBAL CONTRARIAN FUND LTD",
+            "code": "FPC",
+            "primary_share_code": "FPC",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "FAT PROPHETS GBL LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-03-22T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9024 6725",
+            "mailing_address": "Level 3, 22 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Listed Investment Company",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T13:12:13+1100",
+                    "number_of_pages": 56,
+                    "id": "01913745",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T13:14:51+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nnj34jwh6v45.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3092,
+                "status": [],
+                "market_cap": 51916403,
+                "code": "FPC",
+                "indices": [],
+                "deprecated_number_of_shares": 44949267,
+                "previous_close_price": 1.155,
+                "year_low_date": "2017-09-12T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 44949267,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 1.195,
+                "suspended": false,
+                "last_price": 1.155,
+                "deprecated_market_cap": 51916000,
+                "day_low_price": 1.155,
+                "open_price": 1.16,
+                "year_high_date": "2017-03-22T00:00:00+1100",
+                "previous_day_percentage_change": "0.435%",
+                "year_open_date": null,
+                "year_high_price": 1.5,
+                "bid_price": 1.155,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.16,
+                "average_daily_volume": 43656,
+                "year_low_price": 0.95,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.fatprophetsinvestors.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Gallagher",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gallagher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Angus Geddes",
+                    "first_name": "Angus",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Geddes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Katrina Vanstone",
+                    "first_name": "Katrina",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Vanstone",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Brett Crowley",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crowley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NXR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NEMEX RESOURCES LIMITED",
+    "ASXcode": "NXR",
+    "data": {
+        "summary": {
+            "name_short": "NEMEX RESO",
+            "name_full": "NEMEX RESOURCES LIMITED",
+            "code": "NXR",
+            "primary_share_code": "NXR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NEMEX RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-05-02T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9388 2277",
+            "mailing_address": "Level 2, Suite 9, 389 Oxford Street, MOUNT HAWTHORN, WA, AUSTRALIA, 6016",
+            "principal_activities": "Iron ore exploration and development in Australia and West Africa.",
+            "fax_number": "+61 8 9380 6761",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-09-26T19:24:38+1000",
+                    "number_of_pages": 54,
+                    "id": "01900231",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T19:27:19+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mnh4d347lts0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "NXR",
+                "indices": [],
+                "year_open_price": 0.019,
+                "previous_close_price": 0.02,
+                "year_change_price": 0.001,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 241325421,
+                "eps": -0.0066,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 241325421,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.02,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-12-16T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.023,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "5.263%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.nemexres.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Hui Zhang",
+                    "first_name": "Hui",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tao Ding",
+                    "first_name": "Tao",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ding",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yongjin Li",
+                    "first_name": "Yongjin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Paul Jurman",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jurman",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

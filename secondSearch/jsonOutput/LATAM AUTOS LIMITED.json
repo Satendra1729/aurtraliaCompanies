@@ -1,0 +1,163 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LAA",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "LATAM AUTOS LIMITED",
+    "ASXcode": "LAA",
+    "data": {
+        "summary": {
+            "name_short": "LAT AM",
+            "name_full": "LATAM AUTOS LIMITED",
+            "code": "LAA",
+            "primary_share_code": "LAA",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "LATAM AUTOS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2014-12-17T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9692 7222",
+            "mailing_address": "Level 4, 96-100 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Operator of car classifieds and content websites in Latin America.",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts 2016",
+                    "document_date": "2017-04-13T15:01:55+1000",
+                    "number_of_pages": 71,
+                    "id": "01848025",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-13T15:03:55+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170413/pdf/43hj52k6d0bwls.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 45265560,
+                "code": "LAA",
+                "indices": [],
+                "deprecated_number_of_shares": 312176277,
+                "previous_close_price": 0.145,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 312176277,
+                "eps": -0.043,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.15,
+                "suspended": false,
+                "last_price": 0.145,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.26,
+                "bid_price": 0.155,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 268964,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.latamautos.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Timothy Handley",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Handley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jorge Ribadeneira",
+                    "first_name": "Jorge",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ribadeneira",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Clausen",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clausen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Fitzpatrick",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzpatrick",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colin Galbraith",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Galbraith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gareth Bannan",
+                    "first_name": "Gareth",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bannan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gareth Bannan",
+                    "first_name": "Gareth",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bannan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Melanie Leydin",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leydin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

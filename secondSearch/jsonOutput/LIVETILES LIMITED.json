@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LVT",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "LIVETILES LIMITED",
+    "ASXcode": "LVT",
+    "data": {
+        "summary": {
+            "name_short": "LIVETILES",
+            "name_full": "LIVETILES LIMITED",
+            "code": "LVT",
+            "primary_share_code": "LVT",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "LIVETILES LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1999-08-17T00:00:00+1000",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8072 1400",
+            "mailing_address": "c/- Whittens & McKeough, Level 29, 201 Elizabeth Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The Company is engaged in the development and sale of business software in Australia and overseas.",
+            "fax_number": "+61 2 9283 1970",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-27T10:22:22+1000",
+                    "number_of_pages": 68,
+                    "id": "01900425",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T10:24:23+1000",
+                    "size": "779.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mnz1zvbntv1y.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 449063,
+                "status": [],
+                "market_cap": 114501904,
+                "code": "LVT",
+                "indices": [],
+                "year_open_price": 0.003,
+                "previous_close_price": 0.255,
+                "year_change_price": 0.242,
+                "year_low_date": "2016-12-16T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 449027073,
+                "eps": -0.0216,
+                "change_in_percent": "-3.922%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 448127073,
+                "pe": 0,
+                "offer_price": 0.245,
+                "suspended": false,
+                "last_price": 0.245,
+                "deprecated_market_cap": 109791000,
+                "day_low_price": 0.24,
+                "open_price": 0.255,
+                "year_high_date": "2017-10-12T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.34,
+                "bid_price": 0.24,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.26,
+                "year_change_in_percentage": "8,066.667%",
+                "average_daily_volume": 387472,
+                "year_low_price": 0.105,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.livetiles.nyc",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Gray",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Cassandra Kelly",
+                    "first_name": "Cassandra",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Karl Redenbach",
+                    "first_name": "Karl",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Redenbach",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Brown",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andy McKeon",
+                    "first_name": "Andy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKeon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Nguyen-Brown",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nguyen-Brown",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew John Whitten",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whitten",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

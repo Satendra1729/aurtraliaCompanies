@@ -1,0 +1,174 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FSA",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "FSA GROUP LIMITED",
+    "ASXcode": "FSA",
+    "data": {
+        "summary": {
+            "name_short": "FSA GROUP",
+            "name_full": "FSA GROUP LIMITED",
+            "code": "FSA",
+            "primary_share_code": "FSA",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "FSA GROUP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2001-01-11T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "4C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-18T00:00:00+1000",
+                "record_date": "2017-08-25T00:00:00+1000",
+                "payable_date": "2017-09-08T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.04,
+                "ex_date": "2017-08-24T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300660032",
+            "mailing_address": "Level 3, 70 Phillip Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The provision of debt solutions to individuals and businesses.",
+            "fax_number": "61 2 8985 5371",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-18T13:43:16+1000",
+                    "number_of_pages": 75,
+                    "id": "01885230",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-18T13:48:44+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170818/pdf/43lj3qsy61nd8l.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 74763,
+                "status": [],
+                "market_cap": 187638915,
+                "code": "FSA",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.17,
+                "previous_close_price": 1.5,
+                "year_change_price": 0.43,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 125092610,
+                "eps": 0.1208,
+                "change_in_percent": "6.667%",
+                "change_price": 0.1,
+                "deprecated_number_of_shares": 125092610,
+                "pe": 13.25,
+                "offer_price": 1.6,
+                "suspended": false,
+                "last_price": 1.6,
+                "deprecated_market_cap": 200148000,
+                "day_low_price": 1.51,
+                "open_price": 1.51,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-0.662%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.65,
+                "bid_price": 1.565,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.65,
+                "year_change_in_percentage": "36.752%",
+                "average_daily_volume": 47617,
+                "year_low_price": 1.2,
+                "annual_dividend_yield": 4.38
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.fsagroup.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Sam Doumany",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Doumany",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tim Odillo Maher",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Odillo Maher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Deborah Southon",
+                    "first_name": "Deborah",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Southon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stan Kalinko",
+                    "first_name": "Stan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kalinko",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Cellina Chen",
+                    "first_name": "Cellina",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Cellina Chen",
+                    "first_name": "Cellina",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Donald Mackenzie",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackenzie",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

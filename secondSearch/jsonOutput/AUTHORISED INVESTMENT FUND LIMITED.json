@@ -1,0 +1,117 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AIY",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "AUTHORISED INVESTMENT FUND LIMITED",
+    "ASXcode": "AIY",
+    "data": {
+        "summary": {
+            "name_short": "AUTHINVEST",
+            "name_full": "AUTHORISED INVESTMENT FUND LIMITED",
+            "code": "AIY",
+            "primary_share_code": "AIY",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "AUTHORISED INVEST.",
+            "foreign_exempt": false,
+            "listing_date": "1999-03-19T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "cathywhlin@gmail.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9600 3242",
+            "mailing_address": "Level 9, 406 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Invest in small to medium sized companies providing them with patient equity capital to assist in development and expansion in accordance with the provisions of the Pooled Development Funds Act 1992 (Cth)",
+            "fax_number": "(03) 9600 3245",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 4119565,
+                "code": "AIY",
+                "indices": [],
+                "year_open_price": 0.026,
+                "previous_close_price": 0.028,
+                "year_change_price": 0.002,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 147127312,
+                "eps": -0.0132,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 147127312,
+                "pe": 0,
+                "offer_price": 0.028,
+                "suspended": false,
+                "last_price": 0.028,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-18T00:00:00+1100",
+                "previous_day_percentage_change": "-3.448%",
+                "year_open_date": "2014-03-10T11:00:00+1100",
+                "year_high_price": 0.03,
+                "bid_price": 0.025,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "7.692%",
+                "average_daily_volume": 199730,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.authorisedinvestment.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ben Genser",
+                    "first_name": "Ben",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Genser",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Craig",
+                    "first_name": "David",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Craig",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Baring-Gould",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baring-Gould",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Cathy Wei Lin",
+                    "first_name": "Cathy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lin",
+                    "middle_name": "Wei"
+                }
+            ]
+        }
+    }
+}

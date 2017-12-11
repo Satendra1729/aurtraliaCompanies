@@ -1,0 +1,168 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/R3D",
+    "GICSindustrygroup": "Media",
+    "Companyname": "R3D GLOBAL LIMITED",
+    "ASXcode": "R3D",
+    "data": {
+        "summary": {
+            "name_full": "R3D GLOBAL LIMITED",
+            "code": "R3D",
+            "name_short": "R3DGLOBAL",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "R3D GLOBAL LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/R3D?image_size=L&v=1480986246000",
+            "foreign_exempt": false,
+            "listing_date": "2004-12-17T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "sydneyhq@r3d.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 8823 3640",
+            "mailing_address": "Level 36, Governor Phillip Tower, 1 Farrer Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provide investor relations and digital media services to publicly listed companies and companies seeking access to capital markets",
+            "fax_number": "02 8823 3788",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-29T11:22:07+1000",
+                    "number_of_pages": 50,
+                    "id": "01902081",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T11:24:14+1000",
+                    "size": "698.7KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msf3cshss95h.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 1028676,
+                "code": "R3D",
+                "indices": [],
+                "deprecated_number_of_shares": 17854411,
+                "previous_close_price": 0.025,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 41147058,
+                "eps": -0.1093,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.3,
+                "suspended": false,
+                "last_price": 0.025,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-28T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.115,
+                "bid_price": 0.03,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 5045,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "R3D",
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.r3d.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Daniel Yeo",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yeo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Florence Fang",
+                    "first_name": "Florence",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Fang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yuen Alex Chin",
+                    "first_name": "Yuen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chin",
+                    "middle_name": "Alex"
+                },
+                {
+                    "full_name": "Mr Kasudjono Harianto",
+                    "first_name": "Kasudjono",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harianto",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Thirnbeck",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thirnbeck",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Tiffany Tsao",
+                    "first_name": "Tiffany",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Tsao",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Henry Kinstlinger",
+                    "first_name": "Henry",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kinstlinger",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sonny Didugu",
+                    "first_name": "Sonny",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Didugu",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

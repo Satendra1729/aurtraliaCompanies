@@ -1,0 +1,125 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LVE",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "LOVE GROUP GLOBAL LTD",
+    "ASXcode": "LVE",
+    "data": {
+        "summary": {
+            "name_short": "LOVEGROUP",
+            "name_full": "LOVE GROUP GLOBAL LTD",
+            "code": "LVE",
+            "primary_share_code": "LVE",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "LOVE GROUP GLOBAL",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/LVE?image_size=L&v=1496628557000",
+            "foreign_exempt": false,
+            "listing_date": "2014-12-05T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9486 4036",
+            "mailing_address": "Unit 5, Ground Floor, 1 Centro Avenue, SUBIACO, WA, AUSTRALIA, 6005",
+            "principal_activities": "On-demand dating business.",
+            "fax_number": "08 9486 4799",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E & Annual Report",
+                    "document_date": "2017-08-31T09:41:24+1000",
+                    "number_of_pages": 78,
+                    "id": "01890780",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-31T09:44:15+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lxvhyc81b81q.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 4248139,
+                "code": "LVE",
+                "indices": [],
+                "deprecated_number_of_shares": 28362136,
+                "previous_close_price": 0.11,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 38619441,
+                "eps": -0.1,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.14,
+                "suspended": false,
+                "last_price": 0.11,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-13T00:00:00+1100",
+                "previous_day_percentage_change": "-8.333%",
+                "year_open_date": null,
+                "year_high_price": 0.34,
+                "bid_price": 0.095,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 46181,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.lovegroup.co/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Terence Grigg",
+                    "first_name": "Terence",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grigg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Ye",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ye",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leigh Kelson",
+                    "first_name": "Leigh",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Daniel Smith",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

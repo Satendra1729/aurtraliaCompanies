@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IBC",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "IRONBARK CAPITAL LIMITED",
+    "ASXcode": "IBC",
+    "data": {
+        "summary": {
+            "name_short": "IRONBARK",
+            "name_full": "IRONBARK CAPITAL LIMITED",
+            "code": "IBC",
+            "primary_share_code": "IBC",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "IRONBARK CAPITAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "1987-04-02T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "0.75C FRANKED@27.5%; DRP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-08-31T00:00:00+1000",
+                "payable_date": "2017-09-20T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.0075,
+                "ex_date": "2017-08-30T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8917 0399",
+            "mailing_address": "Level 27, 45 Clarence Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment of funds in securities listed on the Australian Stock Exchange.",
+            "fax_number": "(02) 8917 0377",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report and Notice of AGM",
+                    "document_date": "2017-09-22T14:17:37+1000",
+                    "number_of_pages": 53,
+                    "id": "01899013",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T14:20:52+1000",
+                    "size": "2.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mkdlp4gh6ljf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 70688205,
+                "code": "IBC",
+                "indices": [],
+                "year_open_price": 0.55261,
+                "previous_close_price": 0.515,
+                "year_change_price": -0.03761,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 137258651,
+                "eps": 0.0355,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 137258651,
+                "pe": 14.51,
+                "offer_price": 0.525,
+                "suspended": false,
+                "last_price": 0.515,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-25T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.53,
+                "bid_price": 0.515,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-6.806%",
+                "average_daily_volume": 42006,
+                "year_low_price": 0,
+                "annual_dividend_yield": 7.28
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.ironbarkcapital.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael J Cole",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cole",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Ross J Finley",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Finley",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Ian Hunter",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hunter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jill Brewster",
+                    "first_name": "Jill",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Brewster",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jill Brewster",
+                    "first_name": "Jill",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Brewster",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

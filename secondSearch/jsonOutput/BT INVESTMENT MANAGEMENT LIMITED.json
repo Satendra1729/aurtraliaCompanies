@@ -1,0 +1,237 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BTT",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "BT INVESTMENT MANAGEMENT LIMITED",
+    "ASXcode": "BTT",
+    "data": {
+        "summary": {
+            "name_short": "BT INVEST",
+            "name_full": "BT INVESTMENT MANAGEMENT LIMITED",
+            "code": "BTT",
+            "primary_share_code": "BTT",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "BT INVESTMENT MNGMNT",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-10T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "6.5C FRANKED@30%; 19 .5C CFI; DRP NIL DIS",
+                "franked_percentage": "25%",
+                "created_date": "2017-11-08T00:00:00+1100",
+                "record_date": "2017-12-08T00:00:00+1100",
+                "payable_date": "2017-12-20T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.26,
+                "ex_date": "2017-12-07T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(02) 9220 2000",
+            "mailing_address": "Level 14, The Chifley Tower, 2 Chifley Square, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": ".",
+            "fax_number": "(02) 9220 2306",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Profit Announcement - Annual Report",
+                    "document_date": "2017-11-08T08:34:03+1100",
+                    "number_of_pages": 128,
+                    "id": "01918964",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-08T08:37:33+1100",
+                    "size": "8.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171108/pdf/43p1j0szhw80cb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 788812,
+                "status": [
+                    "XD"
+                ],
+                "market_cap": 3383317418,
+                "code": "BTT",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 6.38,
+                "previous_close_price": 10.69,
+                "year_change_price": 4.34,
+                "year_low_date": "2017-02-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 316493678,
+                "eps": 0.548,
+                "change_in_percent": "0.281%",
+                "change_price": 0.03,
+                "deprecated_number_of_shares": 316493678,
+                "pe": 19.56,
+                "offer_price": 10.76,
+                "suspended": false,
+                "last_price": 10.72,
+                "deprecated_market_cap": 3392812000,
+                "day_low_price": 10.56,
+                "open_price": 10.69,
+                "year_high_date": "2017-05-10T00:00:00+1000",
+                "previous_day_percentage_change": "-4.039%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 13.26,
+                "bid_price": 10.71,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 10.76,
+                "year_change_in_percentage": "68.025%",
+                "average_daily_volume": 970855,
+                "year_low_price": 9.06,
+                "annual_dividend_yield": 4.2
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.btim.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James Evans",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Emilio Gonzalez",
+                    "first_name": "Emilio",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gonzalez",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Meredith Brooks",
+                    "first_name": "Meredith",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Brooks",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Fay",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fay",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathryn Matthews",
+                    "first_name": "Kathryn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Matthews",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Deborah Page",
+                    "first_name": "Deborah",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Page",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cameron Williamson",
+                    "first_name": "Cameron",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williamson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Joanne Hawkins",
+                    "first_name": "Joanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hawkins",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

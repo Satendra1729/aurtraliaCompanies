@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IPE",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "IPE LIMITED",
+    "ASXcode": "IPE",
+    "data": {
+        "summary": {
+            "name_short": "IPE LTD",
+            "name_full": "IPE LIMITED",
+            "last_dividend": {
+                "comments": "UNFRANKED;NIL CFI;DR P SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-03-08T00:00:00+1100",
+                "record_date": "2017-03-24T00:00:00+1100",
+                "payable_date": "2017-04-12T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.012,
+                "ex_date": "2017-03-23T00:00:00+1100"
+            },
+            "code": "IPE",
+            "primary_share_code": "IPE",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "IPE LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-11-25T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "ipe@pafunds.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 92985161",
+            "mailing_address": "Level 9, 1 Castlereagh Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investing on a multi-manager basis in private equity funds managed by investment professionals specialising in the acquisition, management and divestment of unlisted investments.",
+            "fax_number": "+61 2 9999 9999",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-08-23T09:11:39+1000",
+                    "number_of_pages": 59,
+                    "id": "01886751",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-23T09:13:58+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lmvvjfg45rk8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 13157284,
+                "code": "IPE",
+                "indices": [],
+                "year_open_price": 0.37464,
+                "previous_close_price": 0.097,
+                "year_change_price": -0.27764,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 135642099,
+                "eps": -0.0076,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 135642099,
+                "pe": 0,
+                "offer_price": 0.099,
+                "suspended": false,
+                "last_price": 0.097,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-09T00:00:00+1100",
+                "previous_day_percentage_change": "-1.02%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.151,
+                "bid_price": 0.097,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-74.108%",
+                "average_daily_volume": 97599,
+                "year_low_price": 0,
+                "annual_dividend_yield": 35.05
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.ipelimited.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://www.ipelimited.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoffrey Brunsdon",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brunsdon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jon Schahinger",
+                    "first_name": "Jon",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schahinger",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Milton Sims",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sims",
+                    "middle_name": "Milton"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Samuel Richard Jackson",
+                    "first_name": "Samuel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jackson",
+                    "middle_name": "Richard"
+                }
+            ]
+        }
+    }
+}

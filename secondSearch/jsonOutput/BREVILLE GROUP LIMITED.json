@@ -1,0 +1,220 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BRG",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "BREVILLE GROUP LIMITED",
+    "ASXcode": "BRG",
+    "data": {
+        "summary": {
+            "name_short": "BREVILLE",
+            "name_full": "BREVILLE GROUP LIMITED",
+            "code": "BRG",
+            "primary_share_code": "BRG",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "BREVILLE GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "1999-05-25T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "9C FRANKED @ 30%; NI L CFI; DRP SUSP",
+                "franked_percentage": "60%",
+                "created_date": "2017-08-17T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.15,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9384 8100",
+            "mailing_address": "Ground Floor, Suite 2, 170-180 Bourke Road, ALEXANDRIA, NSW, AUSTRALIA, 2015",
+            "principal_activities": "Design, development, marketing and distribution of small electrical appliances in more than 50 countries around the world including Australia, New Zealand, Canada,  USA and the UK",
+            "fax_number": "02 9700 1249",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-03T08:41:33+1100",
+                    "number_of_pages": 100,
+                    "id": "01903470",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-03T08:48:08+1100",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171003/pdf/43mwr6fxgbhy0r.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 85945,
+                "status": [],
+                "market_cap": 1678229654,
+                "code": "BRG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    }
+                ],
+                "year_open_price": 9.65,
+                "previous_close_price": 12.9,
+                "year_change_price": 3.25,
+                "year_low_date": "2016-12-14T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 130095322,
+                "eps": 0.414,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 130095322,
+                "pe": 31.16,
+                "offer_price": 13.15,
+                "suspended": false,
+                "last_price": 12.9,
+                "deprecated_market_cap": 1678230000,
+                "day_low_price": 12.85,
+                "open_price": 12.89,
+                "year_high_date": "2017-12-01T00:00:00+1100",
+                "previous_day_percentage_change": "-0.155%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 13.37,
+                "bid_price": 12.8,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 13.01,
+                "year_change_in_percentage": "33.679%",
+                "average_daily_volume": 178314,
+                "year_low_price": 8,
+                "annual_dividend_yield": 2.36
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.brevillegroup.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Steven Fisher",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fisher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jim Clayton",
+                    "first_name": "Jim",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clayton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tim Antonie",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Antonie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sally Herman",
+                    "first_name": "Sally",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Herman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dean Howell",
+                    "first_name": "Dean",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Howell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lawrence Myers",
+                    "first_name": "Lawrence",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Myers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kate Wright",
+                    "first_name": "Kate",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wright",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sasha Kitto",
+                    "first_name": "Sasha",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kitto",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

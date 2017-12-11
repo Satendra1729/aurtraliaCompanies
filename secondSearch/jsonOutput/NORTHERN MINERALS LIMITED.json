@@ -1,0 +1,180 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NTU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NORTHERN MINERALS LIMITED",
+    "ASXcode": "NTU",
+    "data": {
+        "summary": {
+            "name_short": "NTH MINS",
+            "name_full": "NORTHERN MINERALS LIMITED",
+            "code": "NTU",
+            "primary_share_code": "NTU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NORTHERN MIN LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/NTU?image_size=L&v=1442208431000",
+            "foreign_exempt": false,
+            "listing_date": "2006-11-15T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9481 2344",
+            "mailing_address": "Level 1, 675 Murray Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration and development company, with a large and prospective landholding in WA and the NT which also include a number of high value Rare Earth Element\r\nprojects.",
+            "fax_number": "+61 8 9481 5929",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-30T10:28:18+1100",
+                    "number_of_pages": 104,
+                    "id": "01914557",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-30T10:30:51+1100",
+                    "size": "5.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171030/pdf/43nqlhnv1p5cgd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 890053,
+                "status": [],
+                "market_cap": 78199740,
+                "code": "NTU",
+                "indices": [],
+                "year_open_price": 0.18,
+                "previous_close_price": 0.098,
+                "year_change_price": -0.081,
+                "year_low_date": "2017-07-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 797956528,
+                "eps": -0.021,
+                "change_in_percent": "1.02%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 789528128,
+                "pe": 0,
+                "offer_price": 0.1,
+                "suspended": false,
+                "last_price": 0.099,
+                "deprecated_market_cap": 78163000,
+                "day_low_price": 0.097,
+                "open_price": 0.097,
+                "year_high_date": "2017-02-24T00:00:00+1100",
+                "previous_day_percentage_change": "-6.667%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.15,
+                "bid_price": 0.099,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.105,
+                "year_change_in_percentage": "-45%",
+                "average_daily_volume": 676779,
+                "year_low_price": 0.091,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.northernminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Conglin Yue",
+                    "first_name": "Conglin",
+                    "roles": [
+                        "Executive Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yue",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Schultz",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Deputy Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schultz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr George Bauk",
+                    "first_name": "George",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bauk",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adrian Christopher Griffin",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Griffin",
+                    "middle_name": "Christopher"
+                },
+                {
+                    "full_name": "Mr Colin James McCavana",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McCavana",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Ms Yanchun Wang",
+                    "first_name": "Yanchun",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bin Cai",
+                    "first_name": "Bin",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cai",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Kevin Tory",
+                    "first_name": "Mark",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tory",
+                    "middle_name": "Kevin"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Kevin Tory",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tory",
+                    "middle_name": "Kevin"
+                }
+            ]
+        }
+    }
+}

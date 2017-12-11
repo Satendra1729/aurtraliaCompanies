@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GRV",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "GREENVALE ENERGY LIMITED",
+    "ASXcode": "GRV",
+    "data": {
+        "summary": {
+            "name_short": "GREENVALE",
+            "name_full": "GREENVALE ENERGY LIMITED",
+            "code": "GRV",
+            "primary_share_code": "GRV",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "GREENVALE ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "1971-07-28T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@greenvaleenergy.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9237 6524",
+            "mailing_address": "Level 8, 1 O'Connell St, SYDNEY, NSW, AUSTRALIA, 2082",
+            "principal_activities": "Mineral exploration in Queensland with a focus on Oil Shale",
+            "fax_number": "02 8346 6099",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-09-22T08:47:03+1000",
+                    "number_of_pages": 64,
+                    "id": "01898772",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T08:49:41+1000",
+                    "size": "2.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mjxfvc5hwq49.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 2333884,
+                "code": "GRV",
+                "indices": [],
+                "year_open_price": 0.055,
+                "previous_close_price": 0.025,
+                "year_change_price": -0.03,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 93355357,
+                "eps": -0.0055,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 93355357,
+                "pe": 0,
+                "offer_price": 0.033,
+                "suspended": false,
+                "last_price": 0.025,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-01T00:00:00+1100",
+                "previous_day_percentage_change": "-7.407%",
+                "year_open_date": "2014-03-06T11:00:00+1100",
+                "year_high_price": 0.056,
+                "bid_price": 0.027,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-54.545%",
+                "average_daily_volume": 148809,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.greenvaleenergy.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Elias Khouri",
+                    "first_name": "Elias",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Khouri",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Povey",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Povey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Vince Fayad",
+                    "first_name": "Vince",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fayad",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Vince Fayad",
+                    "first_name": "Vince",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fayad",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

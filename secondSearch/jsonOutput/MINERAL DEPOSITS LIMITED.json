@@ -1,0 +1,170 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MDL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MINERAL DEPOSITS LIMITED",
+    "ASXcode": "MDL",
+    "data": {
+        "summary": {
+            "name_full": "MINERAL DEPOSITS LIMITED",
+            "code": "MDL",
+            "name_short": "MINDEPOSIT",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MINERAL DEPOSITS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MDL?image_size=L&v=1422409137000",
+            "foreign_exempt": false,
+            "listing_date": "1997-03-10T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "mdlmail@mineraldeposits.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9618 2500",
+            "mailing_address": "Level 17, 530 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "MDL owns 50% of the TiZir joint venture in partnership with ERAMET of France.\nThe TiZir JV comprises two integrated, producing assets - the Grande Cote mineral sands operation in Senegal and the TiZir Titanium & Iron ilmenite upgrading facility in Norway",
+            "fax_number": "(03) 9621 1460",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E & Annual Report for the y/e 31 December 2016",
+                    "document_date": "2017-02-24T07:35:45+1100",
+                    "number_of_pages": 89,
+                    "id": "01832014",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-24T08:10:04+1100",
+                    "size": "4.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170224/pdf/43g8p7bqth80x1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 207440,
+                "status": [],
+                "market_cap": 196985649,
+                "code": "MDL",
+                "indices": [],
+                "year_open_price": 2.35,
+                "previous_close_price": 1,
+                "year_change_price": -1.33,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 196985649,
+                "eps": -0.2518,
+                "change_in_percent": "2%",
+                "change_price": 0.02,
+                "deprecated_number_of_shares": 196985649,
+                "pe": 0,
+                "offer_price": 1.11,
+                "suspended": false,
+                "last_price": 1.02,
+                "deprecated_market_cap": 200925000,
+                "day_low_price": 0.99,
+                "open_price": 1,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "1.01%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.04,
+                "bid_price": 1.01,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.04,
+                "year_change_in_percentage": "-56.596%",
+                "average_daily_volume": 290692,
+                "year_low_price": 0.36,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "MDL",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.mineraldeposits.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.mineraldeposits.com.au/investors/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Nic Limb",
+                    "first_name": "Nic",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Limb",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rob Sennitt",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sennitt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Ackland",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ackland",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sandy MacDonald",
+                    "first_name": "Sandy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "MacDonald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Tom Whiting",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Whiting",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jozsef Patarica",
+                    "first_name": "Jozsef",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Patarica",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Bell",
+                    "first_name": "Greg",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Dr Michaela Evans",
+                    "first_name": "Michaela",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BRU",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "BURU ENERGY LIMITED",
+    "ASXcode": "BRU",
+    "data": {
+        "summary": {
+            "name_short": "BURUENERGY",
+            "name_full": "BURU ENERGY LIMITED",
+            "code": "BRU",
+            "primary_share_code": "BRU",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "BURU ENERGY",
+            "foreign_exempt": false,
+            "listing_date": "2008-09-01T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9215 1800",
+            "mailing_address": "Level 2, 88 William Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Petroleum exploration.",
+            "fax_number": "(08) 9215 1899",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-03-31T16:36:14+1100",
+                    "number_of_pages": 79,
+                    "id": "01844002",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T16:39:17+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h69vt3mz53d2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 322237,
+                "status": [],
+                "market_cap": 123126080,
+                "code": "BRU",
+                "indices": [],
+                "year_open_price": 1.43,
+                "previous_close_price": 0.285,
+                "year_change_price": -1.15,
+                "year_low_date": "2017-03-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 432021333,
+                "eps": -0.0858,
+                "change_in_percent": "-1.754%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 432021333,
+                "pe": 0,
+                "offer_price": 0.285,
+                "suspended": false,
+                "last_price": 0.28,
+                "deprecated_market_cap": 120966000,
+                "day_low_price": 0.28,
+                "open_price": 0.285,
+                "year_high_date": "2017-11-02T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.33,
+                "bid_price": 0.28,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.295,
+                "year_change_in_percentage": "-80.42%",
+                "average_daily_volume": 697758,
+                "year_low_price": 0.151,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.buruenergy.com",
+            "registry_name": "LINK MARKET SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Eric Streitberg",
+                    "first_name": "Eric",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Streitberg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Eve Howell",
+                    "first_name": "Eve",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Howell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "The Hon Peter V Jones",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "Jones",
+                    "middle_name": "V"
+                },
+                {
+                    "full_name": "Mr Robert Willes",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Willes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nick Rohr",
+                    "first_name": "Nick",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rohr",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Shane McDermott",
+                    "first_name": "Shane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDermott",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

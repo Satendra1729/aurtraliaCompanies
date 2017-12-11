@@ -1,0 +1,208 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ELD",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "ELDERS LIMITED",
+    "ASXcode": "ELD",
+    "data": {
+        "summary": {
+            "name_short": "ELDERS",
+            "name_full": "ELDERS LIMITED",
+            "code": "ELD",
+            "primary_share_code": "ELD",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "ELDERS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1981-06-30T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "15C FR@30%; 7.5C SPE CIAL; DRP NIL DISC",
+                "franked_percentage": "100%",
+                "created_date": "2017-11-13T00:00:00+1100",
+                "record_date": "2017-11-21T00:00:00+1100",
+                "payable_date": "2017-12-15T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.15,
+                "ex_date": "2017-11-20T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "mailing_address": "Level 10, 80 Grenfell Street, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": ".",
+            "latest_annual_reports": [
+                {
+                    "header": "Elders Full Year Appendix 4E and Annual Report",
+                    "document_date": "2017-11-13T09:33:23+1100",
+                    "number_of_pages": 137,
+                    "id": "01920515",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-11-13T09:37:28+1100",
+                    "size": "16.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171113/pdf/43p5d7t1mmk2lj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 434960,
+                "status": [
+                    "XD"
+                ],
+                "market_cap": 808879610,
+                "code": "ELD",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.935,
+                "previous_close_price": 7,
+                "year_change_price": 6.155,
+                "year_low_date": "2016-12-22T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 115554230,
+                "eps": 1.019,
+                "change_in_percent": "1.286%",
+                "change_price": 0.09,
+                "deprecated_number_of_shares": 115554230,
+                "pe": 6.96,
+                "offer_price": 7.18,
+                "suspended": false,
+                "last_price": 7.09,
+                "deprecated_market_cap": 819279000,
+                "day_low_price": 7,
+                "open_price": 7,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-0.85%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 7.275,
+                "bid_price": 7.01,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 7.275,
+                "year_change_in_percentage": "658.289%",
+                "average_daily_volume": 382724,
+                "year_low_price": 3.763,
+                "annual_dividend_yield": 1.06
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.elders.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Hutch Ranck",
+                    "first_name": "Hutch",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ranck",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Allison",
+                    "first_name": "Mark",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Allison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Robyn Clubb",
+                    "first_name": "Robyn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Clubb",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Diana Eilert",
+                    "first_name": "Diana",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Eilert",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Andrew Jackson",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jackson",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Mr Ian Wilton",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Davey",
+                    "first_name": "Richard",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davey",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Hastings",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hastings",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sanjeeta Singh",
+                    "first_name": "Sanjeeta",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Singh",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

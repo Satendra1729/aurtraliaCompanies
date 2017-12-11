@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/4CE",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FORCE COMMODITIES LIMITED",
+    "ASXcode": "4CE",
+    "data": {
+        "summary": {
+            "name_short": "FORCECOM",
+            "name_full": "FORCE COMMODITIES LIMITED",
+            "code": "4CE",
+            "primary_share_code": "4CE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "FORCE COM LTD",
+            "foreign_exempt": false,
+            "listing_date": "2010-12-03T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6202 6530",
+            "mailing_address": "c/-, 22 Townshend Road, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "The Company's business is lithium exploration in DRC and exploration for gold in New South Wales.",
+            "fax_number": "(08) 6323 3347",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-30T20:41:30+1000",
+                    "number_of_pages": 64,
+                    "id": "01852741",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-05-01T08:11:23+1000",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170501/pdf/43hx6hsx457nxb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 31932292,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 19415485,
+                "code": "4CE",
+                "indices": [],
+                "year_open_price": 0.125,
+                "previous_close_price": 0.071,
+                "year_change_price": -0.049,
+                "year_low_date": "2017-06-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 273457537,
+                "eps": -0.0249,
+                "change_in_percent": "7.042%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 273457537,
+                "pe": 0,
+                "offer_price": 0.077,
+                "suspended": false,
+                "last_price": 0.076,
+                "deprecated_market_cap": 20783000,
+                "day_low_price": 0.07,
+                "open_price": 0.07,
+                "year_high_date": "2017-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "-21.111%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.096,
+                "bid_price": 0.076,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.082,
+                "year_change_in_percentage": "-39.2%",
+                "average_daily_volume": 8377192,
+                "year_low_price": 0.016,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.forcecommodities.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Sanders",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sanders",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jason Brewer",
+                    "first_name": "Jason",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brewer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Glovac",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Glovac",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Michael Fry",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fry",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

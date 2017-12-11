@@ -1,0 +1,125 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RGL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RIVERSGOLD LIMITED",
+    "ASXcode": "RGL",
+    "data": {
+        "summary": {
+            "name_short": "RIVERSGOLD",
+            "name_full": "RIVERSGOLD LIMITED",
+            "code": "RGL",
+            "primary_share_code": "RGL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RIVERSGOLD",
+            "foreign_exempt": false,
+            "listing_date": "2017-10-10T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@riversgold.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9316 9100",
+            "mailing_address": "Suite 8, 7 The Esplanade, MT PLEASANT, WA, AUSTRALIA, 6153",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "08 9315 5475",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-10-18T16:24:12+1100",
+                    "number_of_pages": 60,
+                    "id": "01909479",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-18T16:25:48+1100",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171018/pdf/43nbw8tbk46bvc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 15311513,
+                "code": "RGL",
+                "indices": [],
+                "deprecated_number_of_shares": 35627435,
+                "previous_close_price": 0.185,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 82764935,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.175,
+                "suspended": false,
+                "last_price": 0.185,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-10T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.24,
+                "bid_price": 0.165,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 74692,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.riversgold.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Roderick Webster",
+                    "first_name": "Roderick",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Webster",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Allan Kelly",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeffrey Foster",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Foster",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kevin Hart",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hart",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

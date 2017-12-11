@@ -1,0 +1,238 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CAR",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "CARSALES.COM LIMITED.",
+    "ASXcode": "CAR",
+    "data": {
+        "summary": {
+            "name_short": "CARSALES",
+            "name_full": "CARSALES.COM LIMITED.",
+            "code": "CAR",
+            "primary_share_code": "CAR",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "CARSALES.COM LTD.",
+            "foreign_exempt": false,
+            "listing_date": "2009-09-10T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "21.5C FRANKED@30%; D RP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-09T00:00:00+1000",
+                "record_date": "2017-09-22T00:00:00+1000",
+                "payable_date": "2017-10-19T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.215,
+                "ex_date": "2017-09-21T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(03) 9093 8600",
+            "mailing_address": "Level 4, 449 Punt Road, Richmond, VIC, AUSTRALIA, 3121",
+            "principal_activities": "Online automotive advertising.",
+            "fax_number": "(03) 9093 8698",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report 2017",
+                    "document_date": "2017-08-08T19:57:27+1000",
+                    "number_of_pages": 126,
+                    "id": "01881986",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-09T08:15:47+1000",
+                    "size": "4.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170809/pdf/43l8bk1r98pk9g.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1010462,
+                "status": [],
+                "market_cap": 3613443879,
+                "code": "CAR",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Tech",
+                        "index_code": "XIJ",
+                        "name_abrev": "Info Technology",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Information Technology (Sector)"
+                    }
+                ],
+                "year_open_price": 10.68,
+                "previous_close_price": 14.9,
+                "year_change_price": 4.12,
+                "year_low_date": "2017-02-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 242513012,
+                "eps": 0.454,
+                "change_in_percent": "-0.671%",
+                "change_price": -0.1,
+                "deprecated_number_of_shares": 242513012,
+                "pe": 32.6,
+                "offer_price": 14.9,
+                "suspended": false,
+                "last_price": 14.8,
+                "deprecated_market_cap": 3589193000,
+                "day_low_price": 14.38,
+                "open_price": 14.73,
+                "year_high_date": "2017-11-29T00:00:00+1100",
+                "previous_day_percentage_change": "1.915%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 15.04,
+                "bid_price": 14.46,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 14.83,
+                "year_change_in_percentage": "38.577%",
+                "average_daily_volume": 836660,
+                "year_low_price": 9.86,
+                "annual_dividend_yield": 2.72
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.carsales.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jeff Browne",
+                    "first_name": "Jeff",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Browne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cameron McIntyre",
+                    "first_name": "Cameron",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McIntyre",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kim Anderson",
+                    "first_name": "Kim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Collins",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Collins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Edwina Gilbert",
+                    "first_name": "Edwina",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gilbert",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick O'Sullivan",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Sullivan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Walter Pisciotta",
+                    "first_name": "Walter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pisciotta",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Kloss",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kloss",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Nicole Birman",
+                    "first_name": "Nicole",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Birman",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

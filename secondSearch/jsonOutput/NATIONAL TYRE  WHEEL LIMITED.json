@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NTD",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "NATIONAL TYRE & WHEEL LIMITED",
+    "ASXcode": "NTD",
+    "data": {
+        "summary": {
+            "name_short": "TYRENWHEEL",
+            "name_full": "NATIONAL TYRE & WHEEL LIMITED",
+            "code": "NTD",
+            "primary_share_code": "NTD",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "NATIONAL TYRE&WHEEL",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3255 6595",
+            "mailing_address": "30 Gow Street, MOOROOKA, QLD, AUSTRALIA, 4105",
+            "principal_activities": "Tyre and wheel wholesaler",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "NTD",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": null,
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jason Neville Lamb",
+                    "first_name": "Jason",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lamb",
+                    "middle_name": "Neville"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EBO",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "EBOS GROUP LIMITED",
+    "ASXcode": "EBO",
+    "data": {
+        "summary": {
+            "name_short": "EBOS",
+            "name_full": "EBOS GROUP LIMITED",
+            "code": "EBO",
+            "primary_share_code": "EBO",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "EBOS GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2013-12-06T00:00:00+1100",
+            "registry_address": "LEVEL 3, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "NZ 33C FR@30%+1.4558 8C TO NR; 15%W/H TAX",
+                "franked_percentage": "95.77%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-13T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.2663991,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+64 3 338 0999",
+            "mailing_address": "108 Wrights Road, AUSTRALIA,",
+            "principal_activities": "Diversified Australasian marketer, wholesaler and distributor of healthcare, medical and pharmaceutical products.",
+            "fax_number": "+64 3 339 5111",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-08-24T06:39:59+1000",
+                    "number_of_pages": 94,
+                    "id": "01887227",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-24T07:33:55+1000",
+                    "size": "7.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lnxng8p20yn3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 2454357401,
+                "code": "EBO",
+                "indices": [],
+                "year_open_price": 8.05,
+                "previous_close_price": 16.09,
+                "year_change_price": 8.04,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 152539304,
+                "eps": 0.8362,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 152539304,
+                "pe": 19.24,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 16.09,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-09-13T00:00:00+1000",
+                "previous_day_percentage_change": "0.625%",
+                "year_open_date": "2014-02-18T11:00:00+1100",
+                "year_high_price": 17.94,
+                "bid_price": 15.65,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "99.876%",
+                "average_daily_volume": 1448,
+                "year_low_price": 0,
+                "annual_dividend_yield": 3.18
+            },
+            "registry_phone_number": "1800 501 366",
+            "web_address": "http://www.ebosgroup.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY. LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Brendon Waller",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Waller",
+                    "middle_name": "Brendon"
+                },
+                {
+                    "full_name": "Mr Patrick Davies",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davies",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Elizabeth Mary Coutts",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Coutts",
+                    "middle_name": "Mary"
+                },
+                {
+                    "full_name": "Mr Stuart James McGregor",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGregor",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Ms Sarah Christine Ottrey",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ottrey",
+                    "middle_name": "Christine"
+                },
+                {
+                    "full_name": "Mr Peter James Williams",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr John Cullity",
+                    "first_name": "John",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cullity",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": []
+        }
+    }
+}

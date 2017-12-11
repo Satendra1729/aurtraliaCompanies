@@ -1,0 +1,154 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CV1",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "CV CHECK LTD",
+    "ASXcode": "CV1",
+    "data": {
+        "summary": {
+            "name_short": "CV CHECK",
+            "name_full": "CV CHECK LTD",
+            "code": "CV1",
+            "primary_share_code": "CV1",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "CV CHECK LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CV1?image_size=L&v=1478134965000",
+            "foreign_exempt": false,
+            "listing_date": "2015-09-08T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9388 3000",
+            "mailing_address": "Buidling E, The Garden Office Park, Level 2, 355 Scarborough  Beach Road, OSBORNE PARK, WA, AUSTRALIA, 6017",
+            "principal_activities": "Online global screening and verification service.",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and 2017 Annual Report",
+                    "document_date": "2017-08-31T08:21:34+1000",
+                    "number_of_pages": 73,
+                    "id": "01890627",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-31T08:24:25+1000",
+                    "size": "12.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lxkk5y8v94fd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 27225,
+                "status": [],
+                "market_cap": 19685408,
+                "code": "CV1",
+                "indices": [],
+                "deprecated_number_of_shares": 246067597,
+                "previous_close_price": 0.08,
+                "year_low_date": "2017-11-17T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 246067597,
+                "eps": -0.0159,
+                "change_in_percent": "2.5%",
+                "change_price": 0.002,
+                "pe": 0,
+                "offer_price": 0.085,
+                "suspended": false,
+                "last_price": 0.082,
+                "deprecated_market_cap": 20178000,
+                "day_low_price": 0.081,
+                "open_price": 0.081,
+                "year_high_date": "2017-05-10T00:00:00+1000",
+                "previous_day_percentage_change": "2.564%",
+                "year_open_date": null,
+                "year_high_price": 0.13,
+                "bid_price": 0.082,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.082,
+                "average_daily_volume": 227357,
+                "year_low_price": 0.065,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.cvcheck.com",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Chris Brown",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rod Sherwood",
+                    "first_name": "Rod",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sherwood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr George Xavier Cameron-Dow",
+                    "first_name": "George",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cameron-Dow",
+                    "middle_name": "Xavier"
+                },
+                {
+                    "full_name": "Mr Steve Carolan",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carolan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Reina Nicholls",
+                    "first_name": "Reina",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Nicholls",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Sharp",
+                    "first_name": "Craig",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sharp",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jenny Cutri",
+                    "first_name": "Jenny",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Cutri",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

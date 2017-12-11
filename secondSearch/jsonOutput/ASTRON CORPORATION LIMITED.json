@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ATR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ASTRON CORPORATION LIMITED",
+    "ASXcode": "ATR",
+    "data": {
+        "summary": {
+            "name_short": "ASTRON",
+            "name_full": "ASTRON CORPORATION LIMITED",
+            "code": "ATR",
+            "primary_share_code": "ATR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ASTRON CORP LTD",
+            "foreign_exempt": false,
+            "listing_date": "1983-11-11T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@astronlimited.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 5385 7088",
+            "mailing_address": "c/o Grant Thornton, Level 17, 383 Kent Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Development of mineral sands mining projects, trading and development of allied downstream technologies",
+            "fax_number": "+61 3 5385 7050",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-02-09T12:49:41+1100",
+                    "number_of_pages": 104,
+                    "id": "01826991",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-02-09T12:53:02+1100",
+                    "size": "4.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170209/pdf/43fwq4wf8rd14c.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 21433489,
+                "code": "ATR",
+                "indices": [],
+                "year_open_price": 0.1731,
+                "previous_close_price": 0.175,
+                "year_change_price": 0.0019,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 122477078,
+                "eps": -0.0212,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 122477078,
+                "pe": 0,
+                "offer_price": 0.2,
+                "suspended": false,
+                "last_price": 0.175,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "-12.5%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.2,
+                "bid_price": 0.175,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0,
+                "year_change_in_percentage": "1.098%",
+                "average_daily_volume": 21178,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.astronlimited.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gerard Arthur King",
+                    "first_name": "Gerard",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "King",
+                    "middle_name": "Arthur"
+                },
+                {
+                    "full_name": "Mr Alex Brown",
+                    "first_name": "Alex",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kang Rong",
+                    "first_name": "Kang",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Rong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joshua Theunissen",
+                    "first_name": "Joshua",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Theunissen",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Joshua Theunissen",
+                    "first_name": "Joshua",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Theunissen",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

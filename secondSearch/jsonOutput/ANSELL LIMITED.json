@@ -1,0 +1,270 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ANN",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "ANSELL LIMITED",
+    "ASXcode": "ANN",
+    "data": {
+        "summary": {
+            "name_short": "ANSELL",
+            "name_full": "ANSELL LIMITED",
+            "code": "ANN",
+            "primary_share_code": "ANN",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "ANSELL LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1985-08-22T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "US23.75C;UNFRANKED;1 00% CFI; DRP",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-14T00:00:00+1000",
+                "record_date": "2017-08-21T00:00:00+1000",
+                "payable_date": "2017-09-08T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.29983587,
+                "ex_date": "2017-08-18T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(03) 9270 7270",
+            "mailing_address": "Level 3, 678 Victoria Street, Richmond, VIC, AUSTRALIA, 3121",
+            "principal_activities": "Ansell is a world leader in providing superior health and safety protection solutions that enhance human well-being. With operations in four regions, Ansell holds leading positions in the personal protective equipment and medical gloves market, as well as in the sexual health and well-being category worldwide.",
+            "fax_number": "(03) 9270 7300",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders 2017",
+                    "document_date": "2017-08-24T08:48:48+1000",
+                    "number_of_pages": 144,
+                    "id": "01887415",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-24T08:51:15+1000",
+                    "size": "5.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lp8pf5vcm663.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 198811,
+                "status": [],
+                "market_cap": 3600878851,
+                "code": "ANN",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Health",
+                        "index_code": "XHJ",
+                        "name_abrev": "Health Care",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Health Care (Sector)"
+                    }
+                ],
+                "year_open_price": 18.5,
+                "previous_close_price": 25.12,
+                "year_change_price": 6.47,
+                "year_low_date": "2017-08-14T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 143347088,
+                "eps": 1.3018,
+                "change_in_percent": "-0.597%",
+                "change_price": -0.15,
+                "deprecated_number_of_shares": 143347088,
+                "pe": 19.18,
+                "offer_price": 25,
+                "suspended": false,
+                "last_price": 24.97,
+                "deprecated_market_cap": 3579377000,
+                "day_low_price": 24.93,
+                "open_price": 25.16,
+                "year_high_date": "2017-01-09T00:00:00+1100",
+                "previous_day_percentage_change": "0.52%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 25.67,
+                "bid_price": 24.76,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 25.24,
+                "year_change_in_percentage": "34.973%",
+                "average_daily_volume": 478301,
+                "year_low_price": 20.3,
+                "annual_dividend_yield": 2.26
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.ansell.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Glenn L L Barnes",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barnes",
+                    "middle_name": "L L"
+                },
+                {
+                    "full_name": "Mr Magnus R Nicolin",
+                    "first_name": "Magnus",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nicolin",
+                    "middle_name": "R"
+                },
+                {
+                    "full_name": "Mr Ronald J Bell",
+                    "first_name": "Ronald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bell",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr John A Bevan",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bevan",
+                    "middle_name": "A"
+                },
+                {
+                    "full_name": "Mr L Dale Crandall",
+                    "first_name": "L Dale",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crandall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr W Peter Day",
+                    "first_name": "W",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Day",
+                    "middle_name": "Peter"
+                },
+                {
+                    "full_name": "Mrs Leslie A Desjardins",
+                    "first_name": "Leslie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Desjardins",
+                    "middle_name": "A"
+                },
+                {
+                    "full_name": "Mrs Marissa T Peterson",
+                    "first_name": "Marissa",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Peterson",
+                    "middle_name": "T"
+                },
+                {
+                    "full_name": "Mr Neil I Salmon",
+                    "first_name": "Neil",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Salmon",
+                    "middle_name": "I"
+                },
+                {
+                    "full_name": "Mr William Gerald Reilly",
+                    "first_name": "William",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reilly",
+                    "middle_name": "Gerald"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Catherine L Stribley",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stribley",
+                    "middle_name": "L"
+                },
+                {
+                    "full_name": "Mr William Gerald Reilly",
+                    "first_name": "William",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reilly",
+                    "middle_name": "Gerald"
+                }
+            ]
+        }
+    }
+}

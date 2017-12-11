@@ -1,0 +1,142 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GSS",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "GENETIC SIGNATURES LIMITED",
+    "ASXcode": "GSS",
+    "data": {
+        "summary": {
+            "name_short": "GENETICSIG",
+            "name_full": "GENETIC SIGNATURES LIMITED",
+            "code": "GSS",
+            "primary_share_code": "GSS",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "GENETIC SIGNATURES",
+            "foreign_exempt": false,
+            "listing_date": "2015-03-31T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9870 7580",
+            "mailing_address": "Level 9, 405 Liverpool Street, DARLINGHURST, NSW, AUSTRALIA, 2010",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T11:55:26+1100",
+                    "number_of_pages": 43,
+                    "id": "01913654",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T11:58:15+1100",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nnbkvng702mn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 33256620,
+                "code": "GSS",
+                "indices": [],
+                "deprecated_number_of_shares": 101389582,
+                "previous_close_price": 0.32,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 103926937,
+                "eps": -0.033,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.32,
+                "suspended": false,
+                "last_price": 0.32,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.48,
+                "bid_price": 0.29,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 48077,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://geneticsignatures.com/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Nick Samaras",
+                    "first_name": "Nick",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Samaras",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr John Melki",
+                    "first_name": "John",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Melki",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mike Aicher",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Aicher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phill Isaacs",
+                    "first_name": "Phill",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Isaacs",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Pat Noland",
+                    "first_name": "Pat",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Noland",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Anna Sandham",
+                    "first_name": "Anna",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Sandham",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

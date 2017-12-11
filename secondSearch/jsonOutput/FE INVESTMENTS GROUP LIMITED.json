@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FEI",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "FE INVESTMENTS GROUP LIMITED",
+    "ASXcode": "FEI",
+    "data": {
+        "summary": {
+            "name_short": "FEINVEST",
+            "name_full": "FE INVESTMENTS GROUP LIMITED",
+            "code": "FEI",
+            "primary_share_code": "FEI",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "FE INV GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-11-11T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9247 6844",
+            "mailing_address": "Level 32, 101 Miller Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Ownership and rental of technology products and services to businesses with a strong focus on supplying the retail and hospitality sectors",
+            "fax_number": "+61 8 9367 8812",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 36791,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 20132808,
+                "code": "FEI",
+                "indices": [],
+                "deprecated_number_of_shares": 108268569,
+                "previous_close_price": 0.16,
+                "year_low_date": "2017-03-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 125830051,
+                "eps": -0.0083,
+                "change_in_percent": "-9.375%",
+                "change_price": -0.015,
+                "pe": 0,
+                "offer_price": 0.215,
+                "suspended": false,
+                "last_price": 0.145,
+                "deprecated_market_cap": 15699000,
+                "day_low_price": 0.145,
+                "open_price": 0.155,
+                "year_high_date": "2017-01-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.45,
+                "bid_price": 0.145,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.155,
+                "average_daily_volume": 20531,
+                "year_low_price": 0.12,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.wolfstrike.net",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Maxwell James Green",
+                    "first_name": "Maxwell",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Green",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Thatt Shim",
+                    "first_name": "Thatt",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shim",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Melvin Stewart",
+                    "first_name": "Melvin",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stewart",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cook Huang",
+                    "first_name": "Cook",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Huang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tom McDonald",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDonald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Seton",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Seton",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Eryn Kestel",
+                    "first_name": "Eryn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kestel",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

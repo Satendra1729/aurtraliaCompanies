@@ -1,0 +1,198 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BLY",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "BOART LONGYEAR LIMITED",
+    "ASXcode": "BLY",
+    "data": {
+        "summary": {
+            "name_short": "BOART",
+            "name_full": "BOART LONGYEAR LIMITED",
+            "code": "BLY",
+            "primary_share_code": "BLY",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "BOART LONGYEAR",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BLY?image_size=L&v=1382578633000",
+            "foreign_exempt": false,
+            "listing_date": "2007-04-05T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 8375 8375",
+            "mailing_address": "26 Butler Boulevard, Burbridge Business Park, ADELAIDE AIRPORT, SA, AUSTRALIA, 5950",
+            "principal_activities": "World's leading integrated drilling services provider and products manufacturer for the minerals industry.",
+            "fax_number": "+61 8 8377 0534",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-04-25T08:35:47+1000",
+                    "number_of_pages": 135,
+                    "id": "01850142",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-26T08:18:32+1000",
+                    "size": "5.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170426/pdf/43hqhfvxqy58l0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2787812,
+                "status": [],
+                "market_cap": 262897952,
+                "code": "BLY",
+                "indices": [],
+                "year_open_price": 0.345,
+                "previous_close_price": 0.01,
+                "year_change_price": -0.335,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 26289795216,
+                "eps": -0.2455,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 26289795216,
+                "pe": 0,
+                "offer_price": 0.011,
+                "suspended": false,
+                "last_price": 0.01,
+                "deprecated_market_cap": 262898000,
+                "day_low_price": 0.01,
+                "open_price": 0.011,
+                "year_high_date": "2017-01-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.123,
+                "bid_price": 0.01,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.011,
+                "year_change_in_percentage": "-97.101%",
+                "average_daily_volume": 16931236,
+                "year_low_price": 0.01,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.boartlongyear.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Marcus Randolph",
+                    "first_name": "Marcus",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Randolph",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeffrey Robert Olsen",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "President",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Olsen",
+                    "middle_name": "Robert"
+                },
+                {
+                    "full_name": "Mr Bret Clayton",
+                    "first_name": "Bret",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clayton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr William Peter Day",
+                    "first_name": "William",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Day",
+                    "middle_name": "Peter"
+                },
+                {
+                    "full_name": "Mr Jonathan Lewinsohn",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lewinsohn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeffrey Long",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Long",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Gretchen McClain",
+                    "first_name": "Gretchen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McClain",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rex John McLennan",
+                    "first_name": "Rex",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McLennan",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Ms Deborah O'Toole",
+                    "first_name": "Deborah",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "O'Toole",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Phil Mackey",
+                    "first_name": "Phil",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Fabrizio Rasetti",
+                    "first_name": "Fabrizio",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rasetti",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

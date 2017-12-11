@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AYM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AUSTRALIA UNITED MINING LIMITED",
+    "ASXcode": "AYM",
+    "data": {
+        "summary": {
+            "name_short": "AUSTUNITED",
+            "name_full": "AUSTRALIA UNITED MINING LIMITED",
+            "code": "AYM",
+            "primary_share_code": "AYM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AUSTRALIA UNITED MIN",
+            "foreign_exempt": false,
+            "listing_date": "2011-09-19T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9252 4525",
+            "mailing_address": "Suite 3, Level 14, 189 Kent Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "An emerging gold production and exploration company committed to the discovery, development and mining of economically viable mineral resources.",
+            "fax_number": "+61 2 9252 4525",
+            "latest_annual_reports": [
+                {
+                    "header": "AYM Annual Report FY2017",
+                    "document_date": "2017-09-29T16:50:23+1000",
+                    "number_of_pages": 54,
+                    "id": "01903148",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T09:09:40+1100",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvyqn575cygz.pdf"
+                },
+                {
+                    "header": "AYM Annual Report FY2017",
+                    "document_date": "2017-09-29T16:47:43+1000",
+                    "number_of_pages": 54,
+                    "id": "01902584",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:59:26+1000",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtd6s3hzlv5j.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 5078131,
+                "code": "AYM",
+                "indices": [],
+                "year_open_price": 0.009,
+                "previous_close_price": 0.004,
+                "year_change_price": -0.005,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1269532682,
+                "eps": -0.0006,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1269532682,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 0.004,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-14T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.006,
+                "bid_price": 0.003,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-55.556%",
+                "average_daily_volume": 498629,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.australiaunitedmining.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Xiao Jing Wang",
+                    "first_name": "Xiao Jing",
+                    "roles": [
+                        "Chairman",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Xiaojing Wang",
+                    "first_name": "Xiaojing",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jia Yu",
+                    "first_name": "Jia",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Yu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jianbing Zhang",
+                    "first_name": "Jianbing",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Xiaoying Du",
+                    "first_name": "Xiaoying",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Du",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr YIPU DING",
+                    "first_name": "YIPU",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "DING",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

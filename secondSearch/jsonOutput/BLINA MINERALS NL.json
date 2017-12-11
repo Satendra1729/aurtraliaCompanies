@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BDI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BLINA MINERALS NL",
+    "ASXcode": "BDI",
+    "data": {
+        "summary": {
+            "name_short": "BLINA M",
+            "name_full": "BLINA MINERALS NL",
+            "code": "BDI",
+            "primary_share_code": "BDI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BLINA MINERALS NL",
+            "foreign_exempt": false,
+            "listing_date": "2004-08-17T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6141 3500",
+            "mailing_address": "283 Rokeby Road, SUBIACO, WA, AUSTRALIA, 60089",
+            "principal_activities": "Minerals exploration",
+            "fax_number": "+61 8 6141 3599",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-19T17:01:40+1000",
+                    "number_of_pages": 61,
+                    "id": "01897623",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-19T17:04:01+1000",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170919/pdf/43mg8j7tjcw9wx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2311525,
+                "status": [],
+                "market_cap": 5851116,
+                "code": "BDI",
+                "indices": [],
+                "year_open_price": 0.001,
+                "previous_close_price": 0.002,
+                "year_change_price": 0.001,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2925558236,
+                "eps": -0.0001,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 2925558236,
+                "pe": 0,
+                "offer_price": 0.002,
+                "suspended": false,
+                "last_price": 0.002,
+                "deprecated_market_cap": 5851000,
+                "day_low_price": 0.001,
+                "open_price": 0.002,
+                "year_high_date": "2017-11-22T00:00:00+1100",
+                "previous_day_percentage_change": "100%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.003,
+                "bid_price": 0.001,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.002,
+                "year_change_in_percentage": "100%",
+                "average_daily_volume": 21814247,
+                "year_low_price": 0.001,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.blinaminerals.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brett Fraser",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fraser",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jay Stephenson",
+                    "first_name": "Jay",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephenson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Porter",
+                    "first_name": "David",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Porter",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Julia Maria Beckett",
+                    "first_name": "Julia",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Beckett",
+                    "middle_name": "Maria"
+                }
+            ]
+        }
+    }
+}

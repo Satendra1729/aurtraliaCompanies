@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GTR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GTI RESOURCES LIMITED",
+    "ASXcode": "GTR",
+    "data": {
+        "summary": {
+            "name_short": "GTI RES",
+            "name_full": "GTI RESOURCES LIMITED",
+            "code": "GTR",
+            "primary_share_code": "GTR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GTI RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2007-08-10T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "info@gtiresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9430 7888",
+            "mailing_address": "7/24 Walters Drive, OSBORNE PARK, WA, AUSTRALIA, 6017",
+            "principal_activities": "Gold exploration",
+            "fax_number": "(08) 9321 3628",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-03-30T14:16:16+1100",
+                    "number_of_pages": 51,
+                    "id": "01843434",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T14:18:18+1100",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h526wrcms0xy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 1863333,
+                "code": "GTR",
+                "indices": [],
+                "year_open_price": 0.028,
+                "previous_close_price": 0.02,
+                "year_change_price": -0.008,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 93166669,
+                "eps": -0.0167,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 93166669,
+                "pe": 0,
+                "offer_price": 0.024,
+                "suspended": false,
+                "last_price": 0.02,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-17T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-21T11:00:00+1100",
+                "year_high_price": 0.042,
+                "bid_price": 0.02,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-28.571%",
+                "average_daily_volume": 217405,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.gtiresources.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Murray McDonald",
+                    "first_name": "Murray",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDonald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Emma Gilbert",
+                    "first_name": "Emma",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gilbert",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yohanes Sucipto",
+                    "first_name": "Yohanes",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sucipto",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Frank Campagna",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Campagna",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

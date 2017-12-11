@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EBG",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "EUMUNDI GROUP LIMITED",
+    "ASXcode": "EBG",
+    "data": {
+        "summary": {
+            "name_short": "EUMUNDI",
+            "name_full": "EUMUNDI GROUP LIMITED",
+            "code": "EBG",
+            "primary_share_code": "EBG",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "EUMUNDI GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "1989-12-07T00:00:00+1100",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "3.25C FRANKED @ 30%;  DRP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-30T00:00:00+1000",
+                "record_date": "2017-09-08T00:00:00+1000",
+                "payable_date": "2017-09-15T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.0325,
+                "ex_date": "2017-09-07T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3229 7222",
+            "mailing_address": "Level 15, 10 Market Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Hotel operations, and Shopping Centre and Hotel Investment Properties.",
+            "fax_number": "(07) 3211 8222",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Colour Annual Report",
+                    "document_date": "2017-10-26T09:59:02+1100",
+                    "number_of_pages": 56,
+                    "id": "01912892",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-26T10:01:17+1100",
+                    "size": "6.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171026/pdf/43nlqb2cg3dkzg.pdf"
+                },
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-08-30T08:28:47+1000",
+                    "number_of_pages": 54,
+                    "id": "01889933",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-30T08:33:28+1000",
+                    "size": "749.5KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lw2vtbpk2knl.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 31765496,
+                "code": "EBG",
+                "indices": [],
+                "year_open_price": 0.04619,
+                "previous_close_price": 0.865,
+                "year_change_price": 0.81881,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 36723117,
+                "eps": 0.0403,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 36723117,
+                "pe": 21.46,
+                "offer_price": 0.9,
+                "suspended": false,
+                "last_price": 0.865,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-11T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.92,
+                "bid_price": 0.85,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "1,772.7%",
+                "average_daily_volume": 17768,
+                "year_low_price": 0,
+                "annual_dividend_yield": 6.36
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://eumundigroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Joseph Michael Ganim",
+                    "first_name": "Joseph",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ganim",
+                    "middle_name": "Michael"
+                },
+                {
+                    "full_name": "Ms Suzanne Jacobi-Lee",
+                    "first_name": "Suzanne",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Jacobi-Lee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gilbert De Luca",
+                    "first_name": "Gilbert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Luca",
+                    "middle_name": "De"
+                },
+                {
+                    "full_name": "Mr Vernon Wills",
+                    "first_name": "Vernon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wills",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Leni Pia Stanley",
+                    "first_name": "Leni",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stanley",
+                    "middle_name": "Pia"
+                }
+            ]
+        }
+    }
+}

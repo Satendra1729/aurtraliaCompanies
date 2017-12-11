@@ -1,0 +1,186 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GFI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GLOBAL FORTUNE INVESTMENT LIMITED",
+    "ASXcode": "GFI",
+    "data": {
+        "summary": {
+            "name_short": "GFINVEST",
+            "name_full": "GLOBAL FORTUNE INVESTMENT LIMITED",
+            "code": "GFI",
+            "primary_share_code": "GFI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GLOBAL FORTUNE LTD",
+            "foreign_exempt": false,
+            "listing_date": "2016-02-04T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 8075 4733",
+            "mailing_address": "Level 36, Gateway, 1 Macquarie Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Mineral Exploration.",
+            "fax_number": "02 8075 4550",
+            "latest_annual_reports": [
+                {
+                    "header": "Amended Additional Information Annual Report 2017",
+                    "document_date": "2017-11-17T11:39:35+1100",
+                    "number_of_pages": 3,
+                    "id": "01922746",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-17T12:04:37+1100",
+                    "size": "163.3KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171117/pdf/43pbbgzzpbkygc.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-05T15:17:18+1100",
+                    "number_of_pages": 77,
+                    "id": "01904775",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-05T15:34:06+1100",
+                    "size": "2.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171005/pdf/43mzlsl1czl206.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 18057684,
+                "code": "GFI",
+                "indices": [],
+                "deprecated_number_of_shares": 13360295,
+                "previous_close_price": 0.285,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 63360296,
+                "eps": -0.021,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 0.285,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-09T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.36,
+                "bid_price": 0.16,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 2764,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.gfinvest.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Weiliang Liu",
+                    "first_name": "Weiliang",
+                    "roles": [
+                        "Chairman",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yuan Lin",
+                    "first_name": "Yuan",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yuanping Kuang",
+                    "first_name": "Yuanping",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kuang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kunchang Li",
+                    "first_name": "Kunchang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Songwei Li",
+                    "first_name": "Songwei",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew John Stoner",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stoner",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Raman Bhalla",
+                    "first_name": "Raman",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bhalla",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Raman Bhalla",
+                    "first_name": "Raman",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bhalla",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Pengzhou Liu",
+                    "first_name": "Pengzhou",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

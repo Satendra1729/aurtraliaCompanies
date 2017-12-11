@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BCI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BCI MINERALS LIMITED",
+    "ASXcode": "BCI",
+    "data": {
+        "summary": {
+            "name_short": "BCIMINERAL",
+            "name_full": "BCI MINERALS LIMITED",
+            "code": "BCI",
+            "primary_share_code": "BCI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BCI MINERALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-15T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6311 3400",
+            "mailing_address": "Level 1, 15 Rheola Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Production of and exploration for iron ore and other minerals",
+            "fax_number": "(08) 6311 3449",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-10-20T19:03:27+1100",
+                    "number_of_pages": 80,
+                    "id": "01910678",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T19:05:10+1100",
+                    "size": "6.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43nfhvr282l52w.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 580789,
+                "status": [],
+                "market_cap": 57270492,
+                "code": "BCI",
+                "indices": [],
+                "year_open_price": 5.24,
+                "previous_close_price": 0.145,
+                "year_change_price": -5.085,
+                "year_low_date": "2017-06-26T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 394968910,
+                "eps": 0.0179,
+                "change_in_percent": "6.897%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 394968910,
+                "pe": 8.66,
+                "offer_price": 0.155,
+                "suspended": false,
+                "last_price": 0.155,
+                "deprecated_market_cap": 61220000,
+                "day_low_price": 0.145,
+                "open_price": 0.15,
+                "year_high_date": "2017-02-22T00:00:00+1100",
+                "previous_day_percentage_change": "-3.333%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.315,
+                "bid_price": 0.15,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.155,
+                "year_change_in_percentage": "-97.042%",
+                "average_daily_volume": 831915,
+                "year_low_price": 0.11,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.bciron.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brian O'Donnell",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Donnell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alwyn Vorster",
+                    "first_name": "Alwyn",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vorster",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Blakiston",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Blakiston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jennifer Bloom",
+                    "first_name": "Jennifer",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bloom",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Bryant",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bryant",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Haslam",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haslam",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Hodge",
+                    "first_name": "Simon",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hodge",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Rubini Ventouras",
+                    "first_name": "Rubini",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ventouras",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

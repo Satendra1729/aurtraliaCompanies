@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CUP",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "COUNTPLUS LIMITED",
+    "ASXcode": "CUP",
+    "data": {
+        "summary": {
+            "name_short": "COUNTPLUS",
+            "name_full": "COUNTPLUS LIMITED",
+            "code": "CUP",
+            "primary_share_code": "CUP",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "COUNTPLUS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2010-12-22T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "1C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-02-22T00:00:00+1100",
+                "record_date": "2017-04-27T00:00:00+1000",
+                "payable_date": "2017-05-15T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.01,
+                "ex_date": "2017-04-26T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 825 295",
+            "mailing_address": "Level 17, 1 Margaret Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Holding company of professional accounting and financial services businesses.",
+            "fax_number": "0",
+            "latest_annual_reports": [
+                {
+                    "header": "CountPlus 2017 Annual Report to Shareholders",
+                    "document_date": "2017-09-28T14:59:25+1000",
+                    "number_of_pages": 104,
+                    "id": "01901262",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T15:01:17+1000",
+                    "size": "13.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqr52hqmyfx4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 106763,
+                "status": [],
+                "market_cap": 69104648,
+                "code": "CUP",
+                "indices": [],
+                "year_open_price": 1.74,
+                "previous_close_price": 0.605,
+                "year_change_price": -1.07,
+                "year_low_date": "2017-08-10T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 114222559,
+                "eps": -0.001,
+                "change_in_percent": "10.744%",
+                "change_price": 0.065,
+                "deprecated_number_of_shares": 114222559,
+                "pe": 0,
+                "offer_price": 0.68,
+                "suspended": false,
+                "last_price": 0.67,
+                "deprecated_market_cap": 76529000,
+                "day_low_price": 0.63,
+                "open_price": 0.63,
+                "year_high_date": "2017-01-17T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.88,
+                "bid_price": 0.66,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.67,
+                "year_change_in_percentage": "-61.494%",
+                "average_daily_volume": 59202,
+                "year_low_price": 0.475,
+                "annual_dividend_yield": 10.45
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.countplus.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Raymond Kellerman",
+                    "first_name": "Raymond",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kellerman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Rowe",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Catherine Hill",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Alison Ledger",
+                    "first_name": "Alison",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ledger",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Angus David Eric Finney",
+                    "first_name": "Angus",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Finney",
+                    "middle_name": "David Eric"
+                }
+            ]
+        }
+    }
+}

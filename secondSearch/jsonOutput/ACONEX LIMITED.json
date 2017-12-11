@@ -1,0 +1,252 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ACX",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "ACONEX LIMITED",
+    "ASXcode": "ACX",
+    "data": {
+        "summary": {
+            "name_full": "ACONEX LIMITED",
+            "code": "ACX",
+            "name_short": "ACONEX",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "ACONEX LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ACX?image_size=L&v=1418668353000",
+            "foreign_exempt": false,
+            "listing_date": "2014-12-09T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "investor.relations@aconex.com",
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "03 9240 0200",
+            "mailing_address": "96 Flinders Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Online cloud collaboration platform for the global construction industry.",
+            "fax_number": "03 9240 0299",
+            "latest_annual_reports": [
+                {
+                    "header": "FY17 Annual Report",
+                    "document_date": "2017-08-22T09:13:57+1000",
+                    "number_of_pages": 96,
+                    "id": "01886135",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-22T09:17:10+1000",
+                    "size": "7.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170822/pdf/43lljnzwcpgdm6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 368643,
+                "status": [],
+                "market_cap": 1052645769,
+                "code": "ACX",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Tech",
+                        "index_code": "XIJ",
+                        "name_abrev": "Info Technology",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Information Technology (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 200503956,
+                "previous_close_price": 5.25,
+                "year_low_date": "2017-02-02T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 200503956,
+                "eps": -0.05,
+                "change_in_percent": "0.571%",
+                "change_price": 0.03,
+                "pe": 0,
+                "offer_price": 5.3,
+                "suspended": false,
+                "last_price": 5.28,
+                "deprecated_market_cap": 1058661000,
+                "day_low_price": 5.2,
+                "open_price": 5.28,
+                "year_high_date": "2017-01-06T00:00:00+1100",
+                "previous_day_percentage_change": "0.962%",
+                "year_open_date": null,
+                "year_high_price": 5.83,
+                "bid_price": 5.28,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.3,
+                "average_daily_volume": 558861,
+                "year_low_price": 2.87,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "ACX",
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.aconex.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": "http://investor.aconex.com"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Adam Lewis",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lewis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leigh Matthew Jasper",
+                    "first_name": "Leigh",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jasper",
+                    "middle_name": "Matthew"
+                },
+                {
+                    "full_name": "Mr Robert William Phillpot",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Phillpot",
+                    "middle_name": "William"
+                },
+                {
+                    "full_name": "Mr Keith Toh",
+                    "first_name": "Keith",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Toh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Rosemary Hartnett",
+                    "first_name": "Rosemary",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hartnett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Vincent Paul Unruh",
+                    "first_name": "Vincent",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Unruh",
+                    "middle_name": "Paul"
+                },
+                {
+                    "full_name": "Mr Simon Anthony Yencken",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yencken",
+                    "middle_name": "Anthony"
+                },
+                {
+                    "full_name": "Mr Paul Koppelman",
+                    "first_name": "Paul",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Koppelman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Pollock",
+                    "first_name": "Peter",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pollock",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Anna Gorton",
+                    "first_name": "Anna",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gorton",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Anna Gorton",
+                    "first_name": "Anna",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gorton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Metcalfe",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Metcalfe",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

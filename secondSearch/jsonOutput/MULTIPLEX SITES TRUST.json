@@ -1,0 +1,100 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MXU",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "MULTIPLEX SITES TRUST",
+    "ASXcode": "MXU",
+    "data": {
+        "summary": {
+            "name_full": "MULTIPLEX SITES TRUST",
+            "products": [
+                "hybrid-securities"
+            ],
+            "phone_number": "(02) 9322 2000",
+            "mailing_address": "LEVEL 22, 135 KING STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Issuer of \"SITES\". The net proceeds of the issue of SITES will be applied to refinance acquisition finance facilities relating to Multiplex Group's (ASX code MXG) joint bid for Duelguide plc, a public limited company in the United Kingdom.",
+            "name_short": "MXG SITES",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "MULTIPLEX SITES",
+            "registry_phone_number": "1300 554 474",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-03-13T16:17:54+1100",
+                    "number_of_pages": 48,
+                    "id": "01838225",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-13T16:20:37+1100",
+                    "size": "8.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170313/pdf/43gr9wqwvljylr.pdf"
+                }
+            ],
+            "foreign_exempt": false,
+            "code": "MXU",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2005-01-20T00:00:00+1100",
+            "fax_number": "(02) 9322 2001",
+            "web_address": "http://www.au.brookfield.com/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Allan McDonald",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDonald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Shane Ross",
+                    "first_name": "Shane",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ross",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Barbara Ward",
+                    "first_name": "Barbara",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ward",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Mandy Chiang",
+                    "first_name": "Mandy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chiang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil Olofsson",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Olofsson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

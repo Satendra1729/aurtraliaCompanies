@@ -1,0 +1,156 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PSC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PROSPECT RESOURCES LIMITED",
+    "ASXcode": "PSC",
+    "data": {
+        "summary": {
+            "name_short": "PROSPECRES",
+            "name_full": "PROSPECT RESOURCES LIMITED",
+            "code": "PSC",
+            "primary_share_code": "PSC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PROSPECT RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2009-12-04T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9472 5502",
+            "mailing_address": "Suite 6, 245 Churchill Avenue, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Minerals exploration in Western Australia.",
+            "fax_number": "(08) 9362 2805",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-28T08:54:05+1000",
+                    "number_of_pages": 64,
+                    "id": "01900926",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T08:55:50+1000",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mq2fmwdftjcb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2399571,
+                "status": [],
+                "market_cap": 86082928,
+                "code": "PSC",
+                "indices": [],
+                "year_open_price": 0.007,
+                "previous_close_price": 0.054,
+                "year_change_price": 0.048,
+                "year_low_date": "2017-06-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1594128296,
+                "eps": -0.0076,
+                "change_in_percent": "1.852%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 1594128296,
+                "pe": 0,
+                "offer_price": 0.057,
+                "suspended": false,
+                "last_price": 0.055,
+                "deprecated_market_cap": 87677000,
+                "day_low_price": 0.055,
+                "open_price": 0.056,
+                "year_high_date": "2017-11-10T00:00:00+1100",
+                "previous_day_percentage_change": "-6.897%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.068,
+                "bid_price": 0.055,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.056,
+                "year_change_in_percentage": "685.714%",
+                "average_daily_volume": 7200786,
+                "year_low_price": 0.02,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.prospectresources.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Hugh Warner",
+                    "first_name": "Hugh",
+                    "roles": [
+                        "Executive Chairman",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr HeNian Chen",
+                    "first_name": "HeNian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gerry Fahey",
+                    "first_name": "Gerry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fahey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Harry Greaves",
+                    "first_name": "Harry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Greaves",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Manana Nhlanhla",
+                    "first_name": "Manana",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Nhlanhla",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zed Rusike",
+                    "first_name": "Zed",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rusike",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew John Whitten",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whitten",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

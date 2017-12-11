@@ -1,0 +1,273 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GMA",
+    "GICSindustrygroup": "Banks",
+    "Companyname": "GENWORTH MORTGAGE INSURANCE AUSTRALIA LIMITED",
+    "ASXcode": "GMA",
+    "data": {
+        "summary": {
+            "name_short": "GENWORTH",
+            "name_full": "GENWORTH MORTGAGE INSURANCE AUSTRALIA LIMITED",
+            "code": "GMA",
+            "primary_share_code": "GMA",
+            "industry_group_name": "Banks",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "GENWORTH MORTGAGE",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/GMA?image_size=L&v=1456799010000",
+            "foreign_exempt": false,
+            "listing_date": "2014-05-20T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "14C FRANKED@30%; 2C  SPECIAL",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-02T00:00:00+1000",
+                "record_date": "2017-08-16T00:00:00+1000",
+                "payable_date": "2017-08-30T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.14,
+                "ex_date": "2017-08-15T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "1300 655 422",
+            "mailing_address": "Level 26, 101 Miller Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Provider of lenders mortgage insurance in Australia.",
+            "fax_number": "1300 366 228",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-02-24T08:22:32+1100",
+                    "number_of_pages": 112,
+                    "id": "01832055",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-02-24T08:27:27+1100",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170224/pdf/43g8rl6671wm5f.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 418828,
+                "status": [],
+                "market_cap": 1555830367,
+                "code": "GMA",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 492351382,
+                "previous_close_price": 3.16,
+                "year_low_date": "2017-03-10T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 492351382,
+                "eps": 0.312,
+                "change_in_percent": "-0.316%",
+                "change_price": -0.01,
+                "pe": 10.1,
+                "offer_price": 3.18,
+                "suspended": false,
+                "last_price": 3.15,
+                "deprecated_market_cap": 1550907000,
+                "day_low_price": 3.14,
+                "open_price": 3.16,
+                "year_high_date": "2017-02-03T00:00:00+1100",
+                "previous_day_percentage_change": "0.637%",
+                "year_open_date": null,
+                "year_high_price": 3.488,
+                "bid_price": 3.13,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.18,
+                "average_daily_volume": 1589991,
+                "year_low_price": 2.638,
+                "annual_dividend_yield": 8.25
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.genworth.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Graham MacDonald",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "MacDonald",
+                    "middle_name": "Graham"
+                },
+                {
+                    "full_name": "Ms Georgette C Nicholas",
+                    "first_name": "Georgette",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Nicholas",
+                    "middle_name": "C"
+                },
+                {
+                    "full_name": "Mr David Andrew Foster",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Foster",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Mr Anthony Gill",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Gai McGrath",
+                    "first_name": "Gai",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McGrath",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leon Ellis Roday",
+                    "first_name": "Leon",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roday",
+                    "middle_name": "Ellis"
+                },
+                {
+                    "full_name": "Mr Stuart Edward Take",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Take",
+                    "middle_name": "Edward"
+                },
+                {
+                    "full_name": "Ms Edna Gayle Tollifson",
+                    "first_name": "Edna",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tollifson",
+                    "middle_name": "Gayle"
+                },
+                {
+                    "full_name": "Mr Jerome Upton",
+                    "first_name": "Jerome",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Upton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Luke Oxenham",
+                    "first_name": "Luke",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Oxenham",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Prudence Milne",
+                    "first_name": "Prudence",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Milne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brady Weissel",
+                    "first_name": "Brady",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Weissel",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

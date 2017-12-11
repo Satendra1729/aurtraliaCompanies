@@ -1,0 +1,101 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MIL",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "MILLENNIUM SERVICES GROUP LIMITED",
+    "ASXcode": "MIL",
+    "data": {
+        "summary": {
+            "name_short": "MIL-SG",
+            "name_full": "MILLENNIUM SERVICES GROUP LIMITED",
+            "code": "MIL",
+            "primary_share_code": "MIL",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "MILLENNIUM GRP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-11-19T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "5.4C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-10-05T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.054,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9296 2095",
+            "mailing_address": "Level 1, 205 - 211 Forster Road, MOUNT WAVERLEY, VIC, AUSTRALIA, 3149",
+            "principal_activities": "Provision of cleaning, security and integrated services to retail and commercial centres.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T15:56:50+1100",
+                    "number_of_pages": 76,
+                    "id": "01913909",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T15:58:22+1100",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nnv5bw9913y0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 198484,
+                "status": [],
+                "market_cap": 66825617,
+                "code": "MIL",
+                "indices": [],
+                "deprecated_number_of_shares": 45928259,
+                "previous_close_price": 1.455,
+                "year_low_date": "2017-01-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 45928259,
+                "eps": 0.1354,
+                "change_in_percent": "-2.062%",
+                "change_price": -0.03,
+                "pe": 10.52,
+                "offer_price": 1.425,
+                "suspended": false,
+                "last_price": 1.425,
+                "deprecated_market_cap": 65448000,
+                "day_low_price": 1.415,
+                "open_price": 1.45,
+                "year_high_date": "2017-02-27T00:00:00+1100",
+                "previous_day_percentage_change": "-1.689%",
+                "year_open_date": null,
+                "year_high_price": 1.87,
+                "bid_price": 1.41,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.45,
+                "average_daily_volume": 31231,
+                "year_low_price": 1.36,
+                "annual_dividend_yield": 6.25
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.millenniumsg.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Damien John Gray",
+                    "first_name": "Damien",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gray",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CXM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CENTREX METALS LIMITED",
+    "ASXcode": "CXM",
+    "data": {
+        "summary": {
+            "name_short": "CENTREX",
+            "name_full": "CENTREX METALS LIMITED",
+            "code": "CXM",
+            "primary_share_code": "CXM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CENTREX METALS",
+            "foreign_exempt": false,
+            "listing_date": "2006-07-19T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 8213 3100",
+            "mailing_address": "Level 6, 44 Waymouth St, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "(02) 8231 4014",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual report to shareholders for FY17",
+                    "document_date": "2017-09-19T15:08:56+1000",
+                    "number_of_pages": 64,
+                    "id": "01897543",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-19T15:12:56+1000",
+                    "size": "7.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170919/pdf/43mg3h638q6mzf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 26502450,
+                "code": "CXM",
+                "indices": [],
+                "year_open_price": 0.125,
+                "previous_close_price": 0.084,
+                "year_change_price": -0.041,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 315505357,
+                "eps": 0.0015,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 315505357,
+                "pe": 56,
+                "offer_price": 0.095,
+                "suspended": false,
+                "last_price": 0.084,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-16T00:00:00+1100",
+                "previous_day_percentage_change": "5%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.125,
+                "bid_price": 0.082,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-32.8%",
+                "average_daily_volume": 181092,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.centrexmetals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Klingberg",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Klingberg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ben Hammond",
+                    "first_name": "Ben",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hammond",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Chrisp",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chrisp",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Hazel",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hazel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Indermaur",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Indermaur",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Poh Kiat",
+                    "first_name": "Poh",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kiat",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gavin Bosch",
+                    "first_name": "Gavin",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bosch",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gavin Bosch",
+                    "first_name": "Gavin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bosch",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

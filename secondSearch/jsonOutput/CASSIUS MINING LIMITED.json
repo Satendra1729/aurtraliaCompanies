@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CMD",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CASSIUS MINING LIMITED",
+    "ASXcode": "CMD",
+    "data": {
+        "summary": {
+            "name_short": "CASSISUSMI",
+            "name_full": "CASSIUS MINING LIMITED",
+            "code": "CMD",
+            "primary_share_code": "CMD",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CASSIUS MINING LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-08-10T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8226 3323",
+            "mailing_address": "Level 7, 99 Macquarie Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "(02) 8226 3304",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 5450,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 18737211,
+                "code": "CMD",
+                "indices": [],
+                "year_open_price": 0.001,
+                "previous_close_price": 0.08,
+                "year_change_price": 0.094,
+                "year_low_date": "2017-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 234215140,
+                "eps": -0.0048,
+                "change_in_percent": "18.75%",
+                "change_price": 0.015,
+                "deprecated_number_of_shares": 234215140,
+                "pe": 0,
+                "offer_price": 0.1,
+                "suspended": false,
+                "last_price": 0.095,
+                "deprecated_market_cap": 22250000,
+                "day_low_price": 0.095,
+                "open_price": 0.095,
+                "year_high_date": "2017-02-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.208,
+                "bid_price": 0.08,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.095,
+                "year_change_in_percentage": "9,400%",
+                "average_daily_volume": 2600474,
+                "year_low_price": 0.08,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.cassiusmining.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James Arkoudis",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Arkoudis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Chidlow",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chidlow",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Karam",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Karam",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wayne Kernaghan",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kernaghan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Wayne Kernaghan",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kernaghan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

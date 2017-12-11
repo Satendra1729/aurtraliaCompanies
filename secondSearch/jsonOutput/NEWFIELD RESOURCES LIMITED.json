@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NWF",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NEWFIELD RESOURCES LIMITED",
+    "ASXcode": "NWF",
+    "data": {
+        "summary": {
+            "name_short": "NEWFIELD",
+            "name_full": "NEWFIELD RESOURCES LIMITED",
+            "code": "NWF",
+            "primary_share_code": "NWF",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NEWFIELD RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2012-06-08T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6389 2688",
+            "mailing_address": "79 Broadway, NEDLANDS, WA, AUSTRALIA, 6021",
+            "principal_activities": "Gold exploration.",
+            "fax_number": "(08) 6389 2588",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T18:18:13+1000",
+                    "number_of_pages": 74,
+                    "id": "01902733",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T18:22:46+1000",
+                    "size": "7.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtp26c5zf0c3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 85000,
+                "status": [],
+                "market_cap": 70675001,
+                "code": "NWF",
+                "indices": [],
+                "year_open_price": 0.31,
+                "previous_close_price": 0.3,
+                "year_change_price": -0.03,
+                "year_low_date": "2017-01-10T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 235583335,
+                "eps": -0.0062,
+                "change_in_percent": "-6.667%",
+                "change_price": -0.02,
+                "deprecated_number_of_shares": 235583335,
+                "pe": 0,
+                "offer_price": 0.28,
+                "suspended": false,
+                "last_price": 0.28,
+                "deprecated_market_cap": 65963000,
+                "day_low_price": 0.255,
+                "open_price": 0.255,
+                "year_high_date": "2017-04-27T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-06T11:00:00+1100",
+                "year_high_price": 0.45,
+                "bid_price": 0.2,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.28,
+                "year_change_in_percentage": "-9.677%",
+                "average_daily_volume": 13333,
+                "year_low_price": 0.245,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.newfieldresources.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Anthony Ho",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ho",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Lynn",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lynn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Suryandy Jahja",
+                    "first_name": "Suryandy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jahja",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kim Hogg",
+                    "first_name": "Kim",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hogg",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

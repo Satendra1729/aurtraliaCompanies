@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PSY",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "PANORAMA SYNERGY LTD",
+    "ASXcode": "PSY",
+    "data": {
+        "summary": {
+            "name_short": "PANORAMA",
+            "name_full": "PANORAMA SYNERGY LTD",
+            "code": "PSY",
+            "primary_share_code": "PSY",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "PANORAMA SYNERGY LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PSY?image_size=L&v=1452152457000",
+            "foreign_exempt": false,
+            "listing_date": "2001-05-11T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9286 7500",
+            "mailing_address": "Level 1, 61 Spring Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "The development and commercialisation of magneto photonic and fibre devices for use in revolutionary new display technologies.",
+            "fax_number": "03 9662 1472",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-16T11:53:13+1100",
+                    "number_of_pages": 64,
+                    "id": "01908228",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-16T11:55:01+1100",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171016/pdf/43n848gcy44lgf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 353257,
+                "status": [],
+                "market_cap": 42992887,
+                "code": "PSY",
+                "indices": [],
+                "year_open_price": 0.081,
+                "previous_close_price": 0.077,
+                "year_change_price": -0.003,
+                "year_low_date": "2017-06-20T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 558349183,
+                "eps": -0.0086,
+                "change_in_percent": "1.299%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 558349183,
+                "pe": 0,
+                "offer_price": 0.08,
+                "suspended": false,
+                "last_price": 0.078,
+                "deprecated_market_cap": 43551000,
+                "day_low_price": 0.078,
+                "open_price": 0.08,
+                "year_high_date": "2017-09-15T00:00:00+1000",
+                "previous_day_percentage_change": "4.054%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.125,
+                "bid_price": 0.078,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.08,
+                "year_change_in_percentage": "-3.704%",
+                "average_daily_volume": 638491,
+                "year_low_price": 0.036,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.panoramasynergy.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gavin Coote",
+                    "first_name": "Gavin",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coote",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Lewis",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lewis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Joanne Bryant",
+                    "first_name": "Joanne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bryant",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Julie King",
+                    "first_name": "Julie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "King",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Russell",
+                    "first_name": "Peter",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Russell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Alyn Tai",
+                    "first_name": "Alyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tai",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

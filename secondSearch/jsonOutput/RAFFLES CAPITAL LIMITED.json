@@ -1,0 +1,123 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RAF",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "RAFFLES CAPITAL LIMITED",
+    "ASXcode": "RAF",
+    "data": {
+        "summary": {
+            "name_short": "RAFFLESCAP",
+            "name_full": "RAFFLES CAPITAL LIMITED",
+            "code": "RAF",
+            "primary_share_code": "RAF",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "RAFFLES CAPITAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "1986-10-08T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9251 7177",
+            "mailing_address": "Level 13, 167 Macquarie Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Mineral exploration and development.",
+            "fax_number": "(02) 9251 7500",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-30T14:12:17+1100",
+                    "number_of_pages": 66,
+                    "id": "01843432",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T14:16:31+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h52341vhg8c5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": -1,
+                "indices": [],
+                "year_open_price": 0.28,
+                "previous_close_price": 0,
+                "year_low_date": null,
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 4963380,
+                "eps": -0.0667,
+                "code": "RAF",
+                "deprecated_number_of_shares": 4963380,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": null,
+                "year_open_date": "2014-03-10T11:00:00+1100",
+                "year_high_price": 0,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.rafflescapital.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Abigail Li Ying Zhang",
+                    "first_name": "Abigail",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Zhang",
+                    "middle_name": "Li Ying"
+                },
+                {
+                    "full_name": "Mr Benjamin Amzalak",
+                    "first_name": "Benjamin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Amzalak",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Holstein",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Holstein",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Richard Holstein",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Holstein",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

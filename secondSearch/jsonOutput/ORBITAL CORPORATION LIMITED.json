@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OEC",
+    "GICSindustrygroup": "Automobiles & Components",
+    "Companyname": "ORBITAL CORPORATION LIMITED",
+    "ASXcode": "OEC",
+    "data": {
+        "summary": {
+            "name_short": "ORBITAL",
+            "name_full": "ORBITAL CORPORATION LIMITED",
+            "code": "OEC",
+            "primary_share_code": "OEC",
+            "industry_group_name": "Automobiles & Components",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "ORBITAL CORP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1989-01-24T00:00:00+1100",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9441 2311",
+            "mailing_address": "4 Whipple Street, BALCATTA, WA, AUSTRALIA, 6021",
+            "principal_activities": "Orbital is an international developer of innovative technical solutions for a cleaner world. Orbital provides innovation, design, product development and operational improvement services to the world?s producers and end users of engines and engine managem",
+            "fax_number": "(08) 9441 2133",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-22T14:27:46+1000",
+                    "number_of_pages": 80,
+                    "id": "01899023",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T14:32:32+1000",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mkf6xd6bdf1j.pdf"
+                },
+                {
+                    "header": "Appendix 4E & Annual Report 2017",
+                    "document_date": "2017-08-29T18:13:46+1000",
+                    "number_of_pages": 79,
+                    "id": "01889789",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T18:16:13+1000",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lvpzgh8yfm2z.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 18000,
+                "status": [],
+                "market_cap": 33237229,
+                "code": "OEC",
+                "indices": [],
+                "year_open_price": 0.19,
+                "previous_close_price": 0.43,
+                "year_change_price": 0.275,
+                "year_low_date": "2017-11-30T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 77295882,
+                "eps": -0.1555,
+                "change_in_percent": "8.14%",
+                "change_price": 0.035,
+                "deprecated_number_of_shares": 77295882,
+                "pe": 0,
+                "offer_price": 0.465,
+                "suspended": false,
+                "last_price": 0.465,
+                "deprecated_market_cap": 35943000,
+                "day_low_price": 0.43,
+                "open_price": 0.43,
+                "year_high_date": "2016-12-23T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.9,
+                "bid_price": 0.405,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.465,
+                "year_change_in_percentage": "144.737%",
+                "average_daily_volume": 23431,
+                "year_low_price": 0.405,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.orbitalcorp.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Welborn",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Welborn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Todd Alder",
+                    "first_name": "Todd",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Alder",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steve Gallagher",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gallagher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terry Stinson",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stinson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Roule Jones",
+                    "first_name": "Roule",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

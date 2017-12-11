@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MGZ",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "MEDIGARD LIMITED",
+    "ASXcode": "MGZ",
+    "data": {
+        "summary": {
+            "name_short": "MEDIGARD",
+            "name_full": "MEDIGARD LIMITED",
+            "code": "MGZ",
+            "primary_share_code": "MGZ",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "MEDIGARD LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2004-02-05T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 5578 7822",
+            "mailing_address": "Suite 14A, 30 Tedder Avenue, MAIN BEACH, QLD, AUSTRALIA, 4217",
+            "principal_activities": "Development of retractable syringe and other medical device technologies.",
+            "fax_number": "(07) 5578 7955",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-30T16:06:51+1100",
+                    "number_of_pages": 56,
+                    "id": "01914813",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-30T16:11:56+1100",
+                    "size": "997.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171030/pdf/43nr3lncx6ycs5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 200000,
+                "status": [],
+                "market_cap": 2815938,
+                "code": "MGZ",
+                "indices": [],
+                "year_open_price": 0.026,
+                "previous_close_price": 0.03,
+                "year_change_price": 0.003,
+                "year_low_date": "2017-06-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 93864615,
+                "eps": -0.0009,
+                "change_in_percent": "-3.333%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 93864615,
+                "pe": 0,
+                "offer_price": 0.028,
+                "suspended": false,
+                "last_price": 0.029,
+                "deprecated_market_cap": 2722000,
+                "day_low_price": 0.029,
+                "open_price": 0.029,
+                "year_high_date": "2017-04-24T00:00:00+1000",
+                "previous_day_percentage_change": "3.448%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.032,
+                "bid_price": 0.025,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.029,
+                "year_change_in_percentage": "11.538%",
+                "average_daily_volume": 95804,
+                "year_low_price": 0.009,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.medigard.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Chris Bishop",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Bishop",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Cameron",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cameron",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Donald Channer",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Channer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Ian Dixon",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Dixon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Patricia Mary Boero",
+                    "first_name": "Patricia",
+                    "roles": [
+                        "Alternate Director",
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Boero",
+                    "middle_name": "Mary"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Patricia Mary Boero",
+                    "first_name": "Patricia",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Boero",
+                    "middle_name": "Mary"
+                }
+            ]
+        }
+    }
+}

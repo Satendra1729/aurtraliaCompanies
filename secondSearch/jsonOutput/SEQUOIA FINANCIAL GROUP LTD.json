@@ -1,0 +1,150 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SEQ",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "SEQUOIA FINANCIAL GROUP LTD",
+    "ASXcode": "SEQ",
+    "data": {
+        "summary": {
+            "name_short": "SEQUOIA",
+            "name_full": "SEQUOIA FINANCIAL GROUP LTD",
+            "code": "SEQ",
+            "primary_share_code": "SEQ",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "SEQUOIA FIN GRP LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SEQ?image_size=L&v=1463445789000",
+            "foreign_exempt": false,
+            "listing_date": "2000-09-19T00:00:00+1100",
+            "registry_address": "LEVEL 6, 2 RUSSELL STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "0281142222",
+            "mailing_address": "'AMP Centre', Level 36, 50 Bridge Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The provision of financial advice and technology solutions to investors, traders, financial service providers and corporations.",
+            "fax_number": "0281142200",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-31T16:02:25+1000",
+                    "number_of_pages": 89,
+                    "id": "01891219",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-31T16:06:08+1000",
+                    "size": "6.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lyq403blv3tg.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 156031,
+                "status": [],
+                "market_cap": 18008558,
+                "code": "SEQ",
+                "indices": [],
+                "year_open_price": 0.005,
+                "previous_close_price": 0.3,
+                "year_change_price": 0.29,
+                "year_low_date": "2016-12-12T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 60028525,
+                "eps": 0.0146,
+                "change_in_percent": "-1.667%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 60028525,
+                "pe": 20.21,
+                "offer_price": 0.315,
+                "suspended": false,
+                "last_price": 0.295,
+                "deprecated_market_cap": 17708000,
+                "day_low_price": 0.295,
+                "open_price": 0.315,
+                "year_high_date": "2017-09-19T00:00:00+1000",
+                "previous_day_percentage_change": "-6.25%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.42,
+                "bid_price": 0.295,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.315,
+                "year_change_in_percentage": "5,800%",
+                "average_daily_volume": 165110,
+                "year_low_price": 0.22,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 556 635",
+            "web_address": "http://www.sequoia.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "REGISTRY DIRECT",
+            "investor_relations_url": "http://www.sequoia.com.au/sfg/asx-announcements"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Kenneth Carter",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carter",
+                    "middle_name": "Kenneth"
+                },
+                {
+                    "full_name": "Mr Scott Lionel Beeton",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beeton",
+                    "middle_name": "Lionel"
+                },
+                {
+                    "full_name": "Mr Marcel John Collignon",
+                    "first_name": "Marcel",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Collignon",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Garry Peter Crole",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crole",
+                    "middle_name": "Peter"
+                },
+                {
+                    "full_name": "Miss Renee Louise Minchin",
+                    "first_name": "Renee",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Miss",
+                    "last_name": "Minchin",
+                    "middle_name": "Louise"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tharun Kuppanda",
+                    "first_name": "Tharun",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kuppanda",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

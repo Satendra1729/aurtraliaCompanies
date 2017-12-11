@@ -1,0 +1,162 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SDX",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "SIENNA CANCER DIAGNOSTICS LIMITED",
+    "ASXcode": "SDX",
+    "data": {
+        "summary": {
+            "name_short": "SIENNA",
+            "name_full": "SIENNA CANCER DIAGNOSTICS LIMITED",
+            "code": "SDX",
+            "primary_share_code": "SDX",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "SIENNA CANCER",
+            "foreign_exempt": false,
+            "listing_date": "2017-08-03T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8288 2141",
+            "mailing_address": "1 Dalmore Drive, SCORESBY, VIC, AUSTRALIA, 3179",
+            "principal_activities": "Biotechnology and life science",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-09T15:04:01+1100",
+                    "number_of_pages": 56,
+                    "id": "01905822",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-09T15:05:52+1100",
+                    "size": "4.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171009/pdf/43n2b88y0shwn8.pdf"
+                },
+                {
+                    "header": "Annual Report - 30 June 2016",
+                    "document_date": "2017-08-02T16:05:56+1000",
+                    "number_of_pages": 34,
+                    "id": "01880278",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-02T16:07:53+1000",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170802/pdf/43l3wht9jlpzdw.pdf"
+                },
+                {
+                    "header": "Annual Report - 30 June 2015",
+                    "document_date": "2017-08-02T16:04:33+1000",
+                    "number_of_pages": 36,
+                    "id": "01880276",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-02T16:06:13+1000",
+                    "size": "6.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170802/pdf/43l3wd32hsg690.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 25000,
+                "status": [],
+                "market_cap": 22532791,
+                "code": "SDX",
+                "indices": [],
+                "deprecated_number_of_shares": 155835698,
+                "previous_close_price": 0.125,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 180262327,
+                "eps": 0,
+                "change_in_percent": "-4%",
+                "change_price": -0.005,
+                "pe": 0,
+                "offer_price": 0.13,
+                "suspended": false,
+                "last_price": 0.12,
+                "deprecated_market_cap": 18700000,
+                "day_low_price": 0.12,
+                "open_price": 0.12,
+                "year_high_date": "2017-08-03T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.2,
+                "bid_price": 0.12,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.12,
+                "average_daily_volume": 168298,
+                "year_low_price": 0.12,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://siennadiagnostics.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Geoffrey Cumming",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Cumming",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Hoskin",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hoskin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr John Chiplin",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Chiplin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr David Earp",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Earp",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Carl Stubbings",
+                    "first_name": "Carl",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stubbings",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tony Di Pietro",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Di Pietro",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

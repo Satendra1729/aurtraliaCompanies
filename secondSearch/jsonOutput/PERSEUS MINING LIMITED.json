@@ -1,0 +1,223 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PRU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PERSEUS MINING LIMITED",
+    "ASXcode": "PRU",
+    "data": {
+        "summary": {
+            "name_short": "PERSEUS",
+            "name_full": "PERSEUS MINING LIMITED",
+            "code": "PRU",
+            "primary_share_code": "PRU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PERSEUS MINING LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-09-22T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6144 1700",
+            "mailing_address": "Level 2, 437 Roberts Road, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Mining and Mineral exploration",
+            "fax_number": "+61 8 6144 1799",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-10-19T11:37:48+1100",
+                    "number_of_pages": 117,
+                    "id": "01909803",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-19T11:39:56+1100",
+                    "size": "4.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171019/pdf/43ncmrw7fvm47x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3624760,
+                "status": [],
+                "market_cap": 335808409,
+                "code": "PRU",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    }
+                ],
+                "year_open_price": 0.47,
+                "previous_close_price": 0.325,
+                "year_change_price": -0.15,
+                "year_low_date": "2017-07-11T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1033256642,
+                "eps": -0.0741,
+                "change_in_percent": "-1.538%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 1033256642,
+                "pe": 0,
+                "offer_price": 0.325,
+                "suspended": false,
+                "last_price": 0.32,
+                "deprecated_market_cap": 330642000,
+                "day_low_price": 0.315,
+                "open_price": 0.32,
+                "year_high_date": "2016-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "-1.515%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.61,
+                "bid_price": 0.32,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.325,
+                "year_change_in_percentage": "-31.915%",
+                "average_daily_volume": 3914146,
+                "year_low_price": 0.27,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.perseusmining.com/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Sean Harvey",
+                    "first_name": "Sean",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harvey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeff Quartermaine",
+                    "first_name": "Jeff",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Quartermaine",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colin Carson",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Bohm",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bohm",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alexander Davidson",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davidson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sally-Anne Layman",
+                    "first_name": "Sally-Anne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Layman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John McGloin",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGloin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Elissa Brown",
+                    "first_name": "Elissa",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martijn Paul Bosboom",
+                    "first_name": "Martijn",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bosboom",
+                    "middle_name": "Paul"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Martijn Paul Bosboom",
+                    "first_name": "Martijn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bosboom",
+                    "middle_name": "Paul"
+                }
+            ]
+        }
+    }
+}

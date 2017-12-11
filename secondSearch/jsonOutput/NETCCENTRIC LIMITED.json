@@ -1,0 +1,174 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NCL",
+    "GICSindustrygroup": "Media",
+    "Companyname": "NETCCENTRIC LIMITED",
+    "ASXcode": "NCL",
+    "data": {
+        "summary": {
+            "name_short": "NETCENTRIC",
+            "name_full": "NETCCENTRIC LIMITED",
+            "code": "NCL",
+            "primary_share_code": "NCL",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "NETCCENTRIC LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/NCL?image_size=L&v=1508828648000",
+            "foreign_exempt": false,
+            "listing_date": "2015-07-06T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+ 65 6295 5990",
+            "mailing_address": "38 Kinta Road, #02-03 Kinta Suites, ., ., ., SINGAPORE, 219107",
+            "principal_activities": "The development of software and programming activities.",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-03-31T16:56:33+1100",
+                    "number_of_pages": 88,
+                    "id": "01844029",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T16:59:46+1100",
+                    "size": "17.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6cgqfgc5l6x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 5250000,
+                "code": "NCL",
+                "indices": [],
+                "deprecated_number_of_shares": 262500000,
+                "previous_close_price": 0.02,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 262500000,
+                "eps": -0.0151,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.018,
+                "suspended": false,
+                "last_price": 0.02,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-31T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.052,
+                "bid_price": 0.013,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0,
+                "average_daily_volume": 125154,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.netccentric.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Martyn Thomas",
+                    "first_name": "Martyn",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thomas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Desmond Kiu",
+                    "first_name": "Desmond",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kiu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ming Shen Cheo",
+                    "first_name": "Ming Shen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cheo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Chiam",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chiam",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Joanne Khoo Su Nee",
+                    "first_name": "Joanne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Khoo Su Nee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ewe Tiam Tiah",
+                    "first_name": "Ewe",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tiah",
+                    "middle_name": "Tiam"
+                },
+                {
+                    "full_name": "Mrs Joanne Chen",
+                    "first_name": "Joanne",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Phillip Hains",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hains",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Vaughan",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vaughan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

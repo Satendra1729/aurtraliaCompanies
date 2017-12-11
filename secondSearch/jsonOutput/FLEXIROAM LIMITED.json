@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FRX",
+    "GICSindustrygroup": "Telecommunication Services",
+    "Companyname": "FLEXIROAM LIMITED",
+    "ASXcode": "FRX",
+    "data": {
+        "summary": {
+            "name_short": "FLEXIROAM",
+            "name_full": "FLEXIROAM LIMITED",
+            "code": "FRX",
+            "primary_share_code": "FRX",
+            "industry_group_name": "Telecommunication Services",
+            "delisting_date": null,
+            "sector_name": "Telecommunication Services",
+            "name_abbrev": "FLEXIROAM LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2015-06-16T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "kim@anthonyho.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6389 2688",
+            "mailing_address": "79 Broadway, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "",
+            "fax_number": "(08) 6389 2588",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-06-29T19:17:06+1000",
+                    "number_of_pages": 72,
+                    "id": "01869897",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-06-29T19:21:10+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170629/pdf/43k95zb5qfzd87.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 150000,
+                "status": [],
+                "market_cap": 10652923,
+                "code": "FRX",
+                "indices": [],
+                "deprecated_number_of_shares": 193689501,
+                "previous_close_price": 0.055,
+                "year_low_date": "2017-11-15T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 193689501,
+                "eps": -0.0285,
+                "change_in_percent": "9.091%",
+                "change_price": 0.005,
+                "pe": 0,
+                "offer_price": 0.06,
+                "suspended": false,
+                "last_price": 0.06,
+                "deprecated_market_cap": 11621000,
+                "day_low_price": 0.055,
+                "open_price": 0.055,
+                "year_high_date": "2017-01-19T00:00:00+1100",
+                "previous_day_percentage_change": "-21.429%",
+                "year_open_date": null,
+                "year_high_price": 0.115,
+                "bid_price": 0.05,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.06,
+                "average_daily_volume": 139119,
+                "year_low_price": 0.05,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.investor.flexiroam.com",
+            "fiscal_year_end": "31/03",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jefrey Ong",
+                    "first_name": "Jefrey",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wai Hong Fong",
+                    "first_name": "Wai",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fong",
+                    "middle_name": "Hong"
+                },
+                {
+                    "full_name": "Mr Dato' Larry Gan",
+                    "first_name": "Dato' Larry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Khong",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Khong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Cheryl Yeoh",
+                    "first_name": "Cheryl",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Yeoh",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kim Hogg",
+                    "first_name": "Kim",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hogg",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

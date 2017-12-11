@@ -1,0 +1,188 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LHM",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "LAND & HOMES GROUP LIMITED",
+    "ASXcode": "LHM",
+    "data": {
+        "summary": {
+            "name_short": "LAND&HOME",
+            "name_full": "LAND & HOMES GROUP LIMITED",
+            "code": "LHM",
+            "primary_share_code": "LHM",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "LAND HOMES GRP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-10-05T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "info@landnhomesgroup.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 3905 5658",
+            "mailing_address": "Level 3A, 148 Elizabeth Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Development of medium to high density residential apartments.",
+            "fax_number": "07 3221 3068",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders - YE 30 June 2017",
+                    "document_date": "2017-10-18T18:22:18+1100",
+                    "number_of_pages": 56,
+                    "id": "01909548",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-18T18:23:44+1100",
+                    "size": "6.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171018/pdf/43nc0qnfr0c27l.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 100000,
+                "status": [],
+                "market_cap": 32531068,
+                "code": "LHM",
+                "indices": [],
+                "deprecated_number_of_shares": 1049389287,
+                "previous_close_price": 0.031,
+                "year_low_date": "2017-07-12T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1049389287,
+                "eps": 0,
+                "change_in_percent": "3.226%",
+                "change_price": 0.001,
+                "pe": 0,
+                "offer_price": 0.037,
+                "suspended": false,
+                "last_price": 0.032,
+                "deprecated_market_cap": 33580000,
+                "day_low_price": 0.032,
+                "open_price": 0.032,
+                "year_high_date": "2017-04-18T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.046,
+                "bid_price": 0.02,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.032,
+                "average_daily_volume": 196904,
+                "year_low_price": 0.021,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.landnhomesgroup.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Choon Keng Kho",
+                    "first_name": "Choon",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kho",
+                    "middle_name": "Keng"
+                },
+                {
+                    "full_name": "Mr Peter Mackinlay",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackinlay",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Siew Goh",
+                    "first_name": "Siew",
+                    "roles": [
+                        "Director",
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Goh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Archibald",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Archibald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chuan Chi Kao",
+                    "first_name": "Chuan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kao",
+                    "middle_name": "Chi"
+                },
+                {
+                    "full_name": "Mr Patrick Kho",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kho",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kim Huat Koh",
+                    "first_name": "Kim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Koh",
+                    "middle_name": "Huat"
+                },
+                {
+                    "full_name": "Ms Kwee Jee Lee",
+                    "first_name": "Kwee",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lee",
+                    "middle_name": "Jee"
+                },
+                {
+                    "full_name": "Mr Charles Chow Cher Lim",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lim",
+                    "middle_name": "Chow Cher"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew John Cooke",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooke",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

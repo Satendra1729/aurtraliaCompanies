@@ -1,0 +1,101 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AYU",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "AUSTRALIAN UNITY LIMITED",
+    "ASXcode": "AYU",
+    "data": {
+        "summary": {
+            "name_full": "AUSTRALIAN UNITY LIMITED",
+            "code": "AYU",
+            "name_short": "AUS UNITY",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "AUSTRALIAN UNITY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-04-19T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "floating-rate-notes"
+            ],
+            "phone_number": "(03) 8682 5000",
+            "mailing_address": "Level 14, 114 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "National healthcare, financial services and retirement living organisation.",
+            "fax_number": "(03) 8682 6699",
+            "latest_annual_reports": [
+                {
+                    "header": "Australian Unity Limited Annual Report 2017",
+                    "document_date": "2017-09-21T08:36:21+1000",
+                    "number_of_pages": 143,
+                    "id": "01898271",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-21T08:39:13+1000",
+                    "size": "13.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170921/pdf/43mhsnkt8pvbmw.pdf"
+                }
+            ],
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.australianunity.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Rohan Mead",
+                    "first_name": "Rohan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mead",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Darren Mann",
+                    "first_name": "Darren",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mann",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Melinda Honig",
+                    "first_name": "Melinda",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Honig",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Melinda Honig",
+                    "first_name": "Melinda",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Honig",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Catherine Frances Visentin",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Visentin",
+                    "middle_name": "Frances"
+                }
+            ]
+        }
+    }
+}

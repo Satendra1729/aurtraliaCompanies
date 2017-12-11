@@ -1,0 +1,171 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PGC",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "PARAGON CARE LIMITED",
+    "ASXcode": "PGC",
+    "data": {
+        "summary": {
+            "name_short": "PARAGON",
+            "name_full": "PARAGON CARE LIMITED",
+            "code": "PGC",
+            "primary_share_code": "PGC",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "PARAGON CARE LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1999-10-15T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "1.9C FRANKED @30%; D RP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-07T00:00:00+1000",
+                "record_date": "2017-09-08T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.019,
+                "ex_date": "2017-09-07T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 369 559",
+            "mailing_address": "11 Dalmore Drive, SCORESBY, VIC, AUSTRALIA, 3179",
+            "principal_activities": ".",
+            "fax_number": "03 8833 7890",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-07T13:31:51+1000",
+                    "number_of_pages": 58,
+                    "id": "01881368",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-07T13:33:44+1000",
+                    "size": "4.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170807/pdf/43l6vhg3gdmkz1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 486814,
+                "status": [],
+                "market_cap": 135464904,
+                "code": "PGC",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.3,
+                "previous_close_price": 0.815,
+                "year_change_price": 0.525,
+                "year_low_date": "2017-06-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 166214606,
+                "eps": 0.062,
+                "change_in_percent": "1.227%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 166214606,
+                "pe": 13.31,
+                "offer_price": 0.825,
+                "suspended": false,
+                "last_price": 0.825,
+                "deprecated_market_cap": 137127000,
+                "day_low_price": 0.815,
+                "open_price": 0.815,
+                "year_high_date": "2017-08-14T00:00:00+1000",
+                "previous_day_percentage_change": "-1.807%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.97,
+                "bid_price": 0.82,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.83,
+                "year_change_in_percentage": "175%",
+                "average_daily_volume": 420466,
+                "year_low_price": 0.69,
+                "annual_dividend_yield": 3.64
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.paragoncare.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Shane Tanner",
+                    "first_name": "Shane",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tanner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Simari",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Simari",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Cheong",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cheong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Newton",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Newton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoffrey Sam",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sam",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Osborne",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Osborne",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

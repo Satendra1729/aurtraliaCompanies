@@ -1,0 +1,155 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FND",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FINDERS RESOURCES LIMITED",
+    "ASXcode": "FND",
+    "data": {
+        "summary": {
+            "name_short": "FINDERS",
+            "name_full": "FINDERS RESOURCES LIMITED",
+            "code": "FND",
+            "primary_share_code": "FND",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "FINDERS RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2007-06-08T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 6555 3996",
+            "mailing_address": "Level 1, 5 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Developing the Wetar Copper Project and advancing the Ojolali Gold and Silver Project.",
+            "fax_number": "08 6555 3998",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2016",
+                    "document_date": "2017-04-24T11:20:08+1000",
+                    "number_of_pages": 92,
+                    "id": "01849920",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-24T11:21:29+1000",
+                    "size": "2.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170424/pdf/43hpql682v4cb4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 286092,
+                "status": [],
+                "market_cap": 177644466,
+                "code": "FND",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.1786,
+                "previous_close_price": 0.23,
+                "year_change_price": 0.0514,
+                "year_low_date": "2017-01-11T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 772367245,
+                "eps": 0.0659,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 761867245,
+                "pe": 3.49,
+                "offer_price": 0.235,
+                "suspended": false,
+                "last_price": 0.23,
+                "deprecated_market_cap": 175229000,
+                "day_low_price": 0.23,
+                "open_price": 0.23,
+                "year_high_date": "2017-10-18T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.265,
+                "bid_price": 0.23,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.23,
+                "year_change_in_percentage": "28.779%",
+                "average_daily_volume": 1108304,
+                "year_low_price": 0.135,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.findersresources.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gary Comb",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Comb",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Barry Cahill",
+                    "first_name": "Barry",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cahill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gavin Caudle",
+                    "first_name": "Gavin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Caudle",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gordon Galt",
+                    "first_name": "Gordon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Galt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wayne Apted",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Apted",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Susan Hunter",
+                    "first_name": "Susan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hunter",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

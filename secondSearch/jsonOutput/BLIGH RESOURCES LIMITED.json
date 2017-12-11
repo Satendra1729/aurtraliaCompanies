@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BGH",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BLIGH RESOURCES LIMITED",
+    "ASXcode": "BGH",
+    "data": {
+        "summary": {
+            "name_short": "BLIGHRESOU",
+            "name_full": "BLIGH RESOURCES LIMITED",
+            "code": "BGH",
+            "primary_share_code": "BGH",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BLIGH RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-12-01T00:00:00+1100",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@blighresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9420 9310",
+            "mailing_address": "Level 1, 33 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mineral exploration in Western Australia",
+            "fax_number": "08 9420 9399",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-30T12:04:35+1000",
+                    "number_of_pages": 45,
+                    "id": "01902957",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:03:08+1100",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvlmc7w46055.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 7924137,
+                "code": "BGH",
+                "indices": [],
+                "year_open_price": 0.03,
+                "previous_close_price": 0.028,
+                "year_change_price": -0.002,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 283004908,
+                "eps": -0.0111,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 283004908,
+                "pe": 0,
+                "offer_price": 0.033,
+                "suspended": false,
+                "last_price": 0.028,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-06-22T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.038,
+                "bid_price": 0.028,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-6.667%",
+                "average_daily_volume": 286747,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.bligh-resources.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Patrick Burke",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burke",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Sullivan",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sullivan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Sullivan",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sullivan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Lloyd Flint",
+                    "first_name": "Lloyd",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Flint",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

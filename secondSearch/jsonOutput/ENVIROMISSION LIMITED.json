@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EVM",
+    "GICSindustrygroup": "Utilities",
+    "Companyname": "ENVIROMISSION LIMITED",
+    "ASXcode": "EVM",
+    "data": {
+        "summary": {
+            "name_short": "ENVMISSION",
+            "name_full": "ENVIROMISSION LIMITED",
+            "code": "EVM",
+            "primary_share_code": "EVM",
+            "industry_group_name": "Utilities",
+            "delisting_date": null,
+            "sector_name": "Utilities",
+            "name_abbrev": "ENVIROMISSION LTD",
+            "foreign_exempt": false,
+            "listing_date": "2001-08-06T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9693 5666",
+            "mailing_address": "238 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "EnviroMission is the global developer of Solar Tower renewable energy power station intellectual property.",
+            "fax_number": "03 9699 7566",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-11-03T20:42:01+1100",
+                    "number_of_pages": 53,
+                    "id": "01918167",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-06T08:52:52+1100",
+                    "size": "2.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171106/pdf/43nzn12mgd81n9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "EVM",
+                "indices": [],
+                "year_open_price": 0.075,
+                "previous_close_price": 0.1,
+                "year_change_price": 0.025,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 563422681,
+                "eps": -0.0035,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 563422681,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.1,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-05-10T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.1,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "33.333%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.enviromission.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Roger Davey",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Executive Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Galbally QC",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Galbally QC",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yue Tang",
+                    "first_name": "Yue",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Draffin",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Draffin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

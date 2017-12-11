@@ -1,0 +1,164 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CIA",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CHAMPION IRON LIMITED",
+    "ASXcode": "CIA",
+    "data": {
+        "summary": {
+            "name_short": "CHAMP IRON",
+            "name_full": "CHAMPION IRON LIMITED",
+            "code": "CIA",
+            "primary_share_code": "CIA",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CHAMPION IRON LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-06-08T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9810 7816",
+            "mailing_address": "91 Evans Street, ROZELLE, NSW, AUSTRALIA, 2039",
+            "principal_activities": "Mineral exploration.",
+            "fax_number": "+61 2 8065 5017",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-06-29T15:40:09+1000",
+                    "number_of_pages": 70,
+                    "id": "01869797",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-06-29T15:45:13+1000",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170629/pdf/43k8zd6cxjfrc4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5991,
+                "status": [],
+                "market_cap": 553659095,
+                "code": "CIA",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.6,
+                "previous_close_price": 1.35,
+                "year_change_price": 0.815,
+                "year_low_date": "2016-12-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 410117848,
+                "eps": -0.0768,
+                "change_in_percent": "4.815%",
+                "change_price": 0.065,
+                "deprecated_number_of_shares": 410117847,
+                "pe": 0,
+                "offer_price": 1.415,
+                "suspended": false,
+                "last_price": 1.415,
+                "deprecated_market_cap": 580317000,
+                "day_low_price": 1.38,
+                "open_price": 1.38,
+                "year_high_date": "2017-11-21T00:00:00+1100",
+                "previous_day_percentage_change": "5.058%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.6,
+                "bid_price": 1.38,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.415,
+                "year_change_in_percentage": "135.833%",
+                "average_daily_volume": 77078,
+                "year_low_price": 0.44,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.championiron.com",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael O'Keeffe",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Keeffe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Ankcorn",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ankcorn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Lawler",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lawler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Love",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Love",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alex Horvath",
+                    "first_name": "Alex",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Horvath",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jorge Estepa",
+                    "first_name": "Jorge",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Estepa",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Pradip Devalia",
+                    "first_name": "Pradip",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Devalia",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CEN",
+    "GICSindustrygroup": "Utilities",
+    "Companyname": "CONTACT ENERGY LIMITED",
+    "ASXcode": "CEN",
+    "data": {
+        "summary": {
+            "name_short": "CONTACT EN",
+            "name_full": "CONTACT ENERGY LIMITED",
+            "code": "CEN",
+            "primary_share_code": "CEN",
+            "industry_group_name": "Utilities",
+            "delisting_date": null,
+            "sector_name": "Utilities",
+            "name_abbrev": "CONTACT ENERGY LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CEN?image_size=L&v=1443045622000",
+            "foreign_exempt": true,
+            "listing_date": "2015-09-24T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "NZ 15C+2.647059C TO  NR;15% W/TAX",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-14T00:00:00+1000",
+                "record_date": "2017-08-31T00:00:00+1000",
+                "payable_date": "2017-09-19T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.13517044,
+                "ex_date": "2017-08-30T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+64 4 499 4001",
+            "mailing_address": "Harbour City Tower, 29 Brandon Street, WELLINGTON, ., NEW ZEALAND, 6011",
+            "principal_activities": "Electricity generation and electricity retailing.",
+            "fax_number": "+64 4 499 4003",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-08-14T06:49:31+1000",
+                    "number_of_pages": 46,
+                    "id": "01883170",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-14T07:31:44+1000",
+                    "size": "5.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170814/pdf/43lchdk2jdvn08.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 204,
+                "status": [],
+                "market_cap": 3513231462,
+                "code": "CEN",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 183339718,
+                "previous_close_price": 4.91,
+                "year_low_date": "2017-03-10T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 715525756,
+                "eps": 0.2,
+                "change_in_percent": "0.815%",
+                "change_price": 0.04,
+                "pe": 24.75,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 4.95,
+                "deprecated_market_cap": 907532000,
+                "day_low_price": 4.94,
+                "open_price": 4.94,
+                "year_high_date": "2017-08-15T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 5.35,
+                "bid_price": 4.95,
+                "desc_full": "Ordinary Fully Paid Foreign Exempt Nzx",
+                "day_high_price": 4.95,
+                "average_daily_volume": 49190,
+                "year_low_price": 4.29,
+                "annual_dividend_yield": 4.72
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.contact.co.nz/corporate",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Sir Ralph Norris",
+                    "first_name": "Ralph",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Sir",
+                    "last_name": "Norris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dennis Barnes",
+                    "first_name": "Dennis",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barnes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Victoria Crone",
+                    "first_name": "Victoria",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Crone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Whaimutu Dewes",
+                    "first_name": "Whaimutu",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dewes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rob McDonald",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDonald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sue Sheldon",
+                    "first_name": "Sue",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Sheldon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Elena Trout",
+                    "first_name": "Elena",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Trout",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Cockroft",
+                    "first_name": "Graham",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cockroft",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kirsten Clayton",
+                    "first_name": "Kirsten",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Clayton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

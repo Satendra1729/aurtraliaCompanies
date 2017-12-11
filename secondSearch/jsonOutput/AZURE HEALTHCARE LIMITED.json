@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AZV",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "AZURE HEALTHCARE LIMITED",
+    "ASXcode": "AZV",
+    "data": {
+        "summary": {
+            "name_full": "AZURE HEALTHCARE LIMITED",
+            "code": "AZV",
+            "name_short": "AZ HEALTH",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "AZURE HEALTHCARE LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AZV?image_size=L&v=1422333768000",
+            "foreign_exempt": false,
+            "listing_date": "2004-09-24T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "jason.darcy@austco.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9209 9600",
+            "mailing_address": "Level 18, 60 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Manufacture, service, supply and distribution of Healthcare and communications equipment.",
+            "fax_number": "(03) 9209 9699",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T19:42:59+1000",
+                    "number_of_pages": 79,
+                    "id": "01902862",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T07:55:10+1100",
+                    "size": "4.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvf3fv0c92zw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 40352,
+                "status": [],
+                "market_cap": 15126334,
+                "code": "AZV",
+                "indices": [],
+                "year_open_price": 0.305,
+                "previous_close_price": 0.065,
+                "year_change_price": -0.24,
+                "year_low_date": "2017-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 232712826,
+                "eps": -0.0302,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 232712826,
+                "pe": 0,
+                "offer_price": 0.066,
+                "suspended": false,
+                "last_price": 0.065,
+                "deprecated_market_cap": 15126000,
+                "day_low_price": 0.065,
+                "open_price": 0.065,
+                "year_high_date": "2017-04-06T00:00:00+1000",
+                "previous_day_percentage_change": "8.333%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.125,
+                "bid_price": 0.065,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.065,
+                "year_change_in_percentage": "-78.689%",
+                "average_daily_volume": 170537,
+                "year_low_price": 0.06,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "AZV",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.azurehealthcare.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graeme Billings",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Billings",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Clayton Astles",
+                    "first_name": "Clayton",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Astles",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Burns",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burns",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jason Adam D'Arcy",
+                    "first_name": "Jason",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "D'Arcy",
+                    "middle_name": "Adam"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jason Adam D'Arcy",
+                    "first_name": "Jason",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "D'Arcy",
+                    "middle_name": "Adam"
+                }
+            ]
+        }
+    }
+}

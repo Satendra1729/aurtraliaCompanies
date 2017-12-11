@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/REY",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "REY RESOURCES LIMITED",
+    "ASXcode": "REY",
+    "data": {
+        "summary": {
+            "name_short": "REY RES",
+            "name_full": "REY RESOURCES LIMITED",
+            "code": "REY",
+            "primary_share_code": "REY",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "REY RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-06-05T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9211 1999",
+            "mailing_address": "Suite 5, 62 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": ".",
+            "fax_number": "+61 8 9486 1258",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-19T13:32:03+1100",
+                    "number_of_pages": 76,
+                    "id": "01909875",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-19T13:35:32+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171019/pdf/43ncscqhhwrlcb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 62686103,
+                "code": "REY",
+                "indices": [],
+                "year_open_price": 0.084,
+                "previous_close_price": 0.295,
+                "year_change_price": 0.211,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 212495266,
+                "eps": -0.0027,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 212495266,
+                "pe": 0,
+                "offer_price": 0.3,
+                "suspended": false,
+                "last_price": 0.295,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-08-08T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.32,
+                "bid_price": 0.295,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "251.19%",
+                "average_daily_volume": 31712,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.reyresources.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Min Yang",
+                    "first_name": "Min",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Yang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jin Wei",
+                    "first_name": "Jin",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wei",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Baker",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Zhiling Ou",
+                    "first_name": "Zhiling",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Ou",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dachun Zhang",
+                    "first_name": "Dachun",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Louis Chien",
+                    "first_name": "Louis",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chien",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Shannon Coates",
+                    "first_name": "Shannon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Coates",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

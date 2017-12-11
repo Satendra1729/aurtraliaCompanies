@@ -1,0 +1,233 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NEC",
+    "GICSindustrygroup": "Media",
+    "Companyname": "NINE ENTERTAINMENT CO. HOLDINGS LIMITED",
+    "ASXcode": "NEC",
+    "data": {
+        "summary": {
+            "name_short": "NINE ENT",
+            "name_full": "NINE ENTERTAINMENT CO. HOLDINGS LIMITED",
+            "code": "NEC",
+            "primary_share_code": "NEC",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "NINE ENTERTAINMENT",
+            "foreign_exempt": false,
+            "listing_date": "2013-12-06T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "5C FRANKED @30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-05T00:00:00+1000",
+                "payable_date": "2017-10-19T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.05,
+                "ex_date": "2017-09-04T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(02) 9906 9999",
+            "mailing_address": "24 Artarmon Road, WILLOUGHBY, NSW, AUSTRALIA, 2068",
+            "principal_activities": "Media and entertainment company.",
+            "fax_number": "(02) 9965 2215",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-03T10:07:28+1100",
+                    "number_of_pages": 116,
+                    "id": "01903586",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-03T10:11:08+1100",
+                    "size": "8.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171003/pdf/43mwz5km0y51y0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6048981,
+                "status": [],
+                "market_cap": 1381126508,
+                "code": "NEC",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    }
+                ],
+                "year_open_price": 2.29,
+                "previous_close_price": 1.585,
+                "year_change_price": -0.695,
+                "year_low_date": "2017-02-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 871373191,
+                "eps": -0.23,
+                "change_in_percent": "0.631%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 871373191,
+                "pe": 0,
+                "offer_price": 1.62,
+                "suspended": false,
+                "last_price": 1.595,
+                "deprecated_market_cap": 1389840000,
+                "day_low_price": 1.59,
+                "open_price": 1.6,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "-0.627%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.62,
+                "bid_price": 1.595,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.61,
+                "year_change_in_percentage": "-30.349%",
+                "average_daily_volume": 2774519,
+                "year_low_price": 0.94,
+                "annual_dividend_yield": 5.96
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.nineentertainment.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Costello",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Costello",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hugh Marks",
+                    "first_name": "Hugh",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marks",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Gyngell",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gyngell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Janette Kendall",
+                    "first_name": "Janette",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kendall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sam Lewis",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lewis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Catherine West",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "West",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Barnes",
+                    "first_name": "Greg",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barnes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Nola Hodgson",
+                    "first_name": "Nola",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hodgson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Rachel Launders",
+                    "first_name": "Rachel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Launders",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CAS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CRUSADER RESOURCES LIMITED",
+    "ASXcode": "CAS",
+    "data": {
+        "summary": {
+            "name_short": "CRUSADER",
+            "name_full": "CRUSADER RESOURCES LIMITED",
+            "code": "CAS",
+            "primary_share_code": "CAS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CRUSADER RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2004-02-06T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9320 7500",
+            "mailing_address": "Suite 1, Level 1, 35 Havelock Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration for gold and base metals.",
+            "fax_number": "+61 8 9320 7501",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-12T11:58:42+1000",
+                    "number_of_pages": 81,
+                    "id": "01847519",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-12T12:02:28+1000",
+                    "size": "8.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170412/pdf/43hh0qmj2jd1x9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 25894652,
+                "code": "CAS",
+                "indices": [],
+                "year_open_price": 0.29,
+                "previous_close_price": 0.086,
+                "year_change_price": -0.204,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 301100609,
+                "eps": -0.0433,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 301100609,
+                "pe": 0,
+                "offer_price": 0.086,
+                "suspended": false,
+                "last_price": 0.086,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-05-19T00:00:00+1000",
+                "previous_day_percentage_change": "-1.149%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.135,
+                "bid_price": 0.084,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-70.345%",
+                "average_daily_volume": 273362,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.crusaderresources.com",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stephen Copulos",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Copulos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rob Smakman",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smakman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Stephen",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Evans",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mauricio Ferreira",
+                    "first_name": "Mauricio",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferreira",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Beigel",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beigel",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

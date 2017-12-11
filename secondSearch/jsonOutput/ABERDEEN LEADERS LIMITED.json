@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ALR",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "ABERDEEN LEADERS LIMITED",
+    "ASXcode": "ALR",
+    "data": {
+        "summary": {
+            "name_short": "ABERDEEN",
+            "name_full": "ABERDEEN LEADERS LIMITED",
+            "code": "ALR",
+            "primary_share_code": "ALR",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "ABERDEEN LEADERS",
+            "foreign_exempt": false,
+            "listing_date": "1987-09-17T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "1C FRANKED @30%; DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-09-20T00:00:00+1000",
+                "record_date": "2017-10-09T00:00:00+1100",
+                "payable_date": "2017-10-27T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.01,
+                "ex_date": "2017-10-06T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9950 2888",
+            "mailing_address": "C/-Aberdeen Asset Management Limited, Level 10, 255 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment in stocks which comprise the S&P/ASX 200 Index and interest bearing securities to receive regular income and long-term capital growth.",
+            "fax_number": "(02) 9950 2800",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T10:06:19+1000",
+                    "number_of_pages": 60,
+                    "id": "01901978",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T10:07:44+1000",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43ms6x6kx4149y.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1500,
+                "status": [],
+                "market_cap": 72470233,
+                "code": "ALR",
+                "indices": [],
+                "year_open_price": 1.35,
+                "previous_close_price": 1.22,
+                "year_change_price": -0.085,
+                "year_low_date": "2017-04-07T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 59401830,
+                "eps": 0.0323,
+                "change_in_percent": "3.689%",
+                "change_price": 0.045,
+                "deprecated_number_of_shares": 59401830,
+                "pe": 39.16,
+                "offer_price": 1.27,
+                "suspended": false,
+                "last_price": 1.265,
+                "deprecated_market_cap": 75143000,
+                "day_low_price": 1.245,
+                "open_price": 1.245,
+                "year_high_date": "2017-11-22T00:00:00+1100",
+                "previous_day_percentage_change": "-2.789%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.275,
+                "bid_price": 1.245,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.265,
+                "year_change_in_percentage": "-6.296%",
+                "average_daily_volume": 29824,
+                "year_low_price": 1.1,
+                "annual_dividend_yield": 3.95
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.aberdeenasset.com.au/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brian Michael Sherman",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sherman",
+                    "middle_name": "Michael"
+                },
+                {
+                    "full_name": "Mr Mark Daniels",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Daniels",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David L Elsum",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Elsum",
+                    "middle_name": "L"
+                },
+                {
+                    "full_name": "Mr Neville J Miles",
+                    "first_name": "Neville",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Miles",
+                    "middle_name": "J"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gil Orski",
+                    "first_name": "Gil",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Orski",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PHI",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "PHILEO AUSTRALIA LIMITED",
+    "ASXcode": "PHI",
+    "data": {
+        "summary": {
+            "name_short": "PHILEO",
+            "name_full": "PHILEO AUSTRALIA LIMITED",
+            "code": "PHI",
+            "primary_share_code": "PHI",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "PHILEO AUSTRALIA",
+            "foreign_exempt": false,
+            "listing_date": "1987-04-24T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "5C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-21T00:00:00+1000",
+                "record_date": "2017-09-05T00:00:00+1000",
+                "payable_date": "2017-10-23T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.05,
+                "ex_date": "2017-09-04T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9663 8018",
+            "mailing_address": "Level 14, 303 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Property investment and development.",
+            "fax_number": "(03) 9663 8038",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to shareholders",
+                    "document_date": "2017-10-23T09:52:39+1100",
+                    "number_of_pages": 32,
+                    "id": "01910940",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T09:56:37+1100",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43ngj578ln8b0p.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 329767982,
+                "code": "PHI",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 3.75,
+                "previous_close_price": 11.4,
+                "year_change_price": 7.65,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 28927016,
+                "eps": 0.81,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 28927016,
+                "pe": 14.07,
+                "offer_price": 13,
+                "suspended": false,
+                "last_price": 11.4,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-08-11T00:00:00+1000",
+                "previous_day_percentage_change": "2.703%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 12.1,
+                "bid_price": 10.25,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "204%",
+                "average_daily_volume": 974,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0.44
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.palltd.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graham Homes",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Homes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rudy Eng Wah Koh",
+                    "first_name": "Rudy",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Koh",
+                    "middle_name": "Eng Wah"
+                },
+                {
+                    "full_name": "Mr Alfred Hing Pui Sung",
+                    "first_name": "Alfred",
+                    "roles": [
+                        "Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sung",
+                    "middle_name": "Hing Pui"
+                },
+                {
+                    "full_name": "Mr Andrew Chooi Seng Hang",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hang",
+                    "middle_name": "Chooi Seng"
+                },
+                {
+                    "full_name": "Mr Michael Tan Chung Loke",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Loke",
+                    "middle_name": "Tan Chung"
+                },
+                {
+                    "full_name": "Mr Tejas Gandhi",
+                    "first_name": "Tejas",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gandhi",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tejas Gandhi",
+                    "first_name": "Tejas",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gandhi",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

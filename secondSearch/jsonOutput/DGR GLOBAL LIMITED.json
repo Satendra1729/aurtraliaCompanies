@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DGR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "DGR GLOBAL LIMITED",
+    "ASXcode": "DGR",
+    "data": {
+        "summary": {
+            "name_short": "DGR GLOBAL",
+            "name_full": "DGR GLOBAL LIMITED",
+            "code": "DGR",
+            "primary_share_code": "DGR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "DGR GLOBAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "2003-08-21T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07-3303 0680",
+            "mailing_address": "Level 27, 111 Eagle Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "DGR Global is a diversified global resource company generator and investment house.",
+            "fax_number": "07-3303 0681",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-30T15:04:00+1100",
+                    "number_of_pages": 52,
+                    "id": "01914760",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-30T15:06:03+1100",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171030/pdf/43nr09cqnlfpjs.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 288594,
+                "status": [],
+                "market_cap": 61318188,
+                "code": "DGR",
+                "indices": [],
+                "year_open_price": 0.036,
+                "previous_close_price": 0.1,
+                "year_change_price": 0.064,
+                "year_low_date": "2016-12-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 613181877,
+                "eps": 0.005,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 613181877,
+                "pe": 20,
+                "offer_price": 0.1,
+                "suspended": false,
+                "last_price": 0.1,
+                "deprecated_market_cap": 61318000,
+                "day_low_price": 0.097,
+                "open_price": 0.098,
+                "year_high_date": "2017-03-22T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.16,
+                "bid_price": 0.097,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.1,
+                "year_change_in_percentage": "177.778%",
+                "average_daily_volume": 353305,
+                "year_low_price": 0.087,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.dgrglobal.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bill Stubbs",
+                    "first_name": "Bill",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stubbs",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Mather",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mather",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Vincent Mascolo",
+                    "first_name": "Vincent",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mascolo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brian Moller",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moller",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Priy Jayasuriya",
+                    "first_name": "Priy",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jayasuriya",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Runge",
+                    "first_name": "Greg",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Runge",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Karl Schlobohm",
+                    "first_name": "Karl",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schlobohm",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RMD",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "RESMED INC",
+    "ASXcode": "RMD",
+    "data": {
+        "summary": {
+            "name_short": "RESMED",
+            "name_full": "RESMED INC",
+            "code": "RMD",
+            "primary_share_code": "RMD",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "RESMED INC",
+            "foreign_exempt": true,
+            "listing_date": "1999-11-25T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "USD 3.5C PER CDI; 30 %W/H TAX",
+                "franked_percentage": "0%",
+                "created_date": "2017-10-27T00:00:00+1100",
+                "record_date": "2017-11-09T00:00:00+1100",
+                "payable_date": "2017-12-14T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.03199,
+                "ex_date": "2017-11-08T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "+612 8884 1000",
+            "mailing_address": "9001 Spectrum Center Blvd, SAN DIEGO, CA, UNITED STATES OF AMERICA, 92123",
+            "principal_activities": "Medical device manufacturing",
+            "fax_number": "+612 8884 2015",
+            "latest_annual_reports": [
+                {
+                    "header": "Form 10K Annual Report",
+                    "document_date": "2017-08-07T09:59:40+1000",
+                    "number_of_pages": 118,
+                    "id": "01881282",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-07T10:03:23+1000",
+                    "size": "402.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170807/pdf/43l6nq4y02ck5f.pdf"
+                },
+                {
+                    "header": "Amended Form 10 K and Annual Report",
+                    "document_date": "2017-01-16T10:00:18+1100",
+                    "number_of_pages": 40,
+                    "id": "01820054",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-01-16T10:03:53+1100",
+                    "size": "369.7KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170116/pdf/43fbhnv18g49m0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 952500,
+                "status": [
+                    "XD"
+                ],
+                "market_cap": 16018902326,
+                "code": "RMD",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Health",
+                        "index_code": "XHJ",
+                        "name_abrev": "Health Care",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Health Care (Sector)"
+                    }
+                ],
+                "year_open_price": 5.1,
+                "previous_close_price": 11.26,
+                "year_change_price": 6.28,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1422637862,
+                "eps": 0.4402,
+                "change_in_percent": "1.066%",
+                "change_price": 0.12,
+                "deprecated_number_of_shares": 1422637862,
+                "pe": 25.85,
+                "offer_price": 11.4,
+                "suspended": false,
+                "last_price": 11.38,
+                "deprecated_market_cap": 16189619000,
+                "day_low_price": 11.36,
+                "open_price": 11.41,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "1.441%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 11.43,
+                "bid_price": 11.36,
+                "desc_full": "Cdi 10:1 Foreign Exempt Nyse",
+                "day_high_price": 11.43,
+                "year_change_in_percentage": "123.137%",
+                "average_daily_volume": 1658183,
+                "year_low_price": 7.88,
+                "annual_dividend_yield": 1.09
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.resmed.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Peter C Farrell",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Farrell",
+                    "middle_name": "C"
+                },
+                {
+                    "full_name": "Mr Michael Farrell",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Farrell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Carol J Burt",
+                    "first_name": "Carol",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Burt",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Dr Gary W Pace",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Pace",
+                    "middle_name": "W"
+                },
+                {
+                    "full_name": "Mr Christopher Roberts",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roberts",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Sulpizio",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sulpizio",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ronald Taylor",
+                    "first_name": "Ronald",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Taylor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Wareham",
+                    "first_name": "John",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wareham",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Andrew Sandercock",
+                    "first_name": "Brett",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sandercock",
+                    "middle_name": "Andrew"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Pendarvis",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pendarvis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

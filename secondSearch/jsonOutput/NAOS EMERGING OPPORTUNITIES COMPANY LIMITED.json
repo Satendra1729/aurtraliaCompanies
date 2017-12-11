@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NCC",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "NAOS EMERGING OPPORTUNITIES COMPANY LIMITED",
+    "ASXcode": "NCC",
+    "data": {
+        "summary": {
+            "name_short": "NAOS EMERG",
+            "name_full": "NAOS EMERGING OPPORTUNITIES COMPANY LIMITED",
+            "code": "NCC",
+            "primary_share_code": "NCC",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "NAOS EMERG OPP",
+            "foreign_exempt": false,
+            "listing_date": "2013-02-26T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "3.5C FRANKED @30%; D RP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-10-17T00:00:00+1100",
+                "payable_date": "2017-11-01T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.035,
+                "ex_date": "2017-10-16T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9477 2566",
+            "mailing_address": "Level 34, MLC Centre, 19 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment in listed entities outside the S&P/ASX 100 Accumulation Index.",
+            "fax_number": "02 8064 0510",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E & Annual Report 30 June 2017",
+                    "document_date": "2017-08-24T08:25:54+1000",
+                    "number_of_pages": 49,
+                    "id": "01887350",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-24T08:32:10+1000",
+                    "size": "4.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lp4xyph0t7mz.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 12141,
+                "status": [],
+                "market_cap": 88810311,
+                "code": "NCC",
+                "indices": [],
+                "year_open_price": 1.1,
+                "previous_close_price": 1.495,
+                "year_change_price": 0.38,
+                "year_low_date": "2017-05-18T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 59404890,
+                "eps": 0.0947,
+                "change_in_percent": "-1.003%",
+                "change_price": -0.015,
+                "deprecated_number_of_shares": 59404890,
+                "pe": 15.63,
+                "offer_price": 1.48,
+                "suspended": false,
+                "last_price": 1.48,
+                "deprecated_market_cap": 87919000,
+                "day_low_price": 1.47,
+                "open_price": 1.48,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.495,
+                "bid_price": 1.46,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.48,
+                "year_change_in_percentage": "34.545%",
+                "average_daily_volume": 49341,
+                "year_low_price": 1.17,
+                "annual_dividend_yield": 4.73
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.naos.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Rickards",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rickards",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sebastian Evans",
+                    "first_name": "Sebastian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warwick Evans",
+                    "first_name": "Warwick",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Richard Preedy",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Preedy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ANG",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "AUSTIN ENGINEERING LIMITED",
+    "ASXcode": "ANG",
+    "data": {
+        "summary": {
+            "name_short": "AUSTIN ENG",
+            "name_full": "AUSTIN ENGINEERING LIMITED",
+            "code": "ANG",
+            "primary_share_code": "ANG",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "AUSTIN ENGINEERING",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ANG?image_size=L&v=1426486108000",
+            "foreign_exempt": false,
+            "listing_date": "2004-03-09T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 (7) 3271 2622",
+            "mailing_address": "Kings Row 1, Level G, 40-52 McDougall Street, MILTON, QLD, AUSTRALIA, 4064",
+            "principal_activities": "Manufacture, assembly, repair and maintainance (on and off-site) of products used in the mining and resources sector",
+            "fax_number": "+61 (7) 3271 3689",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report - Full Graphics Version",
+                    "document_date": "2017-10-16T17:56:14+1100",
+                    "number_of_pages": 84,
+                    "id": "01908472",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-16T18:00:03+1100",
+                    "size": "2.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171016/pdf/43n8mry53ykvxz.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-27T17:33:32+1000",
+                    "number_of_pages": 77,
+                    "id": "01900743",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T17:37:46+1000",
+                    "size": "853.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mpm1mhs1b2w1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 270845,
+                "status": [],
+                "market_cap": 147602608,
+                "code": "ANG",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 3.46,
+                "previous_close_price": 0.255,
+                "year_change_price": -3.205,
+                "year_low_date": "2017-04-19T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 578833756,
+                "eps": -0.0494,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 578833756,
+                "pe": 0,
+                "offer_price": 0.26,
+                "suspended": false,
+                "last_price": 0.255,
+                "deprecated_market_cap": 147603000,
+                "day_low_price": 0.255,
+                "open_price": 0.255,
+                "year_high_date": "2017-10-31T00:00:00+1100",
+                "previous_day_percentage_change": "2%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.29,
+                "bid_price": 0.255,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.26,
+                "year_change_in_percentage": "-92.63%",
+                "average_daily_volume": 958112,
+                "year_low_price": 0.15,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.austineng.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.austineng.com.au/investor-centre/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jim Walker",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Forsyth",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Forsyth",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Indermaur",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Indermaur",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Charles Rex Sartain",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sartain",
+                    "middle_name": "Rex"
+                },
+                {
+                    "full_name": "Mrs Christine Hayward",
+                    "first_name": "Christine",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Hayward",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Christine Hayward",
+                    "first_name": "Christine",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Hayward",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

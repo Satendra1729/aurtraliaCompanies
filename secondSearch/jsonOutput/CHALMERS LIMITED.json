@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CHR",
+    "GICSindustrygroup": "Transportation",
+    "Companyname": "CHALMERS LIMITED",
+    "ASXcode": "CHR",
+    "data": {
+        "summary": {
+            "name_short": "CHALMERS",
+            "name_full": "CHALMERS LIMITED",
+            "code": "CHR",
+            "primary_share_code": "CHR",
+            "industry_group_name": "Transportation",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "CHALMERS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1974-01-01T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "3.5C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-09-01T00:00:00+1000",
+                "record_date": "2017-09-20T00:00:00+1000",
+                "payable_date": "2017-10-04T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.035,
+                "ex_date": "2017-09-19T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9316 2011",
+            "mailing_address": "20-28 Cawley Road, YARRAVILLE, VIC, AUSTRALIA, 3013",
+            "principal_activities": "Road transport, warehousing, bulk materials, handling & storage and container storage, repairs and sales.",
+            "fax_number": "(03) 9316 2066",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-09-28T08:18:42+1000",
+                    "number_of_pages": 62,
+                    "id": "01900895",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T08:28:20+1000",
+                    "size": "19.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mq0l322z0tq9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 27334260,
+                "code": "CHR",
+                "indices": [],
+                "year_open_price": 2.7,
+                "previous_close_price": 3.59,
+                "year_change_price": 0.89,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 7614000,
+                "eps": 0.0631,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 7614000,
+                "pe": 56.89,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 3.59,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-24T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-28T11:00:00+1100",
+                "year_high_price": 3.59,
+                "bid_price": 3.55,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "32.963%",
+                "average_daily_volume": 500,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0.97
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.chalmers.net.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Murrowood",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murrowood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Carew",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr G. Chalmers",
+                    "first_name": "G.",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chalmers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Brannighan",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brannighan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Layton Daglish",
+                    "first_name": "Layton",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Daglish",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Mulligan",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mulligan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kane Harnden",
+                    "first_name": "Kane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harnden",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IB8",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "IBOSSES CORPORATION LIMITED",
+    "ASXcode": "IB8",
+    "data": {
+        "summary": {
+            "name_short": "IBOSSES",
+            "name_full": "IBOSSES CORPORATION LIMITED",
+            "code": "IB8",
+            "primary_share_code": "IB8",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "IBOSSES CORP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-09-30T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 7088 4862",
+            "mailing_address": "Level 30 Westpac House, 91 King William Street, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "Entrepreneurship training and consultancy provider.",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "IB8",
+                "indices": [],
+                "deprecated_number_of_shares": 116094960,
+                "previous_close_price": 0.4,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 116094960,
+                "eps": 0.0092,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 43.48,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.4,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.5,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.ibosses.com",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Brett Tucker",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tucker",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

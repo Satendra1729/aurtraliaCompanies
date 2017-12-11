@@ -1,0 +1,211 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ARB",
+    "GICSindustrygroup": "Automobiles & Components",
+    "Companyname": "ARB CORPORATION LIMITED.",
+    "ASXcode": "ARB",
+    "data": {
+        "summary": {
+            "name_short": "ARB CORP",
+            "name_full": "ARB CORPORATION LIMITED.",
+            "code": "ARB",
+            "primary_share_code": "ARB",
+            "industry_group_name": "Automobiles & Components",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "ARB CORPORATION.",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ARB?image_size=L&v=1450732855000",
+            "foreign_exempt": false,
+            "listing_date": "1987-06-26T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "18C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-10-06T00:00:00+1100",
+                "payable_date": "2017-10-20T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.18,
+                "ex_date": "2017-10-05T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9761 6622",
+            "mailing_address": "42-44 Garden Street, KILSYTH, VIC, AUSTRALIA, 3137",
+            "principal_activities": "The manufacture, distribution and sale of four-wheel drive motor vehicle accessories and light metal engineering works.",
+            "fax_number": "(03) 9761-6807",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E, Annual Report and Financial Statements",
+                    "document_date": "2017-08-16T08:56:42+1000",
+                    "number_of_pages": 50,
+                    "id": "01884167",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-16T09:00:22+1000",
+                    "size": "4.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170816/pdf/43lfqrllrxd0sp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 55007,
+                "status": [],
+                "market_cap": 1579332027,
+                "code": "ARB",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    }
+                ],
+                "year_open_price": 10.87412,
+                "previous_close_price": 19.94,
+                "year_change_price": 9.02588,
+                "year_low_date": "2017-02-28T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 79204214,
+                "eps": 0.621,
+                "change_in_percent": "-0.201%",
+                "change_price": -0.04,
+                "deprecated_number_of_shares": 79204214,
+                "pe": 32.05,
+                "offer_price": 19.91,
+                "suspended": false,
+                "last_price": 19.9,
+                "deprecated_market_cap": 1576164000,
+                "day_low_price": 19.85,
+                "open_price": 19.99,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "1.527%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 20.15,
+                "bid_price": 19.57,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 20.06,
+                "year_change_in_percentage": "83.003%",
+                "average_daily_volume": 151131,
+                "year_low_price": 14.28,
+                "annual_dividend_yield": 1.71
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.arb.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.arb.com.au/about/investor-relations/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Roger Brown",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Brown",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adrian Fitzpatrick",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzpatrick",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Forsyth",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Forsyth",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Fraser",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fraser",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Stott",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stott",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Forsyth",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Forsyth",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BBG",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "BILLABONG INTERNATIONAL LIMITED",
+    "ASXcode": "BBG",
+    "data": {
+        "summary": {
+            "name_short": "BILLABONG",
+            "name_full": "BILLABONG INTERNATIONAL LIMITED",
+            "code": "BBG",
+            "primary_share_code": "BBG",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "BILLABONG",
+            "foreign_exempt": false,
+            "listing_date": "2000-08-11T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 5589 9899",
+            "mailing_address": "1 Billabong Place, BURLEIGH HEADS, QLD, AUSTRALIA, 4220",
+            "principal_activities": "Surfwear, accessories and action sports apparel",
+            "fax_number": "07 5589 9654",
+            "latest_annual_reports": [
+                {
+                    "header": "Notice of AGM/Proxy Form and Annual Report",
+                    "document_date": "2017-10-18T09:28:47+1100",
+                    "number_of_pages": 131,
+                    "id": "01909169",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-18T09:32:51+1100",
+                    "size": "11.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171018/pdf/43nb7t3tmncpws.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 154763,
+                "status": [],
+                "market_cap": 181242386,
+                "code": "BBG",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.595,
+                "previous_close_price": 0.915,
+                "year_change_price": 0.335,
+                "year_low_date": "2017-09-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 198079110,
+                "eps": -0.39,
+                "change_in_percent": "1.639%",
+                "change_price": 0.015,
+                "deprecated_number_of_shares": 198079110,
+                "pe": 0,
+                "offer_price": 0.93,
+                "suspended": false,
+                "last_price": 0.93,
+                "deprecated_market_cap": 184214000,
+                "day_low_price": 0.915,
+                "open_price": 0.92,
+                "year_high_date": "2017-01-30T00:00:00+1100",
+                "previous_day_percentage_change": "-1.081%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 1.445,
+                "bid_price": 0.92,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.93,
+                "year_change_in_percentage": "56.303%",
+                "average_daily_volume": 254940,
+                "year_low_price": 0.487,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.billabongbiz.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Ian Pollard",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Pollard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil Fiske",
+                    "first_name": "Neil",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fiske",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kim Anderson",
+                    "first_name": "Kim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gordon Merchant",
+                    "first_name": "Gordon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Merchant",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Howard Mowlem",
+                    "first_name": "Howard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mowlem",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Elliott Weinstein",
+                    "first_name": "Elliott",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Weinstein",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Howell",
+                    "first_name": "James",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Howell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Tracey Wood",
+                    "first_name": "Tracey",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Sharleen Ravishankar",
+                    "first_name": "Sharleen",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Ravishankar",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EWE",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "EAST WEST ENERGY LIMITED",
+    "ASXcode": "EWE",
+    "data": {
+        "summary": {
+            "name_short": "EAST WEST",
+            "name_full": "EAST WEST ENERGY LIMITED",
+            "code": "EWE",
+            "primary_share_code": "EWE",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "EAST WEST ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-22T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "info@eastwestenergy.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 8211 0490",
+            "mailing_address": "Level 17 Australia Square, 264-278 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Oil and Gas Exploration and Production",
+            "fax_number": "02 8211 0555",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": -1,
+                "indices": [],
+                "year_open_price": 0.013,
+                "previous_close_price": 0,
+                "year_low_date": null,
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 756766282,
+                "eps": 0.0064,
+                "code": "EWE",
+                "deprecated_number_of_shares": 756766282,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": null,
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.eastwestenergy.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mitchell John McGeorge",
+                    "first_name": "Mitchell",
+                    "roles": [
+                        "Executive Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGeorge",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Victor Stanley Dusik",
+                    "first_name": "Victor",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dusik",
+                    "middle_name": "Stanley"
+                },
+                {
+                    "full_name": "Mr John Frederick Reader",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reader",
+                    "middle_name": "Frederick"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Robert Edmund Mayberry",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mayberry",
+                    "middle_name": "Edmund"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ACS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ACCENT RESOURCES NL",
+    "ASXcode": "ACS",
+    "data": {
+        "summary": {
+            "name_short": "ACCENT RES",
+            "name_full": "ACCENT RESOURCES NL",
+            "code": "ACS",
+            "primary_share_code": "ACS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ACCENT RESOURCES NL",
+            "foreign_exempt": false,
+            "listing_date": "2005-08-26T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9670 0888",
+            "mailing_address": "Level 9, 250 Queen Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Gold and iron ore exploration.",
+            "fax_number": "+61 3 9670 3883",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T18:54:04+1000",
+                    "number_of_pages": 58,
+                    "id": "01902788",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T19:00:56+1000",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtscfrkt20tf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 1086001,
+                "code": "ACS",
+                "indices": [],
+                "year_open_price": 0.21,
+                "previous_close_price": 0.006,
+                "year_change_price": -0.204,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 181000233,
+                "eps": -0.0172,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 181000233,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 0.006,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-19T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-14T11:00:00+1100",
+                "year_high_price": 0.08,
+                "bid_price": 0.009,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-97.143%",
+                "average_daily_volume": 20740,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.accentresources.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Yuzi (Albert) Zhou",
+                    "first_name": "Yuzi (Albert)",
+                    "roles": [
+                        "Executive Chairman",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhou",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dianzhou He",
+                    "first_name": "Dianzhou",
+                    "roles": [
+                        "Deputy Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "He",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jun Sheng Liang",
+                    "first_name": "Jun Sheng",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jie You",
+                    "first_name": "Jie",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "You",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Robert Allen",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Allen",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

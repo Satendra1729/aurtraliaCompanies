@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CRM",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "CARBON MINERALS LIMITED",
+    "ASXcode": "CRM",
+    "data": {
+        "summary": {
+            "name_short": "CARBON",
+            "name_full": "CARBON MINERALS LIMITED",
+            "code": "CRM",
+            "primary_share_code": "CRM",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "CARBON MINERALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "1980-12-31T00:00:00+1100",
+            "registry_address": "SUITE 3, LEVEL 2, 66 CLARENCE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9392 8686",
+            "mailing_address": "c/o Mitchell & Partners, Suite 3, Level 2, 66 Clarence Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Natural resources exploration in Australia",
+            "fax_number": "(02) 9299 8195",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-23T16:05:45+1100",
+                    "number_of_pages": 50,
+                    "id": "01841557",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-23T16:07:51+1100",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170323/pdf/43h09q6qh08bxf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 2068385,
+                "code": "CRM",
+                "indices": [],
+                "year_open_price": 0.44,
+                "previous_close_price": 0.11,
+                "year_change_price": -0.33,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 18803498,
+                "eps": -0.0135,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 18803493,
+                "pe": 0,
+                "offer_price": 0.255,
+                "suspended": false,
+                "last_price": 0.11,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-07-03T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.12,
+                "bid_price": 0.11,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-75%",
+                "average_daily_volume": 10812,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9392 8686",
+            "web_address": "http://www.carbonminerals.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "MITCHELL & PARTNERS",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Marcus Paul Lincoln Smith",
+                    "first_name": "Marcus",
+                    "roles": [
+                        "Executive Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lincoln Smith",
+                    "middle_name": "Paul"
+                },
+                {
+                    "full_name": "Mr Wayne V Annis-Brown",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Annis-Brown",
+                    "middle_name": "V"
+                },
+                {
+                    "full_name": "Mr Steven John Danielson",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Non Exec. Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Danielson",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Bun Kiem Lee",
+                    "first_name": "Bun",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": "Kiem"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Rachel Lee Thorn",
+                    "first_name": "Rachel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Thorn",
+                    "middle_name": "Lee"
+                },
+                {
+                    "full_name": "Mr Steven John Danielson",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Danielson",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

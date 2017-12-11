@@ -1,0 +1,174 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CGS",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "COGSTATE LTD",
+    "ASXcode": "CGS",
+    "data": {
+        "summary": {
+            "name_short": "COGSTATE",
+            "name_full": "COGSTATE LTD",
+            "code": "CGS",
+            "primary_share_code": "CGS",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "COGSTATE LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-02-13T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "9664 1300",
+            "mailing_address": "Level 2, 255 Bourke Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": ".",
+            "fax_number": "9664 1301",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-12T19:39:05+1000",
+                    "number_of_pages": 91,
+                    "id": "01895311",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-13T08:19:25+1000",
+                    "size": "8.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170913/pdf/43m8rfdz3fqv37.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6246,
+                "status": [],
+                "market_cap": 107404571,
+                "code": "CGS",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.36,
+                "previous_close_price": 0.94,
+                "year_change_price": 0.565,
+                "year_low_date": "2017-05-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 114260182,
+                "eps": -0.007,
+                "change_in_percent": "-1.596%",
+                "change_price": -0.015,
+                "deprecated_number_of_shares": 114260182,
+                "pe": 0,
+                "offer_price": 0.935,
+                "suspended": false,
+                "last_price": 0.925,
+                "deprecated_market_cap": 105691000,
+                "day_low_price": 0.91,
+                "open_price": 0.93,
+                "year_high_date": "2017-01-19T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.39,
+                "bid_price": 0.91,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.93,
+                "year_change_in_percentage": "156.944%",
+                "average_daily_volume": 93257,
+                "year_low_price": 0.785,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.cogstate.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Martyn Myer",
+                    "first_name": "Martyn",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Myer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brad O'Connor",
+                    "first_name": "Brad",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Connor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Dolby",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dolby",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jane McAloon",
+                    "first_name": "Jane",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McAloon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Mohs",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mohs",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard van den Broek",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "van den Broek",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Claire Frances Newstead-Sinclair",
+                    "first_name": "Claire",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Newstead-Sinclair",
+                    "middle_name": "Frances"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Claire Frances Newstead-Sinclair",
+                    "first_name": "Claire",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Newstead-Sinclair",
+                    "middle_name": "Frances"
+                }
+            ]
+        }
+    }
+}

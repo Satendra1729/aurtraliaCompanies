@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MAU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MAGNETIC RESOURCES NL",
+    "ASXcode": "MAU",
+    "data": {
+        "summary": {
+            "name_short": "MAGNET RES",
+            "name_full": "MAGNETIC RESOURCES NL",
+            "code": "MAU",
+            "primary_share_code": "MAU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MAGNETIC RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2007-04-05T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9226 1777",
+            "mailing_address": "Level 1, 44A Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration for gold and iron ore.",
+            "fax_number": "(08) 9325 3099",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-01T18:11:11+1100",
+                    "number_of_pages": 65,
+                    "id": "01902993",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:07:11+1100",
+                    "size": "3.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvnq2s446l0v.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 19654,
+                "status": [],
+                "market_cap": 32299818,
+                "code": "MAU",
+                "indices": [],
+                "year_open_price": 0.145,
+                "previous_close_price": 0.22,
+                "year_change_price": 0.075,
+                "year_low_date": "2017-02-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 146817355,
+                "eps": -0.0129,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 146817355,
+                "pe": 0,
+                "offer_price": 0.25,
+                "suspended": false,
+                "last_price": 0.22,
+                "deprecated_market_cap": 32300000,
+                "day_low_price": 0.22,
+                "open_price": 0.22,
+                "year_high_date": "2017-11-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.34,
+                "bid_price": 0.22,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.22,
+                "year_change_in_percentage": "51.724%",
+                "average_daily_volume": 145759,
+                "year_low_price": 0.045,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.magres.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr George Sakalidis",
+                    "first_name": "George",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sakalidis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Eric JH Lim",
+                    "first_name": "Eric",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lim",
+                    "middle_name": "JH"
+                },
+                {
+                    "full_name": "Mr Julien Sanderson",
+                    "first_name": "Julien",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sanderson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ben Donovan",
+                    "first_name": "Ben",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Donovan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HAR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "HARANGA RESOURCES LIMITED",
+    "ASXcode": "HAR",
+    "data": {
+        "summary": {
+            "name_short": "HARANGA GD",
+            "name_full": "HARANGA RESOURCES LIMITED",
+            "code": "HAR",
+            "primary_share_code": "HAR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "HARANGA RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2010-12-09T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9200 4415",
+            "mailing_address": "22 Lindsay Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Development.",
+            "fax_number": "+61 8 9227 6390",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-03-31T17:49:43+1100",
+                    "number_of_pages": 47,
+                    "id": "01844063",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T17:56:01+1100",
+                    "size": "898.8KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6fmdzk43jpd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2061727,
+                "status": [],
+                "market_cap": 1453578,
+                "code": "HAR",
+                "indices": [],
+                "year_open_price": 0.07,
+                "previous_close_price": 0.003,
+                "year_change_price": -0.067,
+                "year_low_date": "2017-12-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 484525904,
+                "eps": -0.0496,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 484525904,
+                "pe": 0,
+                "offer_price": 0.003,
+                "suspended": false,
+                "last_price": 0.003,
+                "deprecated_market_cap": 1454000,
+                "day_low_price": 0.003,
+                "open_price": 0.003,
+                "year_high_date": "2017-11-22T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.006,
+                "bid_price": 0.002,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.003,
+                "year_change_in_percentage": "-95.714%",
+                "average_daily_volume": 4522335,
+                "year_low_price": 0.002,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.haranga.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Youd",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Youd",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Paula Cowan",
+                    "first_name": "Paula",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Cowan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jack James",
+                    "first_name": "Jack",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "James",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bat-Ochir Sukhbaatar",
+                    "first_name": "Bat-Ochir",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sukhbaatar",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jack James",
+                    "first_name": "Jack",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "James",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BRO",
+    "GICSindustrygroup": "Telecommunication Services",
+    "Companyname": "BROAD INVESTMENTS LIMITED",
+    "ASXcode": "BRO",
+    "data": {
+        "summary": {
+            "name_short": "BROAD INVT",
+            "name_full": "BROAD INVESTMENTS LIMITED",
+            "code": "BRO",
+            "primary_share_code": "BRO",
+            "industry_group_name": "Telecommunication Services",
+            "delisting_date": null,
+            "sector_name": "Telecommunication Services",
+            "name_abbrev": "BROAD INVESTMENTS",
+            "foreign_exempt": false,
+            "listing_date": "1999-11-09T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 93910450",
+            "mailing_address": "Lower Level,, 15 Whiting Street, ARTARMON, NSW, AUSTRALIA, 2064",
+            "principal_activities": "Telecommunications Services & Investments.",
+            "fax_number": "(02) 93910409",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "BRO",
+                "indices": [],
+                "year_open_price": 0.001,
+                "previous_close_price": 0.002,
+                "year_change_price": 0.001,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1978889941,
+                "eps": 0.0003,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1978889941,
+                "pe": 6.67,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.002,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-09-30T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.002,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "100%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "https://www.broadinvestments.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Vaz Hovanessian",
+                    "first_name": "Vaz",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hovanessian",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil Gibson",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gibson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Johan Scholtz",
+                    "first_name": "Johan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scholtz",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Vaz Hovanessian",
+                    "first_name": "Vaz",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hovanessian",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

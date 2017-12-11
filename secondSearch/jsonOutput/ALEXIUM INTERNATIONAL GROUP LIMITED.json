@@ -1,0 +1,172 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AJX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ALEXIUM INTERNATIONAL GROUP LIMITED",
+    "ASXcode": "AJX",
+    "data": {
+        "summary": {
+            "name_short": "ALEXIUM",
+            "name_full": "ALEXIUM INTERNATIONAL GROUP LIMITED",
+            "code": "AJX",
+            "primary_share_code": "AJX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "ALEXIUM INT GROUP",
+            "foreign_exempt": false,
+            "listing_date": "1999-12-22T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9384 3160",
+            "mailing_address": "Level 18 Central Park, 152-158 St Georges Tce, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Development and Licensing of Reactive Surface Technology and Fire Retardant Nylons",
+            "fax_number": "+61 8 6314 1623",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T20:27:53+1000",
+                    "number_of_pages": 71,
+                    "id": "01902866",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T07:55:32+1100",
+                    "size": "16.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvfbnhq9q5pr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 116446439,
+                "code": "AJX",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.16,
+                "previous_close_price": 0.38,
+                "year_change_price": 0.22,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 306437998,
+                "eps": -0.0403,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 306437998,
+                "pe": 0,
+                "offer_price": 0.37,
+                "suspended": false,
+                "last_price": 0.38,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-18T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.765,
+                "bid_price": 0.38,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "137.5%",
+                "average_daily_volume": 602466,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.alexiuminternational.com",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gavin Rezos",
+                    "first_name": "Gavin",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rezos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dirk Van Hyning",
+                    "first_name": "Dirk",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Van Hyning",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Retired General Stephen Cheney",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Retired General",
+                    "last_name": "Cheney",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Metz",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Metz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Karen Thurman",
+                    "first_name": "Karen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Thurman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Aaron Krech",
+                    "first_name": "Aaron",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Krech",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kevin Kye",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kye",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

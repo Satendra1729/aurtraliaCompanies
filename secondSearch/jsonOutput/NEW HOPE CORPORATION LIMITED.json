@@ -1,0 +1,216 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NHC",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "NEW HOPE CORPORATION LIMITED",
+    "ASXcode": "NHC",
+    "data": {
+        "summary": {
+            "name_short": "NEW HOPE",
+            "name_full": "NEW HOPE CORPORATION LIMITED",
+            "last_dividend": {
+                "comments": "6C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-09-19T00:00:00+1000",
+                "record_date": "2017-10-24T00:00:00+1100",
+                "payable_date": "2017-11-07T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.06,
+                "ex_date": "2017-10-23T00:00:00+1100"
+            },
+            "code": "NHC",
+            "primary_share_code": "NHC",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "NEW HOPE CORPORATION",
+            "foreign_exempt": false,
+            "listing_date": "2003-09-16T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "cosec@newhopegroup.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3418 0500",
+            "mailing_address": "3/22 Magnolia Drive, BROOKWATER, QLD, AUSTRALIA, 4300",
+            "principal_activities": "An Australian controlled diversified energy company with interests and operations spanning coal mining, exploration, port operation, conventional oil, agriculture, innovative technologies and investment.",
+            "fax_number": "(07) 3418 0355",
+            "latest_annual_reports": [
+                {
+                    "header": "Notice of Annual General Meeting/Proxy Form/Annual Report",
+                    "document_date": "2017-10-13T08:53:20+1100",
+                    "number_of_pages": 119,
+                    "id": "01907484",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T08:55:40+1100",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n64c52cvjnns.pdf"
+                },
+                {
+                    "header": "Preliminary Final Report and Annual Report",
+                    "document_date": "2017-09-19T08:38:12+1000",
+                    "number_of_pages": 86,
+                    "id": "01897315",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-09-19T08:41:35+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170919/pdf/43mfmtgqtzdmk7.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 66364,
+                "status": [],
+                "market_cap": 1845156445,
+                "code": "NHC",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 3.26167,
+                "previous_close_price": 2.22,
+                "year_change_price": -0.98167,
+                "year_low_date": "2017-06-16T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 831151552,
+                "eps": 0.169,
+                "change_in_percent": "2.703%",
+                "change_price": 0.06,
+                "deprecated_number_of_shares": 831151552,
+                "pe": 13.49,
+                "offer_price": 2.28,
+                "suspended": false,
+                "last_price": 2.28,
+                "deprecated_market_cap": 1895026000,
+                "day_low_price": 2.22,
+                "open_price": 2.245,
+                "year_high_date": "2017-11-20T00:00:00+1100",
+                "previous_day_percentage_change": "-2.632%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.5,
+                "bid_price": 2.22,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.28,
+                "year_change_in_percentage": "-30.097%",
+                "average_daily_volume": 1434250,
+                "year_low_price": 1.445,
+                "annual_dividend_yield": 4.39
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.newhopegroup.com.au",
+            "fiscal_year_end": "31/07",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Millner",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Millner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Shane Stephan",
+                    "first_name": "Shane",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Todd Barlow",
+                    "first_name": "Todd",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barlow",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bill Grant",
+                    "first_name": "Bill",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grant",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tom Millner",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Millner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sue Palmer",
+                    "first_name": "Sue",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Palmer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Williams",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Boyd",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boyd",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Busch",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Busch",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Janelle Moody",
+                    "first_name": "Janelle",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Moody",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

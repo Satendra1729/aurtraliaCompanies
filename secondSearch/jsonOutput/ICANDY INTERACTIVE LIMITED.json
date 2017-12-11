@@ -1,0 +1,123 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ICI",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "ICANDY INTERACTIVE LIMITED",
+    "ASXcode": "ICI",
+    "data": {
+        "summary": {
+            "name_short": "ICANDY",
+            "name_full": "ICANDY INTERACTIVE LIMITED",
+            "code": "ICI",
+            "primary_share_code": "ICI",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "ICANDY INTERACTIVE",
+            "foreign_exempt": false,
+            "listing_date": "2016-02-04T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 8611 5353",
+            "mailing_address": "C/- DW Accounting & Advisory Pty Ltd, Level4, 91 William Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "",
+            "fax_number": "+61 3 98337063",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-28T16:27:01+1000",
+                    "number_of_pages": 60,
+                    "id": "01852301",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-28T16:29:35+1000",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170428/pdf/43hvwjwn5qd559.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "ICI",
+                "indices": [],
+                "deprecated_number_of_shares": 75626078,
+                "previous_close_price": 0.16,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 277192746,
+                "eps": 0.0011,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 145.45,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.16,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.225,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 477035,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.icandy.io",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kin Wai Lau",
+                    "first_name": "Kin",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lau",
+                    "middle_name": "Wai"
+                },
+                {
+                    "full_name": "Mr Robert Kolodziej",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kolodziej",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Donald Han Low",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Low",
+                    "middle_name": "Han"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Donald Han Low",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Low",
+                    "middle_name": "Han"
+                }
+            ]
+        }
+    }
+}

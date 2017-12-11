@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BBM",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "BIOMICS BIOPHARMA LIMITED",
+    "ASXcode": "BBM",
+    "data": {
+        "summary": {
+            "name_short": "BIOMICS",
+            "name_full": "BIOMICS BIOPHARMA LIMITED",
+            "code": "BBM",
+            "primary_share_code": "BBM",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "BIOMICS BIOPHARM LTD",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9486 4036",
+            "mailing_address": "Level 36, Gateway Tower, 1 Macquarie Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Biopharmaceutical",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "BBM",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.biomics.com",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nicholas Ong",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ong",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

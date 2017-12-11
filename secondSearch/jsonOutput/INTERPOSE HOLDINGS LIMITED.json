@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IHS",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "INTERPOSE HOLDINGS LIMITED",
+    "ASXcode": "IHS",
+    "data": {
+        "summary": {
+            "name_short": "INTERPOSE",
+            "name_full": "INTERPOSE HOLDINGS LIMITED",
+            "code": "IHS",
+            "primary_share_code": "IHS",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "INTERPOSE HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": "2012-01-19T00:00:00+1100",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9467 4220",
+            "mailing_address": "50 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Oil and Gas exploration",
+            "fax_number": "+61 8 9467 4220",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T21:04:45+1000",
+                    "number_of_pages": 64,
+                    "id": "01902890",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T07:57:35+1100",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvgqts65rv4r.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 4887043,
+                "code": "IHS",
+                "indices": [],
+                "year_open_price": 0.275,
+                "previous_close_price": 0.026,
+                "year_change_price": -0.249,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 187963191,
+                "eps": 0.0244,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 187963191,
+                "pe": 1.07,
+                "offer_price": 0.03,
+                "suspended": false,
+                "last_price": 0.026,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-09T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.037,
+                "bid_price": 0.026,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-90.545%",
+                "average_daily_volume": 242708,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.interposeholdings.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Justin Barton",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gabriel Chiappini",
+                    "first_name": "Gabriel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chiappini",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Barnaby Ian Robert Egerton-Warburton",
+                    "first_name": "Barnaby",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Egerton-Warburton",
+                    "middle_name": "Ian Robert"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Richard Barker",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barker",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

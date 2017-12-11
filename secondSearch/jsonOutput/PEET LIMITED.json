@@ -1,0 +1,187 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PPC",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "PEET LIMITED",
+    "ASXcode": "PPC",
+    "data": {
+        "summary": {
+            "name_short": "PEET",
+            "name_full": "PEET LIMITED",
+            "code": "PPC",
+            "primary_share_code": "PPC",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "PEET LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2004-08-05T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "3C FRANKED @ 30%; DR P SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-22T00:00:00+1000",
+                "payable_date": "2017-10-04T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.03,
+                "ex_date": "2017-09-21T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "corporate-bonds",
+                "floating-rate-notes"
+            ],
+            "phone_number": "+61 8 9420 1111",
+            "mailing_address": "Level 7, 200 St George's Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "The development of broadacre residential land via syndicated, owned or joint venture projects.",
+            "fax_number": "+61 8 9481 4712",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-25T11:16:56+1100",
+                    "number_of_pages": 124,
+                    "id": "01912314",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-25T11:21:54+1100",
+                    "size": "7.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171025/pdf/43nkgflcqyfvp9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 165665,
+                "status": [],
+                "market_cap": 688422685,
+                "code": "PPC",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.36,
+                "previous_close_price": 1.405,
+                "year_change_price": 0.035,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 489980559,
+                "eps": 0.0914,
+                "change_in_percent": "-0.712%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 489980559,
+                "pe": 15.26,
+                "offer_price": 1.41,
+                "suspended": false,
+                "last_price": 1.395,
+                "deprecated_market_cap": 683523000,
+                "day_low_price": 1.37,
+                "open_price": 1.4,
+                "year_high_date": "2017-11-01T00:00:00+1100",
+                "previous_day_percentage_change": "-0.355%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.54,
+                "bid_price": 1.365,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.41,
+                "year_change_in_percentage": "2.574%",
+                "average_daily_volume": 381155,
+                "year_low_price": 0.89,
+                "annual_dividend_yield": 3.41
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.peet.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tony Lennon",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lennon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brendan Gore",
+                    "first_name": "Brendan",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gore",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Lennon",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lennon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Allen",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Allen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Vicki Krause",
+                    "first_name": "Vicki",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Krause",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert John McKinnon",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKinnon",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Brett Fullarton",
+                    "first_name": "Brett",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fullarton",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Dom Scafetta",
+                    "first_name": "Dom",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scafetta",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

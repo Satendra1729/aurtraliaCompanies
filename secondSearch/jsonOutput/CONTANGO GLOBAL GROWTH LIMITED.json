@@ -1,0 +1,144 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CQG",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "CONTANGO GLOBAL GROWTH LIMITED",
+    "ASXcode": "CQG",
+    "data": {
+        "summary": {
+            "name_short": "CONTANG GG",
+            "name_full": "CONTANGO GLOBAL GROWTH LIMITED",
+            "code": "CQG",
+            "primary_share_code": "CQG",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "CONTANGO GLB GTH LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-06-23T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9222 2300",
+            "mailing_address": "Level 27, 35 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Investment company which will invest in a portfolio of globally listed growth companies in developed and emerging markets",
+            "fax_number": "03 9222 2345",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-13T14:04:22+1100",
+                    "number_of_pages": 52,
+                    "id": "01907716",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T14:07:36+1100",
+                    "size": "3.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6ly61lwl05w.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2002,
+                "status": [],
+                "market_cap": 94621153,
+                "code": "CQG",
+                "indices": [],
+                "deprecated_number_of_shares": 90981878,
+                "previous_close_price": 1.04,
+                "year_low_date": "2017-10-26T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 90981878,
+                "eps": 0,
+                "change_in_percent": "-0.481%",
+                "change_price": -0.005,
+                "pe": 0,
+                "offer_price": 1.04,
+                "suspended": false,
+                "last_price": 1.035,
+                "deprecated_market_cap": 0,
+                "day_low_price": 1.035,
+                "open_price": 1.035,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.035,
+                "bid_price": 1.035,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.035,
+                "average_daily_volume": 134494,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.contango.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Valentina Stojanovska",
+                    "first_name": "Valentina",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stojanovska",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Rickard",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rickard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Switzer",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Switzer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Liu",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Merlicek",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Merlicek",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Hari Morfis",
+                    "first_name": "Hari",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morfis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

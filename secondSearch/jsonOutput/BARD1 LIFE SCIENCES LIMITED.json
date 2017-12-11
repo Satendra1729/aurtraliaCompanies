@@ -1,0 +1,144 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BD1",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BARD1 LIFE SCIENCES LIMITED",
+    "ASXcode": "BD1",
+    "data": {
+        "summary": {
+            "name_short": "BARD1 LIFE",
+            "name_full": "BARD1 LIFE SCIENCES LIMITED",
+            "code": "BD1",
+            "primary_share_code": "BD1",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BARD1 LIFE SCIENCES",
+            "foreign_exempt": false,
+            "listing_date": "1991-04-18T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9381 9550",
+            "mailing_address": "Unit B1, Ground Floor, Tempo Building, 431 Roberts Road, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Developing and commercialising a blood test for lung cancer detection.",
+            "fax_number": "+61 8 9388 7559",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-09-29T13:17:28+1000",
+                    "number_of_pages": 49,
+                    "id": "01902212",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T13:20:00+1000",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msp28hg70pmk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 87506,
+                "status": [],
+                "market_cap": 5935966,
+                "code": "BD1",
+                "indices": [],
+                "deprecated_number_of_shares": 512492495,
+                "previous_close_price": 0.008,
+                "year_low_date": "2017-12-04T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 741995731,
+                "eps": -0.0045,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.008,
+                "suspended": false,
+                "last_price": 0.008,
+                "deprecated_market_cap": 4100000,
+                "day_low_price": 0.008,
+                "open_price": 0.008,
+                "year_high_date": "2017-03-23T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.064,
+                "bid_price": 0.007,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.008,
+                "average_daily_volume": 1016589,
+                "year_low_price": 0.007,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": null,
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Lynton Gunzburg",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Executive Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gunzburg",
+                    "middle_name": "Lynton"
+                },
+                {
+                    "full_name": "Dr Leearne Hinch",
+                    "first_name": "Leearne",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Hinch",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Irmgard Irminger-Finger",
+                    "first_name": "Irmgard",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Irminger-Finger",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Prof. Geoff Laurent",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Laurent",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Montgomery",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Montgomery",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Pauline Collinson",
+                    "first_name": "Pauline",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Collinson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

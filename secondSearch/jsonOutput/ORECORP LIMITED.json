@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ORR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ORECORP LIMITED",
+    "ASXcode": "ORR",
+    "data": {
+        "summary": {
+            "name_short": "ORECORP",
+            "name_full": "ORECORP LIMITED",
+            "code": "ORR",
+            "primary_share_code": "ORR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ORECORP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-08-04T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9381 9997",
+            "mailing_address": "Ground Floor, 516 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Exploration for gold and base metals.",
+            "fax_number": "(08) 9381 9996",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-13T11:37:24+1000",
+                    "number_of_pages": 83,
+                    "id": "01895540",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-13T11:40:16+1000",
+                    "size": "4.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170913/pdf/43m96bcggrpyf8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 459549,
+                "status": [],
+                "market_cap": 45446692,
+                "code": "ORR",
+                "indices": [],
+                "year_open_price": 0.07,
+                "previous_close_price": 0.21,
+                "year_change_price": 0.15,
+                "year_low_date": "2017-08-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 216412820,
+                "eps": -0.0837,
+                "change_in_percent": "4.762%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 216412820,
+                "pe": 0,
+                "offer_price": 0.22,
+                "suspended": false,
+                "last_price": 0.22,
+                "deprecated_market_cap": 47611000,
+                "day_low_price": 0.21,
+                "open_price": 0.21,
+                "year_high_date": "2017-02-27T00:00:00+1100",
+                "previous_day_percentage_change": "-2.326%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.65,
+                "bid_price": 0.2,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.22,
+                "year_change_in_percentage": "214.286%",
+                "average_daily_volume": 184774,
+                "year_low_price": 0.12,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://orecorp.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Craig R Williams",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": "R"
+                },
+                {
+                    "full_name": "Mr Matthew Yates",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yates",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Klessens",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Klessens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alastair Morrison",
+                    "first_name": "Alastair",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morrison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Rigo",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rigo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Luke Watson",
+                    "first_name": "Luke",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Watson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Luke Watson",
+                    "first_name": "Luke",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Watson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

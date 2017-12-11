@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GCN",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "GOCONNECT LIMITED",
+    "ASXcode": "GCN",
+    "data": {
+        "summary": {
+            "name_short": "GOCONNECT",
+            "name_full": "GOCONNECT LIMITED",
+            "code": "GCN",
+            "primary_share_code": "GCN",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "GOCONNECT LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2000-11-22T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 3 8833 7242",
+            "mailing_address": "Level 1, 951 Nepean Highway, BENTLEIGH, VIC, AUSTRALIA, 3204",
+            "principal_activities": "The provision of video infotainment and interactive advertisement to be delivered via the Internet in high quality, online regardless of connection speed or wireless, and the GPRS mobile telephone network, by using the patented proprietary technology GoTr",
+            "fax_number": "-",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to shareholders",
+                    "document_date": "2017-09-28T11:41:28+1000",
+                    "number_of_pages": 59,
+                    "id": "01901152",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T12:13:02+1000",
+                    "size": "632.7KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqj56s7p3sgz.pdf"
+                },
+                {
+                    "header": "2016 Annual Report to shareholders",
+                    "document_date": "2017-08-31T16:42:07+1000",
+                    "number_of_pages": 63,
+                    "id": "01891332",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T17:04:30+1000",
+                    "size": "708.2KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lyxt2cgbsstp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "GCN",
+                "indices": [],
+                "year_open_price": 0.011,
+                "previous_close_price": 0.007,
+                "year_change_price": -0.004,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 998514133,
+                "eps": 0.0011,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 998514133,
+                "pe": 6.36,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.007,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-09-30T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.008,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-36.364%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.goconnect.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Li",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Executive Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Chan",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Eric Pong",
+                    "first_name": "Eric",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pong",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

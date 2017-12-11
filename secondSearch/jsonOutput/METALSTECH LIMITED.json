@@ -1,0 +1,91 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MTC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "METALSTECH LIMITED",
+    "ASXcode": "MTC",
+    "data": {
+        "summary": {
+            "name_short": "METALSTECH",
+            "name_full": "METALSTECH LIMITED",
+            "code": "MTC",
+            "primary_share_code": "MTC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "METALSTECH LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-02-24T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9388 0468",
+            "mailing_address": "Suite 1, 100 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Identifying, funding, acquiring, exploring and developing lithium projects in\nCanada.",
+            "latest_annual_reports": [
+                {
+                    "header": "MetalsTech 2017 Annual Report to Shareholders",
+                    "document_date": "2017-10-02T04:11:02+1100",
+                    "number_of_pages": 113,
+                    "id": "01903063",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:14:31+1100",
+                    "size": "7.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvsrzhdrg1bv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1643815,
+                "status": [],
+                "market_cap": 29090006,
+                "code": "MTC",
+                "indices": [],
+                "deprecated_number_of_shares": 45975840,
+                "previous_close_price": 0.335,
+                "year_low_date": "2017-09-12T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 86835840,
+                "eps": 0,
+                "change_in_percent": "4.478%",
+                "change_price": 0.015,
+                "pe": 0,
+                "offer_price": 0.35,
+                "suspended": false,
+                "last_price": 0.35,
+                "deprecated_market_cap": 16092000,
+                "day_low_price": 0.34,
+                "open_price": 0.35,
+                "year_high_date": "2017-11-01T00:00:00+1100",
+                "previous_day_percentage_change": "9.836%",
+                "year_open_date": null,
+                "year_high_price": 0.4,
+                "bid_price": 0.345,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.365,
+                "average_daily_volume": 1098687,
+                "year_low_price": 0.088,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.metalstech.net",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gino D'Anna",
+                    "first_name": "Gino",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "D'Anna",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

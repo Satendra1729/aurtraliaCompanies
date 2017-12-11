@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DLC",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "DELECTA LIMITED",
+    "ASXcode": "DLC",
+    "data": {
+        "summary": {
+            "name_short": "DELECTA",
+            "name_full": "DELECTA LIMITED",
+            "code": "DLC",
+            "primary_share_code": "DLC",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "DELECTA LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1987-01-15T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9695 5858",
+            "mailing_address": "Level 1, 170-180 Buckhurst Street, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Retailing of adult products on the internet.",
+            "fax_number": "03 9686 0644",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-24T09:14:06+1100",
+                    "number_of_pages": 72,
+                    "id": "01911495",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T09:15:57+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43nhqx23znsngs.pdf"
+                },
+                {
+                    "header": "Variation of Annual Report to Appendix 4E",
+                    "document_date": "2017-09-27T16:56:51+1000",
+                    "number_of_pages": 1,
+                    "id": "01900710",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T17:01:55+1000",
+                    "size": "283.5KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mpk0k7ddjmhq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 3800977,
+                "code": "DLC",
+                "indices": [],
+                "year_open_price": 0.011,
+                "previous_close_price": 0.006,
+                "year_change_price": -0.005,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 633496205,
+                "eps": 0.0019,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 633496205,
+                "pe": 3.16,
+                "offer_price": 0.006,
+                "suspended": false,
+                "last_price": 0.006,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.006,
+                "bid_price": 0.005,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-45.455%",
+                "average_daily_volume": 988716,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": null,
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bradley Moore",
+                    "first_name": "Bradley",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moore",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Malcolm Day",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Managing Director",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Day",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hans-Rudolf Moser",
+                    "first_name": "Hans-Rudolf",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moser",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Burness",
+                    "first_name": "John",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burness",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Burness",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burness",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MMG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MMG LIMITED",
+    "ASXcode": "MMG",
+    "data": {
+        "summary": {
+            "name_short": "MMG",
+            "name_full": "MMG LIMITED",
+            "code": "MMG",
+            "primary_share_code": "MMG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MMG LIMITED",
+            "foreign_exempt": true,
+            "listing_date": "2015-12-14T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9288 0888",
+            "mailing_address": "C/- MMG Management Pty Ltd, Level 23, 28 Freshwater Place, SOUTHBANK, VIC, AUSTRALIA, 3006",
+            "principal_activities": "Exploration, development and mining of base metal deposits around the world.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2016",
+                    "document_date": "2017-04-20T19:37:36+1000",
+                    "number_of_pages": 152,
+                    "id": "01849332",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-21T08:26:19+1000",
+                    "size": "3.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170421/pdf/43hn1j274hpd31.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 3978786400,
+                "code": "MMG",
+                "indices": [],
+                "deprecated_number_of_shares": 26450350,
+                "previous_close_price": 5,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 795757280,
+                "eps": -0.008,
+                "change_in_percent": "0%",
+                "change_price": 0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 5,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-09-06T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 5,
+                "bid_price": 0,
+                "desc_full": "Cdi 1:10 Foreign Exempt Hkse",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.mmg.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nicholas Myers",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Myers",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

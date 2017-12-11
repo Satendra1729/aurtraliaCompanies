@@ -1,0 +1,123 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SKP",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "SKYLAND PETROLEUM  GROUP LIMITED",
+    "ASXcode": "SKP",
+    "data": {
+        "summary": {
+            "name_short": "SKYLAND",
+            "name_full": "SKYLAND PETROLEUM  GROUP LIMITED",
+            "code": "SKP",
+            "primary_share_code": "SKP",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "SKYLAND PET GRP",
+            "foreign_exempt": false,
+            "listing_date": "1997-05-23T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8823 3177",
+            "mailing_address": "Level 5, 56 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Oil and Gas Exploration and Production",
+            "fax_number": "+61 2 8823 3188",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "SKP",
+                "indices": [],
+                "deprecated_number_of_shares": 311112191,
+                "previous_close_price": 0.06,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1066485943,
+                "eps": -0.0011,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.06,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-01T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.061,
+                "bid_price": 0,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.skylandpetroleum.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Marco Arosti",
+                    "first_name": "Marco",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Arosti",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Domenic Martino",
+                    "first_name": "Domenic",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Martino",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Raden Sukhyar",
+                    "first_name": "Raden",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Sukhyar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ghassan Zok",
+                    "first_name": "Ghassan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zok",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Louisa Anne Martino",
+                    "first_name": "Louisa",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Martino",
+                    "middle_name": "Anne"
+                }
+            ]
+        }
+    }
+}

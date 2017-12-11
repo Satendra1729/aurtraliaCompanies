@@ -1,0 +1,65 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CRD",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "CREDIBLE LABS INC.",
+    "ASXcode": "CRD",
+    "data": {
+        "summary": {
+            "name_short": "CREDIBLE",
+            "name_full": "CREDIBLE LABS INC.",
+            "code": "CRD",
+            "primary_share_code": "CRD",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "CREDIBLE LABS",
+            "foreign_exempt": false,
+            "listing_date": "2017-12-08T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+1866 540 6005",
+            "mailing_address": "251 Little Falls Drive, Wilmington, NEW CASTLE, DEL, UNITED STATES OF AMERICA, 19808",
+            "principal_activities": "Consumer Finance Marketplace",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 3971190,
+                "status": [],
+                "year_high_price": 1.65,
+                "indices": [],
+                "deprecated_number_of_shares": 131195325,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 0,
+                "eps": 0,
+                "code": "CRD",
+                "pe": 0,
+                "offer_price": 1.42,
+                "suspended": false,
+                "last_price": 1.32,
+                "deprecated_market_cap": 173178000,
+                "day_low_price": 1.32,
+                "open_price": 1.6,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "year_open_date": null,
+                "market_cap": 0,
+                "bid_price": 1.32,
+                "desc_full": "Chess Deposit Interest 25:1 Us Prohibited Deffered",
+                "day_high_price": 1.65,
+                "average_daily_volume": 0,
+                "year_low_price": 1.32,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.credible.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": []
+        }
+    }
+}

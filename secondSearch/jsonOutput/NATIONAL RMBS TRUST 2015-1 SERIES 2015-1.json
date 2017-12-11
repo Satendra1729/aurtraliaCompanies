@@ -1,0 +1,44 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NAJ",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "NATIONAL RMBS TRUST 2015-1 SERIES 2015-1",
+    "ASXcode": "NAJ",
+    "data": {
+        "summary": {
+            "name_full": "NATIONAL RMBS TRUST 2015-1 SERIES 2015-1",
+            "products": [],
+            "phone_number": "0",
+            "mailing_address": "National Australia Managers Limited, Level 1, 800 Bourke Street, DOCKLANDS, VIC, AUSTRALIA, 3008",
+            "principal_activities": "",
+            "name_short": "NAT 15-01",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "NATIONAL RMBS 2015-1",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "NAJ",
+            "listing_date": "2015-05-27T00:00:00+1000",
+            "registry_address": "LEVEL 7, 9 CASTLEREAGH STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "PERPETUAL TRUSTEE COMPANY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gus Carfi",
+                    "first_name": "Gus",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carfi",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BOE",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BOSS RESOURCES LIMITED",
+    "ASXcode": "BOE",
+    "data": {
+        "summary": {
+            "name_full": "BOSS RESOURCES LIMITED",
+            "code": "BOE",
+            "name_short": "BOSS RES",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BOSS RESOURCES LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BOE?image_size=L&v=1508209402000",
+            "foreign_exempt": false,
+            "listing_date": "2007-07-25T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@bossresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6143 6730",
+            "mailing_address": "Suite 23, Level 1, 513 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Boss Resources Limited is an exploration company primarily focused on the Honeymoon Uranium Project, South Australia.  The Company is also a JV partner with Teranga Gold Corporation over gold assets in Burkina Faso.",
+            "fax_number": "(08) 9388 8824",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T11:59:01+1100",
+                    "number_of_pages": 81,
+                    "id": "01915584",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T12:01:10+1100",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nspsb50c6x82.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2186826,
+                "status": [],
+                "market_cap": 62199374,
+                "code": "BOE",
+                "indices": [],
+                "year_open_price": 0.017,
+                "previous_close_price": 0.058,
+                "year_change_price": 0.037,
+                "year_low_date": "2017-10-03T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1072403008,
+                "eps": -0.0064,
+                "change_in_percent": "-6.897%",
+                "change_price": -0.004,
+                "deprecated_number_of_shares": 1072403008,
+                "pe": 0,
+                "offer_price": 0.055,
+                "suspended": false,
+                "last_price": 0.054,
+                "deprecated_market_cap": 57910000,
+                "day_low_price": 0.054,
+                "open_price": 0.058,
+                "year_high_date": "2017-02-15T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.087,
+                "bid_price": 0.054,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.058,
+                "year_change_in_percentage": "217.647%",
+                "average_daily_volume": 3573369,
+                "year_low_price": 0.038,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "BOE",
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.bossresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Hohnen",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hohnen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Duncan Craib",
+                    "first_name": "Duncan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Craib",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Evan Cranston",
+                    "first_name": "Evan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cranston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Davey",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Williams",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Oonagh Malone",
+                    "first_name": "Oonagh",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Malone",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

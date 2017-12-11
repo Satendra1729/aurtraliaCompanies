@@ -1,0 +1,175 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IIL",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "INNATE IMMUNOTHERAPEUTICS LIMITED",
+    "ASXcode": "IIL",
+    "data": {
+        "summary": {
+            "name_short": "INNATE",
+            "name_full": "INNATE IMMUNOTHERAPEUTICS LIMITED",
+            "code": "IIL",
+            "primary_share_code": "IIL",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "INNATE IMMUNO",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/IIL?image_size=L&v=1447979976000",
+            "foreign_exempt": false,
+            "listing_date": "2013-12-23T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8003 3650",
+            "mailing_address": "Suite 4.01, 35 Lime Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Development of a drug candidate to treat secondary progressive multiple sclerosis.",
+            "fax_number": "(02) 9225 5050",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders - YE 31 March 2017",
+                    "document_date": "2017-07-27T18:48:59+1000",
+                    "number_of_pages": 52,
+                    "id": "01877661",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-07-27T18:52:24+1000",
+                    "size": "607.2KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170727/pdf/43kxyh9pgxxj8z.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4000,
+                "status": [],
+                "market_cap": 5640650,
+                "code": "IIL",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.21,
+                "previous_close_price": 0.025,
+                "year_change_price": -0.185,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 225625991,
+                "eps": -0.027,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 225625991,
+                "pe": 0,
+                "offer_price": 0.026,
+                "suspended": false,
+                "last_price": 0.025,
+                "deprecated_market_cap": 5641000,
+                "day_low_price": 0.025,
+                "open_price": 0.025,
+                "year_high_date": "2017-01-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.83,
+                "bid_price": 0.025,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.025,
+                "year_change_in_percentage": "-88.095%",
+                "average_daily_volume": 379404,
+                "year_low_price": 0.025,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.innateimmuno.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Quinn",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Quinn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Wilkinson",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilkinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Collins",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Collins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Elizabeth Hopkins",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hopkins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Robert Peach",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Peach",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Sneddon",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sneddon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeff Carter",
+                    "first_name": "Jeff",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carter",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew John Cooke",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooke",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BEE",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "BROO LTD",
+    "ASXcode": "BEE",
+    "data": {
+        "summary": {
+            "name_short": "BROO LTD",
+            "name_full": "BROO LTD",
+            "code": "BEE",
+            "primary_share_code": "BEE",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "BROO LTD",
+            "foreign_exempt": false,
+            "listing_date": "2016-10-14T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 5984 2222",
+            "mailing_address": "Suite 4, Level 1, 119 Ocean Beach Road, SORRENTO, VIC, AUSTRALIA, 3943",
+            "principal_activities": "Brewing and manufacturing of premium Australian beer.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T07:39:21+1000",
+                    "number_of_pages": 50,
+                    "id": "01901701",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:20:29+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrpqcly6lgmj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 133193,
+                "status": [],
+                "market_cap": 170309975,
+                "code": "BEE",
+                "indices": [],
+                "deprecated_number_of_shares": 137997841,
+                "previous_close_price": 0.28,
+                "year_low_date": "2017-09-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 608249911,
+                "eps": -0.0059,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.28,
+                "suspended": false,
+                "last_price": 0.28,
+                "deprecated_market_cap": 38639000,
+                "day_low_price": 0.26,
+                "open_price": 0.28,
+                "year_high_date": "2017-11-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.475,
+                "bid_price": 0.26,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.28,
+                "average_daily_volume": 229659,
+                "year_low_price": 0.18,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": null,
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kent Grogan",
+                    "first_name": "Kent",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grogan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mathew Boyes",
+                    "first_name": "Mathew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boyes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff De Graaff",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "De Graaff",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phillip Grundy",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grundy",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justyn Stedwell",
+                    "first_name": "Justyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stedwell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

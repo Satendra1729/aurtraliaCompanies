@@ -1,0 +1,116 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ONE",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "ONEVIEW HEALTHCARE PLC",
+    "ASXcode": "ONE",
+    "data": {
+        "summary": {
+            "name_short": "ONEVIEW",
+            "name_full": "ONEVIEW HEALTHCARE PLC",
+            "code": "ONE",
+            "primary_share_code": "ONE",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "ONEVIEW HEALTHCARE",
+            "foreign_exempt": false,
+            "listing_date": "2016-03-17T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9922 2720",
+            "mailing_address": "Suite 502 and 503, Level 5, 75 Miller Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Provider of software platforms to healthcare organisations and patients to make use of technology to drive cost efficiencies, improve clinical outcomes and enhance patient satisfaction and quality of healthcare.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-30T07:10:05+1100",
+                    "number_of_pages": 69,
+                    "id": "01843184",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T08:24:15+1100",
+                    "size": "5.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h4kn4ydx372b.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 16244,
+                "status": [],
+                "market_cap": 124757488,
+                "code": "ONE",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "deprecated_number_of_shares": 50182322,
+                "previous_close_price": 1.99,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 62692205,
+                "eps": -0.6724,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 2,
+                "suspended": false,
+                "last_price": 1.99,
+                "deprecated_market_cap": 99863000,
+                "day_low_price": 1.95,
+                "open_price": 1.95,
+                "year_high_date": "2017-01-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 6.84,
+                "bid_price": 1.93,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 1.99,
+                "average_daily_volume": 56570,
+                "year_low_price": 1.95,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.oneviewhealthcare.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Kelly",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Masterson",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Masterson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

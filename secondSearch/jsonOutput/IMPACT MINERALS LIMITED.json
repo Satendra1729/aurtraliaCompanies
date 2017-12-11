@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IPT",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "IMPACT MINERALS LIMITED",
+    "ASXcode": "IPT",
+    "data": {
+        "summary": {
+            "name_short": "IMPACT MIN",
+            "name_full": "IMPACT MINERALS LIMITED",
+            "code": "IPT",
+            "primary_share_code": "IPT",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "IMPACT MINERALS",
+            "foreign_exempt": false,
+            "listing_date": "2006-11-29T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 6454 6666",
+            "mailing_address": "26 Richardson Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration for Uranium, Gold and Nickel.",
+            "fax_number": "08 6454 6667",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-27T16:18:31+1100",
+                    "number_of_pages": 108,
+                    "id": "01913955",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T16:21:38+1100",
+                    "size": "3.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nnxww7y4k95y.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 283739,
+                "status": [],
+                "market_cap": 19312538,
+                "code": "IPT",
+                "indices": [],
+                "year_open_price": 0.029,
+                "previous_close_price": 0.017,
+                "year_change_price": -0.012,
+                "year_low_date": "2017-09-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1136031641,
+                "eps": -0.0009,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1136031641,
+                "pe": 0,
+                "offer_price": 0.018,
+                "suspended": false,
+                "last_price": 0.017,
+                "deprecated_market_cap": 19313000,
+                "day_low_price": 0.017,
+                "open_price": 0.018,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.034,
+                "bid_price": 0.017,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.018,
+                "year_change_in_percentage": "-41.379%",
+                "average_daily_volume": 10006332,
+                "year_low_price": 0.013,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.impactminerals.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter J Unsworth",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Unsworth",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Dr Michael G Jones",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Jones",
+                    "middle_name": "G"
+                },
+                {
+                    "full_name": "Dr Markus Elsasser",
+                    "first_name": "Markus",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Elsasser",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Felicity Gooding",
+                    "first_name": "Felicity",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gooding",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Ingram",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ingram",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Bernard Crawford",
+                    "first_name": "Bernard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crawford",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BUX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BUXTON RESOURCES LIMITED",
+    "ASXcode": "BUX",
+    "data": {
+        "summary": {
+            "name_short": "BUXTONRES",
+            "name_full": "BUXTON RESOURCES LIMITED",
+            "code": "BUX",
+            "primary_share_code": "BUX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BUXTON RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-10-23T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9380 6063",
+            "mailing_address": "Suite 1, First Floor, 14-16 Rowland Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Mineral exploration.",
+            "fax_number": "(08) 9381 4056",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-09-29T14:10:15+1000",
+                    "number_of_pages": 50,
+                    "id": "01902258",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T14:12:00+1000",
+                    "size": "2.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msrxhpqc0x37.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 136935,
+                "status": [],
+                "market_cap": 12747845,
+                "code": "BUX",
+                "indices": [],
+                "year_open_price": 0.265,
+                "previous_close_price": 0.115,
+                "year_change_price": -0.15,
+                "year_low_date": "2017-11-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 110850822,
+                "eps": -0.0116,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 110850822,
+                "pe": 0,
+                "offer_price": 0.12,
+                "suspended": false,
+                "last_price": 0.115,
+                "deprecated_market_cap": 12748000,
+                "day_low_price": 0.115,
+                "open_price": 0.12,
+                "year_high_date": "2017-05-10T00:00:00+1000",
+                "previous_day_percentage_change": "-4.167%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.295,
+                "bid_price": 0.11,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.12,
+                "year_change_in_percentage": "-56.604%",
+                "average_daily_volume": 313630,
+                "year_low_price": 0.1,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.buxtonresources.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Seamus Cornelius",
+                    "first_name": "Seamus",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cornelius",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Eamon Hannon",
+                    "first_name": "Eamon",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hannon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Maslin",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Maslin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Feng Xue",
+                    "first_name": "Feng",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Xue",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Sam Wright",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wright",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

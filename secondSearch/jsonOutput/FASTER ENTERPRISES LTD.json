@@ -1,0 +1,105 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FE8",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "FASTER ENTERPRISES LTD",
+    "ASXcode": "FE8",
+    "data": {
+        "summary": {
+            "name_full": "FASTER ENTERPRISES LTD",
+            "code": "FE8",
+            "name_short": "FAST ENTPR",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "FASTER ENTERPRISES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/FE8?image_size=L&v=1479854271000",
+            "foreign_exempt": false,
+            "listing_date": "2016-11-21T00:00:00+1100",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "investor_relations_email": "info@fasterenterprises.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9897 4540",
+            "mailing_address": "G02, 8 Ellingworth Parade, BOX HILL, VIC, AUSTRALIA, 3128",
+            "principal_activities": "Property Development and Management",
+            "fax_number": "03 9897 4540",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-26T02:41:57+1000",
+                    "number_of_pages": 74,
+                    "id": "01899744",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T08:24:10+1000",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mmhjwc23k5k8.pdf"
+                },
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-31T19:26:39+1000",
+                    "number_of_pages": 76,
+                    "id": "01891521",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-31T19:30:43+1000",
+                    "size": "2.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lz95v0bxlvhj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 8427291,
+                "code": "FE8",
+                "indices": [],
+                "deprecated_number_of_shares": 110885411,
+                "previous_close_price": 0.076,
+                "year_low_date": "2017-11-15T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 110885411,
+                "eps": -0.0001,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.076,
+                "suspended": false,
+                "last_price": 0.076,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0,
+                "bid_price": 0.071,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 15826,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "FE8",
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.fasterenterprises.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Elizabeth Bee Hiang Lee",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lee",
+                    "middle_name": "Bee Hiang"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CXU",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "CAULDRON ENERGY LIMITED",
+    "ASXcode": "CXU",
+    "data": {
+        "summary": {
+            "name_short": "CAULDRON",
+            "name_full": "CAULDRON ENERGY LIMITED",
+            "code": "CXU",
+            "primary_share_code": "CXU",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "CAULDRON ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2005-01-28T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "info@cauldronenergy.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6181 9796",
+            "mailing_address": "32 Harrogate Street, WEST LEEDERVILE, WA, AUSTRALIA, 6007",
+            "principal_activities": "Mineral exploration and development.",
+            "fax_number": "+61 8 9380 9666",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-06T15:49:33+1000",
+                    "number_of_pages": 74,
+                    "id": "01893382",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-06T15:53:56+1000",
+                    "size": "2.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170906/pdf/43m3w7tmgwrztg.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 236867,
+                "status": [],
+                "market_cap": 12183719,
+                "code": "CXU",
+                "indices": [],
+                "year_open_price": 0.085,
+                "previous_close_price": 0.037,
+                "year_change_price": -0.05,
+                "year_low_date": "2017-08-02T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 329289708,
+                "eps": -0.0383,
+                "change_in_percent": "-5.405%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 329289708,
+                "pe": 0,
+                "offer_price": 0.042,
+                "suspended": false,
+                "last_price": 0.035,
+                "deprecated_market_cap": 11525000,
+                "day_low_price": 0.035,
+                "open_price": 0.037,
+                "year_high_date": "2017-02-15T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.08,
+                "bid_price": 0.035,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.037,
+                "year_change_in_percentage": "-58.824%",
+                "average_daily_volume": 93139,
+                "year_low_price": 0.031,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.cauldronenergy.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tony Sage",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sage",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Qiu Derong",
+                    "first_name": "Qiu",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Derong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Judy Li",
+                    "first_name": "Judy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Li",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Sage",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sage",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chenchong Zhou",
+                    "first_name": "Chenchong",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhou",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Catherine Julie Grant-Edwards",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Grant-Edwards",
+                    "middle_name": "Julie"
+                }
+            ]
+        }
+    }
+}

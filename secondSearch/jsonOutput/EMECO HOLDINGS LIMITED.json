@@ -1,0 +1,188 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EHL",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "EMECO HOLDINGS LIMITED",
+    "ASXcode": "EHL",
+    "data": {
+        "summary": {
+            "name_short": "EMECO HLDG",
+            "name_full": "EMECO HOLDINGS LIMITED",
+            "code": "EHL",
+            "primary_share_code": "EHL",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "EMECO HOLDINGS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/EHL?image_size=L&v=1382506834000",
+            "foreign_exempt": false,
+            "listing_date": "2006-07-28T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9420 0222",
+            "mailing_address": "Level 3, 71 Walters Drive, OSBORNE PARK, WA, AUSTRALIA, 6017",
+            "principal_activities": "Selling, renting and maintaining heavy earthmoving equipment to customers in the mining industry in Australia and overseas.",
+            "fax_number": "08 9420 0205",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to shareholders",
+                    "document_date": "2017-10-20T14:49:34+1100",
+                    "number_of_pages": 142,
+                    "id": "01910473",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T14:52:59+1100",
+                    "size": "4.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43nf329l93sp41.pdf"
+                },
+                {
+                    "header": "2017 Annual Report to shareholders",
+                    "document_date": "2017-08-31T07:21:37+1000",
+                    "number_of_pages": 137,
+                    "id": "01890562",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T08:18:15+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lxfrxrmlz465.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1069615,
+                "status": [],
+                "market_cap": 704405548,
+                "code": "EHL",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.24,
+                "previous_close_price": 0.25,
+                "year_change_price": 0.0,
+                "year_low_date": "2016-12-15T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2817622191,
+                "eps": -0.1866,
+                "change_in_percent": "-4%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 2817622191,
+                "pe": 0,
+                "offer_price": 0.245,
+                "suspended": false,
+                "last_price": 0.24,
+                "deprecated_market_cap": 676229000,
+                "day_low_price": 0.24,
+                "open_price": 0.25,
+                "year_high_date": "2017-11-02T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.275,
+                "bid_price": 0.24,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.25,
+                "year_change_in_percentage": "0%",
+                "average_daily_volume": 10467103,
+                "year_low_price": 0.047,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.emecogroup.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Richards",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richards",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Testrow",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Testrow",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Frank",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Frank",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Keith Skinner",
+                    "first_name": "Keith",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Skinner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Darren Yeates",
+                    "first_name": "Darren",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yeates",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Thao Pham",
+                    "first_name": "Thao",
+                    "roles": [
+                        "General Manager",
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Pham",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Penny Young",
+                    "first_name": "Penny",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Young",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Penny Young",
+                    "first_name": "Penny",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Young",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

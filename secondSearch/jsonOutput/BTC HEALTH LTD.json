@@ -1,0 +1,160 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BTC",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "BTC HEALTH LTD",
+    "ASXcode": "BTC",
+    "data": {
+        "summary": {
+            "name_full": "BTC HEALTH LTD",
+            "code": "BTC",
+            "name_short": "BTC HEALTH",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "BTC HEALTH LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BTC?image_size=L&v=1477960333000",
+            "foreign_exempt": false,
+            "listing_date": "2000-08-29T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "investor_relations_email": "sjones@btchealth.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9092 0470",
+            "mailing_address": "Suite 201, 697 Burke Road, CAMBERWELL, VIC, AUSTRALIA, 3124",
+            "principal_activities": "Biotech Capital is in the business of providing development capital and management expertise to high-growth Australian biotech, medtech and pharmaceutical companies.",
+            "fax_number": "03 9092 0470",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders 30 June 2017",
+                    "document_date": "2017-09-14T14:49:31+1000",
+                    "number_of_pages": 46,
+                    "id": "01896141",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-14T14:53:15+1000",
+                    "size": "734.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170914/pdf/43mbjkwxv8d5ll.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 100000,
+                "status": [],
+                "market_cap": 24104858,
+                "code": "BTC",
+                "indices": [],
+                "year_open_price": 0.021,
+                "previous_close_price": 0.185,
+                "year_change_price": 0.159,
+                "year_low_date": "2017-04-07T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 130296532,
+                "eps": -0.0045,
+                "change_in_percent": "-2.703%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 130296532,
+                "pe": 0,
+                "offer_price": 0.19,
+                "suspended": false,
+                "last_price": 0.18,
+                "deprecated_market_cap": 23453000,
+                "day_low_price": 0.18,
+                "open_price": 0.185,
+                "year_high_date": "2017-09-11T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.21,
+                "bid_price": 0.18,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.185,
+                "year_change_in_percentage": "757.143%",
+                "average_daily_volume": 72979,
+                "year_low_price": 0.11,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "BTC",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.btchealth.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Richard Spencer Treagus",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Executive Chairman",
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Treagus",
+                    "middle_name": "Spencer"
+                },
+                {
+                    "full_name": "Mr Bruce Alan Hancox",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hancox",
+                    "middle_name": "Alan"
+                },
+                {
+                    "full_name": "Mrs Jennifer Herz",
+                    "first_name": "Jennifer",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Herz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter John Jones",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Jonathan Charles Pilcher",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pilcher",
+                    "middle_name": "Charles"
+                },
+                {
+                    "full_name": "Mr Stuart Andrew Jones",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Administrator"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": "Andrew"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Stuart Andrew Jones",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": "Andrew"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RNL",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "RISION LIMITED",
+    "ASXcode": "RNL",
+    "data": {
+        "summary": {
+            "name_short": "RISION",
+            "name_full": "RISION LIMITED",
+            "code": "RNL",
+            "primary_share_code": "RNL",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "RISION LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RNL?image_size=L&v=1455920825000",
+            "foreign_exempt": false,
+            "listing_date": "2002-02-21T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9088 0386",
+            "mailing_address": "Level 4, 100 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Provider of cloud-based human resourcing solutions for organisations that manage contingent workers and their employees.",
+            "fax_number": "03 8640 0658",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-10-01T19:10:03+1100",
+                    "number_of_pages": 48,
+                    "id": "01902960",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:03:20+1100",
+                    "size": "801.5KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvlsrk5jstht.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5447762,
+                "status": [],
+                "market_cap": 6585596,
+                "code": "RNL",
+                "indices": [],
+                "year_open_price": 0.006,
+                "previous_close_price": 0.006,
+                "year_change_price": -0.001,
+                "year_low_date": "2017-08-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1097599397,
+                "eps": -0.0025,
+                "change_in_percent": "-16.667%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 927618144,
+                "pe": 0,
+                "offer_price": 0.006,
+                "suspended": false,
+                "last_price": 0.005,
+                "deprecated_market_cap": 4638000,
+                "day_low_price": 0.005,
+                "open_price": 0.006,
+                "year_high_date": "2017-09-19T00:00:00+1000",
+                "previous_day_percentage_change": "20%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.011,
+                "bid_price": 0.005,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.006,
+                "year_change_in_percentage": "-16.667%",
+                "average_daily_volume": 1982131,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.rision.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alan Hoffman",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hoffman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Francis",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Francis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Francis Guerra",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Guerra",
+                    "middle_name": "Francis"
+                },
+                {
+                    "full_name": "Mr Trent Telford",
+                    "first_name": "Trent",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Telford",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justin Mouchacca",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mouchacca",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

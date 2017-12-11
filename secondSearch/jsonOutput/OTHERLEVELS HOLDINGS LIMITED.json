@@ -1,0 +1,154 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OLV",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "OTHERLEVELS HOLDINGS LIMITED",
+    "ASXcode": "OLV",
+    "data": {
+        "summary": {
+            "name_short": "OTH LEVELS",
+            "name_full": "OTHERLEVELS HOLDINGS LIMITED",
+            "code": "OLV",
+            "primary_share_code": "OLV",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "OTHERLEVELS HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": "2015-03-31T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 30030652",
+            "mailing_address": "c/o McCullough Robertson Lawyers, Level 11, 66 Eagle Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Develop mobile automation platform that the Company licenses to its customers and provides other ancillary services.",
+            "fax_number": "(07)30538098",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-24T09:46:47+1000",
+                    "number_of_pages": 74,
+                    "id": "01887607",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-24T09:50:10+1000",
+                    "size": "3.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lpmvd9xqsts1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 6515186,
+                "code": "OLV",
+                "indices": [],
+                "deprecated_number_of_shares": 224661600,
+                "previous_close_price": 0.029,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 224661600,
+                "eps": -0.0208,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.031,
+                "suspended": false,
+                "last_price": 0.029,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-15T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.06,
+                "bid_price": 0.029,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 187322,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.otherlevels.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brian Mitchell",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitchell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brendan O'Kane",
+                    "first_name": "Brendan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Kane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Baxter",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baxter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Tanya Cox",
+                    "first_name": "Tanya",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Cox",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Lowles",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lowles",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Ritter",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ritter",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Ritter",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ritter",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

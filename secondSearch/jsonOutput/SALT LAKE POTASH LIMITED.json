@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SO4",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "SALT LAKE POTASH LIMITED",
+    "ASXcode": "SO4",
+    "data": {
+        "summary": {
+            "name_short": "SALT LAKE",
+            "name_full": "SALT LAKE POTASH LIMITED",
+            "code": "SO4",
+            "primary_share_code": "SO4",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "SALT LAKE POTASH LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SO4?image_size=L&v=1449109054000",
+            "foreign_exempt": false,
+            "listing_date": "2006-11-03T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9322 6322",
+            "mailing_address": "Level 9, BGC Centre, 28 The Esplanade, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Exploration company with Sulphate of Potash (SOP) projects in Australia and Uranium in Colorado, USA",
+            "fax_number": "+61 8 9322 6558",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T15:35:43+1000",
+                    "number_of_pages": 68,
+                    "id": "01902389",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T15:38:20+1000",
+                    "size": "4.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt0rk80f22hn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 85774302,
+                "code": "SO4",
+                "indices": [],
+                "year_open_price": 0.59416,
+                "previous_close_price": 0.49,
+                "year_change_price": -0.10416,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 175049596,
+                "eps": -0.0661,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 175049596,
+                "pe": 0,
+                "offer_price": 0.49,
+                "suspended": false,
+                "last_price": 0.49,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-24T00:00:00+1100",
+                "previous_day_percentage_change": "-2.97%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.69,
+                "bid_price": 0.485,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-17.531%",
+                "average_daily_volume": 179512,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.wildhorse.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Middlemas",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Middlemas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Hohnen",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hohnen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Pearce",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pearce",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Sam Cordin",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cordin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

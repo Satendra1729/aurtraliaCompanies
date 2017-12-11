@@ -1,0 +1,160 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BLT",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "BENITEC BIOPHARMA LIMITED",
+    "ASXcode": "BLT",
+    "data": {
+        "summary": {
+            "name_full": "BENITEC BIOPHARMA LIMITED",
+            "code": "BLT",
+            "name_short": "BENITEC",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "BENITEC BIOPHARMA",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BLT?image_size=L&v=1424743100000",
+            "foreign_exempt": false,
+            "listing_date": "1997-02-17T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "info@benitec.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9555 6986",
+            "mailing_address": "Suite 1201, 99 Mount Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Biotechnology, research and development.",
+            "fax_number": "(02) 9818 2238",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-09T11:12:49+1100",
+                    "number_of_pages": 68,
+                    "id": "01905703",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-09T11:14:46+1100",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171009/pdf/43n22gx5k2m2zq.pdf"
+                },
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-29T14:45:30+1000",
+                    "number_of_pages": 67,
+                    "id": "01889636",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T14:52:07+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lvddjrqhxlf0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 191400,
+                "status": [],
+                "market_cap": 42054260,
+                "code": "BLT",
+                "indices": [],
+                "year_open_price": 2.24,
+                "previous_close_price": 0.205,
+                "year_change_price": -2.045,
+                "year_low_date": "2016-12-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 205142734,
+                "eps": -0.0324,
+                "change_in_percent": "-4.878%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 205142734,
+                "pe": 0,
+                "offer_price": 0.205,
+                "suspended": false,
+                "last_price": 0.195,
+                "deprecated_market_cap": 40003000,
+                "day_low_price": 0.195,
+                "open_price": 0.205,
+                "year_high_date": "2017-04-05T00:00:00+1000",
+                "previous_day_percentage_change": "7.895%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.28,
+                "bid_price": 0.195,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.205,
+                "year_change_in_percentage": "-91.295%",
+                "average_daily_volume": 271665,
+                "year_low_price": 0.09,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "BLT",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.benitec.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.benitec.com/investor-centre/overview"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Jerel Banks",
+                    "first_name": "Jerel",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Banks",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg West",
+                    "first_name": "Greg",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "West",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Megan Boston",
+                    "first_name": "Megan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Boston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Buchi",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Buchi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Francis",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Francis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Greg West",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "West",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

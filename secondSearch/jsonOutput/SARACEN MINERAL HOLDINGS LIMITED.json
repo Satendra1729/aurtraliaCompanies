@@ -1,0 +1,231 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SAR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "SARACEN MINERAL HOLDINGS LIMITED",
+    "ASXcode": "SAR",
+    "data": {
+        "summary": {
+            "name_short": "SARACEN",
+            "name_full": "SARACEN MINERAL HOLDINGS LIMITED",
+            "code": "SAR",
+            "primary_share_code": "SAR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "SARACEN MINERAL",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SAR?image_size=L&v=1382081129000",
+            "foreign_exempt": false,
+            "listing_date": "1989-07-20T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6229 9100",
+            "mailing_address": "Level 11, 40 The Esplanade, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Gold Production and  Exploration",
+            "fax_number": "(08) 6229 9199",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-04T13:35:00+1000",
+                    "number_of_pages": 125,
+                    "id": "01892406",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-04T13:37:06+1000",
+                    "size": "6.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170904/pdf/43m1nrbqxrxwjn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3570342,
+                "status": [],
+                "market_cap": 1239594510,
+                "code": "SAR",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 0.3,
+                "previous_close_price": 1.525,
+                "year_change_price": 1.18,
+                "year_low_date": "2016-12-16T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 812848859,
+                "eps": 0.0352,
+                "change_in_percent": "-2.951%",
+                "change_price": -0.045,
+                "deprecated_number_of_shares": 812848859,
+                "pe": 42.05,
+                "offer_price": 1.495,
+                "suspended": false,
+                "last_price": 1.48,
+                "deprecated_market_cap": 1203016000,
+                "day_low_price": 1.47,
+                "open_price": 1.5,
+                "year_high_date": "2017-11-30T00:00:00+1100",
+                "previous_day_percentage_change": "3.041%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 1.54,
+                "bid_price": 1.465,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.522,
+                "year_change_in_percentage": "393.333%",
+                "average_daily_volume": 4161758,
+                "year_low_price": 0.79,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.saracen.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoff Clifford",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clifford",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Raleigh Finlayson",
+                    "first_name": "Raleigh",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Finlayson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Reed",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reed",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Roric Gerard Smith",
+                    "first_name": "Roric",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Smith",
+                    "middle_name": "Gerard"
+                },
+                {
+                    "full_name": "Ms Samantha Tough",
+                    "first_name": "Samantha",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tough",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Morgan Ball",
+                    "first_name": "Morgan",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ball",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr William Troy Irvin",
+                    "first_name": "William",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Irvin",
+                    "middle_name": "Troy"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jeremy Ryan",
+                    "first_name": "Jeremy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ryan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

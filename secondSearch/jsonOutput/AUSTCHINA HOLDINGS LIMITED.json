@@ -1,0 +1,181 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AUH",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "AUSTCHINA HOLDINGS LIMITED",
+    "ASXcode": "AUH",
+    "data": {
+        "summary": {
+            "name_short": "AUSTCHINA",
+            "name_full": "AUSTCHINA HOLDINGS LIMITED",
+            "code": "AUH",
+            "primary_share_code": "AUH",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "AUSTCHINA HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": "2003-03-17T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 3229 6606",
+            "mailing_address": "C/- Stanley Yeates & Associates, Chartered Accountants, Level 16, 344 Queen Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Resources and Energy Exploration an Investment",
+            "fax_number": "07 3221 6625",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-29T16:39:45+1000",
+                    "number_of_pages": 51,
+                    "id": "01902541",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:42:21+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt9pkxs3v3br.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 4461540,
+                "code": "AUH",
+                "indices": [],
+                "year_open_price": 0.005,
+                "previous_close_price": 0.004,
+                "year_change_price": -0.001,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1115385048,
+                "eps": -0.0001,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1115385048,
+                "pe": 0,
+                "offer_price": 0.006,
+                "suspended": false,
+                "last_price": 0.004,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-09-28T00:00:00+1000",
+                "previous_day_percentage_change": "-33.333%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.009,
+                "bid_price": 0.005,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-20%",
+                "average_daily_volume": 645388,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.austchinaholdings.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Anthony Wai-Lun Chan",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chan",
+                    "middle_name": "Wai-Lun"
+                },
+                {
+                    "full_name": "Mr Andrew Fogg",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fogg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nick Bolkus",
+                    "first_name": "Nick",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bolkus",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Kin-Wah Chan",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chan",
+                    "middle_name": "Kin-Wah"
+                },
+                {
+                    "full_name": "Mr William Ko",
+                    "first_name": "William",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ko",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Lee George Lam",
+                    "first_name": "Lee",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Lam",
+                    "middle_name": "George"
+                },
+                {
+                    "full_name": "Mr Ronald Hilton Marks",
+                    "first_name": "Ronald",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marks",
+                    "middle_name": "Hilton"
+                },
+                {
+                    "full_name": "Mr Bruce Patrick",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Patrick",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Leni Stanley",
+                    "first_name": "Leni",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stanley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

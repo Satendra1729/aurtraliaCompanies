@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AWT",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "AUSTRALIA WETOUCH TECHNOLOGY LIMITED",
+    "ASXcode": "AWT",
+    "data": {
+        "summary": {
+            "name_short": "WETOUCH",
+            "name_full": "AUSTRALIA WETOUCH TECHNOLOGY LIMITED",
+            "code": "AWT",
+            "primary_share_code": "AWT",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "AUSTRALIA WETOUCH",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9009 8818",
+            "mailing_address": "Level 27, AMP Centre, 50 Bridge Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Development, manufacturing, sales and servicing of medium to large sized touchscreen products used in finance, automotive, industrial, retail, gaming, lottery and medical industries.",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "AWT",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.au-wetouch.com",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nicholas Ong",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ong",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

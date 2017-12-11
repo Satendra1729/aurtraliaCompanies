@@ -1,0 +1,95 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KBL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KBL MINING LIMITED",
+    "ASXcode": "KBL",
+    "data": {
+        "summary": {
+            "name_short": "KBL MINING",
+            "name_full": "KBL MINING LIMITED",
+            "code": "KBL",
+            "primary_share_code": "KBL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KBL MINING LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2010-02-25T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "convertible-notes"
+            ],
+            "phone_number": "+61 2 9927 2002",
+            "mailing_address": "C/- KPMG - Stephen Vaughan, PO Box H67, AUSTRALIA SQUARE, NSW, AUSTRALIA, 1213",
+            "principal_activities": "Precious and Base Metals Production, Development & Exploration.",
+            "fax_number": "+61 2 9927 2050",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "KBL",
+                "indices": [],
+                "year_open_price": 0.039,
+                "previous_close_price": 0.001,
+                "year_change_price": -0.038,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2687550436,
+                "eps": -0.0157,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 2687550436,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.001,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-09-06T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.002,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-97.436%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.kblmining.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Greg Starr",
+                    "first_name": "Greg",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Starr",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rod Griffith",
+                    "first_name": "Rod",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Griffith",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": []
+        }
+    }
+}

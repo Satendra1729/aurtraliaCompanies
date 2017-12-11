@@ -1,0 +1,83 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LRM",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "LUSTRUM MINERALS LTD",
+    "ASXcode": "LRM",
+    "data": {
+        "summary": {
+            "name_short": "LUSTRUM",
+            "name_full": "LUSTRUM MINERALS LTD",
+            "code": "LRM",
+            "primary_share_code": "LRM",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "LUSTRUM MINERALS",
+            "foreign_exempt": false,
+            "listing_date": "2017-11-15T00:00:00+1100",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "investor_relations_email": "l.king@cicerogroup.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6489 1600",
+            "mailing_address": "Suite 9, 330 Churchill Avenue, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Mining exploration",
+            "fax_number": "+61 8 6489 1601",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 78873,
+                "status": [],
+                "market_cap": 8200000,
+                "code": "LRM",
+                "indices": [],
+                "deprecated_number_of_shares": 27500001,
+                "previous_close_price": 0.205,
+                "year_low_date": "2017-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 40000001,
+                "eps": 0,
+                "change_in_percent": "2.439%",
+                "change_price": 0.005,
+                "pe": 0,
+                "offer_price": 0.2,
+                "suspended": false,
+                "last_price": 0.21,
+                "deprecated_market_cap": 5775000,
+                "day_low_price": 0.2,
+                "open_price": 0.21,
+                "year_high_date": "2017-11-20T00:00:00+1100",
+                "previous_day_percentage_change": "17.143%",
+                "year_open_date": null,
+                "year_high_price": 0.255,
+                "bid_price": 0.18,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.21,
+                "average_daily_volume": 558614,
+                "year_low_price": 0.17,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.lustrumminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": "http://www.lustrumminerals.com.au/"
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Loren King",
+                    "first_name": "Loren",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "King",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GBG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GINDALBIE METALS LTD",
+    "ASXcode": "GBG",
+    "data": {
+        "summary": {
+            "name_full": "GINDALBIE METALS LTD",
+            "code": "GBG",
+            "name_short": "GINDALBIE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GINDALBIE METALS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/GBG?image_size=L&v=1385437933000",
+            "foreign_exempt": false,
+            "listing_date": "1994-04-12T00:00:00+1000",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@gbgmetals.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9480 8700",
+            "mailing_address": "6 Altona St, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Iron Ore Exploration",
+            "fax_number": "(08) 9480 8799",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-23T15:24:21+1100",
+                    "number_of_pages": 55,
+                    "id": "01911148",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T15:26:14+1100",
+                    "size": "5.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43ngygd6837c4f.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2349800,
+                "status": [],
+                "market_cap": 35916289,
+                "code": "GBG",
+                "indices": [],
+                "year_open_price": 0.097,
+                "previous_close_price": 0.024,
+                "year_change_price": -0.074,
+                "year_low_date": "2017-06-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1496512060,
+                "eps": -0.0008,
+                "change_in_percent": "-4.167%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 1496512060,
+                "pe": 0,
+                "offer_price": 0.023,
+                "suspended": false,
+                "last_price": 0.023,
+                "deprecated_market_cap": 34420000,
+                "day_low_price": 0.022,
+                "open_price": 0.023,
+                "year_high_date": "2017-01-27T00:00:00+1100",
+                "previous_day_percentage_change": "4.348%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.036,
+                "bid_price": 0.022,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.023,
+                "year_change_in_percentage": "-76.289%",
+                "average_daily_volume": 717653,
+                "year_low_price": 0.014,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "GBG",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.gindalbie.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Keith Francis Jones",
+                    "first_name": "Keith",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": "Francis"
+                },
+                {
+                    "full_name": "Mr Christopher Stevens",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stevens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ping Chen",
+                    "first_name": "Ping",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Hallam",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hallam",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ge Li",
+                    "first_name": "Ge",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robin Marshall",
+                    "first_name": "Robin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marshall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr An Lin Shao",
+                    "first_name": "An Lin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shao",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Rebecca Moylan",
+                    "first_name": "Rebecca",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Moylan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Rebecca Moylan",
+                    "first_name": "Rebecca",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Moylan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

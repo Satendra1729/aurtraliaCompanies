@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EEG",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "EMPIRE ENERGY GROUP LIMITED",
+    "ASXcode": "EEG",
+    "data": {
+        "summary": {
+            "name_short": "EMPIRE ENE",
+            "name_full": "EMPIRE ENERGY GROUP LIMITED",
+            "code": "EEG",
+            "primary_share_code": "EEG",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "EMPIRE ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "1984-08-30T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9251 1846",
+            "mailing_address": "Level 7, 151 Macquarie Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Oil and gas exploration and production company operating in the Appalachian Basin and Mid Continental regions of the USA.",
+            "fax_number": "(02) 9251 0244",
+            "latest_annual_reports": [
+                {
+                    "header": "December 2016 Annual Report",
+                    "document_date": "2017-03-20T11:56:24+1100",
+                    "number_of_pages": 75,
+                    "id": "01840353",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-20T11:58:07+1100",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170320/pdf/43gxhrvlz2dvgk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1300000,
+                "status": [],
+                "market_cap": 14439583,
+                "code": "EEG",
+                "indices": [],
+                "year_open_price": 0.105,
+                "previous_close_price": 0.013,
+                "year_change_price": -0.092,
+                "year_low_date": "2017-05-03T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1110737176,
+                "eps": -0.0052,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1110737176,
+                "pe": 0,
+                "offer_price": 0.013,
+                "suspended": false,
+                "last_price": 0.013,
+                "deprecated_market_cap": 14440000,
+                "day_low_price": 0.012,
+                "open_price": 0.012,
+                "year_high_date": "2017-11-07T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.015,
+                "bid_price": 0.012,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.013,
+                "year_change_in_percentage": "-87.619%",
+                "average_daily_volume": 1498871,
+                "year_low_price": 0.006,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.empireenergygroup.net",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr B W McLeod",
+                    "first_name": "B",
+                    "roles": [
+                        "Executive Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McLeod",
+                    "middle_name": "W"
+                },
+                {
+                    "full_name": "Mr D Sutton",
+                    "first_name": "D",
+                    "roles": [
+                        "Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sutton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr K A Torpey",
+                    "first_name": "K",
+                    "roles": [
+                        "Director",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Torpey",
+                    "middle_name": "A"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Rachel Ryan",
+                    "first_name": "Rachel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ryan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

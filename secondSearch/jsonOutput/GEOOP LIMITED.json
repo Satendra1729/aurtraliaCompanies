@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GEO",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "GEOOP LIMITED",
+    "ASXcode": "GEO",
+    "data": {
+        "summary": {
+            "name_short": "GEOOP",
+            "name_full": "GEOOP LIMITED",
+            "code": "GEO",
+            "primary_share_code": "GEO",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "GEOOP",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "0410 665 255",
+            "mailing_address": "Level 3, 12 Heather Street, PARNELL, AUC, NEW ZEALAND, 1052",
+            "principal_activities": "Provides software as a service with a focus on workforce management software",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "GEO",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.geoop.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Matthew Richard Johnson",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnson",
+                    "middle_name": "Richard"
+                }
+            ]
+        }
+    }
+}

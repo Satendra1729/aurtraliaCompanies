@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KPT",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KANGAROO ISLAND PLANTATION TIMBERS LTD",
+    "ASXcode": "KPT",
+    "data": {
+        "summary": {
+            "name_short": "KANGISLAND",
+            "name_full": "KANGAROO ISLAND PLANTATION TIMBERS LTD",
+            "code": "KPT",
+            "primary_share_code": "KPT",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "KANGAROO PLANTATION",
+            "foreign_exempt": false,
+            "listing_date": "2002-07-08T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 8227 2482",
+            "mailing_address": "Suite 816, Aurora House, 147 Pirie Street, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "Management of a wholly-owned portfolio of hardwood and softwood forestry plantations and of cleared and uncleared agricultural land on Kangaroo Island, South Australia, including the island's only sawmill.",
+            "fax_number": "+61 8 82231685",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-05T10:37:26+1100",
+                    "number_of_pages": 90,
+                    "id": "01904671",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-05T10:40:00+1100",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171005/pdf/43mzcld0xzrkf0.pdf"
+                },
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-26T12:18:31+1000",
+                    "number_of_pages": 90,
+                    "id": "01899979",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T12:21:01+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mmyy9yxkknw5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5265,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 89945233,
+                "code": "KPT",
+                "indices": [],
+                "year_open_price": 2.1,
+                "previous_close_price": 2.2,
+                "year_change_price": 0.05,
+                "year_low_date": "2017-04-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 40884197,
+                "eps": 0.8828,
+                "change_in_percent": "-2.273%",
+                "change_price": -0.05,
+                "deprecated_number_of_shares": 40884197,
+                "pe": 2.44,
+                "offer_price": 2.25,
+                "suspended": false,
+                "last_price": 2.15,
+                "deprecated_market_cap": 87901000,
+                "day_low_price": 2.15,
+                "open_price": 2.2,
+                "year_high_date": "2017-11-21T00:00:00+1100",
+                "previous_day_percentage_change": "-4.348%",
+                "year_open_date": "2014-02-19T11:00:00+1100",
+                "year_high_price": 2.5,
+                "bid_price": 2.15,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.21,
+                "year_change_in_percentage": "2.381%",
+                "average_daily_volume": 21057,
+                "year_low_price": 1.95,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.kipt.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Paul McKenzie",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKenzie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Shauna Black",
+                    "first_name": "Shauna",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Black",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Holdaway",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Holdaway",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Sergeant",
+                    "first_name": "John",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sergeant",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Boulton",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boulton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Victoria Allinson",
+                    "first_name": "Victoria",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Allinson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Victoria Allinson",
+                    "first_name": "Victoria",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Allinson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

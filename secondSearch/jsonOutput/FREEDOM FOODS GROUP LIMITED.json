@@ -1,0 +1,210 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FNP",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "FREEDOM FOODS GROUP LIMITED",
+    "ASXcode": "FNP",
+    "data": {
+        "summary": {
+            "name_short": "FREEDOMFGL",
+            "name_full": "FREEDOM FOODS GROUP LIMITED",
+            "code": "FNP",
+            "primary_share_code": "FNP",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "FREEDOM FOOD LTD",
+            "foreign_exempt": false,
+            "listing_date": "1985-11-07T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2.25C FRANKED @ 30%;  DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-09-01T00:00:00+1000",
+                "record_date": "2017-11-02T00:00:00+1100",
+                "payable_date": "2017-12-01T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.0225,
+                "ex_date": "2017-11-01T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9526 2555",
+            "mailing_address": "80 Box Road, TAREN POINT, NSW, AUSTRALIA, 2229",
+            "principal_activities": "Providing for Specialised Needs in the Food Industry, Long Life Beverages, Cereals & Snacks, Canned Seafood and Dairy Milk",
+            "fax_number": "(02) 9525 5406",
+            "latest_annual_reports": [
+                {
+                    "header": "Freedom Foods Group Limited - FY17 Annual Report",
+                    "document_date": "2017-09-29T16:38:02+1000",
+                    "number_of_pages": 122,
+                    "id": "01902537",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:40:46+1000",
+                    "size": "15.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt9gbmszb4c2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 83670,
+                "status": [],
+                "market_cap": 986470707,
+                "code": "FNP",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 2.85,
+                "previous_close_price": 4.91,
+                "year_change_price": 2.1,
+                "year_low_date": "2017-01-30T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 200910531,
+                "eps": 0.0318,
+                "change_in_percent": "0.815%",
+                "change_price": 0.04,
+                "deprecated_number_of_shares": 201631304,
+                "pe": 155.66,
+                "offer_price": 5,
+                "suspended": false,
+                "last_price": 4.95,
+                "deprecated_market_cap": 998075000,
+                "day_low_price": 4.91,
+                "open_price": 4.91,
+                "year_high_date": "2017-11-30T00:00:00+1100",
+                "previous_day_percentage_change": "-0.808%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 5.215,
+                "bid_price": 4.94,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.01,
+                "year_change_in_percentage": "73.684%",
+                "average_daily_volume": 111186,
+                "year_low_price": 3.7,
+                "annual_dividend_yield": 0.86
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.ffgl.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Perry Gunner",
+                    "first_name": "Perry",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gunner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rory Macleod",
+                    "first_name": "Rory",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Macleod",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor James Allen",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Allen",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Ronald Perich",
+                    "first_name": "Ronald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Perich",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony (Tony) Mark Perich",
+                    "first_name": "Anthony (Tony)",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Perich",
+                    "middle_name": "Mark"
+                },
+                {
+                    "full_name": "Mr Michael Perich",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Perich",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Campbell Nicholas",
+                    "first_name": "Campbell",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nicholas",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Campbell Nicholas",
+                    "first_name": "Campbell",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nicholas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sharon Maguire",
+                    "first_name": "Sharon",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Maguire",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

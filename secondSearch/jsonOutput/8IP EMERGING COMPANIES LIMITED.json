@@ -1,0 +1,101 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/8EC",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "8IP EMERGING COMPANIES LIMITED",
+    "ASXcode": "8EC",
+    "data": {
+        "summary": {
+            "name_short": "8IP EMERG",
+            "name_full": "8IP EMERGING COMPANIES LIMITED",
+            "code": "8EC",
+            "primary_share_code": "8EC",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "8IP EMERG CO LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-12-01T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2C FRANKED @30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-01T00:00:00+1000",
+                "payable_date": "2017-09-25T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.02,
+                "ex_date": "2017-08-31T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8274 2088",
+            "mailing_address": "C/- Boardroom Pty Limited, Level 12, 225 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-28T19:19:16+1000",
+                    "number_of_pages": 58,
+                    "id": "01889221",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-28T19:23:36+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170828/pdf/43ltgsdbm19qpl.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2588,
+                "status": [],
+                "market_cap": 41018108,
+                "code": "8EC",
+                "indices": [],
+                "deprecated_number_of_shares": 41018108,
+                "previous_close_price": 1,
+                "year_low_date": "2017-07-03T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 41018108,
+                "eps": -0.0028,
+                "change_in_percent": "0%",
+                "change_price": 0,
+                "pe": 0,
+                "offer_price": 1,
+                "suspended": false,
+                "last_price": 1,
+                "deprecated_market_cap": 41018000,
+                "day_low_price": 1,
+                "open_price": 1,
+                "year_high_date": "2017-02-20T00:00:00+1100",
+                "previous_day_percentage_change": "1.01%",
+                "year_open_date": null,
+                "year_high_price": 1.04,
+                "bid_price": 0.965,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1,
+                "average_daily_volume": 61705,
+                "year_low_price": 0.855,
+                "annual_dividend_yield": 3
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.8EC.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tharun Erappa Kuppanda",
+                    "first_name": "Tharun",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kuppanda",
+                    "middle_name": "Erappa"
+                }
+            ]
+        }
+    }
+}

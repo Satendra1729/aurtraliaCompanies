@@ -1,0 +1,178 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MTO",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "MOTORCYCLE HOLDINGS LIMITED",
+    "ASXcode": "MTO",
+    "data": {
+        "summary": {
+            "name_short": "MOTORCYCLE",
+            "name_full": "MOTORCYCLE HOLDINGS LIMITED",
+            "code": "MTO",
+            "primary_share_code": "MTO",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "MOTORCYCLE HLDG",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MTO?image_size=L&v=1461876397000",
+            "foreign_exempt": false,
+            "listing_date": "2016-04-29T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "7.5C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-30T00:00:00+1000",
+                "record_date": "2017-09-12T00:00:00+1000",
+                "payable_date": "2017-10-04T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.075,
+                "ex_date": "2017-09-11T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3380 2204",
+            "mailing_address": "68 Moss Street, SLACKS CREEK, QLD, AUSTRALIA, 4127",
+            "principal_activities": "Motorcycle dealership operator",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-30T09:41:03+1000",
+                    "number_of_pages": 56,
+                    "id": "01890069",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-30T09:43:18+1000",
+                    "size": "13.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lwbwjgskt1r5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 142382,
+                "status": [],
+                "market_cap": 299277544,
+                "code": "MTO",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "deprecated_number_of_shares": 61706710,
+                "previous_close_price": 4.85,
+                "year_low_date": "2017-05-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 61706710,
+                "eps": 0.245,
+                "change_in_percent": "-0.619%",
+                "change_price": -0.03,
+                "pe": 19.67,
+                "offer_price": 4.82,
+                "suspended": false,
+                "last_price": 4.82,
+                "deprecated_market_cap": 297426000,
+                "day_low_price": 4.8,
+                "open_price": 4.9,
+                "year_high_date": "2017-11-10T00:00:00+1100",
+                "previous_day_percentage_change": "1.042%",
+                "year_open_date": null,
+                "year_high_price": 5.25,
+                "bid_price": 4.8,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 4.9,
+                "average_daily_volume": 167286,
+                "year_low_price": 3.126,
+                "annual_dividend_yield": 3.11
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.teammoto.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Edward Thorn",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thorn",
+                    "middle_name": "Edward"
+                },
+                {
+                    "full_name": "Mr David Hedley Ahmet",
+                    "first_name": "David",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ahmet",
+                    "middle_name": "Hedley"
+                },
+                {
+                    "full_name": "Mr Scott Greck",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Greck",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warren Anthony Bee",
+                    "first_name": "Warren",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bee",
+                    "middle_name": "Anthony"
+                },
+                {
+                    "full_name": "Mr David Andrew Foster",
+                    "first_name": "David",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Foster",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Mr Robert Donovan",
+                    "first_name": "Robert",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Donovan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Lisa Dalton",
+                    "first_name": "Lisa",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Dalton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

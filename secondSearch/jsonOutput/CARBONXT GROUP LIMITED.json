@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CG1",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "CARBONXT GROUP LIMITED",
+    "ASXcode": "CG1",
+    "data": {
+        "summary": {
+            "name_short": "CARBONXT",
+            "name_full": "CARBONXT GROUP LIMITED",
+            "code": "CG1",
+            "primary_share_code": "CG1",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "CARBONXT GROUP",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9290 9600",
+            "mailing_address": "Level 12, Grosvenor Place, 225 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provider of activated carbon products for emissions control applications",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "CG1",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.carbonxt.com/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Thomas Robert John Bloomfield",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bloomfield",
+                    "middle_name": "Robert John"
+                }
+            ]
+        }
+    }
+}

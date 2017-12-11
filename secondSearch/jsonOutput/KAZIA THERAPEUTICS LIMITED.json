@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KZA",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "KAZIA THERAPEUTICS LIMITED",
+    "ASXcode": "KZA",
+    "data": {
+        "summary": {
+            "name_short": "KAZIA",
+            "name_full": "KAZIA THERAPEUTICS LIMITED",
+            "code": "KZA",
+            "primary_share_code": "KZA",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "KAZIA THERAPEUTICS",
+            "foreign_exempt": false,
+            "listing_date": "1994-09-01T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9472 4100",
+            "mailing_address": "Level 5, 20 George St, HORNSBY, NSW, AUSTRALIA, 2077",
+            "principal_activities": "Oncology drug research and development.",
+            "fax_number": "(02) 9476 0388",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 6200,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 16915367,
+                "code": "KZA",
+                "indices": [],
+                "year_open_price": 0.175,
+                "previous_close_price": 0.35,
+                "year_change_price": 0.185,
+                "year_low_date": "2017-11-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 48329621,
+                "eps": -0.228,
+                "change_in_percent": "2.857%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 48329621,
+                "pe": 0,
+                "offer_price": 0.38,
+                "suspended": false,
+                "last_price": 0.36,
+                "deprecated_market_cap": 17399000,
+                "day_low_price": 0.345,
+                "open_price": 0.345,
+                "year_high_date": "2017-02-16T00:00:00+1100",
+                "previous_day_percentage_change": "-7.895%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.05,
+                "bid_price": 0.345,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.36,
+                "year_change_in_percentage": "105.714%",
+                "average_daily_volume": 390655,
+                "year_low_price": 0.335,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.novogen.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bryce Carmine",
+                    "first_name": "Bryce",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carmine",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr James Garner",
+                    "first_name": "James",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Garner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven R Coffey",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coffey",
+                    "middle_name": "R"
+                },
+                {
+                    "full_name": "Mr Iain Ross",
+                    "first_name": "Iain",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ross",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kate Hill",
+                    "first_name": "Kate",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PGM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PLATINA RESOURCES LIMITED",
+    "ASXcode": "PGM",
+    "data": {
+        "summary": {
+            "name_short": "PLATINA",
+            "name_full": "PLATINA RESOURCES LIMITED",
+            "code": "PGM",
+            "primary_share_code": "PGM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PLATINA RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2006-05-29T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@platinaresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 5580 9094",
+            "mailing_address": "Level 2, Suite 9, 389 Oxford Street, MOUNT HAWTHORN, WA, AUSTRALIA, 6016",
+            "principal_activities": "Mining and Exploration",
+            "fax_number": "(08) 9380 6761",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T12:46:55+1000",
+                    "number_of_pages": 73,
+                    "id": "01902179",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T12:49:29+1000",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msm1xqkqydpm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2351959,
+                "status": [],
+                "market_cap": 36977673,
+                "code": "PGM",
+                "indices": [],
+                "year_open_price": 0.03905,
+                "previous_close_price": 0.14,
+                "year_change_price": 0.11095,
+                "year_low_date": "2017-01-04T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 264126235,
+                "eps": -0.0024,
+                "change_in_percent": "7.143%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 264126235,
+                "pe": 0,
+                "offer_price": 0.15,
+                "suspended": false,
+                "last_price": 0.15,
+                "deprecated_market_cap": 39619000,
+                "day_low_price": 0.14,
+                "open_price": 0.14,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "-9.677%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.265,
+                "bid_price": 0.145,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.15,
+                "year_change_in_percentage": "284.123%",
+                "average_daily_volume": 2532477,
+                "year_low_price": 0.065,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.platinaresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brian Moller",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moller",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert W Mosig",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mosig",
+                    "middle_name": "W"
+                },
+                {
+                    "full_name": "Dr Chris Hartley",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Hartley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Jurman",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Administrator"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jurman",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Paul Jurman",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jurman",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

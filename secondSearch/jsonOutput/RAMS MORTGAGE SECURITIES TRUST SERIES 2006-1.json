@@ -1,0 +1,96 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RMM",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "RAMS MORTGAGE SECURITIES TRUST SERIES 2006-1",
+    "ASXcode": "RMM",
+    "data": {
+        "summary": {
+            "name_full": "RAMS MORTGAGE SECURITIES TRUST SERIES 2006-1",
+            "products": [],
+            "phone_number": "(02) 8218 7000",
+            "mailing_address": "c/- RHG Home Loans Pty Limited, Level 22, 1 York St, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "name_short": "RAMS2006-1",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "RAMS SRS 2006-1",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "RMM",
+            "registry_address": "LEVEL 4, 35 CLARENCE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2006-11-28T00:00:00+1100",
+            "fax_number": "(02) 8218 7070",
+            "web_address": null,
+            "registry_name": "JP MORGAN TRUST AUSTRALIA LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Coe",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Jones",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Kinghorn",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kinghorn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John McGuigan",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGuigan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Warren Williams",
+                    "first_name": "Warren",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adam Wheat",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wheat",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

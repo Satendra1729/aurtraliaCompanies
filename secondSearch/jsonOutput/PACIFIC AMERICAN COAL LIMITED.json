@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PAK",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PACIFIC AMERICAN COAL LIMITED",
+    "ASXcode": "PAK",
+    "data": {
+        "summary": {
+            "name_short": "PACIFICAM",
+            "name_full": "PACIFIC AMERICAN COAL LIMITED",
+            "code": "PAK",
+            "primary_share_code": "PAK",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PACIFIC AMERICAN",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PAK?image_size=L&v=1422353437000",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-20T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9238 1175",
+            "mailing_address": "Suite 1002, Level 10, 171 Clarence Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Metallurgical coal exploration and production throughout North America.",
+            "fax_number": "(02) 9252 8400",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-03-31T17:38:14+1100",
+                    "number_of_pages": 47,
+                    "id": "01844054",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T17:43:23+1100",
+                    "size": "866.5KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6f21p6kkxsy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 28500,
+                "status": [],
+                "market_cap": 5124483,
+                "code": "PAK",
+                "indices": [],
+                "year_open_price": 0.015,
+                "previous_close_price": 0.031,
+                "year_change_price": 0.016,
+                "year_low_date": "2017-09-29T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 165305889,
+                "eps": -0.019,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 165305889,
+                "pe": 0,
+                "offer_price": 0.034,
+                "suspended": false,
+                "last_price": 0.031,
+                "deprecated_market_cap": 5124000,
+                "day_low_price": 0.031,
+                "open_price": 0.031,
+                "year_high_date": "2016-12-12T00:00:00+1100",
+                "previous_day_percentage_change": "3.333%",
+                "year_open_date": "2014-03-24T11:00:00+1100",
+                "year_high_price": 0.14,
+                "bid_price": 0.03,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.031,
+                "year_change_in_percentage": "106.667%",
+                "average_daily_volume": 390448,
+                "year_low_price": 0.025,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.pacoal.com.au",
+            "fiscal_year_end": "31/08",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoff Hill",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Sykes",
+                    "first_name": "Mark",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sykes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Bird",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bird",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Chappell",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chappell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Hill",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Morgan",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IPH",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "IPH LIMITED",
+    "ASXcode": "IPH",
+    "data": {
+        "summary": {
+            "name_short": "IPHLIMITED",
+            "name_full": "IPH LIMITED",
+            "last_dividend": {
+                "comments": "10.5C FRANKED @30%;  DRP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-17T00:00:00+1000",
+                "record_date": "2017-08-23T00:00:00+1000",
+                "payable_date": "2017-09-13T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.105,
+                "ex_date": "2017-08-22T00:00:00+1000"
+            },
+            "code": "IPH",
+            "primary_share_code": "IPH",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "IPH LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2014-11-19T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@iphltd.com.au",
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "02 9393 0301",
+            "mailing_address": "Level 35, St Martins Tower, 31 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provision of intellectual property services.",
+            "fax_number": "02 9261 5486",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report for the year ended 30 June 2017",
+                    "document_date": "2017-10-17T21:52:57+1100",
+                    "number_of_pages": 101,
+                    "id": "01909057",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-18T08:20:41+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171018/pdf/43nb13h708p6gk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 357467,
+                "status": [],
+                "market_cap": 1067264610,
+                "code": "IPH",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Inds",
+                        "index_code": "XNJ",
+                        "name_abrev": "Industrials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Industrials (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 197276268,
+                "previous_close_price": 5.41,
+                "year_low_date": "2017-08-29T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 197276268,
+                "eps": 0.2246,
+                "change_in_percent": "-0.37%",
+                "change_price": -0.02,
+                "pe": 24,
+                "offer_price": 5.46,
+                "suspended": false,
+                "last_price": 5.39,
+                "deprecated_market_cap": 1063319000,
+                "day_low_price": 5.35,
+                "open_price": 5.42,
+                "year_high_date": "2017-11-07T00:00:00+1100",
+                "previous_day_percentage_change": "-0.185%",
+                "year_open_date": null,
+                "year_high_price": 6.03,
+                "bid_price": 5.35,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.45,
+                "average_daily_volume": 864377,
+                "year_low_price": 4.33,
+                "annual_dividend_yield": 4.08
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.iphltd.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://www.iphltd.com.au/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Grellman",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grellman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Andrew Nathaniel Blattman",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Blattman",
+                    "middle_name": "Nathaniel"
+                },
+                {
+                    "full_name": "Mr John Atkin",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Atkin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Robin Low",
+                    "first_name": "Robin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Low",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Philip Heuzenroeder",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Heuzenroeder",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

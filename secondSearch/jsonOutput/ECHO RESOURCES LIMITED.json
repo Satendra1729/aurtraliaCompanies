@@ -1,0 +1,107 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EAR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ECHO RESOURCES LIMITED",
+    "ASXcode": "EAR",
+    "data": {
+        "summary": {
+            "name_short": "ECHO RES",
+            "name_full": "ECHO RESOURCES LIMITED",
+            "code": "EAR",
+            "primary_share_code": "EAR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ECHO RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2006-05-09T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9389 8726",
+            "mailing_address": "Level 1, 7 Rheola Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold, nickel and copper exploration",
+            "fax_number": "+61 8 9386 9473",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T20:32:11+1000",
+                    "number_of_pages": 72,
+                    "id": "01902870",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T07:55:50+1100",
+                    "size": "6.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvfkv68mn17h.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 8931523,
+                "status": [],
+                "market_cap": 134377764,
+                "code": "EAR",
+                "indices": [],
+                "year_open_price": 0.14,
+                "previous_close_price": 0.275,
+                "year_change_price": 0.17,
+                "year_low_date": "2017-08-04T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 488646414,
+                "eps": -0.1172,
+                "change_in_percent": "12.727%",
+                "change_price": 0.035,
+                "deprecated_number_of_shares": 488646414,
+                "pe": 0,
+                "offer_price": 0.31,
+                "suspended": false,
+                "last_price": 0.31,
+                "deprecated_market_cap": 151480000,
+                "day_low_price": 0.305,
+                "open_price": 0.33,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "1.852%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.34,
+                "bid_price": 0.305,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.34,
+                "year_change_in_percentage": "121.429%",
+                "average_daily_volume": 2998811,
+                "year_low_price": 0.1,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.echoresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Simom Coxhell",
+                    "first_name": "Simom",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coxhell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kate Stoney",
+                    "first_name": "Kate",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stoney",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

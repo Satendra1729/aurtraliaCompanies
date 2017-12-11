@@ -1,0 +1,115 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HCS",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "HYUNDAI CAPITAL SERVICES, INC.",
+    "ASXcode": "HCS",
+    "data": {
+        "summary": {
+            "name_full": "HYUNDAI CAPITAL SERVICES, INC.",
+            "products": [],
+            "phone_number": "+822 2167 7034",
+            "mailing_address": "15-21 Youido-don, Youngdeungpo-gu, AUSTRALIA,",
+            "principal_activities": "",
+            "name_short": "HYUNDAI",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "HYUNDAI CAPITAL INC",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "HCS",
+            "listing_date": "2013-07-09T00:00:00+1000",
+            "registry_address": "LEVEL 23, 2 PARK STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": "http://ir.hyundaicapital.com/",
+            "registry_name": "CITIGROUP PTY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Niclas Neglen",
+                    "first_name": "Niclas",
+                    "roles": [
+                        "Vice President"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Neglen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tae-Young Chung",
+                    "first_name": "Tae-Young",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chung",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Won Hee Lee",
+                    "first_name": "Won",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": "Hee"
+                },
+                {
+                    "full_name": "Mr Yong Bae Lee",
+                    "first_name": "Yong",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": "Bae"
+                },
+                {
+                    "full_name": "Mr Hyun-Seok Shin",
+                    "first_name": "Hyun-Seok",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Richard Susser",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Susser",
+                    "middle_name": "Richard"
+                },
+                {
+                    "full_name": "Mr Bernard Van Bunnik",
+                    "first_name": "Bernard",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Van Bunnik",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kwak Kee Eun",
+                    "first_name": "Kwak",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kee Eun",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

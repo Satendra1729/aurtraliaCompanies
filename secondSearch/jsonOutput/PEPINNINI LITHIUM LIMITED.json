@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PNN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PEPINNINI LITHIUM LIMITED",
+    "ASXcode": "PNN",
+    "data": {
+        "summary": {
+            "name_short": "PEPINNINI",
+            "name_full": "PEPINNINI LITHIUM LIMITED",
+            "code": "PNN",
+            "primary_share_code": "PNN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PEPINNINI LITHIUM",
+            "foreign_exempt": false,
+            "listing_date": "2005-04-15T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@pepinnini.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "618 8218 5000",
+            "mailing_address": "96 Babbage Road, ROSEVILLE CHASE, NSW, AUSTRALIA, 2069",
+            "principal_activities": "mineral exploration",
+            "fax_number": "618 8212 5717",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-03T14:07:24+1100",
+                    "number_of_pages": 52,
+                    "id": "01903706",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-03T14:09:15+1100",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171003/pdf/43mx71f3wbxgg5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3894747,
+                "status": [],
+                "market_cap": 19358748,
+                "code": "PNN",
+                "indices": [],
+                "year_open_price": 0.0147,
+                "previous_close_price": 0.04,
+                "year_change_price": 0.0233,
+                "year_low_date": "2017-08-25T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 483968689,
+                "eps": -0.0027,
+                "change_in_percent": "-5%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 483968689,
+                "pe": 0,
+                "offer_price": 0.04,
+                "suspended": false,
+                "last_price": 0.038,
+                "deprecated_market_cap": 18391000,
+                "day_low_price": 0.038,
+                "open_price": 0.041,
+                "year_high_date": "2017-11-14T00:00:00+1100",
+                "previous_day_percentage_change": "-4.762%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.053,
+                "bid_price": 0.038,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.041,
+                "year_change_in_percentage": "158.503%",
+                "average_daily_volume": 4447056,
+                "year_low_price": 0.012,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.pepinnini.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Rebecca Ann Holland-Kennedy",
+                    "first_name": "Rebecca",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Holland-Kennedy",
+                    "middle_name": "Ann"
+                },
+                {
+                    "full_name": "Mr Philip Clifford",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clifford",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sarah Clifton-Brown",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Clifton-Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wei Sun",
+                    "first_name": "Wei",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sun",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justin Nelson",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nelson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

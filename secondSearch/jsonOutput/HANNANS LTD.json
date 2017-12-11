@@ -1,0 +1,150 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HNR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "HANNANS LTD",
+    "ASXcode": "HNR",
+    "data": {
+        "summary": {
+            "name_full": "HANNANS LTD",
+            "code": "HNR",
+            "name_short": "HANNANS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "HANNANS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/HNR?image_size=L&v=1410495489000",
+            "foreign_exempt": false,
+            "listing_date": "2003-12-05T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@hannansreward.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61893243388",
+            "mailing_address": "Level 11, 216 St Georges Tce, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Minerals Exploration",
+            "fax_number": "+61893243388",
+            "latest_annual_reports": [
+                {
+                    "header": "Hannans - 2017 Annual Report",
+                    "document_date": "2017-09-27T19:05:46+1000",
+                    "number_of_pages": 79,
+                    "id": "01900810",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T19:12:16+1000",
+                    "size": "3.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mpr8l0t684m6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 361565,
+                "status": [],
+                "market_cap": 25364608,
+                "code": "HNR",
+                "indices": [],
+                "year_open_price": 0.003,
+                "previous_close_price": 0.015,
+                "year_change_price": 0.012,
+                "year_low_date": "2017-06-14T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1690973894,
+                "eps": 0.0078,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1690973894,
+                "pe": 1.92,
+                "offer_price": 0.016,
+                "suspended": false,
+                "last_price": 0.015,
+                "deprecated_market_cap": 25365000,
+                "day_low_price": 0.015,
+                "open_price": 0.016,
+                "year_high_date": "2017-10-18T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.026,
+                "bid_price": 0.015,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.016,
+                "year_change_in_percentage": "400%",
+                "average_daily_volume": 2929581,
+                "year_low_price": 0.009,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "HNR",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.hannansreward.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jonathan Murray",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Damian Hicks",
+                    "first_name": "Damian",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hicks",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Markus Bachmann",
+                    "first_name": "Markus",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bachmann",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Clay Gordon",
+                    "first_name": "Clay",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gordon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Amanda Scott",
+                    "first_name": "Amanda",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Scott",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Gregory",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gregory",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

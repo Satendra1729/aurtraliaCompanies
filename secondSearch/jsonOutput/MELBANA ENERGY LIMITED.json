@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MAY",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "MELBANA ENERGY LIMITED",
+    "ASXcode": "MAY",
+    "data": {
+        "summary": {
+            "name_short": "MELBANA",
+            "name_full": "MELBANA ENERGY LIMITED",
+            "code": "MAY",
+            "primary_share_code": "MAY",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "MELBANA ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "1998-03-27T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@melbana.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8625 6000",
+            "mailing_address": "Level 15, 500 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Exploration for oil and gas.",
+            "fax_number": "03 9614 0660",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Melbana Energy Annual Report",
+                    "document_date": "2017-10-20T10:29:09+1100",
+                    "number_of_pages": 64,
+                    "id": "01910290",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T10:31:57+1100",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43ndqhk4r5lkh9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2130343,
+                "status": [],
+                "market_cap": 19433923,
+                "code": "MAY",
+                "indices": [],
+                "year_open_price": 0.043,
+                "previous_close_price": 0.013,
+                "year_change_price": -0.03,
+                "year_low_date": "2017-11-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1494917147,
+                "eps": -0.0026,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1494917147,
+                "pe": 0,
+                "offer_price": 0.014,
+                "suspended": false,
+                "last_price": 0.013,
+                "deprecated_market_cap": 19434000,
+                "day_low_price": 0.013,
+                "open_price": 0.013,
+                "year_high_date": "2017-04-06T00:00:00+1000",
+                "previous_day_percentage_change": "-7.143%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.026,
+                "bid_price": 0.013,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.013,
+                "year_change_in_percentage": "-69.767%",
+                "average_daily_volume": 4336536,
+                "year_low_price": 0.008,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.melbana.com",
+            "fiscal_year_end": "03/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://www.melbana.com/irm/content/investors-centre.aspx?RID=387"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Purcell",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Purcell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Stickland",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stickland",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Sandy",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sandy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colin Naylor",
+                    "first_name": "Colin",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Naylor",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Colin Naylor",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Naylor",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

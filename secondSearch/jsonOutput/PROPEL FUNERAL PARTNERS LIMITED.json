@@ -1,0 +1,134 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PFP",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "PROPEL FUNERAL PARTNERS LIMITED",
+    "ASXcode": "PFP",
+    "data": {
+        "summary": {
+            "name_short": "PROPEL FP",
+            "name_full": "PROPEL FUNERAL PARTNERS LIMITED",
+            "code": "PFP",
+            "primary_share_code": "PFP",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "PROPEL FUNERAL",
+            "foreign_exempt": false,
+            "listing_date": "2017-11-23T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "fhenderson@propelinvestments.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "0285148600",
+            "mailing_address": "Suite 4, Jones Bay Wharf, 26-32 Pirrama Rd, PYRMONT, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provider of death care services",
+            "fax_number": "0285148666",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 357091,
+                "status": [],
+                "market_cap": 335717764,
+                "code": "PFP",
+                "indices": [],
+                "deprecated_number_of_shares": 98163089,
+                "previous_close_price": 3.42,
+                "year_low_date": "2017-11-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 98163089,
+                "eps": 0,
+                "change_in_percent": "2.047%",
+                "change_price": 0.07,
+                "pe": 0,
+                "offer_price": 3.5,
+                "suspended": false,
+                "last_price": 3.49,
+                "deprecated_market_cap": 342589000,
+                "day_low_price": 3.42,
+                "open_price": 3.42,
+                "year_high_date": "2017-11-23T00:00:00+1100",
+                "previous_day_percentage_change": "0.588%",
+                "year_open_date": null,
+                "year_high_price": 3.6,
+                "bid_price": 3.48,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.5,
+                "average_daily_volume": 920191,
+                "year_low_price": 3.1,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.propelfuneralpartners.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brian Edwin Scullin",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scullin",
+                    "middle_name": "Edwin"
+                },
+                {
+                    "full_name": "Mr Albin Kurti",
+                    "first_name": "Albin",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kurti",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Fraser Henderson",
+                    "first_name": "Fraser",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Henderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Naomi Edwards",
+                    "first_name": "Naomi",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jonathan Trollip",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trollip",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Fraser Henderson",
+                    "first_name": "Fraser",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Henderson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

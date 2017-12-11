@@ -1,0 +1,172 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PPS",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "PRAEMIUM LIMITED",
+    "ASXcode": "PPS",
+    "data": {
+        "summary": {
+            "name_short": "PRAEMIUM",
+            "name_full": "PRAEMIUM LIMITED",
+            "code": "PPS",
+            "primary_share_code": "PPS",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "PRAEMIUM LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2006-05-11T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8622 1222",
+            "mailing_address": "Level 3, 50 Queen Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Portfolio administration services",
+            "fax_number": "(03) 8622 1200",
+            "latest_annual_reports": [
+                {
+                    "header": "PPS FY2017 Annual Report",
+                    "document_date": "2017-08-14T08:37:06+1000",
+                    "number_of_pages": 78,
+                    "id": "01883235",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-14T08:39:19+1000",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170814/pdf/43lcmd011z92gh.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6320547,
+                "status": [],
+                "market_cap": 239891985,
+                "code": "PPS",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.155,
+                "previous_close_price": 0.6,
+                "year_change_price": 0.44,
+                "year_low_date": "2017-03-15T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 399819975,
+                "eps": 0.0017,
+                "change_in_percent": "-0.833%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 399819975,
+                "pe": 350,
+                "offer_price": 0.6,
+                "suspended": false,
+                "last_price": 0.595,
+                "deprecated_market_cap": 237893000,
+                "day_low_price": 0.587,
+                "open_price": 0.595,
+                "year_high_date": "2017-11-20T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.695,
+                "bid_price": 0.59,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.61,
+                "year_change_in_percentage": "283.871%",
+                "average_daily_volume": 2536815,
+                "year_low_price": 0.32,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.praemium.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bruce Loveday",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Loveday",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Ohanessian",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ohanessian",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andre Carstens",
+                    "first_name": "Andre",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carstens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Edgley",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Edgley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Mahler",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mahler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Gutteridge",
+                    "first_name": "Paul",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gutteridge",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Paul Gutteridge",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gutteridge",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

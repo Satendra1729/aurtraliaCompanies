@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BCD",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BCD RESOURCES NL",
+    "ASXcode": "BCD",
+    "data": {
+        "summary": {
+            "name_short": "BCD RES",
+            "name_full": "BCD RESOURCES NL",
+            "code": "BCD",
+            "primary_share_code": "BCD",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BCD RESOURCES NL",
+            "foreign_exempt": false,
+            "listing_date": "1987-05-19T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 6383 6500",
+            "mailing_address": "1 Rifle Range Road, BEACONSFIELD, TAS, AUSTRALIA, 7270",
+            "principal_activities": "Refining of gold.",
+            "fax_number": "03 6383 6590",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "BCD",
+                "indices": [],
+                "year_open_price": 0.04,
+                "previous_close_price": 0.035,
+                "year_change_price": -0.005,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 116856828,
+                "eps": -0.0308,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 116856828,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.035,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-01-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.035,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-12.5%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.bcdresources.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Clive Carroll",
+                    "first_name": "Clive",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carroll",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Boorne",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boorne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Groves",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Groves",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Richelle Greenwood",
+                    "first_name": "Richelle",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Greenwood",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Richelle Greenwood",
+                    "first_name": "Richelle",
+                    "roles": [
+                        "Company Secretary",
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Greenwood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Administrator Appointed",
+                    "first_name": "Administrator",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Appointed",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brian Coulter",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coulter",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

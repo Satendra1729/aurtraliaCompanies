@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/D13",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "DEPARTMENT 13 INTERNATIONAL LTD",
+    "ASXcode": "D13",
+    "data": {
+        "summary": {
+            "name_short": "DEPT 13",
+            "name_full": "DEPARTMENT 13 INTERNATIONAL LTD",
+            "code": "D13",
+            "primary_share_code": "D13",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "DEPARTMENT 13 INTL",
+            "foreign_exempt": false,
+            "listing_date": "2012-07-04T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@department13.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 94894890",
+            "mailing_address": "Suite 5,, 531 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Innovative technology company focusing on Communication, Networking and Cyber solutions that transforms complex issues like Counter Drone Solutions.",
+            "fax_number": "(08) 93808300",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T12:24:23+1000",
+                    "number_of_pages": 55,
+                    "id": "01902155",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T12:26:59+1000",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msklgysqj2b7.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 66796,
+                "status": [],
+                "market_cap": 43470191,
+                "code": "D13",
+                "indices": [],
+                "year_open_price": 0.12,
+                "previous_close_price": 0.083,
+                "year_change_price": -0.038,
+                "year_low_date": "2017-11-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 523737235,
+                "eps": -0.0133,
+                "change_in_percent": "-1.205%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 235777235,
+                "pe": 0,
+                "offer_price": 0.084,
+                "suspended": false,
+                "last_price": 0.082,
+                "deprecated_market_cap": 19334000,
+                "day_low_price": 0.082,
+                "open_price": 0.083,
+                "year_high_date": "2017-03-23T00:00:00+1100",
+                "previous_day_percentage_change": "-1.19%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.185,
+                "bid_price": 0.082,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.083,
+                "year_change_in_percentage": "-31.667%",
+                "average_daily_volume": 796988,
+                "year_low_price": 0.077,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.department13.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": "http://www.department13.com/investors"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jonathan Hunter",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hunter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathleen Kiernan",
+                    "first_name": "Kathleen",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kiernan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Al Teller",
+                    "first_name": "Al",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Teller",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tim Davies",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davies",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip George",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "George",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kevin Kye",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kye",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

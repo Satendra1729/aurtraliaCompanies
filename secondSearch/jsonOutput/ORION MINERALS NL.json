@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ORN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ORION MINERALS NL",
+    "ASXcode": "ORN",
+    "data": {
+        "summary": {
+            "name_short": "ORION MIN",
+            "name_full": "ORION MINERALS NL",
+            "code": "ORN",
+            "primary_share_code": "ORN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ORION MINERALS NL",
+            "foreign_exempt": false,
+            "listing_date": "2003-10-31T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8080 7170",
+            "mailing_address": "Suite 617, 530 Little Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Mineral Exploration.",
+            "fax_number": "03 8080 7174",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T16:47:36+1100",
+                    "number_of_pages": 106,
+                    "id": "01914018",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T16:53:53+1100",
+                    "size": "3.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43np1mpwj6hqjy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 26252,
+                "status": [],
+                "market_cap": 28375094,
+                "code": "ORN",
+                "indices": [],
+                "year_open_price": 0.10365,
+                "previous_close_price": 0.025,
+                "year_change_price": -0.07765,
+                "year_low_date": "2017-02-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1135003769,
+                "eps": -0.0128,
+                "change_in_percent": "4%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 1135003769,
+                "pe": 0,
+                "offer_price": 0.028,
+                "suspended": false,
+                "last_price": 0.026,
+                "deprecated_market_cap": 29510000,
+                "day_low_price": 0.025,
+                "open_price": 0.025,
+                "year_high_date": "2017-11-24T00:00:00+1100",
+                "previous_day_percentage_change": "-3.846%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.036,
+                "bid_price": 0.025,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.026,
+                "year_change_in_percentage": "-74.916%",
+                "average_daily_volume": 1392473,
+                "year_low_price": 0.015,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.orionminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Denis Waddell",
+                    "first_name": "Denis",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Waddell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Errol Smart",
+                    "first_name": "Errol",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smart",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alexander Haller",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haller",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr William Oliver",
+                    "first_name": "William",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Oliver",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Martin Bouwmeester",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bouwmeester",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

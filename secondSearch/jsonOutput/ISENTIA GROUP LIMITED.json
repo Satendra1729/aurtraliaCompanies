@@ -1,0 +1,195 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ISD",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "ISENTIA GROUP LIMITED",
+    "ASXcode": "ISD",
+    "data": {
+        "summary": {
+            "name_short": "ISENTIAGRP",
+            "name_full": "ISENTIA GROUP LIMITED",
+            "code": "ISD",
+            "primary_share_code": "ISD",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "ISENTIA GROUP LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ISD?image_size=L&v=1472009336000",
+            "foreign_exempt": false,
+            "listing_date": "2014-06-05T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "1.54C FRANKED @ 30%;  NIL CFI",
+                "franked_percentage": "50%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-09-06T00:00:00+1000",
+                "payable_date": "2017-09-20T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.0308,
+                "ex_date": "2017-09-05T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9318 4036",
+            "mailing_address": "Level 3, 219-241 Cleveland Street, STRAWBERRY HILLS, NSW, AUSTRALIA, 2012",
+            "principal_activities": "Provider of media intelligence services.",
+            "fax_number": "(02) 9318 4112",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-20T06:15:58+1100",
+                    "number_of_pages": 51,
+                    "id": "01910120",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T08:23:22+1100",
+                    "size": "4.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43ndd8gvr3p44z.pdf"
+                },
+                {
+                    "header": "Isentia Appendix 4E and Annual Report",
+                    "document_date": "2017-08-23T07:20:16+1000",
+                    "number_of_pages": 81,
+                    "id": "01886552",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-23T08:19:43+1000",
+                    "size": "929.9KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lmh9vz77qjns.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 541274,
+                "status": [],
+                "market_cap": 252000001,
+                "code": "ISD",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    }
+                ],
+                "deprecated_number_of_shares": 200000001,
+                "previous_close_price": 1.26,
+                "year_low_date": "2017-11-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 200000001,
+                "eps": -0.0676,
+                "change_in_percent": "-0.794%",
+                "change_price": -0.01,
+                "pe": 0,
+                "offer_price": 1.27,
+                "suspended": false,
+                "last_price": 1.25,
+                "deprecated_market_cap": 250000000,
+                "day_low_price": 1.247,
+                "open_price": 1.25,
+                "year_high_date": "2017-01-03T00:00:00+1100",
+                "previous_day_percentage_change": "0.8%",
+                "year_open_date": null,
+                "year_high_price": 2.89,
+                "bid_price": 1.24,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.27,
+                "average_daily_volume": 1465941,
+                "year_low_price": 0.945,
+                "annual_dividend_yield": 4.94
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.isentia.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Doug Snedden",
+                    "first_name": "Doug",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Snedden",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Croll",
+                    "first_name": "John",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Croll",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Pat O'Sullivan",
+                    "first_name": "Pat",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Sullivan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Fiona Pak-Poy",
+                    "first_name": "Fiona",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Pak-Poy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Geoff Raby",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Raby",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jacquie Shanahan",
+                    "first_name": "Jacquie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Shanahan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

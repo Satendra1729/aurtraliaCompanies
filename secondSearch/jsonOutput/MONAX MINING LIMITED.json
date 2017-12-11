@@ -1,0 +1,124 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MOX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MONAX MINING LIMITED",
+    "ASXcode": "MOX",
+    "data": {
+        "summary": {
+            "name_full": "MONAX MINING LIMITED",
+            "primary_share_code": "MOX",
+            "mailing_address": "139 Greenhill Road, UNLEY, SA, AUSTRALIA, 5061",
+            "principal_activities": "Uranium, nickel, copper, gold, zinc and other metals exploration.",
+            "name_short": "MONAX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "primary_share": {
+                "volume": 1465723,
+                "status": [],
+                "market_cap": 4623774,
+                "code": "MOX",
+                "indices": [],
+                "year_open_price": 0.03,
+                "previous_close_price": 0.008,
+                "year_change_price": -0.022,
+                "year_low_date": "2017-10-11T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 577971720,
+                "eps": -0.0041,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 577971720,
+                "pe": 0,
+                "offer_price": 0.008,
+                "suspended": false,
+                "last_price": 0.008,
+                "deprecated_market_cap": 4624000,
+                "day_low_price": 0.008,
+                "open_price": 0.008,
+                "year_high_date": "2017-04-12T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.013,
+                "bid_price": 0.007,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.008,
+                "year_change_in_percentage": "-73.333%",
+                "average_daily_volume": 2411958,
+                "year_low_price": 0.005,
+                "annual_dividend_yield": 0
+            },
+            "name_abbrev": "MONAX MINING LIMITED",
+            "registry_phone_number": "1300 787 272",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report, Notice of Meeting and Sample Proxy",
+                    "document_date": "2017-10-23T16:59:05+1100",
+                    "number_of_pages": 83,
+                    "id": "01911241",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T17:01:39+1100",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43nh45px6gfdd9.pdf"
+                }
+            ],
+            "products": [
+                "shares"
+            ],
+            "foreign_exempt": false,
+            "code": "MOX",
+            "listing_date": "2005-09-21T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "web_address": "http://www.monaxmining.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bob Kennedy",
+                    "first_name": "Bob",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kennedy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Ferris",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Glenn Davis",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kaitlin Smith",
+                    "first_name": "Kaitlin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

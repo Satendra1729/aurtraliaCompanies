@@ -1,0 +1,199 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ASB",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "AUSTAL LIMITED",
+    "ASXcode": "ASB",
+    "data": {
+        "summary": {
+            "name_short": "AUSTAL LTD",
+            "name_full": "AUSTAL LIMITED",
+            "code": "ASB",
+            "primary_share_code": "ASB",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "AUSTAL LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1998-12-08T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "last_dividend": {
+                "comments": "2C FRANKED @ 30%; DR P NIL DISC",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-13T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.02,
+                "ex_date": "2017-09-12T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9410 1111",
+            "mailing_address": "100 Clarence Beach Road, HENDERSON, WA, AUSTRALIA, 6166",
+            "principal_activities": "Shipbuilding",
+            "fax_number": "+61 8 9410 2564",
+            "latest_annual_reports": [
+                {
+                    "header": "Austal FY2017 Annual Report to Shareholders",
+                    "document_date": "2017-08-27T23:12:17+1000",
+                    "number_of_pages": 131,
+                    "id": "01888587",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-28T08:14:33+1000",
+                    "size": "2.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170828/pdf/43ls6vy2g8d611.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 152858,
+                "status": [],
+                "market_cap": 575949004,
+                "code": "ASB",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.87,
+                "previous_close_price": 1.645,
+                "year_change_price": 0.82,
+                "year_low_date": "2017-09-26T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 350120975,
+                "eps": 0.044,
+                "change_in_percent": "2.736%",
+                "change_price": 0.045,
+                "deprecated_number_of_shares": 350120975,
+                "pe": 38.41,
+                "offer_price": 1.695,
+                "suspended": false,
+                "last_price": 1.69,
+                "deprecated_market_cap": 591704000,
+                "day_low_price": 1.615,
+                "open_price": 1.645,
+                "year_high_date": "2017-06-15T00:00:00+1000",
+                "previous_day_percentage_change": "0.305%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.02,
+                "bid_price": 1.63,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.69,
+                "year_change_in_percentage": "94.253%",
+                "average_daily_volume": 371388,
+                "year_low_price": 1.495,
+                "annual_dividend_yield": 2.37
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.austal.com",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Rothwell",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rothwell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Bellamy",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bellamy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Giles Everist",
+                    "first_name": "Giles",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Everist",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jim McDowell",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDowell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Singleton",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Singleton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Jason",
+                    "first_name": "Greg",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jason",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adrian Strang",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Strang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Adrian Strang",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Strang",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

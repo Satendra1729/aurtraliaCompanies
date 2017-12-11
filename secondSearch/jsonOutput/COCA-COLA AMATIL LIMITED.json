@@ -1,0 +1,279 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CCL",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "COCA-COLA AMATIL LIMITED",
+    "ASXcode": "CCL",
+    "data": {
+        "summary": {
+            "name_short": "CC AMATIL",
+            "name_full": "COCA-COLA AMATIL LIMITED",
+            "code": "CCL",
+            "primary_share_code": "CCL",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "COCA-COLA AMATIL",
+            "foreign_exempt": false,
+            "listing_date": "1970-01-01T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "14.7C FR@30%; 6.3C C FI; DRP NIL DISC",
+                "franked_percentage": "70%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-08-29T00:00:00+1000",
+                "payable_date": "2017-10-03T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.21,
+                "ex_date": "2017-08-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "132653",
+            "mailing_address": "Level 14, 40 Mount Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Manufacture, distribution and marketing of beverages.",
+            "fax_number": "(02) 9259 6233",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report and 2017 Notice of Meeting",
+                    "document_date": "2017-04-12T10:16:29+1000",
+                    "number_of_pages": 150,
+                    "id": "01847452",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-12T10:18:20+1000",
+                    "size": "9.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170412/pdf/43hgwhx5gw7s6t.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2377181,
+                "status": [],
+                "market_cap": 6130667283,
+                "code": "CCL",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Stap",
+                        "index_code": "XSJ",
+                        "name_abrev": "Consumer Staples",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Staples (Sector)"
+                    }
+                ],
+                "year_open_price": 11.17,
+                "previous_close_price": 8.28,
+                "year_change_price": -2.72,
+                "year_low_date": "2017-11-24T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 740418754,
+                "eps": 0.247,
+                "change_in_percent": "2.053%",
+                "change_price": 0.17,
+                "deprecated_number_of_shares": 740418754,
+                "pe": 34.21,
+                "offer_price": 8.49,
+                "suspended": false,
+                "last_price": 8.45,
+                "deprecated_market_cap": 6256538000,
+                "day_low_price": 8.33,
+                "open_price": 8.36,
+                "year_high_date": "2017-03-31T00:00:00+1100",
+                "previous_day_percentage_change": "0.364%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 10.87,
+                "bid_price": 8.35,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 8.48,
+                "year_change_in_percentage": "-24.351%",
+                "average_daily_volume": 2102764,
+                "year_low_price": 7.52,
+                "annual_dividend_yield": 5.44
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.ccamatil.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mrs Alison Mary Watkins",
+                    "first_name": "Alison",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Watkins",
+                    "middle_name": "Mary"
+                },
+                {
+                    "full_name": "Mr Mark Graham Johnson",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnson",
+                    "middle_name": "Graham"
+                },
+                {
+                    "full_name": "Mr Paul Dominic O'Sullivan",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Sullivan",
+                    "middle_name": "Dominic"
+                },
+                {
+                    "full_name": "Ms Ilana Rachel Atlas",
+                    "first_name": "Ilana",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Atlas",
+                    "middle_name": "Rachel"
+                },
+                {
+                    "full_name": "Mr John Borghetti",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Borghetti",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Catherine Michelle Brenner",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Brenner",
+                    "middle_name": "Michelle"
+                },
+                {
+                    "full_name": "Mr David Michael Gonski, AC",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gonski, AC",
+                    "middle_name": "Michael"
+                },
+                {
+                    "full_name": "Mr Martin Jansen",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jansen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Krishnakumar Thirumalai",
+                    "first_name": "Krishnakumar",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thirumalai",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martyn Roberts",
+                    "first_name": "Martyn",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roberts",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Betty Ivanoff",
+                    "first_name": "Betty",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ivanoff",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Jane Margaret Bowd",
+                    "first_name": "Jane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Bowd",
+                    "middle_name": "Margaret"
+                },
+                {
+                    "full_name": "Mr Zoheb Mehmood Razvi",
+                    "first_name": "Zoheb",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Razvi",
+                    "middle_name": "Mehmood"
+                }
+            ]
+        }
+    }
+}

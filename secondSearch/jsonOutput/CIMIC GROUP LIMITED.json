@@ -1,0 +1,311 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CIM",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "CIMIC GROUP LIMITED",
+    "ASXcode": "CIM",
+    "data": {
+        "summary": {
+            "name_short": "CIMIC",
+            "name_full": "CIMIC GROUP LIMITED",
+            "code": "CIM",
+            "primary_share_code": "CIM",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "CIMIC GROUP LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CIM?image_size=L&v=1430103663000",
+            "foreign_exempt": false,
+            "listing_date": "1962-12-11T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "60C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-07-18T00:00:00+1000",
+                "record_date": "2017-09-13T00:00:00+1000",
+                "payable_date": "2017-10-04T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.6,
+                "ex_date": "2017-09-12T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 9925 6666",
+            "mailing_address": "LEVEL 25, 177 PACIFIC HIGHWAY, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Formerly Leighton Holdings Limited, CIMIC Group Limited is the parent company of Australia's largest project development and contracting group. The Groups companies provide construction, mining and operation and maintenance services to the infrastructure.",
+            "fax_number": "(02) 9925 6005",
+            "latest_annual_reports": [
+                {
+                    "header": "CIMIC 2016 Annual Report",
+                    "document_date": "2017-02-08T08:38:34+1100",
+                    "number_of_pages": 200,
+                    "id": "01826444",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-02-08T08:48:07+1100",
+                    "size": "4.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170208/pdf/43fvhdyztybmx1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 191783,
+                "status": [],
+                "market_cap": 16504533537,
+                "code": "CIM",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Inds",
+                        "index_code": "XNJ",
+                        "name_abrev": "Industrials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Industrials (Sector)"
+                    }
+                ],
+                "year_open_price": 17.39,
+                "previous_close_price": 50.9,
+                "year_change_price": 33.74,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 324254097,
+                "eps": 1.964,
+                "change_in_percent": "0.452%",
+                "change_price": 0.23,
+                "deprecated_number_of_shares": 324254097,
+                "pe": 26.03,
+                "offer_price": 51.2,
+                "suspended": false,
+                "last_price": 51.13,
+                "deprecated_market_cap": 16579112000,
+                "day_low_price": 50.89,
+                "open_price": 51.32,
+                "year_high_date": "2017-11-29T00:00:00+1100",
+                "previous_day_percentage_change": "1.394%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 52.3,
+                "bid_price": 50.15,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 51.49,
+                "year_change_in_percentage": "194.02%",
+                "average_daily_volume": 289708,
+                "year_low_price": 30.1,
+                "annual_dividend_yield": 2.39
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.cimic.com.au/",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Marcelino Fernandez Verdes",
+                    "first_name": "Marcelino",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Verdes",
+                    "middle_name": "Fernandez"
+                },
+                {
+                    "full_name": "Mr Michael Wright",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wright",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Pedro Lopez Jimenez",
+                    "first_name": "Pedro",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lopez Jimenez",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David P Robinson",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robinson",
+                    "middle_name": "P"
+                },
+                {
+                    "full_name": "Mr Peter-Wilhelm Sassenfeld",
+                    "first_name": "Peter-Wilhelm",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sassenfeld",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jose-Luis del Valle Perez",
+                    "first_name": "Jose-Luis",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "del Valle Perez",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Russell Chenu",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chenu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Gerber",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gerber",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathryn Spargo",
+                    "first_name": "Kathryn",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Spargo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Angel Manuel Muriel Bernal",
+                    "first_name": "Angel",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Muriel Bernal",
+                    "middle_name": "Manuel"
+                },
+                {
+                    "full_name": "Mr Robert Seidler AM",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Seidler AM",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adolfo Martinez Valderas",
+                    "first_name": "Adolfo",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Valderas",
+                    "middle_name": "Martinez"
+                },
+                {
+                    "full_name": "Mr Stefan Camphausen",
+                    "first_name": "Stefan",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Camphausen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Marta Olba",
+                    "first_name": "Marta",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Olba",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Lyn Nikolopoulos",
+                    "first_name": "Lyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Nikolopoulos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Louise Griffiths",
+                    "first_name": "Louise",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Griffiths",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,263 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DOW",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "DOWNER EDI LIMITED",
+    "ASXcode": "DOW",
+    "data": {
+        "summary": {
+            "name_short": "DOWNER EDI",
+            "name_full": "DOWNER EDI LIMITED",
+            "code": "DOW",
+            "primary_share_code": "DOW",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "DOWNER EDI LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/DOW?image_size=L&v=1430437966000",
+            "foreign_exempt": false,
+            "listing_date": "1990-12-20T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "last_dividend": {
+                "comments": "12C FRANKED@30%; D.R .P. SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-09-12T00:00:00+1000",
+                "payable_date": "2017-10-10T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.12,
+                "ex_date": "2017-09-11T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(02) 9468 9700",
+            "mailing_address": "Level 2, Triniti III, Triniti Business Campus, 39 Delhi Road, NORTH RYDE, NSW, AUSTRALIA, 2113",
+            "principal_activities": "Downer EDI Limited provides comprehensive engineering and infrastructure management services to the public and private Minerals & Metals, Oil & Gas, Power, Transport Infrastructure, Communications, Water and Property sectors across Australia, New Zealand and the Asia Pacific region.",
+            "fax_number": "(02) 9813 8915",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-29T08:04:56+1000",
+                    "number_of_pages": 172,
+                    "id": "01889237",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T08:10:10+1000",
+                    "size": "4.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43ltlzh6whmbrj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2005202,
+                "status": [],
+                "market_cap": 4014241956,
+                "code": "DOW",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Inds",
+                        "index_code": "XNJ",
+                        "name_abrev": "Industrials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Industrials (Sector)"
+                    }
+                ],
+                "year_open_price": 5.06,
+                "previous_close_price": 6.75,
+                "year_change_price": 1.65,
+                "year_low_date": "2017-04-19T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 594702512,
+                "eps": 0.358,
+                "change_in_percent": "-0.593%",
+                "change_price": -0.04,
+                "deprecated_number_of_shares": 594702512,
+                "pe": 18.74,
+                "offer_price": 6.72,
+                "suspended": false,
+                "last_price": 6.71,
+                "deprecated_market_cap": 3990454000,
+                "day_low_price": 6.625,
+                "open_price": 6.72,
+                "year_high_date": "2017-08-30T00:00:00+1000",
+                "previous_day_percentage_change": "-0.442%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 7.42,
+                "bid_price": 6.65,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 6.77,
+                "year_change_in_percentage": "32.609%",
+                "average_daily_volume": 2214291,
+                "year_low_price": 5.17,
+                "annual_dividend_yield": 3.58
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.downergroup.com/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Harding",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harding",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Anthony Fenn",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fenn",
+                    "middle_name": "Anthony"
+                },
+                {
+                    "full_name": "Ms Annabelle Chaplain",
+                    "first_name": "Annabelle",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chaplain",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Stuart Garling",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Garling",
+                    "middle_name": "Stuart"
+                },
+                {
+                    "full_name": "Ms Teresa Gayle Handicott",
+                    "first_name": "Teresa",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Handicott",
+                    "middle_name": "Gayle"
+                },
+                {
+                    "full_name": "Ms Eve Howell",
+                    "first_name": "Eve",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Howell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Charles Grant Thorne",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Thorne",
+                    "middle_name": "Grant"
+                },
+                {
+                    "full_name": "Mr Kevin John Fletcher",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fletcher",
+                    "middle_name": "John"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Tompkins",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tompkins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Lyons",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lyons",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

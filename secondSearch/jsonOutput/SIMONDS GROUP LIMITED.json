@@ -1,0 +1,145 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SIO",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "SIMONDS GROUP LIMITED",
+    "ASXcode": "SIO",
+    "data": {
+        "summary": {
+            "name_short": "SIMONDS",
+            "name_full": "SIMONDS GROUP LIMITED",
+            "code": "SIO",
+            "primary_share_code": "SIO",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "SIMONDS GRP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2014-11-17T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 746 435",
+            "mailing_address": "Level 4, 570 St Kilda Road, MELBOURNE, VIC, AUSTRALIA, 3004",
+            "principal_activities": "Consists of two integrated businesses, Simonds Homes: one of the leading homebuilders in Australia and \nBuilders Academy Australia: a specialised Registered Training Organisation providing building and construction focused vocational education and training courses in Australia.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-25T15:21:24+1100",
+                    "number_of_pages": 92,
+                    "id": "01912483",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-25T15:25:05+1100",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171025/pdf/43nkt492f6h770.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 10000,
+                "status": [],
+                "market_cap": 42433288,
+                "code": "SIO",
+                "indices": [],
+                "deprecated_number_of_shares": 143841655,
+                "previous_close_price": 0.295,
+                "year_low_date": "2017-11-10T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 143841655,
+                "eps": -0.0116,
+                "change_in_percent": "1.695%",
+                "change_price": 0.005,
+                "pe": 0,
+                "offer_price": 0.31,
+                "suspended": false,
+                "last_price": 0.3,
+                "deprecated_market_cap": 43152000,
+                "day_low_price": 0.3,
+                "open_price": 0.3,
+                "year_high_date": "2017-01-30T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.425,
+                "bid_price": 0.3,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.3,
+                "average_daily_volume": 180286,
+                "year_low_price": 0.29,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.simondsgroup.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Vallance Gary Simonds",
+                    "first_name": "Vallance",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Simonds",
+                    "middle_name": "Gary"
+                },
+                {
+                    "full_name": "Ms Susan Oliver",
+                    "first_name": "Susan",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Oliver",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Chun",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chun",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Humphris",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Humphris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rhett Simonds",
+                    "first_name": "Rhett",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Simonds",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Elizabeth Hourigan",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hourigan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

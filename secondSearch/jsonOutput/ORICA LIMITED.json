@@ -1,0 +1,257 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ORI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ORICA LIMITED",
+    "ASXcode": "ORI",
+    "data": {
+        "summary": {
+            "name_short": "ORICA",
+            "name_full": "ORICA LIMITED",
+            "code": "ORI",
+            "primary_share_code": "ORI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "ORICA LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1961-11-28T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "UNFRANKED; 100% CFI; DRP NIL DISC",
+                "franked_percentage": "0%",
+                "created_date": "2017-11-06T00:00:00+1100",
+                "record_date": "2017-11-15T00:00:00+1100",
+                "payable_date": "2017-12-08T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.28,
+                "ex_date": "2017-11-14T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(03) 9665 7111",
+            "mailing_address": "Level 3, 1 Nicholson Street, EAST MELBOURNE, VIC, AUSTRALIA, 3002",
+            "principal_activities": "Orica is the largest provider of commercial explosives and blasting systems to the mining and infrastructure markets, the global leader in the provision of ground support in mining and tunnelling, and the leading supplier of sodium cyanide for gold extraction.",
+            "fax_number": "(03) 9665 7937",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-11-23T09:08:53+1100",
+                    "number_of_pages": 116,
+                    "id": "01924914",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-23T09:18:25+1100",
+                    "size": "6.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171123/pdf/43phjd8s9kvgh0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3475481,
+                "status": [],
+                "market_cap": 6888503023,
+                "code": "ORI",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    }
+                ],
+                "year_open_price": 24.04,
+                "previous_close_price": 18.27,
+                "year_change_price": -5.26,
+                "year_low_date": "2016-12-15T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 377039027,
+                "eps": 1.027,
+                "change_in_percent": "2.791%",
+                "change_price": 0.51,
+                "deprecated_number_of_shares": 377039027,
+                "pe": 18.29,
+                "offer_price": 18.79,
+                "suspended": false,
+                "last_price": 18.78,
+                "deprecated_market_cap": 7080793000,
+                "day_low_price": 18.2,
+                "open_price": 18.32,
+                "year_high_date": "2017-11-03T00:00:00+1100",
+                "previous_day_percentage_change": "3.162%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 21.39,
+                "bid_price": 18.01,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 18.8,
+                "year_change_in_percentage": "-21.88%",
+                "average_daily_volume": 1380683,
+                "year_low_price": 16.66,
+                "annual_dividend_yield": 2.74
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.orica.com",
+            "fiscal_year_end": "30/09",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Malcolm Broomhead",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Broomhead",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Alberto Calderon",
+                    "first_name": "Alberto",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Calderon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Maxine Brenner",
+                    "first_name": "Maxine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Brenner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lim Chee Onn",
+                    "first_name": "Lim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chee Onn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Cockerill",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cockerill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Karen Moses",
+                    "first_name": "Karen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Moses",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gene Thomas Tilbrook",
+                    "first_name": "Gene",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tilbrook",
+                    "middle_name": "Thomas"
+                },
+                {
+                    "full_name": "Mr Vince Nicoletti",
+                    "first_name": "Vince",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nicoletti",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Delphine Cassidy",
+                    "first_name": "Delphine",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Cassidy",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kirsten Gray",
+                    "first_name": "Kirsten",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gray",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

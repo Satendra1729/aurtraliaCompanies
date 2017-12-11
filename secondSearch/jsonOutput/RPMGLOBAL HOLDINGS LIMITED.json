@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RUL",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "RPMGLOBAL HOLDINGS LIMITED",
+    "ASXcode": "RUL",
+    "data": {
+        "summary": {
+            "name_full": "RPMGLOBAL HOLDINGS LIMITED",
+            "code": "RUL",
+            "name_short": "RPMGLOBAL",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "RPMGLOBAL HLDGS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RUL?image_size=L&v=1491169244000",
+            "foreign_exempt": false,
+            "listing_date": "2008-05-27T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "companysecretary@rpmglobal.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3100 7200",
+            "mailing_address": "Level 2, 295 Ann Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Mining technology company providing integrated technology services, mining consulting and training in the area of mine planning.",
+            "fax_number": "(07) 3100 7297",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report FY2017",
+                    "document_date": "2017-08-28T18:26:28+1000",
+                    "number_of_pages": 80,
+                    "id": "01889194",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-28T18:30:21+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170828/pdf/43ltf0p9fpqb8p.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 138547,
+                "status": [],
+                "market_cap": 151152987,
+                "code": "RUL",
+                "indices": [],
+                "year_open_price": 0.6,
+                "previous_close_price": 0.71,
+                "year_change_price": 0.1,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 212891531,
+                "eps": 0.0002,
+                "change_in_percent": "-1.408%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 212891531,
+                "pe": 3500,
+                "offer_price": 0.7,
+                "suspended": false,
+                "last_price": 0.7,
+                "deprecated_market_cap": 149024000,
+                "day_low_price": 0.69,
+                "open_price": 0.705,
+                "year_high_date": "2017-11-21T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.795,
+                "bid_price": 0.67,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.705,
+                "year_change_in_percentage": "16.667%",
+                "average_daily_volume": 175239,
+                "year_low_price": 0.5,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "RUL",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.rpmglobal.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.rpmglobal.com/investor-relations"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Allan Brackin",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brackin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Mathews",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mathews",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Ian Runge",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Runge",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross Walker",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Kochanowski",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kochanowski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James O'Neill",
+                    "first_name": "James",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Neill",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr James O'Neill",
+                    "first_name": "James",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Neill",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CCG",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "COMMSCHOICE GROUP LIMITED",
+    "ASXcode": "CCG",
+    "data": {
+        "summary": {
+            "name_short": "COMMS",
+            "name_full": "COMMSCHOICE GROUP LIMITED",
+            "code": "CCG",
+            "primary_share_code": "CCG",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "COMMSCHOICE",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8689 9355",
+            "mailing_address": "Suite 24, 50 New Street, RINGWOOD, VIC, AUSTRALIA, 3134",
+            "principal_activities": "The company is a comprehensive vendor agnostic ICT managed service provider",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "CCG",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.commschoice.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Benjamin Gilbert",
+                    "first_name": "Benjamin",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gilbert",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": []
+        }
+    }
+}

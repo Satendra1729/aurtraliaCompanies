@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AIS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AERIS RESOURCES LIMITED",
+    "ASXcode": "AIS",
+    "data": {
+        "summary": {
+            "name_short": "AERISRES",
+            "name_full": "AERIS RESOURCES LIMITED",
+            "code": "AIS",
+            "primary_share_code": "AIS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AERIS RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-02-02T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 3034 6200",
+            "mailing_address": "Suite 1, Level 2, HQ South Tower, 520 Wickham Street, FORTITUDE VALLEY, QLD, AUSTRALIA, 4006",
+            "principal_activities": "Diversified mining and exploration company producing copper and gold.",
+            "fax_number": "+61 7 3034 6290",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 ANNUAL REPORT",
+                    "document_date": "2017-10-10T12:05:27+1100",
+                    "number_of_pages": 129,
+                    "id": "01906249",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-10T12:08:15+1100",
+                    "size": "6.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171010/pdf/43n3929k522vy9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 234144,
+                "status": [],
+                "market_cap": 11769803,
+                "code": "AIS",
+                "indices": [],
+                "year_open_price": 0.006,
+                "previous_close_price": 0.084,
+                "year_change_price": 0.084,
+                "year_low_date": "2017-03-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 140116703,
+                "eps": -0.238,
+                "change_in_percent": "7.143%",
+                "change_price": 0.006,
+                "deprecated_number_of_shares": 140116703,
+                "pe": 0,
+                "offer_price": 0.096,
+                "suspended": false,
+                "last_price": 0.09,
+                "deprecated_market_cap": 12611000,
+                "day_low_price": 0.089,
+                "open_price": 0.089,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.12,
+                "bid_price": 0.09,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.091,
+                "year_change_in_percentage": "1,400%",
+                "average_daily_volume": 153957,
+                "year_low_price": 0.037,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.aerisresources.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andre Labuschagne",
+                    "first_name": "Andre",
+                    "roles": [
+                        "Executive Chairman",
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Labuschagne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Marcus Derwin",
+                    "first_name": "Marcus",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Derwin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alastair Morrison",
+                    "first_name": "Alastair",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morrison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michele Muscillo",
+                    "first_name": "Michele",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Muscillo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Sheppard",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sheppard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Brainsbury",
+                    "first_name": "Robert",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brainsbury",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Robert Brainsbury",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brainsbury",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Dane Van Heerden",
+                    "first_name": "Dane",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Van Heerden",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

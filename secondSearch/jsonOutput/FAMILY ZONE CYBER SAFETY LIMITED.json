@@ -1,0 +1,132 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FZO",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "FAMILY ZONE CYBER SAFETY LIMITED",
+    "ASXcode": "FZO",
+    "data": {
+        "summary": {
+            "name_short": "FAMILYZONE",
+            "name_full": "FAMILY ZONE CYBER SAFETY LIMITED",
+            "code": "FZO",
+            "primary_share_code": "FZO",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "FAMILY ZONE CYBER",
+            "foreign_exempt": false,
+            "listing_date": "2016-08-29T00:00:00+1000",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9322 7600",
+            "mailing_address": "945 Wellington Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report - Additional disclosure",
+                    "document_date": "2017-09-13T18:04:48+1000",
+                    "number_of_pages": 1,
+                    "id": "01895769",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-13T18:08:33+1000",
+                    "size": "87.8KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170913/pdf/43m9p18l8c40xn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 48938,
+                "status": [],
+                "market_cap": 71738623,
+                "code": "FZO",
+                "indices": [],
+                "deprecated_number_of_shares": 92675572,
+                "previous_close_price": 0.635,
+                "year_low_date": "2017-01-25T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 112974209,
+                "eps": -0.147,
+                "change_in_percent": "-1.575%",
+                "change_price": -0.01,
+                "pe": 0,
+                "offer_price": 0.63,
+                "suspended": false,
+                "last_price": 0.625,
+                "deprecated_market_cap": 57922000,
+                "day_low_price": 0.625,
+                "open_price": 0.645,
+                "year_high_date": "2017-10-10T00:00:00+1100",
+                "previous_day_percentage_change": "-3.788%",
+                "year_open_date": null,
+                "year_high_price": 1.055,
+                "bid_price": 0.625,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.645,
+                "average_daily_volume": 545631,
+                "year_low_price": 0.145,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.familyzone.com",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tim Levy",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Levy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Sims",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sims",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Crispin Swan",
+                    "first_name": "Crispin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Swan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phil Warren",
+                    "first_name": "Phil",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warren",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Emma Wates",
+                    "first_name": "Emma",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wates",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

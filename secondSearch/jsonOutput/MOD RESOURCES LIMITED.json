@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MOD",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MOD RESOURCES LIMITED",
+    "ASXcode": "MOD",
+    "data": {
+        "summary": {
+            "name_full": "MOD RESOURCES LIMITED",
+            "code": "MOD",
+            "name_short": "MODRES",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MOD RESOURCES LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MOD?image_size=L&v=1470815008000",
+            "foreign_exempt": false,
+            "listing_date": "1986-12-18T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "administrator@modresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 8233",
+            "mailing_address": "First Floor, 1304 Hay Street, SUBIACO, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "(08) 9322 8077",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-24T17:59:01+1000",
+                    "number_of_pages": 104,
+                    "id": "01850104",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-24T18:03:32+1000",
+                    "size": "7.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170424/pdf/43hq3nl0rfsnzc.pdf"
+                },
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-03-31T18:22:32+1100",
+                    "number_of_pages": 90,
+                    "id": "01844094",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T18:25:13+1100",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6hhdqlsncsf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2684915,
+                "status": [],
+                "market_cap": 96680579,
+                "code": "MOD",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.021,
+                "previous_close_price": 0.051,
+                "year_change_price": 0.029,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1895697625,
+                "eps": -0.0016,
+                "change_in_percent": "-1.961%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 1895697625,
+                "pe": 0,
+                "offer_price": 0.051,
+                "suspended": false,
+                "last_price": 0.05,
+                "deprecated_market_cap": 94785000,
+                "day_low_price": 0.05,
+                "open_price": 0.052,
+                "year_high_date": "2017-03-27T00:00:00+1100",
+                "previous_day_percentage_change": "2%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.09,
+                "bid_price": 0.05,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.052,
+                "year_change_in_percentage": "138.095%",
+                "average_daily_volume": 3849514,
+                "year_low_price": 0.026,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "MOD",
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.modresources.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Clements",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clements",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Julian Hanna",
+                    "first_name": "Julian",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hanna",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steve McGhee",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGhee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Bronwyn Barnes",
+                    "first_name": "Bronwyn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Barnes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Lee",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Clements",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clements",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

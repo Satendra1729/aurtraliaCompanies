@@ -1,0 +1,209 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/INA",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "INGENIA COMMUNITIES GROUP",
+    "ASXcode": "INA",
+    "data": {
+        "summary": {
+            "name_short": "INGENIA",
+            "name_full": "INGENIA COMMUNITIES GROUP",
+            "code": "INA",
+            "primary_share_code": "INA",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "INGENIA GROUP",
+            "foreign_exempt": false,
+            "listing_date": "2004-07-01T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI;  DRP",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-22T00:00:00+1000",
+                "record_date": "2017-08-28T00:00:00+1000",
+                "payable_date": "2017-09-13T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.051,
+                "ex_date": "2017-08-25T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 132 946",
+            "mailing_address": "Level 9, 115 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Owns,operates and develops quality affordable seniors living accommodation for older Australians",
+            "fax_number": "02 8263 0500",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T13:17:26+1000",
+                    "number_of_pages": 134,
+                    "id": "01902213",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T13:20:05+1000",
+                    "size": "4.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msp42ck3hltd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 116495,
+                "status": [],
+                "market_cap": 582420278,
+                "code": "INA",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.4731,
+                "previous_close_price": 2.81,
+                "year_change_price": 2.3769,
+                "year_low_date": "2017-01-24T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 207267003,
+                "eps": 0.146,
+                "change_in_percent": "1.423%",
+                "change_price": 0.04,
+                "deprecated_number_of_shares": 207267003,
+                "pe": 19.52,
+                "offer_price": 2.85,
+                "suspended": false,
+                "last_price": 2.85,
+                "deprecated_market_cap": 590711000,
+                "day_low_price": 2.81,
+                "open_price": 2.83,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-0.707%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.85,
+                "bid_price": 2.84,
+                "desc_full": "Units Fully Paid Stapled Securities",
+                "day_high_price": 2.85,
+                "year_change_in_percentage": "502.41%",
+                "average_daily_volume": 240301,
+                "year_low_price": 2.41,
+                "annual_dividend_yield": 3.58
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.ingeniacommunities.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jim Hazel",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hazel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Owen",
+                    "first_name": "Simon",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Owen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Amanda Heyworth",
+                    "first_name": "Amanda",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Heyworth",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Valerie Lyons",
+                    "first_name": "Valerie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lyons",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew McEvoy",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McEvoy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Morrison",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morrison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Noble",
+                    "first_name": "Scott",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Noble",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Donna Byrne",
+                    "first_name": "Donna",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Byrne",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Leanne Ralph",
+                    "first_name": "Leanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ralph",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

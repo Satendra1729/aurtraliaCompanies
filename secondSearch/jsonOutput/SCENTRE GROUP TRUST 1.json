@@ -1,0 +1,54 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SCW",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "SCENTRE GROUP TRUST 1",
+    "ASXcode": "SCW",
+    "data": {
+        "summary": {
+            "name_full": "SCENTRE GROUP TRUST 1",
+            "products": [],
+            "foreign_exempt": false,
+            "principal_activities": "Long-term ownership and expansion of major shopping centres.",
+            "name_short": "SCENTRE T1",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "SCENTRE GROUP TRUST1",
+            "registry_phone_number": "1300 787 272",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 SGT1 SGT2 and SGT3 Annual Financial Reports",
+                    "document_date": "2017-03-21T17:34:10+1100",
+                    "number_of_pages": 121,
+                    "id": "01840879",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-21T17:36:41+1100",
+                    "size": "4.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170321/pdf/43gypv48s2gb3z.pdf"
+                }
+            ],
+            "code": "SCW",
+            "listing_date": "1982-08-05T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Maureen McGrath",
+                    "first_name": "Maureen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McGrath",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ECX",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "ECLIPX GROUP LIMITED",
+    "ASXcode": "ECX",
+    "data": {
+        "summary": {
+            "name_short": "ECLIPX",
+            "name_full": "ECLIPX GROUP LIMITED",
+            "code": "ECX",
+            "primary_share_code": "ECX",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "ECLIPX GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-04-22T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "7.75C FRANKED @ 30%;  DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-11-08T00:00:00+1100",
+                "record_date": "2017-12-29T00:00:00+1100",
+                "payable_date": "2018-01-19T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.0775,
+                "ex_date": "2017-12-28T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8973 7118",
+            "mailing_address": "Level 32, 1 O\u00bfConnell Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Vehicle and equipment financing, management and administrative business.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2016-12-15T17:16:37+1100",
+                    "number_of_pages": 108,
+                    "id": "01813486",
+                    "market_sensitive": false,
+                    "document_release_date": "2016-12-15T17:20:33+1100",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20161215/pdf/43drk1q0fv2g45.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 551908,
+                "status": [
+                    "CD"
+                ],
+                "market_cap": 1271675242,
+                "code": "ECX",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 313993887,
+                "previous_close_price": 4.05,
+                "year_low_date": "2017-06-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 313993887,
+                "eps": 0.2031,
+                "change_in_percent": "0.247%",
+                "change_price": 0.01,
+                "pe": 19.99,
+                "offer_price": 4.1,
+                "suspended": false,
+                "last_price": 4.06,
+                "deprecated_market_cap": 1274815000,
+                "day_low_price": 4.045,
+                "open_price": 4.06,
+                "year_high_date": "2017-11-09T00:00:00+1100",
+                "previous_day_percentage_change": "0.998%",
+                "year_open_date": null,
+                "year_high_price": 4.36,
+                "bid_price": 4.04,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 4.11,
+                "average_daily_volume": 1182822,
+                "year_low_price": 3.41,
+                "annual_dividend_yield": 3.76
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.eclipxgroup.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kerry C Roxburgh",
+                    "first_name": "Kerry",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roxburgh",
+                    "middle_name": "C"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Matt Sinnamon",
+                    "first_name": "Matt",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sinnamon",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

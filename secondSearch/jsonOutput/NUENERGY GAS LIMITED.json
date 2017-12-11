@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NGY",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "NUENERGY GAS LIMITED",
+    "ASXcode": "NGY",
+    "data": {
+        "summary": {
+            "name_short": "NUENERGY",
+            "name_full": "NUENERGY GAS LIMITED",
+            "code": "NGY",
+            "primary_share_code": "NGY",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "NUENERGY GAS LTD",
+            "foreign_exempt": false,
+            "listing_date": "1987-01-15T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 80767600",
+            "mailing_address": "c/- KPMG, Level 38, Tower 3, International Towers, 300 Barangaroo Avenue, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Various gas exploration activities.",
+            "fax_number": "02 80767600",
+            "latest_annual_reports": [
+                {
+                    "header": "Clarification to Annual Report 2017",
+                    "document_date": "2017-12-06T13:03:34+1100",
+                    "number_of_pages": 2,
+                    "id": "01930942",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-12-06T13:06:49+1100",
+                    "size": "397.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171206/pdf/43pyb021pkhlw6.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T13:41:57+1000",
+                    "number_of_pages": 58,
+                    "id": "01902229",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T13:43:45+1000",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msq4hpmg1y2j.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 60799,
+                "status": [],
+                "market_cap": 91819241,
+                "code": "NGY",
+                "indices": [],
+                "year_open_price": 0.026,
+                "previous_close_price": 0.062,
+                "year_change_price": 0.036,
+                "year_low_date": "2017-09-04T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1480955497,
+                "eps": -0.0038,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1480955497,
+                "pe": 0,
+                "offer_price": 0.065,
+                "suspended": false,
+                "last_price": 0.062,
+                "deprecated_market_cap": 91819000,
+                "day_low_price": 0.062,
+                "open_price": 0.062,
+                "year_high_date": "2017-11-03T00:00:00+1100",
+                "previous_day_percentage_change": "-4.615%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.071,
+                "bid_price": 0.06,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.062,
+                "year_change_in_percentage": "138.462%",
+                "average_daily_volume": 196541,
+                "year_low_price": 0.02,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.nuenergygas.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kok Keong Kong",
+                    "first_name": "Kok Keong",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Wang",
+                    "first_name": "Ian",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yong Wah Kee",
+                    "first_name": "Yong Wah",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Heng Mun Chen",
+                    "first_name": "Heng Mun",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan Fraser",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fraser",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tian Chuan Goh",
+                    "first_name": "Tian Chuan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goh",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Rozanna Lee",
+                    "first_name": "Rozanna",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

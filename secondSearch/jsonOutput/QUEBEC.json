@@ -1,0 +1,57 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/QBC",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "QUEBEC",
+    "ASXcode": "QBC",
+    "data": {
+        "summary": {
+            "name_full": "QUEBEC",
+            "products": [],
+            "phone_number": "+1 418 643 8182",
+            "mailing_address": "DIRECTION DE L'EMISSION DES EMPRUNTS, MINSTERE DES FINANCES, 12, RUE SAINT LOUIS, BUREAU 2.27, AUSTRALIA,",
+            "principal_activities": "",
+            "name_short": "QUEBEC",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "QUEBEC",
+            "registry_phone_number": "1300 787 272",
+            "latest_annual_reports": [
+                {
+                    "header": "Quebec Annual Report 2017",
+                    "document_date": "2017-05-20T02:01:45+1000",
+                    "number_of_pages": 68,
+                    "id": "01858984",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-05-22T08:22:25+1000",
+                    "size": "3.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170522/pdf/43jdprdpwymmmr.pdf"
+                }
+            ],
+            "foreign_exempt": false,
+            "code": "QBC",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2001-01-03T00:00:00+1100",
+            "fax_number": "+1 418 643 4700",
+            "web_address": null,
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Alain Belanger",
+                    "first_name": "Alain",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Belanger",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

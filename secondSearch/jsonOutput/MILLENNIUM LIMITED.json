@@ -1,0 +1,134 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MHD",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "MILLENNIUM LIMITED",
+    "ASXcode": "MHD",
+    "data": {
+        "summary": {
+            "name_short": "MHD MILL",
+            "name_full": "MILLENNIUM LIMITED",
+            "code": "MHD",
+            "primary_share_code": "MHD",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "MILLENNIUM LTD",
+            "foreign_exempt": false,
+            "listing_date": "2009-03-20T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 99585333",
+            "mailing_address": "Suite 1903, 109 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Supply and marketing of high-end fabrics, home textiles and luxury fashion decor globally.",
+            "fax_number": "02 81886006",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T08:51:28+1000",
+                    "number_of_pages": 55,
+                    "id": "01901780",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:54:48+1000",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrv9rb8hfg2t.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 5108303,
+                "code": "MHD",
+                "indices": [],
+                "deprecated_number_of_shares": 138062238,
+                "previous_close_price": 0.037,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 138062238,
+                "eps": 0.1099,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0.34,
+                "offer_price": 0.036,
+                "suspended": false,
+                "last_price": 0.037,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.037,
+                "bid_price": 0.035,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 40714,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.yanghaogroup.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Yan Yang",
+                    "first_name": "Yan",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Yang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jiang Song",
+                    "first_name": "Jiang",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Song",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Ying Liu Huang",
+                    "first_name": "Ying Liu",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Huang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wei Huang",
+                    "first_name": "Wei",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Huang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Ying Liu Huang",
+                    "first_name": "Ying Liu",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Huang",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

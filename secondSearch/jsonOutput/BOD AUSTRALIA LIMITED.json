@@ -1,0 +1,142 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BDA",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "BOD AUSTRALIA LIMITED",
+    "ASXcode": "BDA",
+    "data": {
+        "summary": {
+            "name_short": "BOD AUST",
+            "name_full": "BOD AUSTRALIA LIMITED",
+            "code": "BDA",
+            "primary_share_code": "BDA",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "BOD AUSTRALIA",
+            "foreign_exempt": false,
+            "listing_date": "2016-10-27T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9199 5018",
+            "mailing_address": "C/- Franks and Associates, Suite 2, Level 10, 70 Phillip  Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Distributes and markets two premium brands and products for the skincare, beauty and health industries (Dr Roebuck?s and BIOEFFECT). Operates under distribution agreements for these two brands. Planning to launch own-brand skincare products and natural remedies.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report with Chairman & CEO's address to Shareholders",
+                    "document_date": "2017-10-16T14:55:18+1100",
+                    "number_of_pages": 56,
+                    "id": "01908353",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-16T14:57:57+1100",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171016/pdf/43n8d62lwpmwvv.pdf"
+                },
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-09-21T17:49:10+1000",
+                    "number_of_pages": 49,
+                    "id": "01898650",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-21T17:55:41+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170921/pdf/43mjkn0l0qd3th.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2089529,
+                "status": [],
+                "market_cap": 14730240,
+                "code": "BDA",
+                "indices": [],
+                "deprecated_number_of_shares": 35315000,
+                "previous_close_price": 0.32,
+                "year_low_date": "2017-09-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 46032000,
+                "eps": -0.0924,
+                "change_in_percent": "25%",
+                "change_price": 0.08,
+                "pe": 0,
+                "offer_price": 0.42,
+                "suspended": false,
+                "last_price": 0.4,
+                "deprecated_market_cap": 14126000,
+                "day_low_price": 0.375,
+                "open_price": 0.41,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.44,
+                "bid_price": 0.4,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.44,
+                "average_daily_volume": 509952,
+                "year_low_price": 0.09,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.bodaustralia.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr SIMON THOMAS O'LOUGHLIN",
+                    "first_name": "SIMON",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'LOUGHLIN",
+                    "middle_name": "THOMAS"
+                },
+                {
+                    "full_name": "Ms JOANNE MARY PATTERSON",
+                    "first_name": "JOANNE",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "PATTERSON",
+                    "middle_name": "MARY"
+                },
+                {
+                    "full_name": "Mr SIMON JAMES ROBSON TAYLOR",
+                    "first_name": "SIMON",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "TAYLOR",
+                    "middle_name": "JAMES ROBSON"
+                },
+                {
+                    "full_name": "Mr Mickey Perret",
+                    "first_name": "Mickey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Perret",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Bursill",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bursill",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

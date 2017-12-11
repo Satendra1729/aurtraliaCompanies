@@ -1,0 +1,134 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CDH",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CHONGHERR INVESTMENTS LTD",
+    "ASXcode": "CDH",
+    "data": {
+        "summary": {
+            "name_short": "CHONGHERR",
+            "name_full": "CHONGHERR INVESTMENTS LTD",
+            "code": "CDH",
+            "primary_share_code": "CDH",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "CHONGHERR INVESTMENT",
+            "foreign_exempt": false,
+            "listing_date": "1993-08-10T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 37112088",
+            "mailing_address": "17, Ribands Place, SUNNYBANK HILLS, QLD, AUSTRALIA, 4109",
+            "principal_activities": "Quarrying of sandstone and manufacturing of sandstone building products.",
+            "fax_number": "07 37112099",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-22T12:23:37+1100",
+                    "number_of_pages": 73,
+                    "id": "01841117",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-22T12:26:51+1100",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170322/pdf/43gz8z8zhny2wh.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 921263,
+                "code": "CDH",
+                "indices": [],
+                "deprecated_number_of_shares": 131608952,
+                "previous_close_price": 0.007,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 131608952,
+                "eps": -0.001,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.006,
+                "suspended": false,
+                "last_price": 0.007,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-05-16T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.01,
+                "bid_price": 0.004,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 201792,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.chongherr.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Dehui Liu",
+                    "first_name": "Dehui",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sophia Kong",
+                    "first_name": "Sophia",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Shao Liu",
+                    "first_name": "Shao",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zhen Lu",
+                    "first_name": "Zhen",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lu",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sophia Kong",
+                    "first_name": "Sophia",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kong",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

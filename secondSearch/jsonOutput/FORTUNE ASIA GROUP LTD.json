@@ -1,0 +1,79 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FYA",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FORTUNE ASIA GROUP LTD",
+    "ASXcode": "FYA",
+    "data": {
+        "summary": {
+            "name_full": "FORTUNE ASIA GROUP LTD",
+            "primary_share_code": "FYA",
+            "mailing_address": "C/- Chambers & Company International Law, Level 41, 55 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Mining in two projects located in the Xinjiang Province of north-western China.",
+            "name_short": "FORTUNASIA",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 5642000,
+                "code": "FYA",
+                "indices": [],
+                "deprecated_number_of_shares": 22500000,
+                "previous_close_price": 0.062,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 91000000,
+                "eps": -0.0104,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.045,
+                "suspended": false,
+                "last_price": 0.062,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-06-19T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.075,
+                "bid_price": 0.02,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 26400,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "name_abbrev": "FORTUNE ASIA GRP LTD",
+            "registry_phone_number": "(02) 9290 9600",
+            "latest_annual_reports": [],
+            "products": [
+                "shares"
+            ],
+            "foreign_exempt": false,
+            "code": "FYA",
+            "listing_date": "2014-11-12T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": "http://www.ergau.com/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sherry Tao Xue",
+                    "first_name": "Sherry",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Xue",
+                    "middle_name": "Tao"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NMM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NOBLE METALS LIMITED",
+    "ASXcode": "NMM",
+    "data": {
+        "summary": {
+            "name_short": "NOBLEMET",
+            "name_full": "NOBLE METALS LIMITED",
+            "code": "NMM",
+            "primary_share_code": "NMM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NOBLE METALS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2010-09-02T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6141 3500",
+            "mailing_address": "283 Rokeby Road, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Gold and mineral exploration in Western Australia.",
+            "fax_number": "(08) 6141 3599",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "NMM",
+                "indices": [],
+                "year_open_price": 0.04,
+                "previous_close_price": 0.115,
+                "year_change_price": 0.075,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 148128458,
+                "eps": -0.008,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 148128458,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.115,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-10T11:00:00+1100",
+                "year_high_price": 0.13,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "187.5%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.condotoplatinum.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr William Hayden",
+                    "first_name": "William",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hayden",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Miguel Palomino",
+                    "first_name": "Miguel",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Palomino",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Johnstone",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnstone",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jay Stephenson",
+                    "first_name": "Jay",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephenson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

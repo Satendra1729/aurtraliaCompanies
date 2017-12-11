@@ -1,0 +1,93 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GDF",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "GARDA DIVERSIFIED PROPERTY FUND",
+    "ASXcode": "GDF",
+    "data": {
+        "summary": {
+            "name_short": "GARDA",
+            "name_full": "GARDA DIVERSIFIED PROPERTY FUND",
+            "code": "GDF",
+            "primary_share_code": "GDF",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "GARDA DIV PROP FUND",
+            "foreign_exempt": false,
+            "listing_date": "2015-07-02T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "",
+                "franked_percentage": "0%",
+                "created_date": "2017-11-13T00:00:00+1100",
+                "record_date": "2017-12-19T00:00:00+1100",
+                "payable_date": "2018-01-22T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.0225,
+                "ex_date": "2017-12-18T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3002 5300",
+            "mailing_address": "Level 21, 12 Creek Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Investment in real estate.",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 38631,
+                "status": [
+                    "CD",
+                    "XE"
+                ],
+                "market_cap": 131979492,
+                "code": "GDF",
+                "indices": [],
+                "deprecated_number_of_shares": 112322972,
+                "previous_close_price": 1.175,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 112322972,
+                "eps": 0.193,
+                "change_in_percent": "1.277%",
+                "change_price": 0.015,
+                "pe": 6.17,
+                "offer_price": 1.19,
+                "suspended": false,
+                "last_price": 1.19,
+                "deprecated_market_cap": 133664000,
+                "day_low_price": 1.17,
+                "open_price": 1.175,
+                "year_high_date": "2017-11-08T00:00:00+1100",
+                "previous_day_percentage_change": "0.427%",
+                "year_open_date": null,
+                "year_high_price": 1.235,
+                "bid_price": 1.175,
+                "desc_full": "Ordinary Units Fully Paid",
+                "day_high_price": 1.19,
+                "average_daily_volume": 46591,
+                "year_low_price": 0.986,
+                "annual_dividend_yield": 7.73
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.gardacapital.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Lachlan Davidson",
+                    "first_name": "Lachlan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davidson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

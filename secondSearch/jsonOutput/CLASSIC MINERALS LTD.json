@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CLZ",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CLASSIC MINERALS LTD",
+    "ASXcode": "CLZ",
+    "data": {
+        "summary": {
+            "name_short": "CLASSICMIN",
+            "name_full": "CLASSIC MINERALS LTD",
+            "code": "CLZ",
+            "primary_share_code": "CLZ",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CLASSIC MIN LTD",
+            "foreign_exempt": false,
+            "listing_date": "2013-05-24T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "jeff@classicminerals.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6305 0221",
+            "mailing_address": "71 Furniss Road,, LANDSDALE, WA, AUSTRALIA, 6065",
+            "principal_activities": "Base metals exploration, with a particular focus on nickel, copper and gold.",
+            "fax_number": "+61 8 9242 8295",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-11-01T12:07:43+1100",
+                    "number_of_pages": 54,
+                    "id": "01916830",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-01T12:49:39+1100",
+                    "size": "17.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171101/pdf/43nw6d52srrhzb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3082433,
+                "status": [],
+                "market_cap": 2748318,
+                "code": "CLZ",
+                "indices": [],
+                "year_open_price": 0.07,
+                "previous_close_price": 0.004,
+                "year_change_price": -0.066,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 687079473,
+                "eps": -0.009,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 687079473,
+                "pe": 0,
+                "offer_price": 0.005,
+                "suspended": false,
+                "last_price": 0.004,
+                "deprecated_market_cap": 2748000,
+                "day_low_price": 0.004,
+                "open_price": 0.004,
+                "year_high_date": "2017-03-14T00:00:00+1100",
+                "previous_day_percentage_change": "-20%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.02,
+                "bid_price": 0.003,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.004,
+                "year_change_in_percentage": "-94.286%",
+                "average_daily_volume": 4265183,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.classicminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Lester",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lester",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frederick Ferid Salkanovic",
+                    "first_name": "Frederick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Salkanovic",
+                    "middle_name": "Ferid"
+                },
+                {
+                    "full_name": "Mr Lu Ning Yi",
+                    "first_name": "Lu",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yi",
+                    "middle_name": "Ning"
+                },
+                {
+                    "full_name": "Mr Jeffrey Nurse",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nurse",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jeffrey Nurse",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nurse",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

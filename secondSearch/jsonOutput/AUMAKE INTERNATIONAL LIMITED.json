@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AU8",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "AUMAKE INTERNATIONAL LIMITED",
+    "ASXcode": "AU8",
+    "data": {
+        "summary": {
+            "name_short": "AUMAKE INT",
+            "name_full": "AUMAKE INTERNATIONAL LIMITED",
+            "code": "AU8",
+            "primary_share_code": "AU8",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "AUMAKE INT LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-12-07T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 6009",
+            "mailing_address": "7 Bourke Street, NORTH PARRAMATTA, NSW, AUSTRALIA, 2151",
+            "principal_activities": "The sale of trusted Australian products, primarily to \u00bfdaigou\u00bf and Chinese tourists, through the Company\u00bfs wholesale warehouses, retail stores and online e-commerce platform.",
+            "fax_number": "(08) 9322 6128",
+            "latest_annual_reports": [
+                {
+                    "header": "Aumake Australia Pty Ltd Annual Report 30 June 2017",
+                    "document_date": "2017-10-04T09:23:47+1100",
+                    "number_of_pages": 18,
+                    "id": "01904048",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-04T09:27:46+1100",
+                    "size": "731.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171004/pdf/43my0jydspg6lk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5898172,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 189010052,
+                "code": "AU8",
+                "indices": [],
+                "year_open_price": 1.94783,
+                "previous_close_price": 0.79,
+                "year_change_price": -1.22283,
+                "year_low_date": "2017-10-11T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 239253230,
+                "eps": -0.003,
+                "change_in_percent": "-8.228%",
+                "change_price": -0.065,
+                "deprecated_number_of_shares": 154352276,
+                "pe": 0,
+                "offer_price": 0.73,
+                "suspended": false,
+                "last_price": 0.725,
+                "deprecated_market_cap": 111905000,
+                "day_low_price": 0.68,
+                "open_price": 0.76,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "6.757%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.845,
+                "bid_price": 0.725,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.79,
+                "year_change_in_percentage": "-62.779%",
+                "average_daily_volume": 5618112,
+                "year_low_price": 0.145,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.aumake.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Keong Chan",
+                    "first_name": "Keong",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jiahua Zhou",
+                    "first_name": "Jiahua",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhou",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gang Xu",
+                    "first_name": "Gang",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Xu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Quentin Flannery",
+                    "first_name": "Quentin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Flannery",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lingye Zheng",
+                    "first_name": "Lingye",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Zheng",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Zhao",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhao",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Keong Chan",
+                    "first_name": "Keong",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BIN",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "BINGO INDUSTRIES LIMITED",
+    "ASXcode": "BIN",
+    "data": {
+        "summary": {
+            "name_short": "BINGO IND",
+            "name_full": "BINGO INDUSTRIES LIMITED",
+            "code": "BIN",
+            "primary_share_code": "BIN",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "BINGO INDUSTRIES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-05-03T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9737 0308",
+            "mailing_address": "305 Parramatta Road, AUBURN, NSW, AUSTRALIA, 2144",
+            "principal_activities": "Waste management",
+            "fax_number": "02 9737 0351",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T08:53:00+1000",
+                    "number_of_pages": 52,
+                    "id": "01901786",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:55:33+1000",
+                    "size": "6.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrvnjqlm6syw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1557408,
+                "status": [
+                    "XE"
+                ],
+                "market_cap": 942936610,
+                "code": "BIN",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 406438194,
+                "previous_close_price": 2.32,
+                "year_low_date": "2017-06-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 406438194,
+                "eps": 0,
+                "change_in_percent": "6.034%",
+                "change_price": 0.14,
+                "pe": 0,
+                "offer_price": 2.49,
+                "suspended": false,
+                "last_price": 2.46,
+                "deprecated_market_cap": 999838000,
+                "day_low_price": 2.33,
+                "open_price": 2.36,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "1.31%",
+                "year_open_date": null,
+                "year_high_price": 2.46,
+                "bid_price": 2.43,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.46,
+                "average_daily_volume": 850110,
+                "year_low_price": 1.541,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.bingoindustries.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael John Coleman",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coleman",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Daniel Charbel Tartak",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tartak",
+                    "middle_name": "Charbel"
+                },
+                {
+                    "full_name": "Ms Maria Louise Atkinson",
+                    "first_name": "Maria",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Atkinson",
+                    "middle_name": "Louise"
+                },
+                {
+                    "full_name": "Mr Richard Anthony Fountayne England",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "England",
+                    "middle_name": "Anthony Fountayne"
+                },
+                {
+                    "full_name": "Mr Daniel David Girgis",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Girgis",
+                    "middle_name": "David"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ronald Chio",
+                    "first_name": "Ronald",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chio",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

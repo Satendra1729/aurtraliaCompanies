@@ -1,0 +1,185 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HTA",
+    "GICSindustrygroup": "Telecommunication Services",
+    "Companyname": "HUTCHISON TELECOMMUNICATIONS (AUSTRALIA) LIMITED",
+    "ASXcode": "HTA",
+    "data": {
+        "summary": {
+            "name_short": "HUTCHISON",
+            "name_full": "HUTCHISON TELECOMMUNICATIONS (AUSTRALIA) LIMITED",
+            "code": "HTA",
+            "primary_share_code": "HTA",
+            "industry_group_name": "Telecommunication Services",
+            "delisting_date": null,
+            "sector_name": "Telecommunication Services",
+            "name_abbrev": "HUTCHISON",
+            "foreign_exempt": false,
+            "listing_date": "1999-08-17T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02-90155088",
+            "mailing_address": "Level 7, 40 Mount Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Telecommunications",
+            "fax_number": "(02) 89040457",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-23T11:05:33+1100",
+                    "number_of_pages": 61,
+                    "id": "01841449",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-23T11:07:53+1100",
+                    "size": "4.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170323/pdf/43h02cn3dzxpnm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4284,
+                "status": [],
+                "market_cap": 855068040,
+                "code": "HTA",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.097,
+                "previous_close_price": 0.063,
+                "year_change_price": -0.034,
+                "year_low_date": "2017-05-31T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 13572508577,
+                "eps": -0.0006,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 13572508577,
+                "pe": 0,
+                "offer_price": 0.065,
+                "suspended": false,
+                "last_price": 0.063,
+                "deprecated_market_cap": 855068000,
+                "day_low_price": 0.063,
+                "open_price": 0.063,
+                "year_high_date": "2017-01-20T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.09,
+                "bid_price": 0.063,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.063,
+                "year_change_in_percentage": "-35.052%",
+                "average_daily_volume": 47057,
+                "year_low_price": 0.06,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.hutchison.com.au/",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Canning Fok",
+                    "first_name": "Canning",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fok",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Barry Roberts-Thomson",
+                    "first_name": "Barry",
+                    "roles": [
+                        "Deputy Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roberts-Thomson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Justin H Gardener",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gardener",
+                    "middle_name": "H"
+                },
+                {
+                    "full_name": "Mr Dominic Lai Kai Ming",
+                    "first_name": "Dominic",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lai Kai Ming",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank J Sixt",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sixt",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Ronald Joseph Spithill",
+                    "first_name": "Ronald",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spithill",
+                    "middle_name": "Joseph"
+                },
+                {
+                    "full_name": "Mr Cliff Woo",
+                    "first_name": "Cliff",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Woo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Michael Scanlon",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scanlon",
+                    "middle_name": "Michael"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Louise Sexton",
+                    "first_name": "Louise",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Sexton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

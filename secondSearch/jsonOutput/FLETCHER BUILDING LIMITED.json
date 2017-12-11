@@ -1,0 +1,236 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FBU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FLETCHER BUILDING LIMITED",
+    "ASXcode": "FBU",
+    "data": {
+        "summary": {
+            "name_short": "FLETBUILD",
+            "name_full": "FLETCHER BUILDING LIMITED",
+            "code": "FBU",
+            "primary_share_code": "FBU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "FLETCHER BUILDING",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/FBU?image_size=L&v=1383515787000",
+            "foreign_exempt": true,
+            "listing_date": "2001-03-26T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "NZ19C+3.3529C NR; 15 %W/HT; DRP NIL DISC",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-09-22T00:00:00+1000",
+                "payable_date": "2017-10-11T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.17360268,
+                "ex_date": "2017-09-21T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+64 9 525 9000",
+            "mailing_address": "Fletcher House, 810 Great South Road, Penrose, AUSTRALIA,",
+            "principal_activities": "Building products, distribution, laminates & panels, concrete, construction and steel.",
+            "fax_number": "+64 9 525 9032",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-16T06:15:53+1000",
+                    "number_of_pages": 187,
+                    "id": "01884037",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-16T07:30:52+1000",
+                    "size": "12.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170816/pdf/43lfgzpg424564.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1380633,
+                "status": [],
+                "market_cap": 4412265985,
+                "code": "FBU",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    }
+                ],
+                "year_open_price": 9,
+                "previous_close_price": 6.33,
+                "year_change_price": -2.43,
+                "year_low_date": "2017-11-28T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 697040440,
+                "eps": 0.1286,
+                "change_in_percent": "3.791%",
+                "change_price": 0.24,
+                "deprecated_number_of_shares": 697040440,
+                "pe": 51.09,
+                "offer_price": 6.57,
+                "suspended": false,
+                "last_price": 6.57,
+                "deprecated_market_cap": 4579556000,
+                "day_low_price": 6.36,
+                "open_price": 6.36,
+                "year_high_date": "2016-12-29T00:00:00+1100",
+                "previous_day_percentage_change": "1.118%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 10.49,
+                "bid_price": 6.53,
+                "desc_full": "Ordinary Fully Paid Foreign Exempt Nzx",
+                "day_high_price": 6.57,
+                "year_change_in_percentage": "-27%",
+                "average_daily_volume": 1151569,
+                "year_low_price": 6.11,
+                "annual_dividend_yield": 5.44
+            },
+            "registry_phone_number": "1800 501 366",
+            "web_address": "http://www.fletcherbuilding.com/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY. LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Sir Ralph James Norris",
+                    "first_name": "Ralph",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Sir",
+                    "last_name": "Norris",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Mark D Adamson",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Adamson",
+                    "middle_name": "D"
+                },
+                {
+                    "full_name": "Mr Antony J Carter",
+                    "first_name": "Antony",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carter",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Dr Alan T Jackson",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Jackson",
+                    "middle_name": "T"
+                },
+                {
+                    "full_name": "Mr John F Judge",
+                    "first_name": "John",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Judge",
+                    "middle_name": "F"
+                },
+                {
+                    "full_name": "Ms Kathryn D Spargo",
+                    "first_name": "Kathryn D",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Spargo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Cecilia Tarrant",
+                    "first_name": "Cecilia",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tarrant",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven T Vamos",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vamos",
+                    "middle_name": "T"
+                },
+                {
+                    "full_name": "Mr Gerry J Bollman",
+                    "first_name": "Gerry",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bollman",
+                    "middle_name": "J"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Charles Bolt",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bolt",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

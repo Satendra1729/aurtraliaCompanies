@@ -1,0 +1,134 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BMH",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "BAUMART HOLDINGS LIMITED",
+    "ASXcode": "BMH",
+    "data": {
+        "summary": {
+            "name_short": "BAUMART",
+            "name_full": "BAUMART HOLDINGS LIMITED",
+            "code": "BMH",
+            "primary_share_code": "BMH",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "BAUMART HOLDINGS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-06-19T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6558 0814",
+            "mailing_address": "C/- Anthony Ho & Associates, 79 Broadway, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Supply of building and building related products.",
+            "fax_number": "(08) 6389 2588",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-29T07:47:43+1000",
+                    "number_of_pages": 47,
+                    "id": "01889283",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-29T08:24:05+1000",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43ltpp4hf6v6ms.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 33291294,
+                "code": "BMH",
+                "indices": [],
+                "deprecated_number_of_shares": 144744757,
+                "previous_close_price": 0.23,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 144744757,
+                "eps": -0.0135,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 0.23,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-09-25T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.245,
+                "bid_price": 0.23,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 32080,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.baumart.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Berthus Budiman",
+                    "first_name": "Berthus",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Budiman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Logan",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Logan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Crichton",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crichton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anson Gan",
+                    "first_name": "Anson",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Natalie Teo",
+                    "first_name": "Natalie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Teo",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HEG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "HILL END GOLD LIMITED",
+    "ASXcode": "HEG",
+    "data": {
+        "summary": {
+            "name_short": "HILL END",
+            "name_full": "HILL END GOLD LIMITED",
+            "code": "HEG",
+            "primary_share_code": "HEG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "HILL END GOLD",
+            "foreign_exempt": false,
+            "listing_date": "2003-07-17T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 6337 8343",
+            "mailing_address": "Suite 111, 350 George Strtte, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Mining, exploration and development - gold deposits - NSW. Acquisition of direct and indirect interests in attractive resource projects.",
+            "fax_number": "(02) 6337 8345",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-04T17:25:02+1000",
+                    "number_of_pages": 62,
+                    "id": "01892548",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-04T17:28:32+1000",
+                    "size": "5.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170904/pdf/43m1ytnxcfpk3s.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 295396,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 22969277,
+                "code": "HEG",
+                "indices": [],
+                "year_open_price": 0.005,
+                "previous_close_price": 0.19,
+                "year_change_price": 0.19,
+                "year_low_date": "2017-03-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 120890933,
+                "eps": -0.0179,
+                "change_in_percent": "2.632%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 120890933,
+                "pe": 0,
+                "offer_price": 0.195,
+                "suspended": false,
+                "last_price": 0.195,
+                "deprecated_market_cap": 23574000,
+                "day_low_price": 0.185,
+                "open_price": 0.19,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "-2.564%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.23,
+                "bid_price": 0.19,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.195,
+                "year_change_in_percentage": "3,800%",
+                "average_daily_volume": 1248301,
+                "year_low_price": 0.025,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.hillendgold.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Philip Francis Bruce",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bruce",
+                    "middle_name": "Francis"
+                },
+                {
+                    "full_name": "Mr Martin McFarlane",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McFarlane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Leavy",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leavy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Reveleigh",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reveleigh",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kevin Lynn",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lynn",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

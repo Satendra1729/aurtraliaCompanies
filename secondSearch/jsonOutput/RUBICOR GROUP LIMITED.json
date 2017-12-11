@@ -1,0 +1,151 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RUB",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "RUBICOR GROUP LIMITED",
+    "ASXcode": "RUB",
+    "data": {
+        "summary": {
+            "name_short": "RUBICR GRP",
+            "name_full": "RUBICOR GROUP LIMITED",
+            "code": "RUB",
+            "primary_share_code": "RUB",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "RUBICOR GROUP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RUB?image_size=L&v=1501810859000",
+            "foreign_exempt": false,
+            "listing_date": "2007-06-15T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8061 0000",
+            "mailing_address": "Level 24, 68 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Rubicor Group is now one of the largest providers of recruitment and human resource services in Australia, New Zealand and Asia. Consisting of 6 recruitment and HR solutions businesses, Rubicor employs over 200 team members across 18 offices delivering co",
+            "fax_number": "-",
+            "latest_annual_reports": [
+                {
+                    "header": "Rubicor Group Annual Report 2017",
+                    "document_date": "2017-09-29T16:19:59+1000",
+                    "number_of_pages": 66,
+                    "id": "01902489",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:21:41+1000",
+                    "size": "772.9KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt6mx66xnx6q.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 9353598,
+                "code": "RUB",
+                "indices": [],
+                "year_open_price": 0.055,
+                "previous_close_price": 0.038,
+                "year_change_price": -0.017,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 246147315,
+                "eps": 0.063,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 246147315,
+                "pe": 0.6,
+                "offer_price": 0.042,
+                "suspended": false,
+                "last_price": 0.038,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "8.571%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.062,
+                "bid_price": 0.035,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-30.909%",
+                "average_daily_volume": 143084,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.rubicor.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Hutchison",
+                    "first_name": "David",
+                    "roles": [
+                        "Executive Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hutchison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sharad Loomba",
+                    "first_name": "Sharad",
+                    "roles": [
+                        "Executive Director",
+                        "Chief Op. Officer",
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Loomba",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Angus Mason",
+                    "first_name": "Angus",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mason",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jay Adcock",
+                    "first_name": "Jay",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Adcock",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nathan Bartrop",
+                    "first_name": "Nathan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bartrop",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sharad Loomba",
+                    "first_name": "Sharad",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Loomba",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

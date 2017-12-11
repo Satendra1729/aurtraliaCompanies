@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MSG",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "MCS SERVICES LIMITED",
+    "ASXcode": "MSG",
+    "data": {
+        "summary": {
+            "name_short": "MCSSERVICE",
+            "name_full": "MCS SERVICES LIMITED",
+            "code": "MSG",
+            "primary_share_code": "MSG",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "MCS SERVICES LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2012-01-17T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI;  DRP",
+                "franked_percentage": "0%",
+                "created_date": "2017-11-09T00:00:00+1100",
+                "record_date": "2017-12-05T00:00:00+1100",
+                "payable_date": "2017-12-08T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.001,
+                "ex_date": "2017-12-04T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9301 2420",
+            "mailing_address": "3/108 Winton Road, JOONDALUP, WA, AUSTRALIA, 6027",
+            "principal_activities": "Provider of security services at commercial property sites and retail shopping centres throughout the Perth metropolitan and regional country areas of Western Australia. The Company also provides customer focused security professionals to sporting stadium",
+            "fax_number": "(08) 9301 2421",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T22:07:58+1000",
+                    "number_of_pages": 73,
+                    "id": "01902920",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:00:18+1100",
+                    "size": "13.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvjgtgd26htf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 4133842,
+                "code": "MSG",
+                "indices": [],
+                "year_open_price": 0.0091,
+                "previous_close_price": 0.022,
+                "year_change_price": 0.0129,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 187901928,
+                "eps": 0.0023,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 187901928,
+                "pe": 9.57,
+                "offer_price": 0.025,
+                "suspended": false,
+                "last_price": 0.022,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-09-15T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-05T11:00:00+1100",
+                "year_high_price": 0.03,
+                "bid_price": 0.022,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "141.758%",
+                "average_daily_volume": 280716,
+                "year_low_price": 0,
+                "annual_dividend_yield": 4.55
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.mcssecurity.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": "http://www.mcssecurity.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "The Hon Robert Charles KUCERA",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "KUCERA",
+                    "middle_name": "Charles"
+                },
+                {
+                    "full_name": "Mr Geoffrey Martin",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Martin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Ward",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ward",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jonathan Asquith",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Asquith",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

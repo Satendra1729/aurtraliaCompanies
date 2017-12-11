@@ -1,0 +1,101 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/TOT",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "360 CAPITAL TOTAL RETURN FUND",
+    "ASXcode": "TOT",
+    "data": {
+        "summary": {
+            "name_short": "360 TOTAL",
+            "name_full": "360 CAPITAL TOTAL RETURN FUND",
+            "code": "TOT",
+            "primary_share_code": "TOT",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "360 CAPITAL TOTAL RE",
+            "foreign_exempt": false,
+            "listing_date": "2015-04-22T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "EST 2.25C",
+                "franked_percentage": "0%",
+                "created_date": "2017-09-21T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-26T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.0225,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8405 8866",
+            "mailing_address": "Suite 804, Level 8, 56 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-17T14:50:30+1000",
+                    "number_of_pages": 44,
+                    "id": "01884822",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-17T14:57:19+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170817/pdf/43lh5p01fbspwj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 163051,
+                "status": [],
+                "market_cap": 77461617,
+                "code": "TOT",
+                "indices": [],
+                "deprecated_number_of_shares": 65924780,
+                "previous_close_price": 1.175,
+                "year_low_date": "2017-01-17T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 65924780,
+                "eps": 0.182,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 6.46,
+                "offer_price": 1.18,
+                "suspended": false,
+                "last_price": 1.175,
+                "deprecated_market_cap": 77462000,
+                "day_low_price": 1.175,
+                "open_price": 1.18,
+                "year_high_date": "2017-09-15T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.24,
+                "bid_price": 1.175,
+                "desc_full": "Stapled Securities",
+                "day_high_price": 1.185,
+                "average_daily_volume": 44085,
+                "year_low_price": 1.034,
+                "annual_dividend_yield": 7.19
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.360capital.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jennifer Ann Vercoe",
+                    "first_name": "Jennifer",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Vercoe",
+                    "middle_name": "Ann"
+                }
+            ]
+        }
+    }
+}

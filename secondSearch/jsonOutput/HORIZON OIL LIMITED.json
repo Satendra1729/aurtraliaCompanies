@@ -1,0 +1,168 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HZN",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "HORIZON OIL LIMITED",
+    "ASXcode": "HZN",
+    "data": {
+        "summary": {
+            "name_short": "HOR OIL",
+            "name_full": "HORIZON OIL LIMITED",
+            "code": "HZN",
+            "primary_share_code": "HZN",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "HORIZON OIL LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/HZN?image_size=L&v=1383628363000",
+            "foreign_exempt": false,
+            "listing_date": "1981-06-30T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9332 5000",
+            "mailing_address": "Level 6, 134 William Street, WOOLLOOMOOLOO, NSW, AUSTRALIA, 2011",
+            "principal_activities": "Petroleum exploration, development and production.",
+            "fax_number": "(02) 9332 5050",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 ANNUAL REPORT AND NOTICE OF AGM",
+                    "document_date": "2017-10-24T15:18:09+1100",
+                    "number_of_pages": 108,
+                    "id": "01911815",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T15:21:43+1100",
+                    "size": "5.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43njcrc010hcby.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 538943,
+                "status": [],
+                "market_cap": 118480295,
+                "code": "HZN",
+                "indices": [],
+                "year_open_price": 0.335,
+                "previous_close_price": 0.091,
+                "year_change_price": -0.243,
+                "year_low_date": "2017-07-03T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1301981265,
+                "eps": -0.0003,
+                "change_in_percent": "1.099%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 1301981265,
+                "pe": 0,
+                "offer_price": 0.095,
+                "suspended": false,
+                "last_price": 0.092,
+                "deprecated_market_cap": 119782000,
+                "day_low_price": 0.092,
+                "open_price": 0.092,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.096,
+                "bid_price": 0.093,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.094,
+                "year_change_in_percentage": "-72.537%",
+                "average_daily_volume": 1011500,
+                "year_low_price": 0.042,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.horizonoil.com.au/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr J S Humphrey",
+                    "first_name": "J",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Humphrey",
+                    "middle_name": "S"
+                },
+                {
+                    "full_name": "Mr Brent Emmett",
+                    "first_name": "Brent",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Emmett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Sandra Birkensleigh",
+                    "first_name": "Sandra",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Birkensleigh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gregory John Bittar",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bittar",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Gerrit De Nys",
+                    "first_name": "Gerrit",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "De Nys",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Francis Sheridan",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sheridan",
+                    "middle_name": "Francis"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Michael Francis Sheridan",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sheridan",
+                    "middle_name": "Francis"
+                },
+                {
+                    "full_name": "Ms Kylie Ann Lesley Quinlivan",
+                    "first_name": "Kylie",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Quinlivan",
+                    "middle_name": "Ann Lesley"
+                }
+            ]
+        }
+    }
+}

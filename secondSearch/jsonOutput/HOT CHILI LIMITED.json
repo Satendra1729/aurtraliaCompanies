@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HCH",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "HOT CHILI LIMITED",
+    "ASXcode": "HCH",
+    "data": {
+        "summary": {
+            "name_short": "HOT CHILI",
+            "name_full": "HOT CHILI LIMITED",
+            "code": "HCH",
+            "primary_share_code": "HCH",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "HOT CHILI LTD",
+            "foreign_exempt": false,
+            "listing_date": "2010-05-03T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9021 3033",
+            "mailing_address": "First Floor, 768 Canning Highway, APPLECROSS, WA, AUSTRALIA, 6153",
+            "principal_activities": "Copper, Gold, and Molybdenum.",
+            "fax_number": "(08) 9021 6995",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-09-29T16:30:39+1000",
+                    "number_of_pages": 64,
+                    "id": "01902514",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:32:41+1000",
+                    "size": "5.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt83lfygjg3p.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 125715,
+                "status": [],
+                "market_cap": 21237568,
+                "code": "HCH",
+                "indices": [],
+                "year_open_price": 0.475,
+                "previous_close_price": 0.036,
+                "year_change_price": -0.439,
+                "year_low_date": "2017-06-29T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 589932458,
+                "eps": -0.0044,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 589932458,
+                "pe": 0,
+                "offer_price": 0.036,
+                "suspended": false,
+                "last_price": 0.036,
+                "deprecated_market_cap": 21238000,
+                "day_low_price": 0.036,
+                "open_price": 0.036,
+                "year_high_date": "2017-03-30T00:00:00+1100",
+                "previous_day_percentage_change": "-2.703%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.044,
+                "bid_price": 0.035,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.036,
+                "year_change_in_percentage": "-92.421%",
+                "average_daily_volume": 397495,
+                "year_low_price": 0.022,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.hotchili.net.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Murray Edward Black",
+                    "first_name": "Murray",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Black",
+                    "middle_name": "Edward"
+                },
+                {
+                    "full_name": "Mr Christian Easterday",
+                    "first_name": "Christian",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Easterday",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Michael Anderson",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Allan Trench",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Trench",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Roberto de Andraca Adriasola",
+                    "first_name": "Roberto",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "de Andraca Adriasola",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Sendziuk",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sendziuk",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

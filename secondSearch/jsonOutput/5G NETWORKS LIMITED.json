@@ -1,0 +1,92 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/5GN",
+    "GICSindustrygroup": "Telecommunication Services",
+    "Companyname": "5G NETWORKS LIMITED",
+    "ASXcode": "5GN",
+    "data": {
+        "summary": {
+            "name_short": "5G NETWORK",
+            "name_full": "5G NETWORKS LIMITED",
+            "code": "5GN",
+            "primary_share_code": "5GN",
+            "industry_group_name": "Telecommunication Services",
+            "delisting_date": null,
+            "sector_name": "Telecommunication Services",
+            "name_abbrev": "5G NETWORKS LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/5GN?image_size=L&v=1508286355000",
+            "foreign_exempt": false,
+            "listing_date": "2017-11-17T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8630 7777",
+            "mailing_address": "Level 8, 99 William Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Network rollout and ICT services",
+            "latest_annual_reports": [
+                {
+                    "header": "Enspire Full Year Accounts 30 June 2017",
+                    "document_date": "2017-11-16T11:41:32+1100",
+                    "number_of_pages": 21,
+                    "id": "01922181",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-16T11:43:26+1100",
+                    "size": "5.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171116/pdf/43p92tjd81gw99.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 98034,
+                "status": [],
+                "market_cap": 17761790,
+                "code": "5GN",
+                "indices": [],
+                "deprecated_number_of_shares": 20448600,
+                "previous_close_price": 0.4,
+                "year_low_date": "2017-11-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 44404474,
+                "eps": 0,
+                "change_in_percent": "2.5%",
+                "change_price": 0.01,
+                "pe": 0,
+                "offer_price": 0.41,
+                "suspended": false,
+                "last_price": 0.41,
+                "deprecated_market_cap": 8384000,
+                "day_low_price": 0.395,
+                "open_price": 0.4,
+                "year_high_date": "2017-11-28T00:00:00+1100",
+                "previous_day_percentage_change": "-5.882%",
+                "year_open_date": null,
+                "year_high_price": 0.48,
+                "bid_price": 0.39,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.425,
+                "average_daily_volume": 705672,
+                "year_low_price": 0.245,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://https//www.5Gnetworks.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Geoffrey Nicholas",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nicholas",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

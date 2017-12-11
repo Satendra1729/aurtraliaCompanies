@@ -1,0 +1,160 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MP1",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "MEGAPORT LIMITED",
+    "ASXcode": "MP1",
+    "data": {
+        "summary": {
+            "name_short": "MEGAPORT",
+            "name_full": "MEGAPORT LIMITED",
+            "code": "MP1",
+            "primary_share_code": "MP1",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "MEGAPORT LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2015-12-17T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "celia.pheasant@megaport.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3088 5999",
+            "mailing_address": "Level 4, 825 Ann Street, FORTITUDE VALLEY, QLD, AUSTRALIA, 4006",
+            "principal_activities": "",
+            "fax_number": "(07) 3088 5998",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and FY17 Annual Report",
+                    "document_date": "2017-08-24T10:29:54+1000",
+                    "number_of_pages": 111,
+                    "id": "01887658",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-24T10:34:11+1000",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lpqy5jx1lgy0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 77165,
+                "status": [],
+                "market_cap": 263825232,
+                "code": "MP1",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "deprecated_number_of_shares": 69141243,
+                "previous_close_price": 2.6,
+                "year_low_date": "2017-04-18T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 101471243,
+                "eps": -0.35,
+                "change_in_percent": "1.154%",
+                "change_price": 0.03,
+                "pe": 0,
+                "offer_price": 2.63,
+                "suspended": false,
+                "last_price": 2.63,
+                "deprecated_market_cap": 181841000,
+                "day_low_price": 2.52,
+                "open_price": 2.52,
+                "year_high_date": "2017-11-28T00:00:00+1100",
+                "previous_day_percentage_change": "2.767%",
+                "year_open_date": null,
+                "year_high_price": 2.94,
+                "bid_price": 2.55,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.63,
+                "average_daily_volume": 139908,
+                "year_low_price": 1.815,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.megaport.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bevan Andrew Slattery",
+                    "first_name": "Bevan",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Slattery",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Mr Peter Norman Hase",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hase",
+                    "middle_name": "Norman"
+                },
+                {
+                    "full_name": "Mr Vincent John English",
+                    "first_name": "Vincent",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "English",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Alexander Andrew Kelton",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelton",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Mr Simon Collinton Moore",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moore",
+                    "middle_name": "Collinton"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Celia Pheasant",
+                    "first_name": "Celia",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Pheasant",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

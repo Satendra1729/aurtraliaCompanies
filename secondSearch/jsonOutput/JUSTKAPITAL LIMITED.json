@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/JKL",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "JUSTKAPITAL LIMITED",
+    "ASXcode": "JKL",
+    "data": {
+        "summary": {
+            "name_short": "JUST KAP",
+            "name_full": "JUSTKAPITAL LIMITED",
+            "code": "JKL",
+            "primary_share_code": "JKL",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "JUSTKAPITAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "2000-05-12T00:00:00+1000",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9696 0220",
+            "mailing_address": "Level 16, 56 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provision of litigation funding.",
+            "fax_number": "(02) 9252 3430",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E & Full Year Statutory Accounts",
+                    "document_date": "2017-08-28T18:40:47+1000",
+                    "number_of_pages": 67,
+                    "id": "01889205",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-28T18:47:26+1000",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170828/pdf/43ltfqcp21p562.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 728263,
+                "status": [],
+                "market_cap": 11285437,
+                "code": "JKL",
+                "indices": [],
+                "year_open_price": 0.003,
+                "previous_close_price": 0.078,
+                "year_change_price": 0.088,
+                "year_low_date": "2017-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 144685093,
+                "eps": -0.0212,
+                "change_in_percent": "16.667%",
+                "change_price": 0.013,
+                "deprecated_number_of_shares": 144685093,
+                "pe": 0,
+                "offer_price": 0.09,
+                "suspended": false,
+                "last_price": 0.091,
+                "deprecated_market_cap": 13166000,
+                "day_low_price": 0.09,
+                "open_price": 0.09,
+                "year_high_date": "2017-01-27T00:00:00+1100",
+                "previous_day_percentage_change": "-2.5%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.305,
+                "bid_price": 0.081,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.095,
+                "year_change_in_percentage": "2,933.333%",
+                "average_daily_volume": 503012,
+                "year_low_price": 0.078,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.justkapital.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Phillip Kapp",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kapp",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mike Hill",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tim Storey",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Storey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Diane L Jones",
+                    "first_name": "Diane",
+                    "roles": [
+                        "Chief Op. Officer",
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Jones",
+                    "middle_name": "L"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Diane L Jones",
+                    "first_name": "Diane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Jones",
+                    "middle_name": "L"
+                }
+            ]
+        }
+    }
+}

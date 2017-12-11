@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IAB",
+    "GICSindustrygroup": "Telecommunication Services",
+    "Companyname": "INABOX GROUP LIMITED",
+    "ASXcode": "IAB",
+    "data": {
+        "summary": {
+            "name_short": "INABOX GRP",
+            "name_full": "INABOX GROUP LIMITED",
+            "code": "IAB",
+            "primary_share_code": "IAB",
+            "industry_group_name": "Telecommunication Services",
+            "delisting_date": null,
+            "sector_name": "Telecommunication Services",
+            "name_abbrev": "INABOX GROUP LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/IAB?image_size=L&v=1504497186000",
+            "foreign_exempt": false,
+            "listing_date": "2013-07-12T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "1.7C FRANKED @30%",
+                "franked_percentage": "100%",
+                "created_date": "2016-08-26T00:00:00+1000",
+                "record_date": "2016-09-30T00:00:00+1000",
+                "payable_date": "2016-10-28T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.017,
+                "ex_date": "2016-09-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 783 526",
+            "mailing_address": "Level 10, 9 Hunter Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Telecommunications, IT and cloud products and services.",
+            "fax_number": "1300 883 526",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-09T15:28:44+1100",
+                    "number_of_pages": 68,
+                    "id": "01905830",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-09T15:31:13+1100",
+                    "size": "4.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171009/pdf/43n2btt4kmpkhq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 43785,
+                "status": [],
+                "market_cap": 12564654,
+                "code": "IAB",
+                "indices": [],
+                "year_open_price": 1.1,
+                "previous_close_price": 0.53,
+                "year_change_price": -0.545,
+                "year_low_date": "2017-11-27T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 23706894,
+                "eps": 0.004,
+                "change_in_percent": "4.717%",
+                "change_price": 0.025,
+                "deprecated_number_of_shares": 23706894,
+                "pe": 138.75,
+                "offer_price": 0.56,
+                "suspended": false,
+                "last_price": 0.555,
+                "deprecated_market_cap": 13157000,
+                "day_low_price": 0.46,
+                "open_price": 0.56,
+                "year_high_date": "2017-02-03T00:00:00+1100",
+                "previous_day_percentage_change": "2.913%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 1.35,
+                "bid_price": 0.52,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.56,
+                "year_change_in_percentage": "-49.545%",
+                "average_daily_volume": 71561,
+                "year_low_price": 0.365,
+                "annual_dividend_yield": 3.06
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.inaboxgroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Rampa",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rampa",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Damian Kay",
+                    "first_name": "Damian",
+                    "roles": [
+                        "Managing Director",
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kay",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tom Stianos",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stianos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Garry Wayling",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wayling",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": []
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DAU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "DAMPIER GOLD LIMITED",
+    "ASXcode": "DAU",
+    "data": {
+        "summary": {
+            "name_short": "DAMPIERGOL",
+            "name_full": "DAMPIER GOLD LIMITED",
+            "code": "DAU",
+            "primary_share_code": "DAU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "DAMPIER GOLD LTD",
+            "foreign_exempt": false,
+            "listing_date": "2010-08-23T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@dampiergold.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 3901 0751",
+            "mailing_address": "116 Alastair Street, LOTA, QLD, AUSTRALIA, 4179",
+            "principal_activities": "",
+            "fax_number": "+61 7 3901 0751",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T22:26:40+1000",
+                    "number_of_pages": 38,
+                    "id": "01902928",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:00:53+1100",
+                    "size": "13.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvjy6ws6xt4f.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 97530,
+                "status": [],
+                "market_cap": 2872204,
+                "code": "DAU",
+                "indices": [],
+                "year_open_price": 0.038,
+                "previous_close_price": 0.03,
+                "year_change_price": -0.006,
+                "year_low_date": "2017-03-29T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 95740141,
+                "eps": 0.0083,
+                "change_in_percent": "6.667%",
+                "change_price": 0.002,
+                "deprecated_number_of_shares": 96640141,
+                "pe": 3.86,
+                "offer_price": 0.032,
+                "suspended": false,
+                "last_price": 0.032,
+                "deprecated_market_cap": 3092000,
+                "day_low_price": 0.031,
+                "open_price": 0.031,
+                "year_high_date": "2017-05-09T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.04,
+                "bid_price": 0.03,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.032,
+                "year_change_in_percentage": "-15.789%",
+                "average_daily_volume": 217208,
+                "year_low_price": 0.022,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.dampiergold.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Malcolm Carson",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Executive Chairman",
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Hui Guo",
+                    "first_name": "Hui",
+                    "roles": [
+                        "Executive Director",
+                        "Alternate Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Guo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peiqi Zhang",
+                    "first_name": "Peiqi",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Michael Higginson",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Higginson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

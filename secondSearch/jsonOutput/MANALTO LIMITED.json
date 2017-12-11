@@ -1,0 +1,124 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MTL",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "MANALTO LIMITED",
+    "ASXcode": "MTL",
+    "data": {
+        "summary": {
+            "name_short": "MANALTO",
+            "name_full": "MANALTO LIMITED",
+            "code": "MTL",
+            "primary_share_code": "MTL",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "MANALTO LTD",
+            "foreign_exempt": false,
+            "listing_date": "2003-11-06T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9481 0389",
+            "mailing_address": "Level 11, 216 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Manalto is a software as a service (SaaS) business in the rapidly growing social media sector. Manalto has developed, and owns, software which provides an end-to-end social media management solution turning social media into an enterprise grade distributi",
+            "fax_number": "08 9463 6103",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-30T14:39:03+1100",
+                    "number_of_pages": 54,
+                    "id": "01914754",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-30T14:59:58+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171030/pdf/43nqzxjbfllvb0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "MTL",
+                "indices": [],
+                "deprecated_number_of_shares": 372388632,
+                "previous_close_price": 0.007,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 372388632,
+                "eps": -0.0486,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.007,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.048,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 1853625,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.manalto.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Terence Clee",
+                    "first_name": "Terence",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr James Ellingford",
+                    "first_name": "James",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Ellingford",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tim Wilson",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Elizabeth Hunt",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Hunt",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

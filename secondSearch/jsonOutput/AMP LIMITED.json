@@ -1,0 +1,319 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AMP",
+    "GICSindustrygroup": "Insurance",
+    "Companyname": "AMP LIMITED",
+    "ASXcode": "AMP",
+    "data": {
+        "summary": {
+            "name_short": "AMP",
+            "name_full": "AMP LIMITED",
+            "code": "AMP",
+            "primary_share_code": "AMP",
+            "industry_group_name": "Insurance",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "AMP LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AMP?image_size=L&v=1384317428000",
+            "foreign_exempt": false,
+            "listing_date": "1998-06-15T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "13.05C FR@30%; 1.45C  CFI; DRP NIL DISC",
+                "franked_percentage": "90%",
+                "created_date": "2017-08-10T00:00:00+1000",
+                "record_date": "2017-08-24T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.145,
+                "ex_date": "2017-08-23T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "floating-rate-notes",
+                "hybrid-securities",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 9257 5000",
+            "mailing_address": "AMP Building, 33 Alfred Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provider of life insurance, superannuation, pensions and other financial services in Australia and New Zealand.",
+            "fax_number": "(02) 9257 7178",
+            "latest_annual_reports": [
+                {
+                    "header": "AMP 08 2017 2016 annual report",
+                    "document_date": "2017-03-20T09:01:08+1100",
+                    "number_of_pages": 128,
+                    "id": "01840252",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-20T09:02:31+1100",
+                    "size": "5.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170320/pdf/43gx9bppxvx00n.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2806293,
+                "status": [],
+                "market_cap": 15234408895,
+                "code": "AMP",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 20",
+                        "index_code": "XTL",
+                        "name_abrev": "S&P/ASX 20",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 20"
+                    },
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 4.97,
+                "previous_close_price": 5.22,
+                "year_change_price": 0.26,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2918469137,
+                "eps": -0.143,
+                "change_in_percent": "0.192%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 2918469137,
+                "pe": 0,
+                "offer_price": 5.24,
+                "suspended": false,
+                "last_price": 5.23,
+                "deprecated_market_cap": 15263594000,
+                "day_low_price": 5.21,
+                "open_price": 5.22,
+                "year_high_date": "2017-08-02T00:00:00+1000",
+                "previous_day_percentage_change": "0.772%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 5.49,
+                "bid_price": 5.21,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.25,
+                "year_change_in_percentage": "5.231%",
+                "average_daily_volume": 5596555,
+                "year_low_price": 4.57,
+                "annual_dividend_yield": 5.45
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.amp.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Catherine Brenner",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Brenner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Meller",
+                    "first_name": "Craig",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Meller",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Patty Akopiantz",
+                    "first_name": "Patty",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Akopiantz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Harmos",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harmos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Holly Kramer",
+                    "first_name": "Holly",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kramer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Matthews",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Matthews",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Roberts",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roberts",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Vanessa Wallace",
+                    "first_name": "Vanessa",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wallace",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mike Wilkins",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilkins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gordon Lefevre",
+                    "first_name": "Gordon",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lefevre",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brian Salter",
+                    "first_name": "Brian",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Salter",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Brian Salter",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Salter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Cullen",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cullen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Vicki Vordis",
+                    "first_name": "Vicki",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Vordis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

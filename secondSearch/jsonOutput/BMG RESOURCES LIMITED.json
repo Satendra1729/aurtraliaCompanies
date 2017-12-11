@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BMG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BMG RESOURCES LIMITED",
+    "ASXcode": "BMG",
+    "data": {
+        "summary": {
+            "name_short": "BMG",
+            "name_full": "BMG RESOURCES LIMITED",
+            "code": "BMG",
+            "primary_share_code": "BMG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BMG RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-05-12T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9424 9390",
+            "mailing_address": "C/- Transcontinental Group, 14th Floor, 191 St George's Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Mineral exploration and development.",
+            "fax_number": "(08) 9321 5932",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T18:48:44+1000",
+                    "number_of_pages": 74,
+                    "id": "01901558",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T19:04:54+1000",
+                    "size": "2.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mrb2h3p6w1k3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 659289,
+                "status": [],
+                "market_cap": 6562631,
+                "code": "BMG",
+                "indices": [],
+                "year_open_price": 0.04,
+                "previous_close_price": 0.017,
+                "year_change_price": -0.02,
+                "year_low_date": "2017-01-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 386037112,
+                "eps": 0.0005,
+                "change_in_percent": "17.647%",
+                "change_price": 0.003,
+                "deprecated_number_of_shares": 386037112,
+                "pe": 40,
+                "offer_price": 0.02,
+                "suspended": false,
+                "last_price": 0.02,
+                "deprecated_market_cap": 7721000,
+                "day_low_price": 0.018,
+                "open_price": 0.018,
+                "year_high_date": "2017-11-22T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.021,
+                "bid_price": 0.017,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.02,
+                "year_change_in_percentage": "-50%",
+                "average_daily_volume": 1114774,
+                "year_low_price": 0.008,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.bmgl.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Anthony Augustine Trevisan",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trevisan",
+                    "middle_name": "Augustine"
+                },
+                {
+                    "full_name": "Mr Bruce McCracken",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McCracken",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Malcolm Castle",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Castle",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gregory Hancock",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hancock",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Trevisan",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trevisan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Fleur Hudson",
+                    "first_name": "Fleur",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Hudson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LTN",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "LANTERN HOTEL GROUP",
+    "ASXcode": "LTN",
+    "data": {
+        "summary": {
+            "name_short": "LANT HOTEL",
+            "name_full": "LANTERN HOTEL GROUP",
+            "code": "LTN",
+            "primary_share_code": "LTN",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "LANTERN HOTEL GRP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/LTN?image_size=L&v=1393820383000",
+            "foreign_exempt": false,
+            "listing_date": "2004-07-08T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "SPECIAL",
+                "franked_percentage": "0%",
+                "created_date": "2017-06-26T00:00:00+1000",
+                "record_date": "2017-06-30T00:00:00+1000",
+                "payable_date": "2017-07-17T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.009,
+                "ex_date": "2017-06-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9931 4999",
+            "mailing_address": "Dentons Australia Pty ltd, Level 12, 77 Castlereagh Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investing in freehold going concern entertainment venues, hotels and bars.",
+            "fax_number": "+61 2 9931 4888",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-30T15:25:24+1000",
+                    "number_of_pages": 87,
+                    "id": "01890335",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-30T15:30:50+1000",
+                    "size": "1.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lwwhr1wt4028.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "LTN",
+                "indices": [],
+                "year_open_price": 0.07,
+                "previous_close_price": 0.004,
+                "year_change_price": -0.066,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 883202130,
+                "eps": 0.0463,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 883202130,
+                "pe": 0.09,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.004,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-04-13T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.006,
+                "bid_price": 0,
+                "desc_full": "Units/ordinary Fully Paid Stapled Securities",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-94.286%",
+                "average_daily_volume": 1223598,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.lanternhotels.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Osborne",
+                    "first_name": "John",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Osborne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme Campbell",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Campbell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Shirley Liew",
+                    "first_name": "Shirley",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Liew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Stubbs",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stubbs",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Leanne Ralph",
+                    "first_name": "Leanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ralph",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

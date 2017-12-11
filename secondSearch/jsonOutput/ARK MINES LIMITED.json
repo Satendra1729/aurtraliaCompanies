@@ -1,0 +1,123 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AHK",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ARK MINES LIMITED",
+    "ASXcode": "AHK",
+    "data": {
+        "summary": {
+            "name_short": "ARK MINES",
+            "name_full": "ARK MINES LIMITED",
+            "code": "AHK",
+            "primary_share_code": "AHK",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ARK MINES LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2011-05-09T00:00:00+1000",
+            "registry_address": "Level 16, 1 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "0400 408 550",
+            "mailing_address": "Level 11, 37 Bligh Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Mineral Explorer",
+            "fax_number": "02 9233 3828",
+            "latest_annual_reports": [
+                {
+                    "header": "ANNUAL REPORT FOR YEAR ENDED 30 JUNE 2017",
+                    "document_date": "2017-09-28T15:34:35+1000",
+                    "number_of_pages": 54,
+                    "id": "01901291",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T15:37:13+1000",
+                    "size": "3.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqsz2vfmlz7l.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 3439066,
+                "code": "AHK",
+                "indices": [],
+                "deprecated_number_of_shares": 49129509,
+                "previous_close_price": 0.07,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 49129509,
+                "eps": -0.0808,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.08,
+                "suspended": false,
+                "last_price": 0.07,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.21,
+                "bid_price": 0.07,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 42782,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.arkmines.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "NEXTREGISTRIES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Antony Corel",
+                    "first_name": "Antony",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Corel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Roger Jackson",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jackson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Mitchell",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitchell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Mitchell",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitchell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

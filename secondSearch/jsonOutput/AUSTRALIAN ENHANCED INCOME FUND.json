@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AYF",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "AUSTRALIAN ENHANCED INCOME FUND",
+    "ASXcode": "AYF",
+    "data": {
+        "summary": {
+            "name_short": "AUST EIF",
+            "name_full": "AUSTRALIAN ENHANCED INCOME FUND",
+            "code": "AYF",
+            "primary_share_code": "AYF",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "AUSTRALIAN ENHANCED",
+            "foreign_exempt": false,
+            "listing_date": "2006-10-17T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "last_dividend": {
+                "comments": "4.013625C FRANKED@30 %; DRP NIL DISCOUNT",
+                "franked_percentage": "45.87%",
+                "created_date": "2017-09-22T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-16T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.0875,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8689 1348",
+            "mailing_address": "Level 10, 30 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "The Fund will provide investors with a diversified exposure to high yielding investment in the fixed income and hybrid (debt/equity) market.",
+            "fax_number": "(03) 9655 8492",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 2770,
+                "status": [],
+                "market_cap": 20554509,
+                "code": "AYF",
+                "indices": [],
+                "year_open_price": 6.4,
+                "previous_close_price": 6.13,
+                "year_change_price": -0.28,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 3353101,
+                "eps": 0.6,
+                "change_in_percent": "-0.163%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 3353101,
+                "pe": 10.2,
+                "offer_price": 6.26,
+                "suspended": false,
+                "last_price": 6.12,
+                "deprecated_market_cap": 20521000,
+                "day_low_price": 6.12,
+                "open_price": 6.17,
+                "year_high_date": "2017-09-27T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 6.25,
+                "bid_price": 6.12,
+                "desc_full": "Units Fully Paid",
+                "day_high_price": 6.17,
+                "year_change_in_percentage": "-4.375%",
+                "average_daily_volume": 3468,
+                "year_low_price": 5.86,
+                "annual_dividend_yield": 5.72
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.eiml.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Campbell Dawson",
+                    "first_name": "Campbell",
+                    "roles": [
+                        "Chairman",
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dawson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Abbott",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Abbott",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Norman Derham",
+                    "first_name": "Norman",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Derham",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Norman Derham",
+                    "first_name": "Norman",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Derham",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

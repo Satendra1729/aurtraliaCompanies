@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/S2G",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "SECURE2GO GROUP LIMITED",
+    "ASXcode": "S2G",
+    "data": {
+        "summary": {
+            "name_short": "SECURE2GO",
+            "name_full": "SECURE2GO GROUP LIMITED",
+            "code": "S2G",
+            "primary_share_code": "S2G",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "SECURE2GO GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9388 8290",
+            "mailing_address": "C/- Churchill Services Pty Lyd, Suite 5, 95 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Industrial Technology",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "S2G",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.secure2go.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Hobson",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hobson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

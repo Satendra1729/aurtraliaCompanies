@@ -1,0 +1,243 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IFL",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "IOOF HOLDINGS LIMITED",
+    "ASXcode": "IFL",
+    "data": {
+        "summary": {
+            "name_short": "IOOF",
+            "name_full": "IOOF HOLDINGS LIMITED",
+            "code": "IFL",
+            "primary_share_code": "IFL",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "IOOF HOLDINGS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/IFL?image_size=L&v=1383011426000",
+            "foreign_exempt": false,
+            "listing_date": "2003-12-05T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "27C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-08T00:00:00+1000",
+                "record_date": "2017-08-18T00:00:00+1000",
+                "payable_date": "2017-09-01T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.27,
+                "ex_date": "2017-08-17T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "13 13 69",
+            "mailing_address": "Level 6, 161 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Financial services",
+            "fax_number": "(03) 8614 4888",
+            "latest_annual_reports": [
+                {
+                    "header": "Notice of AGM and Annual Report",
+                    "document_date": "2017-10-23T13:46:49+1100",
+                    "number_of_pages": 133,
+                    "id": "01911088",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T13:51:54+1100",
+                    "size": "3.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43ngtmjx51sk80.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 583007,
+                "status": [],
+                "market_cap": 3900454660,
+                "code": "IFL",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 9.2,
+                "previous_close_price": 11.11,
+                "year_change_price": 1.82,
+                "year_low_date": "2017-03-15T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 351076027,
+                "eps": 0.387,
+                "change_in_percent": "-0.81%",
+                "change_price": -0.09,
+                "deprecated_number_of_shares": 351076027,
+                "pe": 28.48,
+                "offer_price": 11.15,
+                "suspended": false,
+                "last_price": 11.02,
+                "deprecated_market_cap": 3868858000,
+                "day_low_price": 10.94,
+                "open_price": 11.08,
+                "year_high_date": "2017-10-18T00:00:00+1100",
+                "previous_day_percentage_change": "1%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 11.94,
+                "bid_price": 10.95,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 11.11,
+                "year_change_in_percentage": "19.783%",
+                "average_daily_volume": 1464473,
+                "year_low_price": 8.12,
+                "annual_dividend_yield": 4.81
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.ioof.com.au/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr George Venardos",
+                    "first_name": "George",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Venardos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Kelaher",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelaher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Elizabeth Flynn",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Flynn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Allan Griffiths",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Griffiths",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jane Harvey",
+                    "first_name": "Jane",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Harvey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Selak",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Selak",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Coulter",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coulter",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Paul Vine",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vine",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

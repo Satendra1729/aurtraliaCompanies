@@ -1,0 +1,109 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/QMS",
+    "GICSindustrygroup": "Media",
+    "Companyname": "QMS MEDIA LIMITED",
+    "ASXcode": "QMS",
+    "data": {
+        "summary": {
+            "name_short": "QMS MEDIA",
+            "name_full": "QMS MEDIA LIMITED",
+            "code": "QMS",
+            "primary_share_code": "QMS",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "QMS MEDIA LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2015-06-29T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "1.2C FRANKED @ 30%;  DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.012,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8530 1669",
+            "mailing_address": "Level 9, 636 St Kilda Road, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Outdoor advertising",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-24T11:45:37+1100",
+                    "number_of_pages": 56,
+                    "id": "01911696",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T11:49:32+1100",
+                    "size": "17.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43nj41b1szby9y.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 205721,
+                "status": [],
+                "market_cap": 308816580,
+                "code": "QMS",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 325070084,
+                "previous_close_price": 0.95,
+                "year_low_date": "2017-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 325070084,
+                "eps": 0.052,
+                "change_in_percent": "4.737%",
+                "change_price": 0.045,
+                "pe": 19.13,
+                "offer_price": 0.995,
+                "suspended": false,
+                "last_price": 0.995,
+                "deprecated_market_cap": 323445000,
+                "day_low_price": 0.95,
+                "open_price": 0.95,
+                "year_high_date": "2017-06-19T00:00:00+1000",
+                "previous_day_percentage_change": "0.529%",
+                "year_open_date": null,
+                "year_high_price": 1.19,
+                "bid_price": 0.98,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.995,
+                "average_daily_volume": 553353,
+                "year_low_price": 0.945,
+                "annual_dividend_yield": 2.01
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": null,
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Anthony Carafa",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carafa",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

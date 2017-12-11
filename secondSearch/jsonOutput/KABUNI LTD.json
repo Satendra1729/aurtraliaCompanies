@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KBU",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "KABUNI LTD",
+    "ASXcode": "KBU",
+    "data": {
+        "summary": {
+            "name_short": "KABUNI",
+            "name_full": "KABUNI LTD",
+            "code": "KBU",
+            "primary_share_code": "KBU",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "KABUNI LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/KBU?image_size=L&v=1472652641000",
+            "foreign_exempt": false,
+            "listing_date": "2012-11-01T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9212 0105",
+            "mailing_address": "Ground Floor, 16 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Information Technology",
+            "fax_number": "-",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-30T13:43:11+1000",
+                    "number_of_pages": 69,
+                    "id": "01902931",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:01:05+1100",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvk3m3x2fmzf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1666667,
+                "status": [],
+                "market_cap": 1595619,
+                "code": "KBU",
+                "indices": [],
+                "year_open_price": 0.145,
+                "previous_close_price": 0.005,
+                "year_change_price": -0.14,
+                "year_low_date": "2017-10-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 319123876,
+                "eps": -0.02,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 319123876,
+                "pe": 0,
+                "offer_price": 0.005,
+                "suspended": false,
+                "last_price": 0.005,
+                "deprecated_market_cap": 1596000,
+                "day_low_price": 0.005,
+                "open_price": 0.005,
+                "year_high_date": "2016-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "25%",
+                "year_open_date": "2014-02-20T11:00:00+1100",
+                "year_high_price": 0.019,
+                "bid_price": 0.004,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.005,
+                "year_change_in_percentage": "-96.552%",
+                "average_daily_volume": 1932482,
+                "year_low_price": 0.002,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://investor.kabuni.com/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stuart Carmichael",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carmichael",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Edwards",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colm OBrien",
+                    "first_name": "Colm",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "OBrien",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Brett William Tucker",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tucker",
+                    "middle_name": "William"
+                }
+            ]
+        }
+    }
+}

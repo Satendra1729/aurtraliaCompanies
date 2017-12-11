@@ -1,0 +1,80 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EGD",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "EVANS & PARTNERS GLOBAL DISRUPTION FUND",
+    "ASXcode": "EGD",
+    "data": {
+        "summary": {
+            "name_short": "E&PDISRUP",
+            "name_full": "EVANS & PARTNERS GLOBAL DISRUPTION FUND",
+            "code": "EGD",
+            "primary_share_code": "EGD",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "E&P GBL DISRUPTION",
+            "foreign_exempt": false,
+            "listing_date": "2017-08-01T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9432 3087",
+            "mailing_address": "Level 15, 100 Pacific Highway, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Investment",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 3000,
+                "status": [],
+                "market_cap": 206599096,
+                "code": "EGD",
+                "indices": [],
+                "deprecated_number_of_shares": 112895681,
+                "previous_close_price": 1.83,
+                "year_low_date": "2017-08-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 112895681,
+                "eps": 0,
+                "change_in_percent": "0.546%",
+                "change_price": 0.01,
+                "pe": 0,
+                "offer_price": 1.93,
+                "suspended": false,
+                "last_price": 1.84,
+                "deprecated_market_cap": 0,
+                "day_low_price": 1.84,
+                "open_price": 1.88,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-6.154%",
+                "year_open_date": null,
+                "year_high_price": 1.88,
+                "bid_price": 1.84,
+                "desc_full": "Ordinary Units Fully Paid",
+                "day_high_price": 1.88,
+                "average_daily_volume": 30095,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.epgdf.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Hannah Chan",
+                    "first_name": "Hannah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

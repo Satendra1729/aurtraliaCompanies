@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DEG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "DE GREY MINING LIMITED",
+    "ASXcode": "DEG",
+    "data": {
+        "summary": {
+            "name_short": "DEGREY",
+            "name_full": "DE GREY MINING LIMITED",
+            "code": "DEG",
+            "primary_share_code": "DEG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "DE GREY MINING",
+            "foreign_exempt": false,
+            "listing_date": "2002-07-03T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@degreymining.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 8 9381 4108",
+            "mailing_address": "Level 2, Suite 9, 389 Oxford Street, MT HAWTHORN, WA, AUSTRALIA, 6016",
+            "principal_activities": "Exploration for precious and base metals.",
+            "fax_number": "61 8 9380 6761",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-10-01T23:39:27+1100",
+                    "number_of_pages": 65,
+                    "id": "01903150",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T09:09:52+1100",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvyv7j0wqmjz.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 731802,
+                "status": [],
+                "market_cap": 46886752,
+                "code": "DEG",
+                "indices": [],
+                "year_open_price": 0.002,
+                "previous_close_price": 0.165,
+                "year_change_price": 0.168,
+                "year_low_date": "2016-12-14T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 284162133,
+                "eps": -0.0191,
+                "change_in_percent": "3.03%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 284162133,
+                "pe": 0,
+                "offer_price": 0.17,
+                "suspended": false,
+                "last_price": 0.17,
+                "deprecated_market_cap": 48308000,
+                "day_low_price": 0.165,
+                "open_price": 0.17,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "-2.941%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.38,
+                "bid_price": 0.165,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.172,
+                "year_change_in_percentage": "8,400%",
+                "average_daily_volume": 6696966,
+                "year_low_price": 0.03,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.degreymining.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Simon Lill",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andy Beckwith",
+                    "first_name": "Andy",
+                    "roles": [
+                        "Director",
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beckwith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Lambert",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lambert",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steve Morris",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Nelmes",
+                    "first_name": "Craig",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nelmes",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Craig Nelmes",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nelmes",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

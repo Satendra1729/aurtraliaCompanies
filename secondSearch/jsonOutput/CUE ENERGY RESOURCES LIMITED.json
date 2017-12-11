@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CUE",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "CUE ENERGY RESOURCES LIMITED",
+    "ASXcode": "CUE",
+    "data": {
+        "summary": {
+            "name_short": "CUE",
+            "name_full": "CUE ENERGY RESOURCES LIMITED",
+            "code": "CUE",
+            "primary_share_code": "CUE",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "CUE ENERGY RESOURCE",
+            "foreign_exempt": false,
+            "listing_date": "1995-12-11T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 86104000",
+            "mailing_address": "Level 3, 10-16 Queen Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Oil and gas exploration and production",
+            "fax_number": "(03) 96142142",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-09-28T09:05:48+1000",
+                    "number_of_pages": 69,
+                    "id": "01900960",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T09:10:36+1000",
+                    "size": "4.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mq4fpz0t009s.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 15475,
+                "status": [],
+                "market_cap": 48170261,
+                "code": "CUE",
+                "indices": [],
+                "year_open_price": 0.125,
+                "previous_close_price": 0.069,
+                "year_change_price": -0.056,
+                "year_low_date": "2017-08-31T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 698119720,
+                "eps": -0.0248,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 698119720,
+                "pe": 0,
+                "offer_price": 0.069,
+                "suspended": false,
+                "last_price": 0.069,
+                "deprecated_market_cap": 48170000,
+                "day_low_price": 0.068,
+                "open_price": 0.068,
+                "year_high_date": "2017-01-16T00:00:00+1100",
+                "previous_day_percentage_change": "4.545%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.094,
+                "bid_price": 0.068,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.069,
+                "year_change_in_percentage": "-44.8%",
+                "average_daily_volume": 119622,
+                "year_low_price": 0.045,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.cuenrg.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Grant Andrew Worner",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Worner",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Mr Ban Heng Koh",
+                    "first_name": "Ban Heng",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Koh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Duncan Paul Saville",
+                    "first_name": "Duncan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Saville",
+                    "middle_name": "Paul"
+                },
+                {
+                    "full_name": "Mr Andrew Melville Knox",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Knox",
+                    "middle_name": "Melville"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Melville Knox",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Knox",
+                    "middle_name": "Melville"
+                }
+            ]
+        }
+    }
+}

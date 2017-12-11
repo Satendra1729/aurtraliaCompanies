@@ -1,0 +1,106 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MCY",
+    "GICSindustrygroup": "Utilities",
+    "Companyname": "MERCURY NZ LIMITED",
+    "ASXcode": "MCY",
+    "data": {
+        "summary": {
+            "name_short": "MERCURY NZ",
+            "name_full": "MERCURY NZ LIMITED",
+            "code": "MCY",
+            "primary_share_code": "MCY",
+            "industry_group_name": "Utilities",
+            "delisting_date": null,
+            "sector_name": "Utilities",
+            "name_abbrev": "MERCURY NZ LIMITED",
+            "foreign_exempt": true,
+            "listing_date": "2013-05-10T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "NZ8.8C+2.435294C TO  NR+5C SPEC;15%W/T",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-22T00:00:00+1000",
+                "record_date": "2017-09-14T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.1263804,
+                "ex_date": "2017-09-13T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "64 9 308 8200",
+            "mailing_address": "Level 3, 109 Carlton Gore Road, Newmarket, AUSTRALIA,",
+            "principal_activities": "Electricity generation and electricity retailing.",
+            "fax_number": "64 9 308 8209",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-08-22T06:49:41+1000",
+                    "number_of_pages": 135,
+                    "id": "01885976",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-22T07:33:20+1000",
+                    "size": "5.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170822/pdf/43ll75wgs8vv8x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 12066,
+                "status": [],
+                "market_cap": 4256038052,
+                "code": "MCY",
+                "indices": [],
+                "year_open_price": 1.84939,
+                "previous_close_price": 3.04,
+                "year_change_price": 1.20061,
+                "year_low_date": "2017-02-17T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1400012517,
+                "eps": 0.1273,
+                "change_in_percent": "0.329%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 1400012517,
+                "pe": 23.96,
+                "offer_price": 3.18,
+                "suspended": false,
+                "last_price": 3.05,
+                "deprecated_market_cap": 4270038000,
+                "day_low_price": 3.04,
+                "open_price": 3.05,
+                "year_high_date": "2017-07-25T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 3.332,
+                "bid_price": 3.05,
+                "desc_full": "Ordinary Fully Paid Foreign Exempt Nzx",
+                "day_high_price": 3.1,
+                "year_change_in_percentage": "64.919%",
+                "average_daily_volume": 14615,
+                "year_low_price": 2.711,
+                "annual_dividend_yield": 4.38
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.mercury.co.nz",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Howard Thomas",
+                    "first_name": "Howard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thomas",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

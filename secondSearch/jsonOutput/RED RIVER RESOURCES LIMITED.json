@@ -1,0 +1,164 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RVR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RED RIVER RESOURCES LIMITED",
+    "ASXcode": "RVR",
+    "data": {
+        "summary": {
+            "name_short": "REDRIVER",
+            "name_full": "RED RIVER RESOURCES LIMITED",
+            "code": "RVR",
+            "primary_share_code": "RVR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RED RIVER RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2005-07-15T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9095 7775",
+            "mailing_address": "C/ Hanson Porter Curzon, Level 6, 350 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "03 9670 5942",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Financial Report for 30 June 2017",
+                    "document_date": "2017-09-28T12:53:10+1000",
+                    "number_of_pages": 79,
+                    "id": "01901165",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T12:55:37+1000",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqk2vvkgbmgj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4476080,
+                "status": [],
+                "market_cap": 126287469,
+                "code": "RVR",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.011,
+                "previous_close_price": 0.26,
+                "year_change_price": 0.244,
+                "year_low_date": "2017-05-19T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 485721033,
+                "eps": -0.0069,
+                "change_in_percent": "-1.923%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 485721033,
+                "pe": 0,
+                "offer_price": 0.26,
+                "suspended": false,
+                "last_price": 0.255,
+                "deprecated_market_cap": 123859000,
+                "day_low_price": 0.25,
+                "open_price": 0.26,
+                "year_high_date": "2017-10-17T00:00:00+1100",
+                "previous_day_percentage_change": "1.961%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.34,
+                "bid_price": 0.255,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.26,
+                "year_change_in_percentage": "2,218.182%",
+                "average_daily_volume": 3173954,
+                "year_low_price": 0.165,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.redriverresources.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brett Fletcher",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fletcher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mel Palancian",
+                    "first_name": "Mel",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Palancian",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Donald Garner",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Garner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jim Black",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Black",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Hanlon",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hanlon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Hart",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hart",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Cameron Bodley",
+                    "first_name": "Cameron",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bodley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

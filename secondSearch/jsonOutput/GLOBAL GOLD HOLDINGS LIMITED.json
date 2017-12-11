@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GGH",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "GLOBAL GOLD HOLDINGS LIMITED",
+    "ASXcode": "GGH",
+    "data": {
+        "summary": {
+            "name_short": "GLOBALGOLD",
+            "name_full": "GLOBAL GOLD HOLDINGS LIMITED",
+            "code": "GGH",
+            "primary_share_code": "GGH",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "GLOBAL GOLD HLD LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-11-20T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 94864036",
+            "mailing_address": "Unit 5, Ground Floor, 1 Alfred Place, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Gold trading acitivities, investments in gold equities and strategic investments in gold-related entities.",
+            "fax_number": "+61 8  94864799",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T18:27:55+1000",
+                    "number_of_pages": 63,
+                    "id": "01902752",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T18:30:46+1000",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtq5vq6frck2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "XE"
+                ],
+                "market_cap": 1143998,
+                "code": "GGH",
+                "indices": [],
+                "year_open_price": 0.003,
+                "previous_close_price": 0.019,
+                "year_change_price": 0.016,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 60210436,
+                "eps": -0.0027,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 60210436,
+                "pe": 0,
+                "offer_price": 0.028,
+                "suspended": false,
+                "last_price": 0.019,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-05-16T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.058,
+                "bid_price": 0.02,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "533.333%",
+                "average_daily_volume": 217404,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.globalgold.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Harry Fung",
+                    "first_name": "Harry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fung",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Campbell Mcleod",
+                    "first_name": "Campbell",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mcleod",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Pertich",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pertich",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Eryn Kestel",
+                    "first_name": "Eryn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kestel",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

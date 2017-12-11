@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AEI",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "AERIS ENVIRONMENTAL LTD",
+    "ASXcode": "AEI",
+    "data": {
+        "summary": {
+            "name_short": "AERIS ENV",
+            "name_full": "AERIS ENVIRONMENTAL LTD",
+            "code": "AEI",
+            "primary_share_code": "AEI",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "AERIS ENVIRONMENTAL",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AEI?image_size=L&v=1491874124000",
+            "foreign_exempt": false,
+            "listing_date": "2000-09-12T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8344 1315",
+            "mailing_address": "Level 1, 5/26-34 Dunning Avenue, ROSEBERY, NSW, AUSTRALIA, 2018",
+            "principal_activities": "Development and sale of products to eliminate biofilm growth in air conditioning systems and water treatment systems to enhance indoor air quality.",
+            "fax_number": "(02) 9697 0944",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-26T17:37:43+1100",
+                    "number_of_pages": 76,
+                    "id": "01913240",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-26T17:41:10+1100",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171026/pdf/43nmf5mq75ww9g.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 187887,
+                "status": [],
+                "market_cap": 41802528,
+                "code": "AEI",
+                "indices": [],
+                "year_open_price": 0.135,
+                "previous_close_price": 0.265,
+                "year_change_price": 0.12,
+                "year_low_date": "2017-09-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 157745387,
+                "eps": -0.024,
+                "change_in_percent": "-3.774%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 157745387,
+                "pe": 0,
+                "offer_price": 0.265,
+                "suspended": false,
+                "last_price": 0.255,
+                "deprecated_market_cap": 40225000,
+                "day_low_price": 0.255,
+                "open_price": 0.265,
+                "year_high_date": "2017-01-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.39,
+                "bid_price": 0.255,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.265,
+                "year_change_in_percentage": "88.889%",
+                "average_daily_volume": 56699,
+                "year_low_price": 0.2,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.aeris.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Maurie Stang",
+                    "first_name": "Maurie",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Bush",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bush",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Kritzler",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kritzler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Alex Sava",
+                    "first_name": "Alex",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Sava",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bernard Stang",
+                    "first_name": "Bernard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Robert Waring",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Waring",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EGS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "EASTERN GOLDFIELDS LIMITED",
+    "ASXcode": "EGS",
+    "data": {
+        "summary": {
+            "name_short": "EASTGOLD",
+            "name_full": "EASTERN GOLDFIELDS LIMITED",
+            "code": "EGS",
+            "primary_share_code": "EGS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "EASTERN GOLDFIELDS",
+            "foreign_exempt": false,
+            "listing_date": "2002-10-29T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6241 1866",
+            "mailing_address": "Level 1/24 Mumford Place, BALCATTA, WA, AUSTRALIA, 6021",
+            "principal_activities": "Gold project development",
+            "fax_number": "(08) 6241 1811",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-11-23T12:29:58+1100",
+                    "number_of_pages": 78,
+                    "id": "01925126",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-23T12:42:17+1100",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171123/pdf/43phydcd7z5wx8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "EGS",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    }
+                ],
+                "deprecated_number_of_shares": 564952084,
+                "previous_close_price": 0.235,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 564952084,
+                "eps": -0.0359,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.235,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-07T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.42,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.easterngoldfields.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Fotios",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fotios",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Readhead",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Readhead",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan Still",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Still",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Shannon Coates",
+                    "first_name": "Shannon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Coates",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

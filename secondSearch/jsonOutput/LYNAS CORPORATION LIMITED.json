@@ -1,0 +1,197 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LYC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LYNAS CORPORATION LIMITED",
+    "ASXcode": "LYC",
+    "data": {
+        "summary": {
+            "name_full": "LYNAS CORPORATION LIMITED",
+            "code": "LYC",
+            "name_short": "LYNAS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LYNAS CORPORATION",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/LYC?image_size=L&v=1422430593000",
+            "foreign_exempt": false,
+            "listing_date": "1986-09-11T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "general@lynascorp.com",
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+60 9 582 5200",
+            "mailing_address": "Suite 3, 5 Tully Road, EAST PERTH, WA, AUSTRALIA, 6004",
+            "principal_activities": "Production of Rare Earths concentrate at Mt Weld.  Production and sale of Rare Earths products from the LAMP in Malaysia.",
+            "fax_number": "+60 9 582 5291",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report and Appendix 4G",
+                    "document_date": "2017-10-02T20:36:06+1100",
+                    "number_of_pages": 117,
+                    "id": "01903408",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-03T08:18:53+1100",
+                    "size": "3.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171003/pdf/43mwmjznf1m3t7.pdf"
+                }
+            ],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    }
+                ],
+                "code": "LYC",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "primary_share_code": "LYC",
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.lynascorp.com/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": "http://www.lynascorp.com"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mike Harding",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harding",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Amanda Lacaze",
+                    "first_name": "Amanda",
+                    "roles": [
+                        "Managing Director",
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lacaze",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathleen Conlon",
+                    "first_name": "Kathleen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Conlon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philippe Etienne",
+                    "first_name": "Philippe",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Etienne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Prof. John Humphrey",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Humphrey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Bruce Murdoch",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murdoch",
+                    "middle_name": "Bruce"
+                },
+                {
+                    "full_name": "Mr Gaudenz Sturzenegger",
+                    "first_name": "Gaudenz",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sturzenegger",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Arnold",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Arnold",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ivo John Polovineo",
+                    "first_name": "Ivo",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Polovineo",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Andrew Arnold",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Arnold",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

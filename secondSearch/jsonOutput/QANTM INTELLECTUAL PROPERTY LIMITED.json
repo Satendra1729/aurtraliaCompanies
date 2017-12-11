@@ -1,0 +1,183 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/QIP",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "QANTM INTELLECTUAL PROPERTY LIMITED",
+    "ASXcode": "QIP",
+    "data": {
+        "summary": {
+            "name_short": "QANTMIP",
+            "name_full": "QANTM INTELLECTUAL PROPERTY LIMITED",
+            "code": "QIP",
+            "primary_share_code": "QIP",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "QANTM INTELLECTUAL",
+            "foreign_exempt": false,
+            "listing_date": "2016-08-31T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "5.3C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-30T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-10-04T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.053,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9254 2666",
+            "mailing_address": "Level 15, 1 Nicholson Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Full service patents, designs and trade marks practice including an intellectual property focused commercial law and litigation practice.",
+            "fax_number": "+61 3 9254 2770",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-11T14:48:31+1100",
+                    "number_of_pages": 91,
+                    "id": "01906826",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-11T14:51:53+1100",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171011/pdf/43n4kxbjr09v7t.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 17200,
+                "status": [],
+                "market_cap": 209988843,
+                "code": "QIP",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 132904331,
+                "previous_close_price": 1.58,
+                "year_low_date": "2017-05-25T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 132904331,
+                "eps": 0.054,
+                "change_in_percent": "-1.899%",
+                "change_price": -0.03,
+                "pe": 28.7,
+                "offer_price": 1.6,
+                "suspended": false,
+                "last_price": 1.55,
+                "deprecated_market_cap": 206002000,
+                "day_low_price": 1.55,
+                "open_price": 1.575,
+                "year_high_date": "2016-12-15T00:00:00+1100",
+                "previous_day_percentage_change": "1.935%",
+                "year_open_date": null,
+                "year_high_price": 2.23,
+                "bid_price": 1.55,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.58,
+                "average_daily_volume": 54821,
+                "year_low_price": 1.1,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.qantmip.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard England",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "England",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leon Allen",
+                    "first_name": "Leon",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Allen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Abigail Cheadle",
+                    "first_name": "Abigail",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Cheadle",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cameron Judson",
+                    "first_name": "Cameron",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Judson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sonia Petering",
+                    "first_name": "Sonia",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Petering",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Cleaver",
+                    "first_name": "Martin",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cleaver",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Martin Cleaver",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cleaver",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Leanne Ralph",
+                    "first_name": "Leanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ralph",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

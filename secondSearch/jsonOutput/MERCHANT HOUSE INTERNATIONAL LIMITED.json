@@ -1,0 +1,179 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MHI",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "MERCHANT HOUSE INTERNATIONAL LIMITED",
+    "ASXcode": "MHI",
+    "data": {
+        "summary": {
+            "name_short": "MERCHANT",
+            "name_full": "MERCHANT HOUSE INTERNATIONAL LIMITED",
+            "code": "MHI",
+            "primary_share_code": "MHI",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "MERCHANT HOUSE",
+            "foreign_exempt": false,
+            "listing_date": "1994-10-31T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9435 3200",
+            "mailing_address": "Level 1, 31 Cliff Street, FREMANTLE, WA, AUSTRALIA, 6160",
+            "principal_activities": "Designer, manufacturer and marketer of leather shoes, Christmas and seasonal ornaments, home decoration items and kitchen textiles.",
+            "fax_number": "08 6444 7408",
+            "latest_annual_reports": [
+                {
+                    "header": "Dispatch of 2017 Annual Report and Notice of AGM",
+                    "document_date": "2017-07-21T13:25:54+1000",
+                    "number_of_pages": 87,
+                    "id": "01875991",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-07-21T13:31:15+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170721/pdf/43ksmsp2mvkmx2.pdf"
+                },
+                {
+                    "header": "MHI 2017 Annual Report",
+                    "document_date": "2017-06-28T16:36:45+1000",
+                    "number_of_pages": 70,
+                    "id": "01869405",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-06-28T16:43:20+1000",
+                    "size": "564.6KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170628/pdf/43k829nf5vv9zw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 17439302,
+                "code": "MHI",
+                "indices": [],
+                "year_open_price": 0.18,
+                "previous_close_price": 0.185,
+                "year_change_price": 0.005,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 94266496,
+                "eps": -0.0021,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 94266496,
+                "pe": 0,
+                "offer_price": 0.2,
+                "suspended": false,
+                "last_price": 0.185,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.205,
+                "bid_price": 0.185,
+                "desc_full": "1c Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "2.778%",
+                "average_daily_volume": 31268,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.lorettalee.com.hk",
+            "fiscal_year_end": "31/03",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Loretta Lee",
+                    "first_name": "Loretta",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director",
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Bell",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian J Burton",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burton",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Clifford Einstein",
+                    "first_name": "Clifford",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Einstein",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Christina Lee",
+                    "first_name": "Christina",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Peggy Liao",
+                    "first_name": "Peggy",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Liao",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Miss Xiao Lan Wu",
+                    "first_name": "Xiao",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Miss",
+                    "last_name": "Lan Wu",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David McArthur",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McArthur",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

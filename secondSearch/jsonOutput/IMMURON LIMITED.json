@@ -1,0 +1,189 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IMC",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "IMMURON LIMITED",
+    "ASXcode": "IMC",
+    "data": {
+        "summary": {
+            "name_full": "IMMURON LIMITED",
+            "code": "IMC",
+            "name_short": "IMMURON",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "IMMURON LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/IMC?image_size=L&v=1432193081000",
+            "foreign_exempt": false,
+            "listing_date": "1999-04-30T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "info@immuron.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 (0)3 9824 5254",
+            "mailing_address": "Level 3, 62 Lygon Street, CARLTON, VIC, AUSTRALIA, 3053",
+            "principal_activities": "Immuron is a biopharmaceutical company focused on oral immunotherapy treatments using dairy-derived antibody products for humans relating to gastrointestinal health, liver diseases such as fatty liver/NASH and infectious diseases such as Clostridium diffi",
+            "fax_number": "+61 (0)3 9822 7735",
+            "latest_annual_reports": [
+                {
+                    "header": "Immuron Lodges Form 20F USA Annual Report",
+                    "document_date": "2017-11-03T12:16:52+1100",
+                    "number_of_pages": 146,
+                    "id": "01917839",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-03T12:25:05+1100",
+                    "size": "2.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171103/pdf/43nygf6hl91hmx.pdf"
+                },
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-28T17:12:12+1000",
+                    "number_of_pages": 82,
+                    "id": "01901442",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T17:19:28+1000",
+                    "size": "12.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr30hd6v8yfy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 61958,
+                "status": [],
+                "market_cap": 23479283,
+                "code": "IMC",
+                "indices": [],
+                "year_open_price": 0.2,
+                "previous_close_price": 0.18,
+                "year_change_price": -0.035,
+                "year_low_date": "2017-10-30T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 130440462,
+                "eps": -0.064,
+                "change_in_percent": "-8.333%",
+                "change_price": -0.015,
+                "deprecated_number_of_shares": 130440462,
+                "pe": 0,
+                "offer_price": 0.17,
+                "suspended": false,
+                "last_price": 0.165,
+                "deprecated_market_cap": 21523000,
+                "day_low_price": 0.165,
+                "open_price": 0.17,
+                "year_high_date": "2017-05-03T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.7,
+                "bid_price": 0.16,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.17,
+                "year_change_in_percentage": "-17.5%",
+                "average_daily_volume": 158969,
+                "year_low_price": 0.14,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "IMC",
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.immuron.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Roger Aston",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Aston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Thomas Liquard",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liquard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Anastasiou",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anastasiou",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Anastasiou",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anastasiou",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Jude Pollock",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pollock",
+                    "middle_name": "Jude"
+                },
+                {
+                    "full_name": "Mr Phillip Hains",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hains",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Vaughan",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vaughan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Vaughan",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vaughan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phillip Hains",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hains",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

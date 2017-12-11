@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HXG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "HEXAGON RESOURCES LIMITED",
+    "ASXcode": "HXG",
+    "data": {
+        "summary": {
+            "name_short": "HEXAGON",
+            "name_full": "HEXAGON RESOURCES LIMITED",
+            "code": "HXG",
+            "primary_share_code": "HXG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "HEXAGON RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2008-10-30T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@hexagonresources.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6244 0349",
+            "mailing_address": "Unit 4, 20 Peel Road, O'CONNOR, WA, AUSTRALIA, 6163",
+            "principal_activities": "Mining and exploration.",
+            "fax_number": "+61 8 6314 6673",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-28T19:41:24+1000",
+                    "number_of_pages": 73,
+                    "id": "01901627",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:16:18+1000",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrkffv3rsym7.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 145789,
+                "status": [],
+                "market_cap": 33505211,
+                "code": "HXG",
+                "indices": [],
+                "year_open_price": 0.32,
+                "previous_close_price": 0.135,
+                "year_change_price": -0.18,
+                "year_low_date": "2017-06-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 248186747,
+                "eps": -0.007,
+                "change_in_percent": "3.704%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 248186747,
+                "pe": 0,
+                "offer_price": 0.145,
+                "suspended": false,
+                "last_price": 0.14,
+                "deprecated_market_cap": 34746000,
+                "day_low_price": 0.14,
+                "open_price": 0.14,
+                "year_high_date": "2017-01-04T00:00:00+1100",
+                "previous_day_percentage_change": "-6.897%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.285,
+                "bid_price": 0.135,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.14,
+                "year_change_in_percentage": "-56.25%",
+                "average_daily_volume": 504497,
+                "year_low_price": 0.08,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.hexagonresources.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Rosenstreich",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rosenstreich",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Garry Plowright",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Plowright",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Charles Whitfield",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whitfield",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Rowan Caren",
+                    "first_name": "Rowan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Caren",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

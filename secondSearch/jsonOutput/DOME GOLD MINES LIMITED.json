@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DME",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "DOME GOLD MINES LIMITED",
+    "ASXcode": "DME",
+    "data": {
+        "summary": {
+            "name_short": "DOMEGOLD",
+            "name_full": "DOME GOLD MINES LIMITED",
+            "code": "DME",
+            "primary_share_code": "DME",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "DOME GOLD MINES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2013-10-22T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8203 5620",
+            "mailing_address": "Suite 2, Level 8, 17 -19 Bridge Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Exploration and Development of ironsands, gold and copper deposits in Fiji.",
+            "fax_number": "(02) 9241 2013",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders, NOM and Proxy",
+                    "document_date": "2017-10-13T10:12:22+1100",
+                    "number_of_pages": 76,
+                    "id": "01907586",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T10:17:40+1100",
+                    "size": "5.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6bjjxrvnwjk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 52659436,
+                "code": "DME",
+                "indices": [],
+                "year_open_price": 0.29,
+                "previous_close_price": 0.21,
+                "year_change_price": -0.08,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 250759219,
+                "eps": -0.0067,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 250759219,
+                "pe": 0,
+                "offer_price": 0.21,
+                "suspended": false,
+                "last_price": 0.21,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.3,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-27.586%",
+                "average_daily_volume": 11000,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.domegoldmines.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Garry George Lowder",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Lowder",
+                    "middle_name": "George"
+                },
+                {
+                    "full_name": "Mr John McCarthy",
+                    "first_name": "John",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McCarthy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tadao Tsubata",
+                    "first_name": "Tadao",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tsubata",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sarah Elizabeth Harvey",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Harvey",
+                    "middle_name": "Elizabeth"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Marcelo Mora",
+                    "first_name": "Marcelo",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mora",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

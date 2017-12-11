@@ -1,0 +1,198 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CCE",
+    "GICSindustrygroup": "Utilities",
+    "Companyname": "CARNEGIE CLEAN ENERGY LIMITED",
+    "ASXcode": "CCE",
+    "data": {
+        "summary": {
+            "name_short": "CARNEGIE",
+            "name_full": "CARNEGIE CLEAN ENERGY LIMITED",
+            "code": "CCE",
+            "primary_share_code": "CCE",
+            "industry_group_name": "Utilities",
+            "delisting_date": null,
+            "sector_name": "Utilities",
+            "name_abbrev": "CARNEGIE CLN ENERGY",
+            "foreign_exempt": false,
+            "listing_date": "1993-10-26T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "enquiries@carnegiece.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6168 8400",
+            "mailing_address": "21 Barker Street, BELMONT, WA, AUSTRALIA, 6104",
+            "principal_activities": "Wave Energy \nSolar Energy\nBattery\nMicrogrid\nTechnology Development",
+            "fax_number": "+ 61 8 6230 4925",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-13T11:28:00+1100",
+                    "number_of_pages": 52,
+                    "id": "01907623",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T11:31:20+1100",
+                    "size": "4.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6dys1086pn3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 753450,
+                "status": [],
+                "market_cap": 109599560,
+                "code": "CCE",
+                "indices": [],
+                "year_open_price": 0.052,
+                "previous_close_price": 0.041,
+                "year_change_price": -0.011,
+                "year_low_date": "2017-11-02T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2673159995,
+                "eps": -0.0065,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 2673159995,
+                "pe": 0,
+                "offer_price": 0.042,
+                "suspended": false,
+                "last_price": 0.041,
+                "deprecated_market_cap": 109600000,
+                "day_low_price": 0.04,
+                "open_price": 0.042,
+                "year_high_date": "2017-02-01T00:00:00+1100",
+                "previous_day_percentage_change": "-4.651%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.091,
+                "bid_price": 0.04,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.043,
+                "year_change_in_percentage": "-21.154%",
+                "average_daily_volume": 2044508,
+                "year_low_price": 0.033,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.carnegiece.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Terry Stinson",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Michael Edward Ottaviano",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Ottaviano",
+                    "middle_name": "Edward"
+                },
+                {
+                    "full_name": "Mr John Rix Davidson",
+                    "first_name": "John",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davidson",
+                    "middle_name": "Rix"
+                },
+                {
+                    "full_name": "Mr Kieran O'Brien",
+                    "first_name": "Kieran",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Brien",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Fitzpatrick",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzpatrick",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Leggate",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leggate",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Mooney",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mooney",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Woodall",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Woodall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Aidan Flynn",
+                    "first_name": "Aidan",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Flynn",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Aidan Flynn",
+                    "first_name": "Aidan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Flynn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Mooney",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mooney",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

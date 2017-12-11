@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AYK",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "AUSTRALIAN MASTERS YIELD FUND NO 4 LIMITED",
+    "ASXcode": "AYK",
+    "data": {
+        "summary": {
+            "name_short": "AMYF FOUR",
+            "name_full": "AUSTRALIAN MASTERS YIELD FUND NO 4 LIMITED",
+            "code": "AYK",
+            "primary_share_code": "AYK",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "AMYF FOUR LTD",
+            "foreign_exempt": false,
+            "listing_date": "2013-10-31T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "25.2C FRANKED @ 30%;  NIL CFI",
+                "franked_percentage": "90%",
+                "created_date": "2017-11-01T00:00:00+1100",
+                "record_date": "2017-11-20T00:00:00+1100",
+                "payable_date": "2017-11-30T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.28,
+                "ex_date": "2017-11-17T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 454 801",
+            "mailing_address": "Level 15, 100 Pacific Highway, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Investment in portfolio of fixed income securities.",
+            "fax_number": "1300 883 159",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-25T17:29:22+1000",
+                    "number_of_pages": 51,
+                    "id": "01899676",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-25T17:32:40+1000",
+                    "size": "850.9KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170925/pdf/43mm7tbg7kj6by.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 41389438,
+                "code": "AYK",
+                "indices": [],
+                "year_open_price": 85.04322,
+                "previous_close_price": 41.56,
+                "year_change_price": -43.48322,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 995896,
+                "eps": 1.755,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 995896,
+                "pe": 23.68,
+                "offer_price": 41.46,
+                "suspended": false,
+                "last_price": 41.56,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-10T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 41.997,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-51.131%",
+                "average_daily_volume": 256,
+                "year_low_price": 0,
+                "annual_dividend_yield": 3.8
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.australianmastersyieldfund.com.au/amyf4.htm",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tom Kline",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kline",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Brown",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alex MachLachlan",
+                    "first_name": "Alex",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "MachLachlan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Hannah Chan",
+                    "first_name": "Hannah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

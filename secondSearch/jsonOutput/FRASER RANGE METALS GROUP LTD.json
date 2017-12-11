@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FRN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FRASER RANGE METALS GROUP LTD",
+    "ASXcode": "FRN",
+    "data": {
+        "summary": {
+            "name_full": "FRASER RANGE METALS GROUP LTD",
+            "code": "FRN",
+            "name_short": "FRASERRANG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "FRASER RANGE METALS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/FRN?image_size=L&v=1458795102000",
+            "foreign_exempt": false,
+            "listing_date": "2004-08-04T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@frmetals.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6489 1600",
+            "mailing_address": "Suite 9, 330 Churchill Avenue, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Mineral Exploration",
+            "fax_number": "+61 8 6489 1601",
+            "latest_annual_reports": [
+                {
+                    "header": "30 June 2017 Annual Report to Shareholders",
+                    "document_date": "2017-10-01T23:02:37+1100",
+                    "number_of_pages": 41,
+                    "id": "01903039",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:11:16+1100",
+                    "size": "837.9KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvrctvhf20th.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 5500000,
+                "code": "FRN",
+                "indices": [],
+                "deprecated_number_of_shares": 225000000,
+                "previous_close_price": 0.022,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 250000000,
+                "eps": -0.0013,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.023,
+                "suspended": false,
+                "last_price": 0.022,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-12-01T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.027,
+                "bid_price": 0.021,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 1115091,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "FRN",
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.frmetals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Thomas Bahen",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bahen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Aidan Platel",
+                    "first_name": "Aidan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Platel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Glenn Ross Whiddon",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whiddon",
+                    "middle_name": "Ross"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Zane Lewis",
+                    "first_name": "Zane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lewis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

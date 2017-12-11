@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AMO",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "AMBERTECH LIMITED",
+    "ASXcode": "AMO",
+    "data": {
+        "summary": {
+            "name_short": "AMBERTECH",
+            "name_full": "AMBERTECH LIMITED",
+            "code": "AMO",
+            "primary_share_code": "AMO",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "AMBERTECH LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2004-12-10T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9998 7600",
+            "mailing_address": "Unit 1, 2 Daydream Street, WARRIEWOOD, NSW, AUSTRALIA, 2102",
+            "principal_activities": "The Company's business is the distribution of technology equipment to the professional broadcast, film, recording and sound reinforcement industries and of consumer radio and video products in Australia and New Zealand.",
+            "fax_number": "(02) 9999 0770",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-20T11:05:11+1100",
+                    "number_of_pages": 64,
+                    "id": "01910316",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T11:08:48+1100",
+                    "size": "3.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43nds4fw56yhtp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 4433111,
+                "code": "AMO",
+                "indices": [],
+                "year_open_price": 0.16,
+                "previous_close_price": 0.145,
+                "year_change_price": -0.015,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 30573181,
+                "eps": -0.021,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 30573181,
+                "pe": 0,
+                "offer_price": 0.14,
+                "suspended": false,
+                "last_price": 0.145,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-04-04T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-28T11:00:00+1100",
+                "year_high_price": 0.2,
+                "bid_price": 0.125,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-9.375%",
+                "average_daily_volume": 115596,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.ambertech.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Wallace",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wallace",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Amos",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Amos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Thomas Amos",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Amos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Edwin Goodwin",
+                    "first_name": "Edwin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goodwin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Swift",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Swift",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Glasson",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Glasson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Robert Glasson",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Glasson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

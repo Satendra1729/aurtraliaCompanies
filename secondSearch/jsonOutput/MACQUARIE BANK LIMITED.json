@@ -1,0 +1,214 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MBL",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "MACQUARIE BANK LIMITED",
+    "ASXcode": "MBL",
+    "data": {
+        "summary": {
+            "name_full": "MACQUARIE BANK LIMITED",
+            "products": [
+                "floating-rate-notes",
+                "hybrid-securities"
+            ],
+            "phone_number": "(02) 8232 3333",
+            "mailing_address": "Level 6, 50 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Banking and Financial Services",
+            "name_short": "MACQINCOME",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "MACQUARIE BANK LTD",
+            "registry_phone_number": "1300 554 474",
+            "latest_annual_reports": [
+                {
+                    "header": "Macquarie Bank FY17 Annual Report",
+                    "document_date": "2017-05-05T08:18:02+1000",
+                    "number_of_pages": 188,
+                    "id": "01854690",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-05-05T08:19:34+1000",
+                    "size": "11.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170505/pdf/43j1jv5qlrlhf4.pdf"
+                }
+            ],
+            "foreign_exempt": false,
+            "code": "MBL",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "1996-07-29T00:00:00+1000",
+            "fax_number": "(02) 8237 1899",
+            "web_address": "http://www.macquarie.com.au/mblhb/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter H Warne",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warne",
+                    "middle_name": "H"
+                },
+                {
+                    "full_name": "Ms Mary J Reemst",
+                    "first_name": "Mary",
+                    "roles": [
+                        "Managing Director",
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Reemst",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Nicholas W Moore",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moore",
+                    "middle_name": "W"
+                },
+                {
+                    "full_name": "Prof. Gary R Banks",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Banks",
+                    "middle_name": "R"
+                },
+                {
+                    "full_name": "Mr Gordon M Cairns",
+                    "first_name": "Gordon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cairns",
+                    "middle_name": "M"
+                },
+                {
+                    "full_name": "Mr Michael J Coleman",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coleman",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mrs Patricia A Cross",
+                    "first_name": "Patricia",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Cross",
+                    "middle_name": "A"
+                },
+                {
+                    "full_name": "Ms Diane J Grady",
+                    "first_name": "Diane",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Grady",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Michael J Hawker",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hawker",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Glenn Stevens",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stevens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Nicola Wakefield Evans",
+                    "first_name": "Nicola",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wakefield Evans",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Upfold",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Upfold",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Dobson",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dobson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Dennis Leong",
+                    "first_name": "Dennis",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Ida Lawrance",
+                    "first_name": "Ida",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lawrance",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Paula Walsh",
+                    "first_name": "Paula",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Walsh",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

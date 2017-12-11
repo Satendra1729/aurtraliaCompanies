@@ -1,0 +1,161 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PFG",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "PRIME FINANCIAL GROUP LIMITED",
+    "ASXcode": "PFG",
+    "data": {
+        "summary": {
+            "name_short": "PRIME FIN.",
+            "name_full": "PRIME FINANCIAL GROUP LIMITED",
+            "code": "PFG",
+            "primary_share_code": "PFG",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "PRIME FINANCIAL",
+            "foreign_exempt": false,
+            "listing_date": "2004-12-07T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "0.45C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-28T00:00:00+1000",
+                "payable_date": "2017-10-26T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.0045,
+                "ex_date": "2017-09-27T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9827 6999",
+            "mailing_address": "Level 17, Como Office Tower, 644 Chapel Street, SOUTH YARRA, VIC, AUSTRALIA, 3141",
+            "principal_activities": "Prime is an Integrated Accounting, Wealth Management and Capital Advisory firm that operates a direct client advice model and a partnership model with Accounting and Advisory firms. Prime\u00bf\u00bf\u00bfs goal is for clients to receive complete Accounting, Wealth Mana",
+            "fax_number": "(03) 9827 9100",
+            "latest_annual_reports": [
+                {
+                    "header": "Update on 2017 Annual Report Action Plan",
+                    "document_date": "2017-10-02T10:40:37+1100",
+                    "number_of_pages": 3,
+                    "id": "01903229",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T10:44:54+1100",
+                    "size": "616.6KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mw3rgd1vq1tc.pdf"
+                },
+                {
+                    "header": "Full Year 2017 Annual Report",
+                    "document_date": "2017-09-29T16:55:30+1000",
+                    "number_of_pages": 72,
+                    "id": "01902662",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T17:36:51+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtjtl3krxj0f.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 31504657,
+                "code": "PFG",
+                "indices": [],
+                "year_open_price": 0.13,
+                "previous_close_price": 0.165,
+                "year_change_price": 0.035,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 190937314,
+                "eps": 0.0188,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 190937314,
+                "pe": 8.78,
+                "offer_price": 0.165,
+                "suspended": false,
+                "last_price": 0.165,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-09-26T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.23,
+                "bid_price": 0.16,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "26.923%",
+                "average_daily_volume": 204753,
+                "year_low_price": 0,
+                "annual_dividend_yield": 5.15
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.primefinancial.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Paul Cowan",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cowan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Madder",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Managing Director",
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Madder",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Barry Madder",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Madder",
+                    "middle_name": "Barry"
+                },
+                {
+                    "full_name": "Mr Tim Carroll",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carroll",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Simon Munday",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Munday",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

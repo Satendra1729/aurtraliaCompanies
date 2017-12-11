@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EDC",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "EILDON CAPITAL LIMITED",
+    "ASXcode": "EDC",
+    "data": {
+        "summary": {
+            "name_short": "EILDON CAP",
+            "name_full": "EILDON CAPITAL LIMITED",
+            "last_dividend": {
+                "comments": "1.7875C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-10-03T00:00:00+1100",
+                "record_date": "2017-10-09T00:00:00+1100",
+                "payable_date": "2017-10-24T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.017875,
+                "ex_date": "2017-10-06T00:00:00+1100"
+            },
+            "code": "EDC",
+            "primary_share_code": "EDC",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "EILDON CAPITAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-02-28T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "jhunter@cvc.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9087 8000",
+            "mailing_address": "Suite 3118, Level 31, 120 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Investment in real estate sector",
+            "fax_number": "02 9087 8088",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-25T10:15:31+1100",
+                    "number_of_pages": 52,
+                    "id": "01912268",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-25T10:19:04+1100",
+                    "size": "3.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171025/pdf/43nkcjr6d272h2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 36827462,
+                "code": "EDC",
+                "indices": [],
+                "deprecated_number_of_shares": 34742889,
+                "previous_close_price": 1.06,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 34742889,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 1.075,
+                "suspended": false,
+                "last_price": 1.06,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-02T00:00:00+1100",
+                "previous_day_percentage_change": "-1.395%",
+                "year_open_date": null,
+                "year_high_price": 1.135,
+                "bid_price": 1.06,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 11983,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.eildonfunds.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James Richard Davies",
+                    "first_name": "James",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davies",
+                    "middle_name": "Richard"
+                },
+                {
+                    "full_name": "Mr Mark Anthony Avery",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Avery",
+                    "middle_name": "Anthony"
+                },
+                {
+                    "full_name": "Mr Alexander Damien Beard",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beard",
+                    "middle_name": "Damien"
+                },
+                {
+                    "full_name": "Ms Michelle Esther Phillips",
+                    "first_name": "Michelle",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Phillips",
+                    "middle_name": "Esther"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Hunter",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hunter",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

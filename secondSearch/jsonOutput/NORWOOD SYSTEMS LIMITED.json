@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NOR",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "NORWOOD SYSTEMS LIMITED",
+    "ASXcode": "NOR",
+    "data": {
+        "summary": {
+            "name_short": "NORWOOD",
+            "name_full": "NORWOOD SYSTEMS LIMITED",
+            "code": "NOR",
+            "primary_share_code": "NOR",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "NORWOOD SYSTEMS LTD.",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/NOR?image_size=L&v=1452152555000",
+            "foreign_exempt": false,
+            "listing_date": "1995-06-27T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9482 0560",
+            "mailing_address": "Ground Floor, 16 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Telecommunications",
+            "fax_number": "+61 8 9482 0505",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-28T09:55:21+1000",
+                    "number_of_pages": 104,
+                    "id": "01888878",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-28T10:00:29+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170828/pdf/43lsrvsffmfq24.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 18993319,
+                "status": [],
+                "market_cap": 25639469,
+                "code": "NOR",
+                "indices": [],
+                "year_open_price": 0.01714,
+                "previous_close_price": 0.022,
+                "year_change_price": 0.00186,
+                "year_low_date": "2017-08-04T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1165430387,
+                "eps": -0.0068,
+                "change_in_percent": "-13.636%",
+                "change_price": -0.003,
+                "deprecated_number_of_shares": 1165430387,
+                "pe": 0,
+                "offer_price": 0.02,
+                "suspended": false,
+                "last_price": 0.019,
+                "deprecated_market_cap": 22143000,
+                "day_low_price": 0.019,
+                "open_price": 0.022,
+                "year_high_date": "2016-12-13T00:00:00+1100",
+                "previous_day_percentage_change": "-8.333%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.042,
+                "bid_price": 0.019,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.022,
+                "year_change_in_percentage": "10.852%",
+                "average_daily_volume": 5511719,
+                "year_low_price": 0.01,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.norwoodsystems.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Amit Pau",
+                    "first_name": "Amit",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pau",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Ostergaard",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ostergaard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Edwards",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Giles Roland Everist",
+                    "first_name": "Giles",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Everist",
+                    "middle_name": "Roland"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Steven Wood",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wood",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

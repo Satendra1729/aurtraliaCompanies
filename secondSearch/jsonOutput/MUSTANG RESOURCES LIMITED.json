@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MUS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MUSTANG RESOURCES LIMITED",
+    "ASXcode": "MUS",
+    "data": {
+        "summary": {
+            "name_full": "MUSTANG RESOURCES LIMITED",
+            "code": "MUS",
+            "name_short": "MUSTANG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MUSTANG RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MUS?image_size=L&v=1433897549000",
+            "foreign_exempt": false,
+            "listing_date": "2002-05-10T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@mustangresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9239 3119",
+            "mailing_address": "Level 10, 20 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Ruby and Graphite Exploration in Mozambique.",
+            "fax_number": "+61 8 9217 2401",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-09-29T18:54:55+1000",
+                    "number_of_pages": 77,
+                    "id": "01902794",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T19:03:21+1000",
+                    "size": "6.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtsqdjjm8vg0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 8779126,
+                "status": [],
+                "market_cap": 22270182,
+                "code": "MUS",
+                "indices": [],
+                "year_open_price": 0.025,
+                "previous_close_price": 0.029,
+                "year_change_price": 0.008,
+                "year_low_date": "2017-01-11T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 767937324,
+                "eps": -0.0277,
+                "change_in_percent": "13.793%",
+                "change_price": 0.004,
+                "deprecated_number_of_shares": 737937324,
+                "pe": 0,
+                "offer_price": 0.033,
+                "suspended": false,
+                "last_price": 0.033,
+                "deprecated_market_cap": 24352000,
+                "day_low_price": 0.03,
+                "open_price": 0.03,
+                "year_high_date": "2017-10-16T00:00:00+1100",
+                "previous_day_percentage_change": "-3.333%",
+                "year_open_date": "2014-03-10T11:00:00+1100",
+                "year_high_price": 0.2,
+                "bid_price": 0.032,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.033,
+                "year_change_in_percentage": "32%",
+                "average_daily_volume": 23171439,
+                "year_low_price": 0.02,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "MUS",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.mustangresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Daymond",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Daymond",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christiaan Jordaan",
+                    "first_name": "Christiaan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jordaan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Spiers",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spiers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cobus van Wyk",
+                    "first_name": "Cobus",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "van Wyk",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Marusco",
+                    "first_name": "Robert",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marusco",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Robert Marusco",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marusco",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

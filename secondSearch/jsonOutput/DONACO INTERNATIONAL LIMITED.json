@@ -1,0 +1,219 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DNA",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "DONACO INTERNATIONAL LIMITED",
+    "ASXcode": "DNA",
+    "data": {
+        "summary": {
+            "name_full": "DONACO INTERNATIONAL LIMITED",
+            "last_dividend": {
+                "comments": "UNFRANKED; 100% CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-10-06T00:00:00+1100",
+                "payable_date": "2017-10-20T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.005,
+                "ex_date": "2017-10-05T00:00:00+1100"
+            },
+            "code": "DNA",
+            "name_short": "DONACO",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "DONACO INTERNATIONAL",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/DNA?image_size=L&v=1445238663000",
+            "foreign_exempt": false,
+            "listing_date": "2004-12-23T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "enquiries@donacointernational.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9106 2149",
+            "mailing_address": "c/- Lumina BPO Pty Ltd, Level 18, 420 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Leisure and entertainment businesses in the Asia Pacific region.",
+            "fax_number": "(02) 9106 2106",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-20T09:22:58+1100",
+                    "number_of_pages": 49,
+                    "id": "01910214",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T09:24:57+1100",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43ndkw2pnp2x8c.pdf"
+                },
+                {
+                    "header": "FY17 Audited Accounts and Annual Report",
+                    "document_date": "2017-09-29T09:09:15+1000",
+                    "number_of_pages": 71,
+                    "id": "01901824",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T09:14:13+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrxwzpl5mz6c.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 934483,
+                "status": [],
+                "market_cap": 244672410,
+                "code": "DNA",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.06447,
+                "previous_close_price": 0.295,
+                "year_change_price": -0.75947,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 829398001,
+                "eps": 0.0373,
+                "change_in_percent": "3.39%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 829398001,
+                "pe": 8.18,
+                "offer_price": 0.305,
+                "suspended": false,
+                "last_price": 0.305,
+                "deprecated_market_cap": 252966000,
+                "day_low_price": 0.29,
+                "open_price": 0.295,
+                "year_high_date": "2017-07-03T00:00:00+1000",
+                "previous_day_percentage_change": "-1.667%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.6,
+                "bid_price": 0.295,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.31,
+                "year_change_in_percentage": "-71.347%",
+                "average_daily_volume": 551577,
+                "year_low_price": 0.29,
+                "annual_dividend_yield": 1.64
+            },
+            "primary_share_code": "DNA",
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.donacointernational.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": "http://www.donacointernational.com/irm/content/investor-welcome.aspx?RID=414&RedirectCount=1"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stuart McGregor",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGregor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joey Lim",
+                    "first_name": "Joey",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lim",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Att Asavanund",
+                    "first_name": "Att",
+                    "roles": [
+                        "Deputy CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Asavanund",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ben Reichel",
+                    "first_name": "Ben",
+                    "roles": [
+                        "Executive Director",
+                        "General Counsel",
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reichel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ham Techatut Sukjaroenkraisri",
+                    "first_name": "Ham",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sukjaroenkraisri",
+                    "middle_name": "Techatut"
+                },
+                {
+                    "full_name": "Mr Paul Porntat Amatavivadhana",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Amatavivadhana",
+                    "middle_name": "Porntat"
+                },
+                {
+                    "full_name": "Mr Rob Hines",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hines",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Benjamin Lim",
+                    "first_name": "Benjamin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lim",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kwong Yang Chong",
+                    "first_name": "Kwong",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chong",
+                    "middle_name": "Yang"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ben Reichel",
+                    "first_name": "Ben",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reichel",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

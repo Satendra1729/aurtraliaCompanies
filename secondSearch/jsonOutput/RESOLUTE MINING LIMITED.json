@@ -1,0 +1,226 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RSG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RESOLUTE MINING LIMITED",
+    "ASXcode": "RSG",
+    "data": {
+        "summary": {
+            "name_full": "RESOLUTE MINING LIMITED",
+            "last_dividend": {
+                "comments": "UNFRANKED; 100%CFI;  OPT TO ELECT GOLD",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-27T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.02,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "code": "RSG",
+            "name_short": "RESOLUTE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RESOLUTE MINING",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RSG?image_size=L&v=1505365083000",
+            "foreign_exempt": false,
+            "listing_date": "1979-01-11T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "contact@rml.com.au",
+            "products": [
+                "shares",
+                "convertible-notes",
+                "warrants"
+            ],
+            "phone_number": "(08) 9261 6100",
+            "mailing_address": "Level 2, Australia Place, 15-17 William Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Gold mining; development of resource projects and prospecting and exploration for minerals.",
+            "fax_number": "(08) 9322 7597",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-10-26T21:41:44+1100",
+                    "number_of_pages": 133,
+                    "id": "01913307",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T08:13:58+1100",
+                    "size": "6.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nmnss4tpqsj6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4142618,
+                "status": [],
+                "market_cap": 737770207,
+                "code": "RSG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 0.67,
+                "previous_close_price": 0.995,
+                "year_change_price": 0.31,
+                "year_low_date": "2016-12-19T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 741477595,
+                "eps": 0.1905,
+                "change_in_percent": "-1.508%",
+                "change_price": -0.015,
+                "deprecated_number_of_shares": 741477595,
+                "pe": 5.14,
+                "offer_price": 0.98,
+                "suspended": false,
+                "last_price": 0.98,
+                "deprecated_market_cap": 726648000,
+                "day_low_price": 0.962,
+                "open_price": 0.98,
+                "year_high_date": "2017-02-27T00:00:00+1100",
+                "previous_day_percentage_change": "1.531%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.912,
+                "bid_price": 0.975,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.982,
+                "year_change_in_percentage": "46.269%",
+                "average_daily_volume": 4646981,
+                "year_low_price": 0.94,
+                "annual_dividend_yield": 2.04
+            },
+            "primary_share_code": "RSG",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.rml.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.rml.com.au/investors.html"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Martin Botha",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Botha",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Welborn",
+                    "first_name": "John",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Welborn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Yasmin Broughton",
+                    "first_name": "Yasmin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Broughton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bill Price",
+                    "first_name": "Bill",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Price",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Sullivan",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sullivan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Amber Stanton",
+                    "first_name": "Amber",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stanton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

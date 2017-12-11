@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BHL",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "BOYUAN HOLDINGS LIMITED",
+    "ASXcode": "BHL",
+    "data": {
+        "summary": {
+            "name_short": "BOYUAN",
+            "name_full": "BOYUAN HOLDINGS LIMITED",
+            "code": "BHL",
+            "primary_share_code": "BHL",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "BOYUAN HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": "2016-10-31T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "cosec@bhlgroup.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9409 9888",
+            "mailing_address": "Suite 1, Level 16, 5 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Property development and management of a mixed use property complex",
+            "fax_number": "(02) 8068 0156",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-04-13T16:01:40+1000",
+                    "number_of_pages": 72,
+                    "id": "01848077",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-13T16:04:12+1000",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170413/pdf/43hj88cgxj55bm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 102939030,
+                "code": "BHL",
+                "indices": [],
+                "deprecated_number_of_shares": 343130100,
+                "previous_close_price": 0.3,
+                "year_low_date": "2017-06-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 343130100,
+                "eps": -0.0034,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.3,
+                "suspended": false,
+                "last_price": 0.3,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "7.143%",
+                "year_open_date": null,
+                "year_high_price": 0,
+                "bid_price": 0.2,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 42344,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.boyuan.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Saliba Sassine",
+                    "first_name": "Saliba",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Sassine",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yading Wan",
+                    "first_name": "Yading",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yuxing Shen",
+                    "first_name": "Yuxing",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Paul Batten",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Batten",
+                    "middle_name": "Paul"
+                },
+                {
+                    "full_name": "Mr Xiaofeng Chen",
+                    "first_name": "Xiaofeng",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian David Clark",
+                    "first_name": "Ian",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clark",
+                    "middle_name": "David"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Adam Peter Huxley",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Huxley",
+                    "middle_name": "Peter"
+                }
+            ]
+        }
+    }
+}

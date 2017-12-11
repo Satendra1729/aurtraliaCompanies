@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AIB",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "AURORA GLOBAL INCOME TRUST",
+    "ASXcode": "AIB",
+    "data": {
+        "summary": {
+            "name_short": "AURORA GLB",
+            "name_full": "AURORA GLOBAL INCOME TRUST",
+            "code": "AIB",
+            "primary_share_code": "AIB",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "AURORA GLB TRUST",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-24T00:00:00+1100",
+            "registry_address": "LEVEL 6, 2 RUSSELL STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "DRP NIL DISCOUNT",
+                "franked_percentage": "0%",
+                "created_date": "2017-09-25T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-19T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.0124,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 553 431",
+            "mailing_address": "Suite 613, Level 6, 370 St Kilda Road, MELBOURNE, VIC, AUSTRALIA, 3004",
+            "principal_activities": "To take advantage of global companies expected to increase in value relative to the market around the announcement of their quarterly, half-yearly and yearly earnings results while hedging their market and currency exposure.",
+            "fax_number": "1300 553 431",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-31T22:55:05+1000",
+                    "number_of_pages": 48,
+                    "id": "01891588",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-09-01T08:23:23+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170901/pdf/43lzjbcln151td.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6000,
+                "status": [],
+                "market_cap": 4659722,
+                "code": "AIB",
+                "indices": [],
+                "year_open_price": 0.915,
+                "previous_close_price": 0.495,
+                "year_change_price": -0.455,
+                "year_low_date": "2017-08-17T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 9413580,
+                "eps": -0.1048,
+                "change_in_percent": "-7.071%",
+                "change_price": -0.035,
+                "deprecated_number_of_shares": 9413580,
+                "pe": 0,
+                "offer_price": 0.53,
+                "suspended": false,
+                "last_price": 0.46,
+                "deprecated_market_cap": 4330000,
+                "day_low_price": 0.46,
+                "open_price": 0.465,
+                "year_high_date": "2017-03-29T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.82,
+                "bid_price": 0.36,
+                "desc_full": "Ordinary Units Fully Paid",
+                "day_high_price": 0.465,
+                "year_change_in_percentage": "-49.727%",
+                "average_daily_volume": 10480,
+                "year_low_price": 0.41,
+                "annual_dividend_yield": 12.72
+            },
+            "registry_phone_number": "1300 556 635",
+            "web_address": "http://www.aurorafunds.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "REGISTRY DIRECT",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Patton",
+                    "first_name": "John",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Patton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeffrey E Schwarz",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schwarz",
+                    "middle_name": "E"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Patton",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Patton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

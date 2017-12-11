@@ -1,0 +1,116 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MAS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MESA MINERALS LIMITED",
+    "ASXcode": "MAS",
+    "data": {
+        "summary": {
+            "name_short": "MESA MINS",
+            "name_full": "MESA MINERALS LIMITED",
+            "code": "MAS",
+            "primary_share_code": "MAS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MESA MINERALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "1985-04-18T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08-9329 3750",
+            "mailing_address": "1 Sleat Road, APPLECROSS, WA, AUSTRALIA, 6153",
+            "principal_activities": "Miscellaneous Industrials",
+            "fax_number": "08-9329 3751",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "MAS",
+                "indices": [],
+                "year_open_price": 0.022,
+                "previous_close_price": 0.006,
+                "year_change_price": -0.016,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 704416960,
+                "eps": -0.0021,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 704416960,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.006,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-07-08T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.006,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-72.727%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.mesaminerals.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Collis Thorp",
+                    "first_name": "Collis",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thorp",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Ellison",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ellison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Albert Goulds",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goulds",
+                    "middle_name": "Albert"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Bruce Albert Goulds",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goulds",
+                    "middle_name": "Albert"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CMP",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "COMPUMEDICS LIMITED",
+    "ASXcode": "CMP",
+    "data": {
+        "summary": {
+            "name_short": "COMPUMEDIC",
+            "name_full": "COMPUMEDICS LIMITED",
+            "code": "CMP",
+            "primary_share_code": "CMP",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "COMPUMEDICS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2000-12-21T00:00:00+1100",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 3 8420 7300",
+            "mailing_address": "30-40 Flockhart Street, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "principal_activities": "Development and commercialisation of technology in computer based patient monitoring and diagnostic systems.",
+            "fax_number": "61 3 8420 7399",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-18T15:59:57+1000",
+                    "number_of_pages": 72,
+                    "id": "01897135",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-18T16:03:19+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170918/pdf/43mf58dclpzc1r.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 69982,
+                "status": [],
+                "market_cap": 67321920,
+                "code": "CMP",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.076,
+                "previous_close_price": 0.38,
+                "year_change_price": 0.294,
+                "year_low_date": "2017-10-30T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 177162948,
+                "eps": 0.0074,
+                "change_in_percent": "-2.632%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 177162948,
+                "pe": 50,
+                "offer_price": 0.385,
+                "suspended": false,
+                "last_price": 0.37,
+                "deprecated_market_cap": 65550000,
+                "day_low_price": 0.37,
+                "open_price": 0.375,
+                "year_high_date": "2017-01-05T00:00:00+1100",
+                "previous_day_percentage_change": "-2.564%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.89,
+                "bid_price": 0.37,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.385,
+                "year_change_in_percentage": "386.842%",
+                "average_daily_volume": 70861,
+                "year_low_price": 0.31,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.compumedics.com/",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Burton",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan Anderson",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Prof. Graham Mitchell",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Mitchell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Lawson",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lawson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Kerry Hubick",
+                    "first_name": "Kerry",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Hubick",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Lawson",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lawson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

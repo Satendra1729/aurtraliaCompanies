@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LCT",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "LIVING CELL TECHNOLOGIES LIMITED",
+    "ASXcode": "LCT",
+    "data": {
+        "summary": {
+            "name_short": "LIV CELL",
+            "name_full": "LIVING CELL TECHNOLOGIES LIMITED",
+            "code": "LCT",
+            "primary_share_code": "LCT",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "LIVING CELL TECH.",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/LCT?image_size=L&v=1452552286000",
+            "foreign_exempt": false,
+            "listing_date": "2004-09-01T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "64 9276 2690",
+            "mailing_address": "C/O Mertons Corporate Services, Level 7, 330 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Living Cell Technologies: Cell therapy for neurodegenerative diseases.",
+            "fax_number": "64 9276 2691",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-16T12:06:52+1100",
+                    "number_of_pages": 44,
+                    "id": "01908239",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-16T12:08:11+1100",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171016/pdf/43n84ypt15gyxx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1660796,
+                "status": [],
+                "market_cap": 16000347,
+                "code": "LCT",
+                "indices": [],
+                "year_open_price": 0.085,
+                "previous_close_price": 0.028,
+                "year_change_price": -0.056,
+                "year_low_date": "2017-11-10T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 571440981,
+                "eps": -0.0076,
+                "change_in_percent": "3.571%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 571440981,
+                "pe": 0,
+                "offer_price": 0.029,
+                "suspended": false,
+                "last_price": 0.029,
+                "deprecated_market_cap": 16572000,
+                "day_low_price": 0.028,
+                "open_price": 0.028,
+                "year_high_date": "2017-10-18T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.28,
+                "bid_price": 0.028,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.029,
+                "year_change_in_percentage": "-65.882%",
+                "average_daily_volume": 2897331,
+                "year_low_price": 0.023,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.lctglobal.com/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.lctglobal.com/investor-centre"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Roy Austin",
+                    "first_name": "Roy",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Austin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Ken Taylor",
+                    "first_name": "Ken",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Taylor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Elliott",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Elliott",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Laurie Hunter",
+                    "first_name": "Laurie",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hunter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bernard Tuch",
+                    "first_name": "Bernard",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tuch",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Moyse Willcocks",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Willcocks",
+                    "middle_name": "Moyse"
+                },
+                {
+                    "full_name": "Mr John Cowan",
+                    "first_name": "John",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cowan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Licciardo",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Licciardo",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

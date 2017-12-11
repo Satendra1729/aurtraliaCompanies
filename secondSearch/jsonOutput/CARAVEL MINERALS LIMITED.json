@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CVV",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CARAVEL MINERALS LIMITED",
+    "ASXcode": "CVV",
+    "data": {
+        "summary": {
+            "name_short": "CARAVELMIN",
+            "name_full": "CARAVEL MINERALS LIMITED",
+            "code": "CVV",
+            "primary_share_code": "CVV",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CARAVEL MINERALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-11-03T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9426 6400",
+            "mailing_address": "Level 3, 18 Richardson Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration for copper and gold,",
+            "fax_number": "(08) 9426 6448",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts - June 2017",
+                    "document_date": "2017-09-28T17:41:21+1000",
+                    "number_of_pages": 59,
+                    "id": "01901469",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T17:50:43+1000",
+                    "size": "995.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr4p9yspw73c.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 9201,
+                "status": [],
+                "market_cap": 4284170,
+                "code": "CVV",
+                "indices": [],
+                "year_open_price": 0.016,
+                "previous_close_price": 0.05,
+                "year_change_price": 0.036,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 85683391,
+                "eps": -0.026,
+                "change_in_percent": "4%",
+                "change_price": 0.002,
+                "deprecated_number_of_shares": 85683391,
+                "pe": 0,
+                "offer_price": 0.052,
+                "suspended": false,
+                "last_price": 0.052,
+                "deprecated_market_cap": 4456000,
+                "day_low_price": 0.05,
+                "open_price": 0.05,
+                "year_high_date": "2016-12-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.075,
+                "bid_price": 0.05,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.052,
+                "year_change_in_percentage": "225%",
+                "average_daily_volume": 106219,
+                "year_low_price": 0.05,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.caravelminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Marcel Hilmer",
+                    "first_name": "Marcel",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hilmer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Alexander",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Alexander",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Harris",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dale Brian Hanna",
+                    "first_name": "Dale",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hanna",
+                    "middle_name": "Brian"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Dale Brian Hanna",
+                    "first_name": "Dale",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hanna",
+                    "middle_name": "Brian"
+                }
+            ]
+        }
+    }
+}

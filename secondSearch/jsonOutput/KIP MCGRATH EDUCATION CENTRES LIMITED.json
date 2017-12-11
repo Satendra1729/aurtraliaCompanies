@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KME",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "KIP MCGRATH EDUCATION CENTRES LIMITED",
+    "ASXcode": "KME",
+    "data": {
+        "summary": {
+            "name_short": "KIPMCGRATH",
+            "name_full": "KIP MCGRATH EDUCATION CENTRES LIMITED",
+            "code": "KME",
+            "primary_share_code": "KME",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "KIP MCGRATH EDU.CNTR",
+            "foreign_exempt": false,
+            "listing_date": "2003-08-15T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-09T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.014,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 4929 6711",
+            "mailing_address": "Level 3, 6 Newcomen Street, NEWCASTLE, NSW, AUSTRALIA, 2300",
+            "principal_activities": "Franchisor of education centres that provide tutoring services to children.",
+            "fax_number": "(02) 4929 6338",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and 30 June 2017 Annual Report",
+                    "document_date": "2017-08-09T14:07:55+1000",
+                    "number_of_pages": 66,
+                    "id": "01882225",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-09T14:14:49+1000",
+                    "size": "983.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170809/pdf/43l8tnl55bpn11.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 35940,
+                "status": [],
+                "market_cap": 23868195,
+                "code": "KME",
+                "indices": [],
+                "year_open_price": 0.305,
+                "previous_close_price": 0.53,
+                "year_change_price": 0.245,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 45034331,
+                "eps": 0.032,
+                "change_in_percent": "3.774%",
+                "change_price": 0.02,
+                "deprecated_number_of_shares": 45034331,
+                "pe": 17.19,
+                "offer_price": 0.53,
+                "suspended": false,
+                "last_price": 0.55,
+                "deprecated_market_cap": 24769000,
+                "day_low_price": 0.53,
+                "open_price": 0.53,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "4.95%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.575,
+                "bid_price": 0.5,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.575,
+                "year_change_in_percentage": "80.328%",
+                "average_daily_volume": 55061,
+                "year_low_price": 0.27,
+                "annual_dividend_yield": 3.64
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.kipmcgrath.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kip McGrath",
+                    "first_name": "Kip",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGrath",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Storm McGrath",
+                    "first_name": "Storm",
+                    "roles": [
+                        "CEO",
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGrath",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Di Pass",
+                    "first_name": "Di",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Pass",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Campbell",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Campbell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Folsom",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Folsom",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Edwards",
+                    "first_name": "Brett",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Brett Edwards",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

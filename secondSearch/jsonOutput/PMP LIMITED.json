@@ -1,0 +1,195 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PMP",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "PMP LIMITED",
+    "ASXcode": "PMP",
+    "data": {
+        "summary": {
+            "name_short": "PMP LTD",
+            "name_full": "PMP LIMITED",
+            "code": "PMP",
+            "primary_share_code": "PMP",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "PMP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1992-02-13T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "last_dividend": {
+                "comments": "UNFRANKED; 100% CFI",
+                "franked_percentage": "0%",
+                "created_date": "2016-08-29T00:00:00+1000",
+                "record_date": "2016-09-22T00:00:00+1000",
+                "payable_date": "2016-10-07T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.024,
+                "ex_date": "2016-09-21T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9412 6000",
+            "mailing_address": "Level 12 , 67 Albert Avenue, CHATSWOOD, NSW, AUSTRALIA, 2067",
+            "principal_activities": "Print media production including graphic arts, commercial printing, letterbox distribution and magazine distribution.",
+            "fax_number": "(02) 9413 3939",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-22T08:29:12+1000",
+                    "number_of_pages": 128,
+                    "id": "01898746",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T08:31:06+1000",
+                    "size": "6.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mjvwpyc0qy9l.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 33140,
+                "status": [],
+                "market_cap": 244888166,
+                "code": "PMP",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.425,
+                "previous_close_price": 0.48,
+                "year_change_price": 0.05,
+                "year_low_date": "2017-11-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 510183679,
+                "eps": -0.333,
+                "change_in_percent": "-1.042%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 510183679,
+                "pe": 0,
+                "offer_price": 0.48,
+                "suspended": false,
+                "last_price": 0.475,
+                "deprecated_market_cap": 242337000,
+                "day_low_price": 0.47,
+                "open_price": 0.475,
+                "year_high_date": "2017-02-17T00:00:00+1100",
+                "previous_day_percentage_change": "2.128%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.85,
+                "bid_price": 0.47,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.485,
+                "year_change_in_percentage": "11.765%",
+                "average_daily_volume": 169621,
+                "year_low_price": 0.45,
+                "annual_dividend_yield": 5.05
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.pmplimited.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Matthew Bickford-Smith",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bickford-Smith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter George",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "George",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Anstice",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anstice",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Hannan",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hannan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Dhun Karai",
+                    "first_name": "Dhun",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Karai",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terry Sinclair",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sinclair",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Wai Tang",
+                    "first_name": "Wai",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoffrey Stephenson",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephenson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Alistair Clarkson",
+                    "first_name": "Alistair",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clarkson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

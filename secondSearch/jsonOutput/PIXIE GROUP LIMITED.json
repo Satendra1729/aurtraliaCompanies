@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PEG",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "PIXIE GROUP LIMITED",
+    "ASXcode": "PEG",
+    "data": {
+        "summary": {
+            "name_short": "PIXIEGROUP",
+            "name_full": "PIXIE GROUP LIMITED",
+            "code": "PEG",
+            "primary_share_code": "PEG",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "PIXIE GROUP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2007-11-16T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "eugenetin@pixie-group.co",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "65 6235 3508",
+            "mailing_address": "144 Neil Road, ., ., SINGAPORE, ., SINGAPORE, 088873",
+            "principal_activities": "Lifestyle entertainment and food and beverage group",
+            "fax_number": "65 6235 3506",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "PEG",
+                "indices": [],
+                "year_open_price": 0.05,
+                "previous_close_price": 0.046,
+                "year_change_price": -0.004,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 781220325,
+                "eps": -0.0154,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 367120325,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.046,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-14T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.046,
+                "bid_price": 0,
+                "desc_full": "Chess Depositary Interest 1:1",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-8%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://pixie-group.co/",
+            "fiscal_year_end": "31/12",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Daniel Jin Kong Lim",
+                    "first_name": "Daniel Jin Kong",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lim",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ernie Yee Hun Yap",
+                    "first_name": "Ernie Yee Hun",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yap",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yu Jiann Tin",
+                    "first_name": "Yu Jiann",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Poh Tiong Lim",
+                    "first_name": "Poh Tiong",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lim",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Boardroom Pty Limited",
+                    "first_name": "Boardroom Pty",
+                    "roles": [
+                        "Local Agent"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Limited",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Foo Soon Soo",
+                    "first_name": "Foo",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Soo",
+                    "middle_name": "Soon"
+                }
+            ]
+        }
+    }
+}

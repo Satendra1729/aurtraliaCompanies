@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AFR",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "AFRICAN ENERGY RESOURCES LIMITED",
+    "ASXcode": "AFR",
+    "data": {
+        "summary": {
+            "name_full": "AFRICAN ENERGY RESOURCES LIMITED",
+            "code": "AFR",
+            "name_short": "AFRICAN EN",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "AFRICAN ENERGY RES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AFR?image_size=L&v=1421146226000",
+            "foreign_exempt": false,
+            "listing_date": "2007-04-18T00:00:00+1000",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@africanenergyresources.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6465 5500",
+            "mailing_address": "Suite 1, 245 Churchill Avenue, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Power Generation in sub-saharan Africa",
+            "fax_number": "+61 8 6465 5599",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-23T14:37:55+1100",
+                    "number_of_pages": 50,
+                    "id": "01911119",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T14:39:49+1100",
+                    "size": "4.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43ngwltd2v6l00.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 249125,
+                "status": [],
+                "market_cap": 23187494,
+                "code": "AFR",
+                "indices": [],
+                "year_open_price": 0.08647,
+                "previous_close_price": 0.037,
+                "year_change_price": -0.04947,
+                "year_low_date": "2017-11-27T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 626689024,
+                "eps": -0.0026,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 626689024,
+                "pe": 0,
+                "offer_price": 0.038,
+                "suspended": false,
+                "last_price": 0.037,
+                "deprecated_market_cap": 23187000,
+                "day_low_price": 0.033,
+                "open_price": 0.037,
+                "year_high_date": "2017-05-31T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.11,
+                "bid_price": 0.033,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0.037,
+                "year_change_in_percentage": "-57.211%",
+                "average_daily_volume": 107768,
+                "year_low_price": 0.031,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "AFR",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.africanenergyresources.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alasdair Campbell Cooke",
+                    "first_name": "Alasdair",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooke",
+                    "middle_name": "Campbell"
+                },
+                {
+                    "full_name": "Dr Charles Frazer Tabeart",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Tabeart",
+                    "middle_name": "Frazer"
+                },
+                {
+                    "full_name": "Mr Gregory William (Bill) Fry",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fry",
+                    "middle_name": "William (Bill)"
+                },
+                {
+                    "full_name": "Mr Valentine Chitalu",
+                    "first_name": "Valentine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chitalu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip David Clark",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clark",
+                    "middle_name": "David"
+                },
+                {
+                    "full_name": "Mr Ian Hume",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hume",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wayne Trumble",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trumble",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Daniel Murray Davis",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davis",
+                    "middle_name": "Murray"
+                }
+            ]
+        }
+    }
+}

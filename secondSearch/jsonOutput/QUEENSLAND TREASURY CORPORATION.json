@@ -1,0 +1,64 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/XQL",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "QUEENSLAND TREASURY CORPORATION",
+    "ASXcode": "XQL",
+    "data": {
+        "summary": {
+            "name_full": "QUEENSLAND TREASURY CORPORATION",
+            "products": [],
+            "phone_number": "(07) 3842 4600",
+            "mailing_address": "Level 6, 123 Albert Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "",
+            "name_short": "QLD TREAS.",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "QUEENSLAND TREASURY",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "XQL",
+            "listing_date": "1983-01-20T00:00:00+1100",
+            "fax_number": "(07) 3221 4122",
+            "web_address": null,
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Philip Noble",
+                    "first_name": "Philip",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Noble",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Jackson",
+                    "first_name": "Richard",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jackson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr N Lowe",
+                    "first_name": "N",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lowe",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

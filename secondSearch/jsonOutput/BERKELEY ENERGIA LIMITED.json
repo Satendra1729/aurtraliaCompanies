@@ -1,0 +1,182 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BKY",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "BERKELEY ENERGIA LIMITED",
+    "ASXcode": "BKY",
+    "data": {
+        "summary": {
+            "name_short": "BERKELEY",
+            "name_full": "BERKELEY ENERGIA LIMITED",
+            "code": "BKY",
+            "primary_share_code": "BKY",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "BERKELEY ENERGIA LTD",
+            "foreign_exempt": false,
+            "listing_date": "2003-09-16T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9322 6322",
+            "mailing_address": "Level 9, BGC Centre, 28 The Esplanade, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Uranium Explorer and Developer.",
+            "fax_number": "+61 8 9322 6558",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T17:17:27+1000",
+                    "number_of_pages": 74,
+                    "id": "01902626",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T17:18:31+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtgpkmp8vpgx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 408462,
+                "status": [],
+                "market_cap": 269806485,
+                "code": "BKY",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.3,
+                "previous_close_price": 1.06,
+                "year_change_price": 0.745,
+                "year_low_date": "2017-04-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 254534420,
+                "eps": -0.0688,
+                "change_in_percent": "-1.415%",
+                "change_price": -0.015,
+                "deprecated_number_of_shares": 254534420,
+                "pe": 0,
+                "offer_price": 1.06,
+                "suspended": false,
+                "last_price": 1.045,
+                "deprecated_market_cap": 265988000,
+                "day_low_price": 1.03,
+                "open_price": 1.04,
+                "year_high_date": "2017-01-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.195,
+                "bid_price": 1.045,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.06,
+                "year_change_in_percentage": "248.333%",
+                "average_daily_volume": 214539,
+                "year_low_price": 0.652,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.berkeleyenergia.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Middlemas",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Middlemas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Atherley",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Atherley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Behets",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Behets",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nigel Jones",
+                    "first_name": "Nigel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adam Parker",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Parker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Francisco Bellon del Rosal",
+                    "first_name": "Francisco",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bellon del Rosal",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Thomson",
+                    "first_name": "Paul",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thomson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Dylan Browne",
+                    "first_name": "Dylan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Browne",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

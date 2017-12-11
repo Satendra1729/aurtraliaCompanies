@@ -1,0 +1,161 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KP2",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KORE POTASH PLC",
+    "ASXcode": "KP2",
+    "data": {
+        "summary": {
+            "name_short": "KORE",
+            "name_full": "KORE POTASH PLC",
+            "code": "KP2",
+            "primary_share_code": "KP2",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KORE POTASH PLC",
+            "foreign_exempt": false,
+            "listing_date": "2017-11-07T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+44 1483 407100",
+            "mailing_address": "25 Moorgate, AUSTRALIA,",
+            "principal_activities": "Exploration for mining of potash minerals",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 103619,
+                "status": [],
+                "market_cap": 107542140,
+                "code": "KP2",
+                "indices": [],
+                "deprecated_number_of_shares": 768158142,
+                "previous_close_price": 0.14,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 768158142,
+                "eps": 0,
+                "change_in_percent": "-3.571%",
+                "change_price": -0.005,
+                "pe": 0,
+                "offer_price": 0.135,
+                "suspended": false,
+                "last_price": 0.135,
+                "deprecated_market_cap": 103701000,
+                "day_low_price": 0.135,
+                "open_price": 0.14,
+                "year_high_date": "2017-11-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.18,
+                "bid_price": 0.1,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0.14,
+                "average_daily_volume": 311549,
+                "year_low_price": 0.135,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://https//www.korepotash.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Hathorn",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hathorn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sean Bennett",
+                    "first_name": "Sean",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bennett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Pablo Altimiras",
+                    "first_name": "Pablo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Altimiras",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Keating",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keating",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leonard Math",
+                    "first_name": "Leonard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Math",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jonathan Trollip",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trollip",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Lawrence Richard Davidson",
+                    "first_name": "Lawrence",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davidson",
+                    "middle_name": "Richard"
+                },
+                {
+                    "full_name": "Mrs Francesca Wilson",
+                    "first_name": "Francesca",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Henko Vos",
+                    "first_name": "Henko",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vos",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

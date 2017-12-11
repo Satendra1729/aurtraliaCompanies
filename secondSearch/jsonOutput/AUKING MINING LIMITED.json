@@ -1,0 +1,135 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AKN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AUKING MINING LIMITED",
+    "ASXcode": "AKN",
+    "data": {
+        "summary": {
+            "name_short": "AUKING",
+            "name_full": "AUKING MINING LIMITED",
+            "code": "AKN",
+            "primary_share_code": "AKN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AUKING MINING LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-10-29T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3212 6204",
+            "mailing_address": "Level 5, 10 Market Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Exploration for and development of minerals in Australia and overseas",
+            "fax_number": "(07) 3212 6250",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 6528091,
+                "code": "AKN",
+                "indices": [],
+                "year_open_price": 0.02884,
+                "previous_close_price": 0.007,
+                "year_change_price": -0.02184,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 932584461,
+                "eps": -0.0081,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 932584461,
+                "pe": 0,
+                "offer_price": 0.007,
+                "suspended": false,
+                "last_price": 0.007,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-05-24T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.011,
+                "bid_price": 0.006,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-75.728%",
+                "average_daily_volume": 836483,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.cycal.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Huaisheng Peng",
+                    "first_name": "Huaisheng",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Peng",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Williams",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zhihua Yao",
+                    "first_name": "Zhihua",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yao",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Qinghai Wang",
+                    "first_name": "Qinghai",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Marshall",
+                    "first_name": "Paul",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marshall",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Paul Marshall",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marshall",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ADJ",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "ADSLOT LTD",
+    "ASXcode": "ADJ",
+    "data": {
+        "summary": {
+            "name_short": "ADSLOT LTD",
+            "name_full": "ADSLOT LTD",
+            "code": "ADJ",
+            "primary_share_code": "ADJ",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "ADSLOT LTD",
+            "foreign_exempt": false,
+            "listing_date": "1987-12-17T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8695 9199",
+            "mailing_address": "Level 2, 85 Coventry Street, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Adslot Limited is involved in various online and digital media activities, including the Adslot Publisher Platform which enables online Publishers to automate the sale of their advertising inventory, and the Webfirm division which helps businesses with we",
+            "fax_number": "03 9696 0700",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-13T09:37:52+1100",
+                    "number_of_pages": 72,
+                    "id": "01907543",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T09:40:35+1100",
+                    "size": "5.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n67xhvvh4wn0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 554065,
+                "status": [],
+                "market_cap": 55384270,
+                "code": "ADJ",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.087,
+                "previous_close_price": 0.043,
+                "year_change_price": -0.044,
+                "year_low_date": "2017-12-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1288006269,
+                "eps": -0.007,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1288006269,
+                "pe": 0,
+                "offer_price": 0.044,
+                "suspended": false,
+                "last_price": 0.043,
+                "deprecated_market_cap": 55384000,
+                "day_low_price": 0.043,
+                "open_price": 0.043,
+                "year_high_date": "2016-12-19T00:00:00+1100",
+                "previous_day_percentage_change": "7.5%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.105,
+                "bid_price": 0.043,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.043,
+                "year_change_in_percentage": "-50.575%",
+                "average_daily_volume": 982168,
+                "year_low_price": 0.037,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.adslot.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Barlow",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barlow",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Lowe",
+                    "first_name": "Ian",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lowe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Benjamin Dixon",
+                    "first_name": "Benjamin",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dixon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Quentin George",
+                    "first_name": "Quentin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "George",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adrian Giles",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Giles",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Sarah Morgan",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Felicity Kate Conlan",
+                    "first_name": "Felicity",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Conlan",
+                    "middle_name": "Kate"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Felicity Kate Conlan",
+                    "first_name": "Felicity",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Conlan",
+                    "middle_name": "Kate"
+                }
+            ]
+        }
+    }
+}

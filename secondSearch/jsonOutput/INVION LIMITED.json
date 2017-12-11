@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IVX",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "INVION LIMITED",
+    "ASXcode": "IVX",
+    "data": {
+        "summary": {
+            "name_short": "INVION",
+            "name_full": "INVION LIMITED",
+            "code": "IVX",
+            "primary_share_code": "IVX",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "INVION LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/IVX?image_size=L&v=1430710721000",
+            "foreign_exempt": false,
+            "listing_date": "2010-02-15T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 3295 0500",
+            "mailing_address": "c/- Coogans Pty Ltd, Suite 4, 924 Gympie Road, CHERMSIDE, QLD, AUSTRALIA, 4032",
+            "principal_activities": "Clinical-stage pharmaceutical drug development",
+            "fax_number": "+61 7 3295 0599",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 398304,
+                "status": [],
+                "market_cap": 8735792,
+                "code": "IVX",
+                "indices": [],
+                "year_open_price": 0.08879,
+                "previous_close_price": 0.006,
+                "year_change_price": -0.08279,
+                "year_low_date": "2017-09-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1455965273,
+                "eps": -0.0018,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1455965273,
+                "pe": 0,
+                "offer_price": 0.006,
+                "suspended": false,
+                "last_price": 0.006,
+                "deprecated_market_cap": 8736000,
+                "day_low_price": 0.005,
+                "open_price": 0.006,
+                "year_high_date": "2017-10-24T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.01,
+                "bid_price": 0.005,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.006,
+                "year_change_in_percentage": "-93.242%",
+                "average_daily_volume": 5298221,
+                "year_low_price": 0.002,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.inviongroup.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Greg Collier",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Collier",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Mitchell Glass",
+                    "first_name": "Mitchell",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Glass",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warren Brown",
+                    "first_name": "Warren",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr James Campbell",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Campbell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Melanie Farris",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Farris",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

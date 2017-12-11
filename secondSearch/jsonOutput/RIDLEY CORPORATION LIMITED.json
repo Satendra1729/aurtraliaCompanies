@@ -1,0 +1,210 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RIC",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "RIDLEY CORPORATION LIMITED",
+    "ASXcode": "RIC",
+    "data": {
+        "summary": {
+            "name_short": "RIDLEY",
+            "name_full": "RIDLEY CORPORATION LIMITED",
+            "code": "RIC",
+            "primary_share_code": "RIC",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "RIDLEY CORPORATION",
+            "foreign_exempt": false,
+            "listing_date": "1987-08-13T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2.75C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-10-26T00:00:00+1100",
+                "payable_date": "2017-10-31T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.0275,
+                "ex_date": "2017-10-25T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8624 6500",
+            "mailing_address": "Level 4, 565 Bourke Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "The production of animal nutrition solutions including stockfeed milling and the marketing and provision of rural products and services, and the recycling of animal and fish by-products into high performance feed ingredient solutions for the pet food, aquaculture and livestock industries.",
+            "fax_number": "(03) 8624 6514",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T16:11:04+1000",
+                    "number_of_pages": 104,
+                    "id": "01901347",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T16:13:23+1000",
+                    "size": "4.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqx9v1khw1k8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 62759,
+                "status": [],
+                "market_cap": 415553046,
+                "code": "RIC",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.87,
+                "previous_close_price": 1.35,
+                "year_change_price": 0.48,
+                "year_low_date": "2016-12-14T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 307817071,
+                "eps": 0.084,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 307817071,
+                "pe": 16.07,
+                "offer_price": 1.35,
+                "suspended": false,
+                "last_price": 1.35,
+                "deprecated_market_cap": 415553000,
+                "day_low_price": 1.335,
+                "open_price": 1.355,
+                "year_high_date": "2017-08-21T00:00:00+1000",
+                "previous_day_percentage_change": "-0.735%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.62,
+                "bid_price": 1.335,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.36,
+                "year_change_in_percentage": "55.172%",
+                "average_daily_volume": 341129,
+                "year_low_price": 1.2,
+                "annual_dividend_yield": 3.15
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.ridley.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Gary Weiss",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Weiss",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tim Hart",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hart",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ejnar Knudsen",
+                    "first_name": "Ejnar",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Knudsen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David John Lord",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lord",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Ms Patria Mann",
+                    "first_name": "Patria",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Mann",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Prof. Robert van Barneveld",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "van Barneveld",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan Boyd",
+                    "first_name": "Alan",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boyd",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Alan Boyd",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boyd",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bill Linehan",
+                    "first_name": "Bill",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Linehan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

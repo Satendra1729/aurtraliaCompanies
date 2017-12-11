@@ -1,0 +1,142 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BLX",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "BEACON LIGHTING GROUP LIMITED",
+    "ASXcode": "BLX",
+    "data": {
+        "summary": {
+            "name_short": "BEACON LTG",
+            "name_full": "BEACON LIGHTING GROUP LIMITED",
+            "code": "BLX",
+            "primary_share_code": "BLX",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "BEACON LIGHTING GRP",
+            "foreign_exempt": false,
+            "listing_date": "2014-04-15T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "2.4C FRANKED @ 30%;  DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.024,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8561 1555",
+            "mailing_address": "5 Bastow Place, MULGRAVE, VIC, AUSTRALIA, 3170",
+            "principal_activities": "Specialist lighting retailer.",
+            "fax_number": "0385611566",
+            "latest_annual_reports": [
+                {
+                    "header": "BLX 2017 Annual Report",
+                    "document_date": "2017-08-24T08:07:38+1000",
+                    "number_of_pages": 88,
+                    "id": "01887301",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-24T08:18:03+1000",
+                    "size": "3.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lp22w7kydt4n.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4695,
+                "status": [],
+                "market_cap": 335295975,
+                "code": "BLX",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 216319984,
+                "previous_close_price": 1.55,
+                "year_low_date": "2017-08-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 216319984,
+                "eps": 0.0773,
+                "change_in_percent": "1.29%",
+                "change_price": 0.02,
+                "pe": 20.31,
+                "offer_price": 1.57,
+                "suspended": false,
+                "last_price": 1.57,
+                "deprecated_market_cap": 339622000,
+                "day_low_price": 1.55,
+                "open_price": 1.575,
+                "year_high_date": "2017-03-03T00:00:00+1100",
+                "previous_day_percentage_change": "-1.899%",
+                "year_open_date": null,
+                "year_high_price": 1.98,
+                "bid_price": 1.55,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.58,
+                "average_daily_volume": 80685,
+                "year_low_price": 1.19,
+                "annual_dividend_yield": 3.03
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.beaconlightinggroup.com.au",
+            "fiscal_year_end": "28/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.beaconlightinggroup.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Scott Robinson",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robinson",
+                    "middle_name": "Scott"
+                },
+                {
+                    "full_name": "Mr Glen Stewart Robinson",
+                    "first_name": "Glen",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robinson",
+                    "middle_name": "Stewart"
+                },
+                {
+                    "full_name": "Mr David Speirs",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Speirs",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Tracey Hutchinson",
+                    "first_name": "Tracey",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hutchinson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

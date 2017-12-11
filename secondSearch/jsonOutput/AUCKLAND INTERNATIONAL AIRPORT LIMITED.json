@@ -1,0 +1,259 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AIA",
+    "GICSindustrygroup": "Transportation",
+    "Companyname": "AUCKLAND INTERNATIONAL AIRPORT LIMITED",
+    "ASXcode": "AIA",
+    "data": {
+        "summary": {
+            "name_short": "AUCK AIRPT",
+            "name_full": "AUCKLAND INTERNATIONAL AIRPORT LIMITED",
+            "code": "AIA",
+            "primary_share_code": "AIA",
+            "industry_group_name": "Transportation",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "AUCKLAND INTERNATION",
+            "foreign_exempt": true,
+            "listing_date": "1999-02-22T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "NZ10.5C+1.8529C TO N R;15%WTAX;DRP",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-10-06T00:00:00+1100",
+                "payable_date": "2017-10-20T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.09546291,
+                "ex_date": "2017-10-05T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "64-9-255 9223",
+            "mailing_address": "PO Box 73020, Auckland Airport, Auckland 2150, AUCKLAND, ., NEW ZEALAND, 2150",
+            "principal_activities": "Airport operations",
+            "fax_number": "64-9-256-8868",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Financial Statements",
+                    "document_date": "2017-08-23T10:41:09+1000",
+                    "number_of_pages": 94,
+                    "id": "01886895",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-23T10:48:33+1000",
+                    "size": "745.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43ln4fvf2hv5qf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 691103,
+                "status": [],
+                "market_cap": 7115995456,
+                "code": "AIA",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 3.43495,
+                "previous_close_price": 5.94,
+                "year_change_price": 2.51505,
+                "year_low_date": "2017-11-14T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1197979033,
+                "eps": 0.2663,
+                "change_in_percent": "0.168%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 1197979033,
+                "pe": 22.34,
+                "offer_price": 5.98,
+                "suspended": false,
+                "last_price": 5.95,
+                "deprecated_market_cap": 7127975000,
+                "day_low_price": 5.9,
+                "open_price": 5.96,
+                "year_high_date": "2017-06-06T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 7.05,
+                "bid_price": 5.9,
+                "desc_full": "Ordinary Fully Paid Foreign Exempt Nzx",
+                "day_high_price": 5.96,
+                "year_change_in_percentage": "73.219%",
+                "average_daily_volume": 303589,
+                "year_low_price": 5.43,
+                "annual_dividend_yield": 3.16
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.aucklandairport.co.nz/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Sir Henry van der Heyden",
+                    "first_name": "Henry",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Sir",
+                    "last_name": "van der Heyden",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adrian Littlewood",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Littlewood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Brabazon",
+                    "first_name": "John",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brabazon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Didsbury",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Didsbury",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Godfrey",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Godfrey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Michelle Guthrie",
+                    "first_name": "Michelle",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Guthrie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Miller",
+                    "first_name": "James",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Miller",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Justine Smyth",
+                    "first_name": "Justine",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Smyth",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Christine Spring",
+                    "first_name": "Christine",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Spring",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Neutze",
+                    "first_name": "Philip",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Neutze",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Weenink",
+                    "first_name": "Scott",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Weenink",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Campbell de Morgan",
+                    "first_name": "Campbell",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "de Morgan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Scott Weenink",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Weenink",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Justine Hollows",
+                    "first_name": "Justine",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hollows",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

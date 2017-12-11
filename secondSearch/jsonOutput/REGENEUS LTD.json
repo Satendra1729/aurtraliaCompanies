@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RGS",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "REGENEUS LTD",
+    "ASXcode": "RGS",
+    "data": {
+        "summary": {
+            "name_short": "REGENEUS",
+            "name_full": "REGENEUS LTD",
+            "code": "RGS",
+            "primary_share_code": "RGS",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "REGENEUS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2013-09-19T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "investors@regeneus.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9499 8010",
+            "mailing_address": "25 Bridge Street, PYMBLE, NSW, AUSTRALIA, 2073",
+            "principal_activities": "Regenerative medicine.",
+            "fax_number": "(02) 9499 8020",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-08-22T09:52:24+1000",
+                    "number_of_pages": 52,
+                    "id": "01886201",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-22T09:56:46+1000",
+                    "size": "12.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170822/pdf/43llnlkv1j5nrq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 68709,
+                "status": [],
+                "market_cap": 25066217,
+                "code": "RGS",
+                "indices": [],
+                "year_open_price": 0.5,
+                "previous_close_price": 0.12,
+                "year_change_price": -0.375,
+                "year_low_date": "2017-08-11T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 208885143,
+                "eps": 0.016,
+                "change_in_percent": "4.167%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 208885143,
+                "pe": 7.81,
+                "offer_price": 0.125,
+                "suspended": false,
+                "last_price": 0.125,
+                "deprecated_market_cap": 26111000,
+                "day_low_price": 0.12,
+                "open_price": 0.12,
+                "year_high_date": "2016-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.19,
+                "bid_price": 0.12,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.125,
+                "year_change_in_percentage": "-75%",
+                "average_daily_volume": 147004,
+                "year_low_price": 0.11,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.regeneus.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Roger Aston",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Aston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Martin",
+                    "first_name": "John",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Martin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Barry Sechos",
+                    "first_name": "Barry",
+                    "roles": [
+                        "Director",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sechos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Prof. Graham Vesey",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Vesey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Glen Richards",
+                    "first_name": "Glen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Richards",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Sandra McIntosh",
+                    "first_name": "Sandra",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "McIntosh",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

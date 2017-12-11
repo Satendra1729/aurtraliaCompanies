@@ -1,0 +1,125 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SKF",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "SKYFII LTD",
+    "ASXcode": "SKF",
+    "data": {
+        "summary": {
+            "name_short": "SKYFII",
+            "name_full": "SKYFII LTD",
+            "code": "SKF",
+            "primary_share_code": "SKF",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "SKYFII LTD",
+            "foreign_exempt": false,
+            "listing_date": "1999-12-17T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8188 1188",
+            "mailing_address": "Level 1, 34-36 Oxford St, DARLINGHURST, NSW, AUSTRALIA, 2010",
+            "principal_activities": "Harnessing big data to drive customer loyalty and sales",
+            "fax_number": "-",
+            "latest_annual_reports": [
+                {
+                    "header": "Skyfii 2017 Annual Report",
+                    "document_date": "2017-08-31T09:36:26+1000",
+                    "number_of_pages": 66,
+                    "id": "01890771",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T09:41:20+1000",
+                    "size": "12.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lxtzqs7lv6ss.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 115500,
+                "status": [],
+                "market_cap": 24871606,
+                "code": "SKF",
+                "indices": [],
+                "deprecated_number_of_shares": 247156621,
+                "previous_close_price": 0.093,
+                "year_low_date": "2017-03-15T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 267436621,
+                "eps": -0.023,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.093,
+                "suspended": false,
+                "last_price": 0.093,
+                "deprecated_market_cap": 22986000,
+                "day_low_price": 0.093,
+                "open_price": 0.093,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "3.333%",
+                "year_open_date": null,
+                "year_high_price": 0.097,
+                "bid_price": 0.085,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.093,
+                "average_daily_volume": 192318,
+                "year_low_price": 0.044,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.skyfii.io",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James Scott",
+                    "first_name": "James",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scott",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wayne Arthur",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Arthur",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Johnson",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Koreen White",
+                    "first_name": "Koreen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "White",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

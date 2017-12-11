@@ -1,0 +1,107 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KFW",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "KFW",
+    "ASXcode": "KFW",
+    "data": {
+        "summary": {
+            "name_full": "KFW",
+            "products": [],
+            "phone_number": "1 49 69 7431 0",
+            "mailing_address": "Palmengartenstrasse 5-9, AUSTRALIA,",
+            "principal_activities": "",
+            "name_short": "KFW",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "KFW",
+            "registry_phone_number": "1300 787 272",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "KFW",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "listing_date": "1999-11-02T00:00:00+1100",
+            "fax_number": "1 49 69 7431 4324",
+            "web_address": null,
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr G\u00bfnther Br\u00bfunig",
+                    "first_name": "G\u00bfnther",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Br\u00bfunig",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Ingrid Hengster",
+                    "first_name": "Ingrid",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Hengster",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Norbert Kloppenburg",
+                    "first_name": "Norbert",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Kloppenburg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bernd Loewen",
+                    "first_name": "Bernd",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Loewen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Stefan Peiss",
+                    "first_name": "Stefan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Peiss",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Ulrich Schr\u00bfder",
+                    "first_name": "Ulrich",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Schr\u00bfder",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jochen Leubner",
+                    "first_name": "Jochen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leubner",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

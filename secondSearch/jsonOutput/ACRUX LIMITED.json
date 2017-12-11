@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ACR",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "ACRUX LIMITED",
+    "ASXcode": "ACR",
+    "data": {
+        "summary": {
+            "name_short": "ACRUX",
+            "name_full": "ACRUX LIMITED",
+            "code": "ACR",
+            "primary_share_code": "ACR",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "ACRUX LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ACR?image_size=L&v=1493956409000",
+            "foreign_exempt": false,
+            "listing_date": "2004-09-29T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8379 0100",
+            "mailing_address": "103-113 Stanley Street, WEST MELBOURNE, VIC, AUSTRALIA, 3003",
+            "principal_activities": "A pooled development fund that invests in pharmaceutical businesses developing new products involving the delivery of pharmaceuticals via the skin.",
+            "fax_number": "(03) 8379 0101",
+            "latest_annual_reports": [
+                {
+                    "header": "Acrux 2017 Annual Report",
+                    "document_date": "2017-09-22T12:02:11+1000",
+                    "number_of_pages": 72,
+                    "id": "01898949",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T12:04:42+1000",
+                    "size": "3.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mk8cgwjysdvq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 268234,
+                "status": [],
+                "market_cap": 24145648,
+                "code": "ACR",
+                "indices": [],
+                "year_open_price": 2.14,
+                "previous_close_price": 0.145,
+                "year_change_price": -1.995,
+                "year_low_date": "2017-11-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 166521711,
+                "eps": -0.0015,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 166521711,
+                "pe": 0,
+                "offer_price": 0.15,
+                "suspended": false,
+                "last_price": 0.145,
+                "deprecated_market_cap": 24146000,
+                "day_low_price": 0.145,
+                "open_price": 0.15,
+                "year_high_date": "2016-12-14T00:00:00+1100",
+                "previous_day_percentage_change": "-3.333%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.335,
+                "bid_price": 0.145,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.15,
+                "year_change_in_percentage": "-93.224%",
+                "average_daily_volume": 393106,
+                "year_low_price": 0.13,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.acrux.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ross Dobinson",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dobinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Kotsanis",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kotsanis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Geoffrey Brooke",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Brooke",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Simon Green",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Green",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Oldham",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Oldham",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tim Patrick Bateman",
+                    "first_name": "Tim",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bateman",
+                    "middle_name": "Patrick"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tim Patrick Bateman",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bateman",
+                    "middle_name": "Patrick"
+                }
+            ]
+        }
+    }
+}

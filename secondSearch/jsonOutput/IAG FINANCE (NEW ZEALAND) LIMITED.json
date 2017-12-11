@@ -1,0 +1,132 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IAN",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "IAG FINANCE (NEW ZEALAND) LIMITED",
+    "ASXcode": "IAN",
+    "data": {
+        "summary": {
+            "name_full": "IAG FINANCE (NEW ZEALAND) LIMITED",
+            "code": "IAN",
+            "name_short": "IAN FIN NZ",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "IAG FINANCE (NZ) LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/IAN?image_size=L&v=1447795904000",
+            "foreign_exempt": false,
+            "listing_date": "2005-01-12T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "convertible-notes"
+            ],
+            "phone_number": "(02) 9292 9222",
+            "mailing_address": "Level 26, 388 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The Company has responsibility for raising finance for the New Zealand operations of the IAG Group and for management of their ongoing treasury requirements.",
+            "fax_number": "(02) 9292 8072",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-23T08:43:02+1000",
+                    "number_of_pages": 34,
+                    "id": "01886684",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-23T08:57:28+1000",
+                    "size": "4.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lmqz856q2j1z.pdf"
+                }
+            ],
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.iag.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Elizabeth Bryan",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bryan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Harmer",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harmer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Hawkins",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hawkins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hugh Alasdair Fletcher",
+                    "first_name": "Hugh",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fletcher",
+                    "middle_name": "Alasdair"
+                },
+                {
+                    "full_name": "Mr Chris Bertuch",
+                    "first_name": "Chris",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bertuch",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Chris Bertuch",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bertuch",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Rebecca Farrell",
+                    "first_name": "Rebecca",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Farrell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sejil Mistry-Moodley",
+                    "first_name": "Sejil",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Mistry-Moodley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

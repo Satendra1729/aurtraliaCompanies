@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KEY",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "KEY PETROLEUM LIMITED",
+    "ASXcode": "KEY",
+    "data": {
+        "summary": {
+            "name_short": "KEY PETROL",
+            "name_full": "KEY PETROLEUM LIMITED",
+            "code": "KEY",
+            "primary_share_code": "KEY",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "KEY PETROLEUM",
+            "foreign_exempt": false,
+            "listing_date": "2007-04-26T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@keypetroleum.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6389 0322",
+            "mailing_address": "Level 2, 47 Stirling Highway, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "",
+            "fax_number": "+61 8 6389 0697",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-26T18:16:28+1000",
+                    "number_of_pages": 57,
+                    "id": "01900168",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T18:18:03+1000",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mnc7vbnvzpps.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 265200,
+                "status": [],
+                "market_cap": 9978868,
+                "code": "KEY",
+                "indices": [],
+                "year_open_price": 0.011,
+                "previous_close_price": 0.008,
+                "year_change_price": -0.003,
+                "year_low_date": "2017-01-27T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1247358441,
+                "eps": -0.0011,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1247358441,
+                "pe": 0,
+                "offer_price": 0.009,
+                "suspended": false,
+                "last_price": 0.008,
+                "deprecated_market_cap": 9979000,
+                "day_low_price": 0.008,
+                "open_price": 0.008,
+                "year_high_date": "2017-07-18T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.013,
+                "bid_price": 0.008,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.008,
+                "year_change_in_percentage": "-27.273%",
+                "average_daily_volume": 421425,
+                "year_low_price": 0.003,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.keypetroleum.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Rex Turkington",
+                    "first_name": "Rex",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Turkington",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Lloyd Kane Marshall",
+                    "first_name": "John",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marshall",
+                    "middle_name": "Lloyd Kane"
+                },
+                {
+                    "full_name": "Mr Kane Marshall",
+                    "first_name": "Kane",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marshall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Baker",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dennis Wilkins",
+                    "first_name": "Dennis",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilkins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Min Yang",
+                    "first_name": "Min",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Yang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Gregory",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gregory",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

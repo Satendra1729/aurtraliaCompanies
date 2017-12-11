@@ -1,0 +1,135 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RAC",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "RACE ONCOLOGY LTD",
+    "ASXcode": "RAC",
+    "data": {
+        "summary": {
+            "name_short": "RACEONCO",
+            "name_full": "RACE ONCOLOGY LTD",
+            "code": "RAC",
+            "primary_share_code": "RAC",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "RACE ONCOLOGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2016-07-13T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "investors@raceoncology.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 6377 8043",
+            "mailing_address": "Level 2, 710 Collins Street, DOCKLANDS, VIC, AUSTRALIA, 3008",
+            "principal_activities": "Development of cancer drug, Bisantrene.",
+            "fax_number": "08 6377 8043",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-16T16:52:31+1100",
+                    "number_of_pages": 58,
+                    "id": "01908438",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-16T16:55:22+1100",
+                    "size": "934.8KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171016/pdf/43n8kk4fv6gzt3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 343652,
+                "status": [],
+                "market_cap": 24501563,
+                "code": "RAC",
+                "indices": [],
+                "deprecated_number_of_shares": 37996067,
+                "previous_close_price": 0.375,
+                "year_low_date": "2017-03-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 65337501,
+                "eps": -0.079,
+                "change_in_percent": "6.667%",
+                "change_price": 0.025,
+                "pe": 0,
+                "offer_price": 0.405,
+                "suspended": false,
+                "last_price": 0.4,
+                "deprecated_market_cap": 15198000,
+                "day_low_price": 0.375,
+                "open_price": 0.375,
+                "year_high_date": "2017-08-21T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.425,
+                "bid_price": 0.4,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.4,
+                "average_daily_volume": 67855,
+                "year_low_price": 0.165,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.raceoncology.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr William Garner",
+                    "first_name": "William",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Garner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Molloy",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Molloy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Ntoumenopoulos",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ntoumenopoulos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Brendan de Kauwe",
+                    "first_name": "Brendan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "de Kauwe",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Webse",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Webse",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AQC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AUSTRALIAN PACIFIC COAL LIMITED",
+    "ASXcode": "AQC",
+    "data": {
+        "summary": {
+            "name_full": "AUSTRALIAN PACIFIC COAL LIMITED",
+            "code": "AQC",
+            "name_short": "AUSPACCOAL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AUSPACCOAL LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AQC?image_size=L&v=1445289855000",
+            "foreign_exempt": false,
+            "listing_date": "1999-12-17T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@aqcltd.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 3221 0679",
+            "mailing_address": "Level 4, 10 Felix Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Coal Exploration",
+            "fax_number": "+61 7 3229 9323",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-10-26T13:21:14+1100",
+                    "number_of_pages": 92,
+                    "id": "01913044",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-26T13:22:58+1100",
+                    "size": "13.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171026/pdf/43nm0w4l8hzr9g.pdf"
+                }
+            ],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "AQC",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "primary_share_code": "AQC",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.aqcltd.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Ziegler",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ziegler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Robinson Jnr",
+                    "first_name": "John",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robinson Jnr",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Munro",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Munro",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "The Hon Shane Stone",
+                    "first_name": "Shane",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "Stone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Roach",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roach",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Roach",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roach",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BUD",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "BUDDY PLATFORM LTD",
+    "ASXcode": "BUD",
+    "data": {
+        "summary": {
+            "name_short": "BUDDY",
+            "name_full": "BUDDY PLATFORM LTD",
+            "code": "BUD",
+            "primary_share_code": "BUD",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "BUDDY PLATFORM LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BUD?image_size=L&v=1454306275000",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-18T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1-800-831-317",
+            "mailing_address": "Level 2, 333 King William Street, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "Designing, developing and marketing a global data exchange.",
+            "fax_number": "+61 8 8125 5931",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-10-02T03:34:04+1100",
+                    "number_of_pages": 68,
+                    "id": "01902998",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:07:33+1100",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvp020959yq5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1184446,
+                "status": [],
+                "market_cap": 351752784,
+                "code": "BUD",
+                "indices": [],
+                "year_open_price": 0.055,
+                "previous_close_price": 0.345,
+                "year_change_price": 0.29,
+                "year_low_date": "2017-01-31T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1019573288,
+                "eps": -0.0211,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 435458790,
+                "pe": 0,
+                "offer_price": 0.35,
+                "suspended": false,
+                "last_price": 0.345,
+                "deprecated_market_cap": 150233000,
+                "day_low_price": 0.345,
+                "open_price": 0.35,
+                "year_high_date": "2017-11-07T00:00:00+1100",
+                "previous_day_percentage_change": "-1.429%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.415,
+                "bid_price": 0.345,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.36,
+                "year_change_in_percentage": "527.273%",
+                "average_daily_volume": 3463219,
+                "year_low_price": 0.049,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.buddy.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Borenstein",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Borenstein",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David McLauchlan",
+                    "first_name": "David",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McLauchlan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alexander Gounares",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gounares",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ananda Kathiravelu",
+                    "first_name": "Ananda",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kathiravelu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John van Ruth",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ruth",
+                    "middle_name": "van"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Stuart Usher",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Usher",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,263 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GOZ",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "GROWTHPOINT PROPERTIES AUSTRALIA",
+    "ASXcode": "GOZ",
+    "data": {
+        "summary": {
+            "name_short": "GROWTHPRO",
+            "name_full": "GROWTHPOINT PROPERTIES AUSTRALIA",
+            "code": "GOZ",
+            "primary_share_code": "GOZ",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "GROWTHPOINT PROPERTY",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/GOZ?image_size=L&v=1404863553000",
+            "foreign_exempt": false,
+            "listing_date": "2007-07-04T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "4.239C TAX DEF; DRP  SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-06-21T00:00:00+1000",
+                "record_date": "2017-06-30T00:00:00+1000",
+                "payable_date": "2017-08-31T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.109,
+                "ex_date": "2017-06-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8681 2900",
+            "mailing_address": "Level 22, 357 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Investing in Australian commercial real estate",
+            "fax_number": "(03) 8681 2910",
+            "latest_annual_reports": [
+                {
+                    "header": "FY17 Annual Report",
+                    "document_date": "2017-08-21T08:05:15+1000",
+                    "number_of_pages": 114,
+                    "id": "01885526",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-21T08:22:48+1000",
+                    "size": "9.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170821/pdf/43lk6phwdf0zch.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 192339,
+                "status": [],
+                "market_cap": 2368944601,
+                "code": "GOZ",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Prop",
+                        "index_code": "XPJ",
+                        "name_abrev": "A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX200 A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 2.4278,
+                "previous_close_price": 3.58,
+                "year_change_price": 1.1422,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 661716369,
+                "eps": 0.427,
+                "change_in_percent": "-0.279%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 661716369,
+                "pe": 8.36,
+                "offer_price": 3.58,
+                "suspended": false,
+                "last_price": 3.57,
+                "deprecated_market_cap": 2362327000,
+                "day_low_price": 3.56,
+                "open_price": 3.59,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0.562%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 3.6,
+                "bid_price": 3.56,
+                "desc_full": "Unit/ordinary Fully Paid Stapled Securities",
+                "day_high_price": 3.6,
+                "year_change_in_percentage": "47.047%",
+                "average_daily_volume": 415414,
+                "year_low_price": 3.02,
+                "annual_dividend_yield": 6.02
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.growthpoint.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoffrey Tomlinson",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tomlinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Collyer",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Collyer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Maxine Brenner",
+                    "first_name": "Maxine",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Brenner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Jackson",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jackson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Francois Marais",
+                    "first_name": "Francois",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marais",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Norbert Sasse",
+                    "first_name": "Norbert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sasse",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Estienne de Klerk",
+                    "first_name": "Estienne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "de Klerk",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Josephine Sukkar",
+                    "first_name": "Josephine",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Sukkar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Aaron Hockly",
+                    "first_name": "Aaron",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hockly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dion Andrews",
+                    "first_name": "Dion",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Andrews",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Green",
+                    "first_name": "Michael",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Green",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Colman",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Colman",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": []
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IQ3",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "IQ3CORP LIMITED",
+    "ASXcode": "IQ3",
+    "data": {
+        "summary": {
+            "name_short": "IQ3CORP",
+            "name_full": "IQ3CORP LIMITED",
+            "code": "IQ3",
+            "primary_share_code": "IQ3",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "IQ3CORP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2015-05-18T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@iq3corp.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8239 5400",
+            "mailing_address": "Level 6, 222 Clarence Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "fax_number": "(02) 8362 9547",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-29T16:32:00+1000",
+                    "number_of_pages": 66,
+                    "id": "01902517",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:33:46+1000",
+                    "size": "2.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt88zx74tj70.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 19745750,
+                "code": "IQ3",
+                "indices": [],
+                "deprecated_number_of_shares": 103925001,
+                "previous_close_price": 0.19,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 103925001,
+                "eps": -0.0005,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.25,
+                "suspended": false,
+                "last_price": 0.19,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-07-19T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.31,
+                "bid_price": 0.21,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 19277,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.iq3corp.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Spiro Kevin Sakiris",
+                    "first_name": "Spiro",
+                    "roles": [
+                        "Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sakiris",
+                    "middle_name": "Kevin"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kelvin Boateng",
+                    "first_name": "Kelvin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boateng",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

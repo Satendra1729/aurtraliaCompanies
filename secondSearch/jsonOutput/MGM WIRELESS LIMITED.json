@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MWR",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "MGM WIRELESS LIMITED",
+    "ASXcode": "MWR",
+    "data": {
+        "summary": {
+            "name_short": "MGM WIRE",
+            "name_full": "MGM WIRELESS LIMITED",
+            "code": "MWR",
+            "primary_share_code": "MWR",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "MGM WIRELESS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2001-07-17T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI;  DRP",
+                "franked_percentage": "0%",
+                "created_date": "2016-08-31T00:00:00+1000",
+                "record_date": "2016-09-23T00:00:00+1000",
+                "payable_date": "2016-10-26T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.013,
+                "ex_date": "2016-09-22T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 8104 9555",
+            "mailing_address": "The Parks, Suite 13, 154 Fullarton Road, ROSE PARK, ADELAIDE, SA, AUSTRALIA, 5067",
+            "principal_activities": "SMS Student Attendance Management and Parent Communcation solutions for Schools.",
+            "fax_number": "08 8431 2400",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T15:47:36+1000",
+                    "number_of_pages": 94,
+                    "id": "01902422",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T15:51:30+1000",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt2pjldmwxwf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 20157,
+                "status": [],
+                "market_cap": 7622934,
+                "code": "MWR",
+                "indices": [],
+                "year_open_price": 1.16,
+                "previous_close_price": 0.8,
+                "year_change_price": -0.35,
+                "year_low_date": "2017-06-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 9528668,
+                "eps": -0.0615,
+                "change_in_percent": "1.25%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 9528668,
+                "pe": 0,
+                "offer_price": 0.81,
+                "suspended": false,
+                "last_price": 0.81,
+                "deprecated_market_cap": 7718000,
+                "day_low_price": 0.74,
+                "open_price": 0.755,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "-9.091%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.91,
+                "bid_price": 0.8,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.81,
+                "year_change_in_percentage": "-30.172%",
+                "average_daily_volume": 22006,
+                "year_low_price": 0.344,
+                "annual_dividend_yield": 1.6
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.mgmwireless.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Fortunatow",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Executive Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fortunatow",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Hurd",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hurd",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Tara Racquel Lewis-Christie",
+                    "first_name": "Tara",
+                    "roles": [
+                        "Executive Director",
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Lewis-Christie",
+                    "middle_name": "Racquel"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justin Nelson",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nelson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

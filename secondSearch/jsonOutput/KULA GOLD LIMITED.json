@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KGD",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KULA GOLD LIMITED",
+    "ASXcode": "KGD",
+    "data": {
+        "summary": {
+            "name_short": "KULA",
+            "name_full": "KULA GOLD LIMITED",
+            "code": "KGD",
+            "primary_share_code": "KGD",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KULA GOLD LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2010-11-16T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9262 5651",
+            "mailing_address": "L1, 278 Stirling Highway, CLAREMONT, WA, AUSTRALIA, 6010",
+            "principal_activities": "The Company's business is the development of Woodlark Island gold project located on Woodlark Island in the Papua New Guinea.",
+            "fax_number": "(02) 9262 5680",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts - 2016",
+                    "document_date": "2017-03-31T22:26:36+1100",
+                    "number_of_pages": 62,
+                    "id": "01844213",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-03T08:21:01+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170403/pdf/43h770hppdrt26.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 114903,
+                "status": [],
+                "market_cap": 9391451,
+                "code": "KGD",
+                "indices": [],
+                "year_open_price": 0.095,
+                "previous_close_price": 0.025,
+                "year_change_price": -0.07,
+                "year_low_date": "2017-01-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 375658028,
+                "eps": -0.0424,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 375658028,
+                "pe": 0,
+                "offer_price": 0.026,
+                "suspended": false,
+                "last_price": 0.025,
+                "deprecated_market_cap": 9391000,
+                "day_low_price": 0.025,
+                "open_price": 0.025,
+                "year_high_date": "2017-06-15T00:00:00+1000",
+                "previous_day_percentage_change": "-7.407%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.033,
+                "bid_price": 0.025,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.025,
+                "year_change_in_percentage": "-73.684%",
+                "average_daily_volume": 160573,
+                "year_low_price": 0.019,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.kulagold.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Bojanjac",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bojanjac",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Philippa Leggat",
+                    "first_name": "Philippa",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leggat",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Smith",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Garry Michael Perotti",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Perotti",
+                    "middle_name": "Michael"
+                },
+                {
+                    "full_name": "Mr Mark Stowell",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stowell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Garry Michael Perotti",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Perotti",
+                    "middle_name": "Michael"
+                }
+            ]
+        }
+    }
+}

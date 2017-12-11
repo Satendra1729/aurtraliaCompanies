@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IMM",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "IMMUTEP LIMITED",
+    "ASXcode": "IMM",
+    "data": {
+        "summary": {
+            "name_short": "IMMUTEP",
+            "name_full": "IMMUTEP LIMITED",
+            "code": "IMM",
+            "primary_share_code": "IMM",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "IMMUTEP LTD",
+            "foreign_exempt": false,
+            "listing_date": "1988-06-23T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8315 7003",
+            "mailing_address": "Level 12, 95 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "biotechnology and medical research",
+            "fax_number": "+61 2 8569 1880",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 1776312,
+                "status": [],
+                "market_cap": 56703901,
+                "code": "IMM",
+                "indices": [],
+                "year_open_price": 0.049,
+                "previous_close_price": 0.024,
+                "year_change_price": -0.025,
+                "year_low_date": "2017-08-24T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2362662532,
+                "eps": -0.0045,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 2362662532,
+                "pe": 0,
+                "offer_price": 0.025,
+                "suspended": false,
+                "last_price": 0.024,
+                "deprecated_market_cap": 56704000,
+                "day_low_price": 0.024,
+                "open_price": 0.025,
+                "year_high_date": "2016-12-21T00:00:00+1100",
+                "previous_day_percentage_change": "-7.692%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.042,
+                "bid_price": 0.024,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.026,
+                "year_change_in_percentage": "-51.02%",
+                "average_daily_volume": 4145793,
+                "year_low_price": 0.02,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.primabiomed.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Lucy Turnbull A.O.",
+                    "first_name": "Lucy",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Turnbull A.O.",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Albert Wong",
+                    "first_name": "Albert",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Marc Voigt",
+                    "first_name": "Marc",
+                    "roles": [
+                        "CEO",
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Voigt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Russell John Howard",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Howard",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Pete Meyers",
+                    "first_name": "Pete",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Meyers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Deanne Miller",
+                    "first_name": "Deanne",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Miller",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tom Bloomfield",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bloomfield",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Deanne Miller",
+                    "first_name": "Deanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Miller",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

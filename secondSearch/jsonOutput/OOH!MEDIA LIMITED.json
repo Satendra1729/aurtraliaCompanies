@@ -1,0 +1,244 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OML",
+    "GICSindustrygroup": "Media",
+    "Companyname": "OOH!MEDIA LIMITED",
+    "ASXcode": "OML",
+    "data": {
+        "summary": {
+            "name_short": "OOHMEDIA",
+            "name_full": "OOH!MEDIA LIMITED",
+            "code": "OML",
+            "primary_share_code": "OML",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "OOH!MEDIA LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/OML?image_size=L&v=1449731651000",
+            "foreign_exempt": false,
+            "listing_date": "2014-12-17T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "4.5C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-14T00:00:00+1000",
+                "record_date": "2017-08-21T00:00:00+1000",
+                "payable_date": "2017-09-04T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.045,
+                "ex_date": "2017-08-18T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9927 5555",
+            "mailing_address": "Level 2, 76 Berry Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Out of home advertising",
+            "fax_number": "(02) 9927 5599",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2016",
+                    "document_date": "2017-02-20T08:52:47+1100",
+                    "number_of_pages": 112,
+                    "id": "01829679",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-02-20T08:56:21+1100",
+                    "size": "5.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170220/pdf/43g3p2hxt08jbr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 332543,
+                "status": [],
+                "market_cap": 730414318,
+                "code": "OML",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 164138049,
+                "previous_close_price": 4.45,
+                "year_low_date": "2017-07-12T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 164138049,
+                "eps": 0.1447,
+                "change_in_percent": "-0.225%",
+                "change_price": -0.01,
+                "pe": 30.68,
+                "offer_price": 4.47,
+                "suspended": false,
+                "last_price": 4.44,
+                "deprecated_market_cap": 728773000,
+                "day_low_price": 4.41,
+                "open_price": 4.47,
+                "year_high_date": "2016-12-14T00:00:00+1100",
+                "previous_day_percentage_change": "0.679%",
+                "year_open_date": null,
+                "year_high_price": 4.83,
+                "bid_price": 4.28,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 4.48,
+                "average_daily_volume": 434327,
+                "year_low_price": 3.86,
+                "annual_dividend_yield": 3.27
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.oohmedia.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://investors.oohmedia.com.au/Investor-Centre/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tony Faure",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Faure",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brendon Cook",
+                    "first_name": "Brendon",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cook",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Anderson",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Joanne Crewes",
+                    "first_name": "Joanne",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Crewes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Debbie Goodin",
+                    "first_name": "Debbie",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Goodin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Darren Smorgon",
+                    "first_name": "Darren",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smorgon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Wild",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wild",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter McClelland",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McClelland",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Katrina Jane Eastoe",
+                    "first_name": "Katrina",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Eastoe",
+                    "middle_name": "Jane"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Katrina Jane Eastoe",
+                    "first_name": "Katrina",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Eastoe",
+                    "middle_name": "Jane"
+                }
+            ]
+        }
+    }
+}

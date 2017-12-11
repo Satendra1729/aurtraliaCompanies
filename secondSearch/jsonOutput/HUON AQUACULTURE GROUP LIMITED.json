@@ -1,0 +1,191 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HUO",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "HUON AQUACULTURE GROUP LIMITED",
+    "ASXcode": "HUO",
+    "data": {
+        "summary": {
+            "name_short": "HUON AQUA",
+            "name_full": "HUON AQUACULTURE GROUP LIMITED",
+            "code": "HUO",
+            "primary_share_code": "HUO",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "HUON AQUACULTURE GRP",
+            "foreign_exempt": false,
+            "listing_date": "2014-10-23T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "2.5C FRANKED@30%; NI L CFI",
+                "franked_percentage": "50%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-22T00:00:00+1000",
+                "payable_date": "2017-10-12T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.05,
+                "ex_date": "2017-09-21T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 6239 4200",
+            "mailing_address": "961 Esperance Coast Road, GEEVESTON, TAS, AUSTRALIA, 7116",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T07:45:43+1000",
+                    "number_of_pages": 110,
+                    "id": "01901704",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:20:39+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrpwrln6lcd9.pdf"
+                },
+                {
+                    "header": "Appendix 4E and FY2017 Huon Annual Report",
+                    "document_date": "2017-08-24T08:43:51+1000",
+                    "number_of_pages": 112,
+                    "id": "01887410",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-24T08:49:35+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lp8dgbbrtt4k.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 113779,
+                "status": [],
+                "market_cap": 379043478,
+                "code": "HUO",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 87337207,
+                "previous_close_price": 4.34,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 87337207,
+                "eps": 0.4827,
+                "change_in_percent": "-0.922%",
+                "change_price": -0.04,
+                "pe": 8.91,
+                "offer_price": 4.3,
+                "suspended": false,
+                "last_price": 4.3,
+                "deprecated_market_cap": 375550000,
+                "day_low_price": 4.28,
+                "open_price": 4.31,
+                "year_high_date": "2017-08-02T00:00:00+1000",
+                "previous_day_percentage_change": "-2.472%",
+                "year_open_date": null,
+                "year_high_price": 5.45,
+                "bid_price": 4.28,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 4.31,
+                "average_daily_volume": 63268,
+                "year_low_price": 3.6,
+                "annual_dividend_yield": 1.16
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.huonaqua.com.au/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Neil Kearney",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kearney",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Bender",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bender",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Wiese",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Deputy CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wiese",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Frances Bender",
+                    "first_name": "Frances",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Bender",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tony Dynon",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dynon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Lester",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lester",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tom Haselgrove",
+                    "first_name": "Tom",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haselgrove",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tom Haselgrove",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haselgrove",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

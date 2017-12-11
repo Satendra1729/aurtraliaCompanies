@@ -1,0 +1,175 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HSO",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "HEALTHSCOPE LIMITED.",
+    "ASXcode": "HSO",
+    "data": {
+        "summary": {
+            "name_short": "HEALTHSCPE",
+            "name_full": "HEALTHSCOPE LIMITED.",
+            "code": "HSO",
+            "primary_share_code": "HSO",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "HEALTHSCOPE LIMITED.",
+            "foreign_exempt": false,
+            "listing_date": "2014-07-28T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI;  DRP NIL DISCOUNT",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-09-07T00:00:00+1000",
+                "payable_date": "2017-09-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.035,
+                "ex_date": "2017-09-06T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(03) 9926 7500",
+            "mailing_address": "Level 1, 312 St Kilda Road, MELBOURNE, VIC, AUSTRALIA, 3004",
+            "principal_activities": "Healthscope Limited is Australia's second largest private hospital operator, a leading provider of pathology services in Australia, New Zealand, Malaysia and Singapore and has a long history of operations in healthcare.",
+            "fax_number": "NA",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-23T09:17:59+1000",
+                    "number_of_pages": 106,
+                    "id": "01886765",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-23T09:19:53+1000",
+                    "size": "6.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lmwnxy10srd6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3819765,
+                "status": [],
+                "market_cap": 3511067642,
+                "code": "HSO",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Health",
+                        "index_code": "XHJ",
+                        "name_abrev": "Health Care",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Health Care (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 1738152298,
+                "previous_close_price": 2.02,
+                "year_low_date": "2017-09-08T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1738152298,
+                "eps": 0.064,
+                "change_in_percent": "1.485%",
+                "change_price": 0.03,
+                "pe": 32.03,
+                "offer_price": 2.05,
+                "suspended": false,
+                "last_price": 2.05,
+                "deprecated_market_cap": 3563212000,
+                "day_low_price": 2.02,
+                "open_price": 2.02,
+                "year_high_date": "2017-01-10T00:00:00+1100",
+                "previous_day_percentage_change": "0.498%",
+                "year_open_date": null,
+                "year_high_price": 2.46,
+                "bid_price": 2.03,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.05,
+                "average_daily_volume": 8921821,
+                "year_low_price": 1.605,
+                "annual_dividend_yield": 3.41
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.healthscope.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gordon Scott Ballantyne",
+                    "first_name": "Gordon",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ballantyne",
+                    "middle_name": "Scott"
+                },
+                {
+                    "full_name": "Ms Anita Healy",
+                    "first_name": "Anita",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Healy",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Ingrid Player",
+                    "first_name": "Ingrid",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Player",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

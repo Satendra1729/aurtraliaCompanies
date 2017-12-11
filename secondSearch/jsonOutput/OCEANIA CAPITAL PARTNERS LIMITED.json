@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OCP",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "OCEANIA CAPITAL PARTNERS LIMITED",
+    "ASXcode": "OCP",
+    "data": {
+        "summary": {
+            "name_short": "OCEANIA CP",
+            "name_full": "OCEANIA CAPITAL PARTNERS LIMITED",
+            "code": "OCP",
+            "primary_share_code": "OCP",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "OCEANIA CAPITAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-12-22T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9450 0935",
+            "mailing_address": "Suite 61, Level 3, 14 Narabang Way, Belrose, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Private equity transactions and activist or opportunistic public market situations",
+            "fax_number": "02 9475 0215",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-06-23T17:52:26+1000",
+                    "number_of_pages": 53,
+                    "id": "01868167",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-06-23T17:54:20+1000",
+                    "size": "4.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170623/pdf/43k4txdbvtdl8b.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 95477560,
+                "code": "OCP",
+                "indices": [],
+                "year_open_price": 1.5,
+                "previous_close_price": 2.71,
+                "year_change_price": 1.21,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 35231572,
+                "eps": 0.2194,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 35231572,
+                "pe": 12.35,
+                "offer_price": 2.77,
+                "suspended": false,
+                "last_price": 2.71,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-09-25T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.87,
+                "bid_price": 2.55,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "80.667%",
+                "average_daily_volume": 6512,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.oceaniacapital.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Moran",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moran",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Jacobson",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jacobson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brian Scheiner",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scheiner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lionel Baldwin",
+                    "first_name": "Lionel",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baldwin",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Lionel Baldwin",
+                    "first_name": "Lionel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baldwin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

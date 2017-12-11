@@ -1,0 +1,135 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LON",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "LONGTABLE GROUP LIMITED",
+    "ASXcode": "LON",
+    "data": {
+        "summary": {
+            "name_short": "LONGTABLE",
+            "name_full": "LONGTABLE GROUP LIMITED",
+            "code": "LON",
+            "primary_share_code": "LON",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "LONGTABLE GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-08-27T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9692 7222",
+            "mailing_address": "Level 4, 100 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Primary Opinion is a digital content and community platform that enhances advisory professionals ability to showcase their expertise, share knowledge, and develop business with clients and referral partners. The services provided are designed to support p",
+            "fax_number": "(03) 9077 9233",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 4501857,
+                "status": [],
+                "market_cap": 45646253,
+                "code": "LON",
+                "indices": [],
+                "year_open_price": 0.093,
+                "previous_close_price": 0.059,
+                "year_change_price": -0.031,
+                "year_low_date": "2017-04-11T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 773665306,
+                "eps": -0.0136,
+                "change_in_percent": "5.085%",
+                "change_price": 0.003,
+                "deprecated_number_of_shares": 773665306,
+                "pe": 0,
+                "offer_price": 0.062,
+                "suspended": false,
+                "last_price": 0.062,
+                "deprecated_market_cap": 47967000,
+                "day_low_price": 0.058,
+                "open_price": 0.059,
+                "year_high_date": "2017-11-22T00:00:00+1100",
+                "previous_day_percentage_change": "-4.839%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.078,
+                "bid_price": 0.061,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.063,
+                "year_change_in_percentage": "-33.333%",
+                "average_daily_volume": 6929118,
+                "year_low_price": 0.012,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.primaryopinion.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tony Robinson",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Laura McBain",
+                    "first_name": "Laura",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "McBain",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tom Kiing",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kiing",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hugh Robertson",
+                    "first_name": "Hugh",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robertson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justin Mouchacca",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mouchacca",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Melanie Leydin",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leydin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

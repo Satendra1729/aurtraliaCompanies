@@ -1,0 +1,190 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MOY",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MILLENNIUM MINERALS LIMITED",
+    "ASXcode": "MOY",
+    "data": {
+        "summary": {
+            "name_short": "MILLENNIUM",
+            "name_full": "MILLENNIUM MINERALS LIMITED",
+            "code": "MOY",
+            "primary_share_code": "MOY",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MILLENNIUM MIN LTD",
+            "foreign_exempt": false,
+            "listing_date": "1993-02-11T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@mmltd.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9216 9011",
+            "mailing_address": "Ground Floor, 10 Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Producing and processing Gold at its Nullagine Gold Project located in the East Pilbara region of Western Australia.",
+            "fax_number": "+61 8 9481 0288",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-27T18:53:47+1100",
+                    "number_of_pages": 72,
+                    "id": "01842362",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-27T18:57:19+1100",
+                    "size": "12.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170327/pdf/43h2kw9jzk1ymf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 613856,
+                "status": [],
+                "market_cap": 137217727,
+                "code": "MOY",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    }
+                ],
+                "year_open_price": 0.17,
+                "previous_close_price": 0.175,
+                "year_change_price": 0.005,
+                "year_low_date": "2017-10-02T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 784101299,
+                "eps": 0.0088,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 784101299,
+                "pe": 19.89,
+                "offer_price": 0.18,
+                "suspended": false,
+                "last_price": 0.175,
+                "deprecated_market_cap": 137218000,
+                "day_low_price": 0.17,
+                "open_price": 0.17,
+                "year_high_date": "2017-02-09T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.345,
+                "bid_price": 0.17,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.175,
+                "year_change_in_percentage": "2.941%",
+                "average_daily_volume": 873935,
+                "year_low_price": 0.14,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.millenniumminerals.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gregory Bittar",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bittar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Cash",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cash",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Chye",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chye",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Paul Kennedy",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kennedy",
+                    "middle_name": "Paul"
+                },
+                {
+                    "full_name": "Mr Peter Robert Lester",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lester",
+                    "middle_name": "Robert"
+                },
+                {
+                    "full_name": "Mr Raymond Parry",
+                    "first_name": "Raymond",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Parry",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Raymond Parry",
+                    "first_name": "Raymond",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Parry",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Stacey Apostolou",
+                    "first_name": "Stacey",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Apostolou",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BKW",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BRICKWORKS LIMITED",
+    "ASXcode": "BKW",
+    "data": {
+        "summary": {
+            "name_short": "BRICKWORKS",
+            "name_full": "BRICKWORKS LIMITED",
+            "last_dividend": {
+                "comments": "34C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-09-21T00:00:00+1000",
+                "record_date": "2017-11-09T00:00:00+1100",
+                "payable_date": "2017-11-29T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.34,
+                "ex_date": "2017-11-08T00:00:00+1100"
+            },
+            "code": "BKW",
+            "primary_share_code": "BKW",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "BRICKWORKS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1962-06-30T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@brickworks.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9830 7800",
+            "mailing_address": "Group Administration Office, 738-780 Wallgrove Road, HORSLEY PARK, NSW, AUSTRALIA, 2175",
+            "principal_activities": "Building products; land & development; and investments.",
+            "fax_number": "(02) 9620 1328",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-23T09:51:14+1100",
+                    "number_of_pages": 129,
+                    "id": "01910933",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T09:55:27+1100",
+                    "size": "5.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43nghrmvnr7bn0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 212835,
+                "status": [],
+                "market_cap": 2196302466,
+                "code": "BKW",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    }
+                ],
+                "year_open_price": 14.6,
+                "previous_close_price": 14.7,
+                "year_change_price": 0.22,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 149408331,
+                "eps": 1.249,
+                "change_in_percent": "0.816%",
+                "change_price": 0.12,
+                "deprecated_number_of_shares": 149408331,
+                "pe": 11.87,
+                "offer_price": 14.91,
+                "suspended": false,
+                "last_price": 14.82,
+                "deprecated_market_cap": 2214231000,
+                "day_low_price": 14.71,
+                "open_price": 14.71,
+                "year_high_date": "2017-05-12T00:00:00+1000",
+                "previous_day_percentage_change": "2.582%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 15.84,
+                "bid_price": 14.77,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 14.89,
+                "year_change_in_percentage": "1.507%",
+                "average_daily_volume": 265035,
+                "year_low_price": 12.29,
+                "annual_dividend_yield": 3.44
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.brickworks.com.au",
+            "fiscal_year_end": "31/07",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.brickworks.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert D Millner",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Millner",
+                    "middle_name": "D"
+                },
+                {
+                    "full_name": "Mr Michael J Millner",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Millner",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Lindsay Partridge",
+                    "first_name": "Lindsay",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Partridge",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brendan Crotty",
+                    "first_name": "Brendan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crotty",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Gilham",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gilham",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Deborah Page",
+                    "first_name": "Deborah",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Page",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "The Hon Robert Webster",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "Webster",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Bakewell",
+                    "first_name": "Robert",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bakewell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Susan Lepinus",
+                    "first_name": "Susan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lepinus",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

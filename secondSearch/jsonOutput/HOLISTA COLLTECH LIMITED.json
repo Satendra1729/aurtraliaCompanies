@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HCT",
+    "GICSindustrygroup": "Household & Personal Products",
+    "Companyname": "HOLISTA COLLTECH LIMITED",
+    "ASXcode": "HCT",
+    "data": {
+        "summary": {
+            "name_short": "HOLISTA",
+            "name_full": "HOLISTA COLLTECH LIMITED",
+            "code": "HCT",
+            "primary_share_code": "HCT",
+            "industry_group_name": "Household & Personal Products",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "HOLISTA COLLTECH LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-02-26T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6141 3500",
+            "mailing_address": "283 Rokeby Road, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Bio-industrial company committed to the development and commercialisation of food ingredients and ovine collagen for cosmetic and biomedical applications.",
+            "fax_number": "+61 8 6141 3599",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-01T13:38:02+1100",
+                    "number_of_pages": 86,
+                    "id": "01844219",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-03T08:21:29+1000",
+                    "size": "3.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170403/pdf/43h77c5tl2d7gw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 20244300,
+                "code": "HCT",
+                "indices": [],
+                "year_open_price": 0.065,
+                "previous_close_price": 0.11,
+                "year_change_price": 0.045,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 184039087,
+                "eps": -0.0179,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 184039087,
+                "pe": 0,
+                "offer_price": 0.11,
+                "suspended": false,
+                "last_price": 0.11,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-09T00:00:00+1100",
+                "previous_day_percentage_change": "10%",
+                "year_open_date": "2014-03-14T11:00:00+1100",
+                "year_high_price": 0.19,
+                "bid_price": 0.1,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "69.231%",
+                "average_daily_volume": 45880,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.holistaco.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Rajen Marnickavasagar",
+                    "first_name": "Rajen",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Marnickavasagar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel O'Connor",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Connor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chan Heng Fai",
+                    "first_name": "Chan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fai",
+                    "middle_name": "Heng"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jay Stephenson",
+                    "first_name": "Jay",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephenson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Julia Maria Beckett",
+                    "first_name": "Julia",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Beckett",
+                    "middle_name": "Maria"
+                }
+            ]
+        }
+    }
+}

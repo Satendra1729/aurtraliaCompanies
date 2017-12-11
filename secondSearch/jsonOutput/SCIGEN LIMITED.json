@@ -1,0 +1,183 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SIE",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "SCIGEN LIMITED",
+    "ASXcode": "SIE",
+    "data": {
+        "summary": {
+            "name_full": "SCIGEN LIMITED",
+            "code": "SIE",
+            "name_short": "SCIGEN",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "SCIGEN LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SIE?image_size=L&v=1426647400000",
+            "foreign_exempt": false,
+            "listing_date": "2002-11-15T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "investor_relations_email": "central@scigen.com.sg",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02-9485-1800",
+            "mailing_address": "Suite 1, 13B Narabang Way, BELROSE, NSW, AUSTRALIA, 2085",
+            "principal_activities": "Involved in the co-development, marketing and sales of a portfolio of bio-pharmaceutical products.  SciGen focuses in areas of gastroenterology, endocrinology and immunology. The product portfolio include products such as recombinant human insulin, recomb",
+            "fax_number": "02-9485-1888",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-06-15T17:28:42+1000",
+                    "number_of_pages": 93,
+                    "id": "01865848",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-06-15T17:32:59+1000",
+                    "size": "4.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170615/pdf/43jz0mw5djn7nr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 40740,
+                "status": [],
+                "market_cap": 15463569,
+                "code": "SIE",
+                "indices": [],
+                "year_open_price": 0.025,
+                "previous_close_price": 0.028,
+                "year_change_price": 0.002,
+                "year_low_date": "2017-02-17T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 552270320,
+                "eps": 0.0052,
+                "change_in_percent": "-3.571%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 52243813,
+                "pe": 5.19,
+                "offer_price": 0.032,
+                "suspended": false,
+                "last_price": 0.027,
+                "deprecated_market_cap": 1411000,
+                "day_low_price": 0.027,
+                "open_price": 0.027,
+                "year_high_date": "2017-06-21T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-26T11:00:00+1100",
+                "year_high_price": 0.07,
+                "bid_price": 0.027,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0.027,
+                "year_change_in_percentage": "8%",
+                "average_daily_volume": 52449,
+                "year_low_price": 0.015,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "SIE",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.scigenltd.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Marek Dziki",
+                    "first_name": "Marek",
+                    "roles": [
+                        "Chairman",
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Dziki",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Miss Yvonne Lean Guat Lim",
+                    "first_name": "Yvonne",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Miss",
+                    "last_name": "Lim",
+                    "middle_name": "Lean Guat"
+                },
+                {
+                    "full_name": "Mr Adam Polonek",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Executive Director",
+                        "CFO",
+                        "Administrator"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Polonek",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Marcin Dukaczewski",
+                    "first_name": "Marcin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dukaczewski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kenneth Gross",
+                    "first_name": "Kenneth",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gross",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mateusz Kosecki",
+                    "first_name": "Mateusz",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kosecki",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Ju Bo Liu",
+                    "first_name": "Ju Bo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Viswanath Vaidyanathan",
+                    "first_name": "Viswanath",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vaidyanathan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Adam Polonek",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Polonek",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

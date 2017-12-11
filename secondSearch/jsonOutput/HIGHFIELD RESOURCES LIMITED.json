@@ -1,0 +1,201 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HFR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "HIGHFIELD RESOURCES LIMITED",
+    "ASXcode": "HFR",
+    "data": {
+        "summary": {
+            "name_short": "HIGHFIELD",
+            "name_full": "HIGHFIELD RESOURCES LIMITED",
+            "code": "HFR",
+            "primary_share_code": "HFR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "HIGHFIELD RES LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/HFR?image_size=L&v=1472436450000",
+            "foreign_exempt": false,
+            "listing_date": "2012-02-07T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+61 8 8133 5000",
+            "mailing_address": "169 Fullarton Road, DULWICH, SA, AUSTRALIA, 5065",
+            "principal_activities": "Potash exploration.",
+            "fax_number": "+61 8 8431 3502",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-28T08:56:24+1000",
+                    "number_of_pages": 110,
+                    "id": "01900937",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T08:59:35+1000",
+                    "size": "16.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mq32m08nw8xj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 88806,
+                "status": [],
+                "market_cap": 312763753,
+                "code": "HFR",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.4,
+                "previous_close_price": 0.95,
+                "year_change_price": 0.535,
+                "year_low_date": "2017-07-12T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 329225003,
+                "eps": -0.0222,
+                "change_in_percent": "-1.579%",
+                "change_price": -0.015,
+                "deprecated_number_of_shares": 329225003,
+                "pe": 0,
+                "offer_price": 0.94,
+                "suspended": false,
+                "last_price": 0.935,
+                "deprecated_market_cap": 307825000,
+                "day_low_price": 0.92,
+                "open_price": 0.95,
+                "year_high_date": "2016-12-09T00:00:00+1100",
+                "previous_day_percentage_change": "2.151%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.54,
+                "bid_price": 0.92,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.95,
+                "year_change_in_percentage": "133.75%",
+                "average_daily_volume": 178290,
+                "year_low_price": 0.76,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.highfieldresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Derek Carter",
+                    "first_name": "Derek",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Albert",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Albert",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Crookes",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crookes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Owen Hegarty",
+                    "first_name": "Owen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hegarty",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Pauline Carr",
+                    "first_name": "Pauline",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Carr",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jim Dietz",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dietz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Claverley",
+                    "first_name": "John",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Claverley",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Donald Stephens",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Aaron Bertolatti",
+                    "first_name": "Aaron",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bertolatti",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

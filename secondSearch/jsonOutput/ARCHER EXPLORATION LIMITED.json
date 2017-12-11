@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AXE",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ARCHER EXPLORATION LIMITED",
+    "ASXcode": "AXE",
+    "data": {
+        "summary": {
+            "name_short": "ARCHER EXP",
+            "name_full": "ARCHER EXPLORATION LIMITED",
+            "code": "AXE",
+            "primary_share_code": "AXE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ARCHER EXPLORATION",
+            "foreign_exempt": false,
+            "listing_date": "2007-08-14T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 8272 3288",
+            "mailing_address": "Level 1, 28 Greenhill Road, WAYVILLE, SA, AUSTRALIA, 5034",
+            "principal_activities": "Mineral exploration for cobalt, copper, gold, graphite and magnesite.",
+            "fax_number": "(08) 8272 3888",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-20T17:41:34+1000",
+                    "number_of_pages": 72,
+                    "id": "01898161",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-20T17:45:00+1000",
+                    "size": "5.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170920/pdf/43mhgjxkwt0620.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2403278,
+                "status": [],
+                "market_cap": 21263362,
+                "code": "AXE",
+                "indices": [],
+                "year_open_price": 0.17,
+                "previous_close_price": 0.12,
+                "year_change_price": -0.045,
+                "year_low_date": "2017-06-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 177194682,
+                "eps": -0.0056,
+                "change_in_percent": "4.167%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 177194682,
+                "pe": 0,
+                "offer_price": 0.125,
+                "suspended": false,
+                "last_price": 0.125,
+                "deprecated_market_cap": 22149000,
+                "day_low_price": 0.12,
+                "open_price": 0.135,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.19,
+                "bid_price": 0.115,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.135,
+                "year_change_in_percentage": "-26.471%",
+                "average_daily_volume": 1080424,
+                "year_low_price": 0.036,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.archerexploration.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Greg English",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Chairman",
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "English",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Alice McCleary",
+                    "first_name": "Alice",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McCleary",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Leonard Rix",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rix",
+                    "middle_name": "Leonard"
+                },
+                {
+                    "full_name": "Mr Damien Connor",
+                    "first_name": "Damien",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Connor",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Damien Connor",
+                    "first_name": "Damien",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Connor",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

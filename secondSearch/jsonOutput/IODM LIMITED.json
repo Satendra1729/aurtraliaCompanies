@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IOD",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "IODM LIMITED",
+    "ASXcode": "IOD",
+    "data": {
+        "summary": {
+            "name_short": "IODM",
+            "name_full": "IODM LIMITED",
+            "code": "IOD",
+            "primary_share_code": "IOD",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "IODM LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2003-11-18T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9098 8689",
+            "mailing_address": "Level 5, 22 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Provision of cloud based software as a service automated debtor management solution",
+            "fax_number": "(08) 9227 6390",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-28T17:11:05+1000",
+                    "number_of_pages": 59,
+                    "id": "01901437",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T17:15:58+1000",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr2q66nfctzs.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 3403980,
+                "code": "IOD",
+                "indices": [],
+                "year_open_price": 0.005,
+                "previous_close_price": 0.008,
+                "year_change_price": 0.003,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 425497550,
+                "eps": -0.0056,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 343094766,
+                "pe": 0,
+                "offer_price": 0.009,
+                "suspended": false,
+                "last_price": 0.008,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-20T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.022,
+                "bid_price": 0.008,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "60%",
+                "average_daily_volume": 361922,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.iodm.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Damian Arena",
+                    "first_name": "Damian",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Arena",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Reilly",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reilly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Rogers",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rogers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Kasian",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kasian",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Petrina Halsall",
+                    "first_name": "Petrina",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Halsall",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

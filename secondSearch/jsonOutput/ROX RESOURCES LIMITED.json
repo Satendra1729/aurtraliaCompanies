@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RXL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ROX RESOURCES LIMITED",
+    "ASXcode": "RXL",
+    "data": {
+        "summary": {
+            "name_full": "ROX RESOURCES LIMITED",
+            "code": "RXL",
+            "name_short": "ROX RES",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ROX RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RXL?image_size=L&v=1422341795000",
+            "foreign_exempt": false,
+            "listing_date": "2004-04-27T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@roxresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9226 0044",
+            "mailing_address": "Level 1, 34 Colin Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Zinc - Lead Exploration",
+            "fax_number": "08 9322 6254",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-19T12:56:24+1100",
+                    "number_of_pages": 80,
+                    "id": "01909857",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-19T12:58:17+1100",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171019/pdf/43ncr5wszt4kz6.pdf"
+                },
+                {
+                    "header": "Annual Report and Full Year Statutory Accounts",
+                    "document_date": "2017-09-28T18:36:17+1000",
+                    "number_of_pages": 72,
+                    "id": "01901540",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T18:48:04+1000",
+                    "size": "2.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr8zf0xp6w20.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 135600,
+                "status": [],
+                "market_cap": 18881709,
+                "code": "RXL",
+                "indices": [],
+                "year_open_price": 0.037,
+                "previous_close_price": 0.015,
+                "year_change_price": -0.022,
+                "year_low_date": "2017-08-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1258780571,
+                "eps": 0.0109,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1258780571,
+                "pe": 1.38,
+                "offer_price": 0.015,
+                "suspended": false,
+                "last_price": 0.015,
+                "deprecated_market_cap": 18882000,
+                "day_low_price": 0.015,
+                "open_price": 0.015,
+                "year_high_date": "2017-02-28T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.024,
+                "bid_price": 0.014,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.015,
+                "year_change_in_percentage": "-59.459%",
+                "average_daily_volume": 2635586,
+                "year_low_price": 0.012,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "RXL",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.roxresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stephen Dennis",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dennis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Mulholland",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mulholland",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Dickson",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dickson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Brett Dickson",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dickson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MAX",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "MILLINIUM'S ALTERNATIVES FUND.",
+    "ASXcode": "MAX",
+    "data": {
+        "summary": {
+            "name_short": "MILLINIUM",
+            "name_full": "MILLINIUM'S ALTERNATIVES FUND.",
+            "code": "MAX",
+            "primary_share_code": "MAX",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "MILLINIUM ALT FUND",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-20T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9080 2377",
+            "mailing_address": "c/- Millinium Capital Managers Limited, Level 33, 19 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The Trust is a feeder fund which invests into the unlisted van Eyk Blueprint Alternatives Fund which itself invests in a range of specialist underlying managers who employ alternative investment strategies.",
+            "fax_number": "(02) 9080 2378",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-15T14:48:55+1000",
+                    "number_of_pages": 35,
+                    "id": "01896636",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-15T14:51:52+1000",
+                    "size": "430.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170915/pdf/43mcmyhmv3rwl4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 6981508,
+                "code": "MAX",
+                "indices": [],
+                "year_open_price": 6.51,
+                "previous_close_price": 6.68,
+                "year_change_price": 0.17,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1045136,
+                "eps": 0.3892,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1045136,
+                "pe": 17.16,
+                "offer_price": 5.45,
+                "suspended": false,
+                "last_price": 6.68,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-10-28T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-01-08T11:00:00+1100",
+                "year_high_price": 6.28,
+                "bid_price": 0,
+                "desc_full": "Ordinary Units Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "2.611%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://millinium.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tom Wallace",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wallace",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Bray",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Henry Capra",
+                    "first_name": "Henry",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Capra",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tom Wallace",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wallace",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

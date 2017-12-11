@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LPD",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LEPIDICO LTD",
+    "ASXcode": "LPD",
+    "data": {
+        "summary": {
+            "name_full": "LEPIDICO LTD",
+            "code": "LPD",
+            "name_short": "LEPIDICO",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LEPIDICO LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/LPD?image_size=L&v=1480477440000",
+            "foreign_exempt": false,
+            "listing_date": "1994-04-19T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "info@lepidico.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9363 7800",
+            "mailing_address": "Level 1, 254 Railway Parade, WEST LEEDERVILLE, WA, AUSTRALIA, 6007",
+            "principal_activities": "Mineral Exploration",
+            "fax_number": "+61 8 9363 7801",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-24T13:10:16+1100",
+                    "number_of_pages": 84,
+                    "id": "01911740",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T13:11:48+1100",
+                    "size": "2.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43nj6x56cf0lqd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 23581386,
+                "status": [],
+                "market_cap": 160021170,
+                "code": "LPD",
+                "indices": [],
+                "year_open_price": 0.02952,
+                "previous_close_price": 0.056,
+                "year_change_price": 0.02548,
+                "year_low_date": "2017-01-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2857520897,
+                "eps": -0.003,
+                "change_in_percent": "-1.786%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 2857520897,
+                "pe": 0,
+                "offer_price": 0.056,
+                "suspended": false,
+                "last_price": 0.055,
+                "deprecated_market_cap": 157164000,
+                "day_low_price": 0.053,
+                "open_price": 0.057,
+                "year_high_date": "2017-11-15T00:00:00+1100",
+                "previous_day_percentage_change": "5.66%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.084,
+                "bid_price": 0.055,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.058,
+                "year_change_in_percentage": "86.314%",
+                "average_daily_volume": 46664848,
+                "year_low_price": 0.009,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "LPD",
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.lepidico.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gary Johnson",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joe Walsh",
+                    "first_name": "Joe",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walsh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tom P Dukovcic",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dukovcic",
+                    "middle_name": "P"
+                },
+                {
+                    "full_name": "Mr Mark Rodda",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rodda",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Shontel Norgate",
+                    "first_name": "Shontel",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Norgate",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Alex Neuling",
+                    "first_name": "Alex",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Neuling",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Shontel Norgate",
+                    "first_name": "Shontel",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Norgate",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

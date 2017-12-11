@@ -1,0 +1,290 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ALL",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "ARISTOCRAT LEISURE LIMITED",
+    "ASXcode": "ALL",
+    "data": {
+        "summary": {
+            "name_short": "ARISTOCRAT",
+            "name_full": "ARISTOCRAT LEISURE LIMITED",
+            "code": "ALL",
+            "primary_share_code": "ALL",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "ARISTOCRAT LEISURE",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ALL?image_size=L&v=1392960506000",
+            "foreign_exempt": false,
+            "listing_date": "1996-07-09T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "20C FRANKED@30%; DRP  SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-11-30T00:00:00+1100",
+                "record_date": "2017-12-06T00:00:00+1100",
+                "payable_date": "2017-12-20T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.2,
+                "ex_date": "2017-12-05T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 9013 6000",
+            "mailing_address": "Building A, Pinnacle Office Park, 85 Epping Road, NORTH RYDE, NSW, AUSTRALIA, 2113",
+            "principal_activities": "Designs, develops, manufactures and markets a diverse range of products and services including electronic gaming machines and casino management systems. The Group also operates within the online social gaming and real money wager markets.",
+            "fax_number": "(02) 9013 6276",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2016-12-22T09:26:45+1100",
+                    "number_of_pages": 117,
+                    "id": "01815660",
+                    "market_sensitive": false,
+                    "document_release_date": "2016-12-22T09:29:43+1100",
+                    "size": "15.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20161222/pdf/43dxrh5s2f3z1p.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1529492,
+                "status": [
+                    "XD"
+                ],
+                "market_cap": 14501337647,
+                "code": "ALL",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    }
+                ],
+                "year_open_price": 4.97,
+                "previous_close_price": 22.71,
+                "year_change_price": 18.05,
+                "year_low_date": "2016-12-16T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 638544150,
+                "eps": 0.777,
+                "change_in_percent": "1.365%",
+                "change_price": 0.31,
+                "deprecated_number_of_shares": 638544150,
+                "pe": 29.63,
+                "offer_price": 23.03,
+                "suspended": false,
+                "last_price": 23.02,
+                "deprecated_market_cap": 14699286000,
+                "day_low_price": 22.75,
+                "open_price": 22.96,
+                "year_high_date": "2017-11-30T00:00:00+1100",
+                "previous_day_percentage_change": "-0.482%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 24.32,
+                "bid_price": 22.96,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 23.03,
+                "year_change_in_percentage": "363.179%",
+                "average_daily_volume": 1732351,
+                "year_low_price": 14.84,
+                "annual_dividend_yield": 1.48
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.aristocrat.com",
+            "fiscal_year_end": "30/09",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Ian Blackburne",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Blackburne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Croker",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Croker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Banks",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Banks",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathleen Conlon",
+                    "first_name": "Kathleen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Conlon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Rosalind Dubs",
+                    "first_name": "Rosalind",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Dubs",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Morro",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morro",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Pat Ramsey",
+                    "first_name": "Pat",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ramsey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Sylvia Summers Couder",
+                    "first_name": "Sylvia",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Summers Couder",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Arlene Tansey",
+                    "first_name": "Arlene",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Tansey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Toni Korsanos",
+                    "first_name": "Toni",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Korsanos",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Toni Korsanos",
+                    "first_name": "Toni",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Korsanos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Bell",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Rodovitis",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rodovitis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

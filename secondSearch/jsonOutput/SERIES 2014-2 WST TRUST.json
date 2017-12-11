@@ -1,0 +1,96 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/WEK",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "SERIES 2014-2 WST TRUST",
+    "ASXcode": "WEK",
+    "data": {
+        "summary": {
+            "name_full": "SERIES 2014-2 WST TRUST",
+            "products": [],
+            "phone_number": ".",
+            "mailing_address": "Westpac Securitisation Management P/L, Level 20, Westpac Place, 275 Kent Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": ".",
+            "name_short": "SERIES14-2",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "SERIES 2014-2",
+            "registry_phone_number": "02 9551 5009",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "WEK",
+            "listing_date": "2015-01-16T00:00:00+1100",
+            "registry_address": "LEVEL 4, 35 CLARENCE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": "http://.",
+            "registry_name": "BNY TRUST COMPANY OF AUSTRALIA LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Neil Burton",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burton",
+                    "middle_name": "Neil"
+                },
+                {
+                    "full_name": "Mr David Anthony Lees",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lees",
+                    "middle_name": "Anthony"
+                },
+                {
+                    "full_name": "Mr Guy Francesco Volpicella",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Volpicella",
+                    "middle_name": "Francesco"
+                },
+                {
+                    "full_name": "Mr Curtis Alan Zuber",
+                    "first_name": "Curtis",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zuber",
+                    "middle_name": "Alan"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Stephanie Jane Gow",
+                    "first_name": "Stephanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gow",
+                    "middle_name": "Jane"
+                },
+                {
+                    "full_name": "Ms Linda Renay La Hood",
+                    "first_name": "Linda",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "La Hood",
+                    "middle_name": "Renay"
+                }
+            ]
+        }
+    }
+}

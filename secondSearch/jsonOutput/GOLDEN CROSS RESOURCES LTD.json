@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GCR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GOLDEN CROSS RESOURCES LTD",
+    "ASXcode": "GCR",
+    "data": {
+        "summary": {
+            "name_short": "GOLD CROSS",
+            "name_full": "GOLDEN CROSS RESOURCES LTD",
+            "code": "GCR",
+            "primary_share_code": "GCR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GOLDEN CROSS",
+            "foreign_exempt": false,
+            "listing_date": "1996-03-27T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9922 1266",
+            "mailing_address": "Suite 304, 66 Berry Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Minerals exploration for precious and base metals and uranium in Australia and overseas.",
+            "fax_number": "(02) 9922 1288",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-18T10:51:53+1100",
+                    "number_of_pages": 60,
+                    "id": "01909260",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-18T10:54:06+1100",
+                    "size": "6.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171018/pdf/43nbfbzjpwh7gs.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 1625812,
+                "code": "GCR",
+                "indices": [],
+                "year_open_price": 0.1,
+                "previous_close_price": 0.016,
+                "year_change_price": -0.084,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 101613227,
+                "eps": -0.0107,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 101613227,
+                "pe": 0,
+                "offer_price": 0.024,
+                "suspended": false,
+                "last_price": 0.016,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-20T00:00:00+1100",
+                "previous_day_percentage_change": "-33.333%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.026,
+                "bid_price": 0.016,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-84%",
+                "average_daily_volume": 68354,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.goldencross.com.au",
+            "fiscal_year_end": "16/01",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ken Hellsten",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hellsten",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Xiaoming Li",
+                    "first_name": "Xiaoming",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Sykes",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sykes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yuanheng Wang",
+                    "first_name": "Yuanheng",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Carl Hoyer",
+                    "first_name": "Carl",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hoyer",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

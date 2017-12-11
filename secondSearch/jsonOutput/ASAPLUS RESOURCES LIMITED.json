@@ -1,0 +1,123 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AJY",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ASAPLUS RESOURCES LIMITED",
+    "ASXcode": "AJY",
+    "data": {
+        "summary": {
+            "name_short": "ASAPLUS",
+            "name_full": "ASAPLUS RESOURCES LIMITED",
+            "code": "AJY",
+            "primary_share_code": "AJY",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ASAPLUS RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2012-11-16T00:00:00+1100",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+65 6602 1840",
+            "mailing_address": "21 Bukit Batok Crescent #15-74, WCEGA TOWER, AUSTRALIA,",
+            "principal_activities": "Iron ore exploration.",
+            "fax_number": "+65 6491 6407",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-08-01T10:59:54+1000",
+                    "number_of_pages": 68,
+                    "id": "01879739",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-01T11:05:44+1000",
+                    "size": "5.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170801/pdf/43l2nggyrzrvgw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 10560000,
+                "code": "AJY",
+                "indices": [],
+                "deprecated_number_of_shares": 88000000,
+                "previous_close_price": 0.12,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 88000000,
+                "eps": -0.0147,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 0.12,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-23T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.18,
+                "bid_price": 0,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.asaplusresources.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ir Che Mohamed Hussein Bin Mohamed Shariff",
+                    "first_name": "Ir Che Mohamed Hussein Bin",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mohamed Shariff",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Eng Foo Lau",
+                    "first_name": "Eng Foo",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lau",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dominic Kian Gam Lim",
+                    "first_name": "Dominic Kian Gam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lim",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Siang Joon Chung",
+                    "first_name": "Siang",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chung",
+                    "middle_name": "Joon"
+                }
+            ]
+        }
+    }
+}

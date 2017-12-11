@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BRL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BATHURST RESOURCES LIMITED.",
+    "ASXcode": "BRL",
+    "data": {
+        "summary": {
+            "name_short": "BATHURST",
+            "name_full": "BATHURST RESOURCES LIMITED.",
+            "code": "BRL",
+            "primary_share_code": "BRL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BATHURST RES LTD.",
+            "foreign_exempt": false,
+            "listing_date": "2013-06-21T00:00:00+1000",
+            "registry_address": "LEVEL 3, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "wellington@bathurst.co.nz",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+64 4 499 6830",
+            "mailing_address": "1 Willeston Street, WELLINGTON, ., NEW ZEALAND, 6011",
+            "principal_activities": "Exploration, development and coal production in New Zealand.",
+            "fax_number": "+64 4 974 5218",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-27T09:59:05+1100",
+                    "number_of_pages": 88,
+                    "id": "01913531",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T10:01:54+1100",
+                    "size": "5.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nn31jstzkzzn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 711505,
+                "status": [],
+                "market_cap": 204277218,
+                "code": "BRL",
+                "indices": [],
+                "year_open_price": 0.084,
+                "previous_close_price": 0.135,
+                "year_change_price": 0.051,
+                "year_low_date": "2017-02-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1513164577,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1513164577,
+                "pe": 0,
+                "offer_price": 0.135,
+                "suspended": false,
+                "last_price": 0.135,
+                "deprecated_market_cap": 204277000,
+                "day_low_price": 0.13,
+                "open_price": 0.13,
+                "year_high_date": "2017-09-12T00:00:00+1000",
+                "previous_day_percentage_change": "3.846%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.18,
+                "bid_price": 0.13,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.135,
+                "year_change_in_percentage": "60.714%",
+                "average_daily_volume": 1318905,
+                "year_low_price": 0.051,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1800 501 366",
+            "web_address": "http://bathurst.co.nz",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY. LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tokorangi Thomas Kapea",
+                    "first_name": "Tokorangi",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kapea",
+                    "middle_name": "Thomas"
+                },
+                {
+                    "full_name": "Mr Richard John Tacon",
+                    "first_name": "Richard",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tacon",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Peter Westerhuis",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Westerhuis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Russell Lee Middleton",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Middleton",
+                    "middle_name": "Lee"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Bill Lyne",
+                    "first_name": "Bill",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lyne",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

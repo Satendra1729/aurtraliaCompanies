@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KGL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KGL RESOURCES LIMITED",
+    "ASXcode": "KGL",
+    "data": {
+        "summary": {
+            "name_short": "KGL",
+            "name_full": "KGL RESOURCES LIMITED",
+            "code": "KGL",
+            "primary_share_code": "KGL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KGL RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2005-03-17T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3071 9003",
+            "mailing_address": "Level 7, 167 Eagle St, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Mineral Exploration",
+            "fax_number": "(07) 3071 9008",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-04-21T15:08:09+1000",
+                    "number_of_pages": 68,
+                    "id": "01849616",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-21T15:11:10+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170421/pdf/43hnm7t6l5pjcn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 30964,
+                "status": [],
+                "market_cap": 72385755,
+                "code": "KGL",
+                "indices": [],
+                "year_open_price": 0.11,
+                "previous_close_price": 0.32,
+                "year_change_price": 0.21,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 226205484,
+                "eps": -0.009,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 226205484,
+                "pe": 0,
+                "offer_price": 0.37,
+                "suspended": false,
+                "last_price": 0.32,
+                "deprecated_market_cap": 72386000,
+                "day_low_price": 0.32,
+                "open_price": 0.32,
+                "year_high_date": "2017-03-29T00:00:00+1100",
+                "previous_day_percentage_change": "-8.571%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.444,
+                "bid_price": 0.32,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.32,
+                "year_change_in_percentage": "190.909%",
+                "average_daily_volume": 73113,
+                "year_low_price": 0.212,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.kglresources.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Denis Wood",
+                    "first_name": "Denis",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Bain",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bain",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ferdian Purnamasidi",
+                    "first_name": "Ferdian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Purnamasidi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gerard Kelly",
+                    "first_name": "Gerard",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kylie Anderson",
+                    "first_name": "Kylie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

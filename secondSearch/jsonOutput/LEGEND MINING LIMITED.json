@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LEG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LEGEND MINING LIMITED",
+    "ASXcode": "LEG",
+    "data": {
+        "summary": {
+            "name_short": "LEGEND",
+            "name_full": "LEGEND MINING LIMITED",
+            "code": "LEG",
+            "primary_share_code": "LEG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LEGEND MINING",
+            "foreign_exempt": false,
+            "listing_date": "1995-08-25T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9212 0600",
+            "mailing_address": "Level 1, 8 Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "(08) 9212 0611",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report sent to Shareholders",
+                    "document_date": "2017-04-12T16:50:18+1000",
+                    "number_of_pages": 62,
+                    "id": "01847663",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-12T16:51:35+1000",
+                    "size": "6.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170412/pdf/43hhb245l4gs81.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-31T17:32:07+1100",
+                    "number_of_pages": 61,
+                    "id": "01844047",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T17:37:07+1100",
+                    "size": "5.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6dn0s6zr1wc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6878027,
+                "status": [],
+                "market_cap": 28620911,
+                "code": "LEG",
+                "indices": [],
+                "year_open_price": 0.008,
+                "previous_close_price": 0.014,
+                "year_change_price": 0.008,
+                "year_low_date": "2017-10-03T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2044350801,
+                "eps": -0.0015,
+                "change_in_percent": "14.286%",
+                "change_price": 0.002,
+                "deprecated_number_of_shares": 2044350801,
+                "pe": 0,
+                "offer_price": 0.017,
+                "suspended": false,
+                "last_price": 0.016,
+                "deprecated_market_cap": 32710000,
+                "day_low_price": 0.015,
+                "open_price": 0.015,
+                "year_high_date": "2016-12-12T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.018,
+                "bid_price": 0.016,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.017,
+                "year_change_in_percentage": "100%",
+                "average_daily_volume": 2176089,
+                "year_low_price": 0.009,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.legendmining.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Atkins",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Atkins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Wilson",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Derek Waterfield",
+                    "first_name": "Derek",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Waterfield",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tony Walsh",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walsh",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

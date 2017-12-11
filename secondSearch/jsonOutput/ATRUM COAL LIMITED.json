@@ -1,0 +1,166 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ATU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ATRUM COAL LIMITED",
+    "ASXcode": "ATU",
+    "data": {
+        "summary": {
+            "name_short": "ATRUM COAL",
+            "name_full": "ATRUM COAL LIMITED",
+            "code": "ATU",
+            "primary_share_code": "ATU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ATRUM COAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "2012-07-24T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "info@atrumcoal.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8249 1884",
+            "mailing_address": "Unit 1B,, 205-207 Johnston Street, FITZROY, VIC, AUSTRALIA, 3065",
+            "principal_activities": "High Grade and Ultra High Grade Anthracite Developer and Near Term Producer",
+            "fax_number": "+61 2 8249 1800",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-02T08:05:51+1100",
+                    "number_of_pages": 79,
+                    "id": "01903079",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:19:18+1100",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvtpw2fjkpl8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 10000,
+                "status": [],
+                "market_cap": 41780277,
+                "code": "ATU",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.89,
+                "previous_close_price": 0.18,
+                "year_change_price": -1.71,
+                "year_low_date": "2017-08-01T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 232112649,
+                "eps": -0.0489,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 232112649,
+                "pe": 0,
+                "offer_price": 0.18,
+                "suspended": false,
+                "last_price": 0.18,
+                "deprecated_market_cap": 41780000,
+                "day_low_price": 0.18,
+                "open_price": 0.18,
+                "year_high_date": "2016-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.61,
+                "bid_price": 0.175,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.18,
+                "year_change_in_percentage": "-90.476%",
+                "average_daily_volume": 125482,
+                "year_low_price": 0.15,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.atrumcoal.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Max Wang",
+                    "first_name": "Max",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Charles Blixt",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Blixt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Chisholm",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chisholm",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr George Edwards",
+                    "first_name": "George",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Charles Fear",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fear",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nathan Ryan",
+                    "first_name": "Nathan",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ryan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justyn Peter Stedwell",
+                    "first_name": "Justyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stedwell",
+                    "middle_name": "Peter"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PUN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PEGASUS METALS LIMITED",
+    "ASXcode": "PUN",
+    "data": {
+        "summary": {
+            "name_short": "PEGASUS",
+            "name_full": "PEGASUS METALS LIMITED",
+            "code": "PUN",
+            "primary_share_code": "PUN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PEGASUS METALS",
+            "foreign_exempt": false,
+            "listing_date": "2007-03-07T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6241 1877",
+            "mailing_address": "Level 1, 24 Mumford Place, BALCATTA, WA, AUSTRALIA, 6021",
+            "principal_activities": "Copper exploration",
+            "fax_number": "(08) 6241 1811",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-11-01T19:48:28+1100",
+                    "number_of_pages": 44,
+                    "id": "01917208",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-02T09:25:10+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171102/pdf/43nx2bsfq3mx79.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 3199937,
+                "code": "PUN",
+                "indices": [],
+                "year_open_price": 0.041,
+                "previous_close_price": 0.026,
+                "year_change_price": -0.015,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 123074519,
+                "eps": -0.0036,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 123074519,
+                "pe": 0,
+                "offer_price": 0.05,
+                "suspended": false,
+                "last_price": 0.026,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-28T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.08,
+                "bid_price": 0.026,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-36.585%",
+                "average_daily_volume": 75812,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": null,
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Fotios",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fotios",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil Porter",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Porter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Allan Still",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Still",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Shannon Louise Coates",
+                    "first_name": "Shannon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Coates",
+                    "middle_name": "Louise"
+                }
+            ]
+        }
+    }
+}

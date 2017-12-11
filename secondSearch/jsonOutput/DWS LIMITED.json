@@ -1,0 +1,217 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DWS",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "DWS LIMITED",
+    "ASXcode": "DWS",
+    "data": {
+        "summary": {
+            "name_short": "DWS LTD",
+            "name_full": "DWS LIMITED",
+            "code": "DWS",
+            "primary_share_code": "DWS",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "DWS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-06-15T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "5C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-14T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-10-02T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.05,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9650 9777",
+            "mailing_address": "Level 4, 500 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Information technology services",
+            "fax_number": "(03) 9650 9444",
+            "latest_annual_reports": [
+                {
+                    "header": "Updated 2017 Annual Report",
+                    "document_date": "2017-09-27T15:56:04+1000",
+                    "number_of_pages": 75,
+                    "id": "01900654",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T16:00:50+1000",
+                    "size": "8.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mpfkghkych31.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-22T15:46:03+1000",
+                    "number_of_pages": 74,
+                    "id": "01899087",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T15:49:53+1000",
+                    "size": "8.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mkk67kzgbx1r.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 42094,
+                "status": [],
+                "market_cap": 196428679,
+                "code": "DWS",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 1.33,
+                "previous_close_price": 1.49,
+                "year_change_price": 0.13,
+                "year_low_date": "2016-12-22T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 131831328,
+                "eps": 0.134,
+                "change_in_percent": "-2.013%",
+                "change_price": -0.03,
+                "deprecated_number_of_shares": 131831328,
+                "pe": 10.9,
+                "offer_price": 1.5,
+                "suspended": false,
+                "last_price": 1.46,
+                "deprecated_market_cap": 192474000,
+                "day_low_price": 1.46,
+                "open_price": 1.495,
+                "year_high_date": "2017-05-25T00:00:00+1000",
+                "previous_day_percentage_change": "-0.334%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.87,
+                "bid_price": 1.46,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.495,
+                "year_change_in_percentage": "9.774%",
+                "average_daily_volume": 140712,
+                "year_low_price": 1.26,
+                "annual_dividend_yield": 6.85
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.dws.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Martin Ralston",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ralston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Danny Wallis",
+                    "first_name": "Danny",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wallis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Jodie Estelle Moule",
+                    "first_name": "Jodie",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Moule",
+                    "middle_name": "Estelle"
+                },
+                {
+                    "full_name": "Mr Ken Barry",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barry",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Ebeyan",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ebeyan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hayden Michael Kelly",
+                    "first_name": "Hayden",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelly",
+                    "middle_name": "Michael"
+                },
+                {
+                    "full_name": "Ms Selina Lightfoot",
+                    "first_name": "Selina",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lightfoot",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Whipp",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "CFO",
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whipp",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Stuart Whipp",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whipp",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

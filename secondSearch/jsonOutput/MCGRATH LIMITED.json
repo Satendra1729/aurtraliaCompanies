@@ -1,0 +1,170 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MEA",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "MCGRATH LIMITED",
+    "ASXcode": "MEA",
+    "data": {
+        "summary": {
+            "name_short": "MCGRATH",
+            "name_full": "MCGRATH LIMITED",
+            "code": "MEA",
+            "primary_share_code": "MEA",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "MCGRATH LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-12-07T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "1C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-21T00:00:00+1000",
+                "payable_date": "2017-10-05T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.01,
+                "ex_date": "2017-09-20T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9386 3333",
+            "mailing_address": "191 New South Head Rd, EDGECLIFF, NSW, AUSTRALIA, 2027",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-20T10:55:38+1100",
+                    "number_of_pages": 88,
+                    "id": "01910304",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T10:58:22+1100",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43ndrdvcz16fg3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 25234,
+                "status": [],
+                "market_cap": 77794746,
+                "code": "MEA",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 142742653,
+                "previous_close_price": 0.545,
+                "year_low_date": "2017-11-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 142742653,
+                "eps": 0.0358,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 15.22,
+                "offer_price": 0.55,
+                "suspended": false,
+                "last_price": 0.545,
+                "deprecated_market_cap": 77795000,
+                "day_low_price": 0.53,
+                "open_price": 0.535,
+                "year_high_date": "2017-01-09T00:00:00+1100",
+                "previous_day_percentage_change": "3.81%",
+                "year_open_date": null,
+                "year_high_price": 0.93,
+                "bid_price": 0.53,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.545,
+                "average_daily_volume": 499004,
+                "year_low_price": 0.45,
+                "annual_dividend_yield": 3.67
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.mcgrath.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Cass O'Connor",
+                    "first_name": "Cass",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "O'Connor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cameron Judson",
+                    "first_name": "Cameron",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Judson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John McGrath",
+                    "first_name": "John",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGrath",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Elizabeth Crouch",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Crouch",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nigel Dews",
+                    "first_name": "Nigel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dews",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Cath Rogers",
+                    "first_name": "Cath",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Rogers",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Morgan Sloper",
+                    "first_name": "Morgan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sloper",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

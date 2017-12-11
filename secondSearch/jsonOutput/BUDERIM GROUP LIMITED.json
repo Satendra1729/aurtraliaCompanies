@@ -1,0 +1,160 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BUG",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "BUDERIM GROUP LIMITED",
+    "ASXcode": "BUG",
+    "data": {
+        "summary": {
+            "name_full": "BUDERIM GROUP LIMITED",
+            "code": "BUG",
+            "name_short": "BUD GINGER",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "BUDERIM GROUP LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BUG?image_size=L&v=1447194349000",
+            "foreign_exempt": false,
+            "listing_date": "1989-12-14T00:00:00+1100",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@buderimginger.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 37263400",
+            "mailing_address": "Level 5, 303 Coronation Drive, MILTON, QLD, AUSTRALIA, 4064",
+            "principal_activities": "Processing and marketing of ginger and macadamia products",
+            "fax_number": "07 38763010",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to shareholders",
+                    "document_date": "2017-08-25T15:50:35+1000",
+                    "number_of_pages": 78,
+                    "id": "01888409",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-25T15:56:14+1000",
+                    "size": "3.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170825/pdf/43lrc65ddy33cx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6000,
+                "status": [],
+                "market_cap": 19448421,
+                "code": "BUG",
+                "indices": [],
+                "year_open_price": 0.69148,
+                "previous_close_price": 0.26,
+                "year_change_price": -0.43148,
+                "year_low_date": "2017-11-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 74801618,
+                "eps": -0.1661,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 74801618,
+                "pe": 0,
+                "offer_price": 0.27,
+                "suspended": false,
+                "last_price": 0.26,
+                "deprecated_market_cap": 19448000,
+                "day_low_price": 0.26,
+                "open_price": 0.26,
+                "year_high_date": "2017-02-17T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.383,
+                "bid_price": 0.26,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.26,
+                "year_change_in_percentage": "-62.399%",
+                "average_daily_volume": 54974,
+                "year_low_price": 0.23,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "BUG",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.buderimginger.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stephen Morrow",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morrow",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Roger Masters",
+                    "first_name": "Roger",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Masters",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Christina Chen",
+                    "first_name": "Christina",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Albert Tse",
+                    "first_name": "Albert",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tse",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Francis O'Keeffe",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Keeffe",
+                    "middle_name": "Francis"
+                },
+                {
+                    "full_name": "Mr Andrew Bond",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bond",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Bond",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bond",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

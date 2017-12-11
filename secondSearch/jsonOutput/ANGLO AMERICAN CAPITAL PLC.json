@@ -1,0 +1,66 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AQM",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "ANGLO AMERICAN CAPITAL PLC",
+    "ASXcode": "AQM",
+    "data": {
+        "summary": {
+            "name_full": "ANGLO AMERICAN CAPITAL PLC",
+            "products": [],
+            "phone_number": "+44 20 7968 8888",
+            "mailing_address": "20 Carlton House Terrace, AUSTRALIA,",
+            "principal_activities": "",
+            "name_short": "ANGLO AMER",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "ANGLO AMERICAN CAP",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-23T02:11:07+1100",
+                    "number_of_pages": 206,
+                    "id": "01841298",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-23T08:25:38+1100",
+                    "size": "6.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170323/pdf/43gzs5x77mxybd.pdf"
+                }
+            ],
+            "foreign_exempt": false,
+            "code": "AQM",
+            "listing_date": "2014-01-21T00:00:00+1100",
+            "registry_address": "LEVEL 23, 2 PARK STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": "http://www.angloamerican.com",
+            "registry_name": "CITIGROUP PTY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew William Hodges",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hodges",
+                    "middle_name": "William"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew William Hodges",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hodges",
+                    "middle_name": "William"
+                }
+            ]
+        }
+    }
+}

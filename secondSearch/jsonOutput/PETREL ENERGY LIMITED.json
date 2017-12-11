@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PRL",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "PETREL ENERGY LIMITED",
+    "ASXcode": "PRL",
+    "data": {
+        "summary": {
+            "name_full": "PETREL ENERGY LIMITED",
+            "code": "PRL",
+            "name_short": "PETREL ENE",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "PETREL ENERGY LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PRL?image_size=L&v=1422331705000",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-12T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@petrelenergy.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9254 9000",
+            "mailing_address": "Level 6, 10 Bridge Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Petrel Energy is an international oil and gas E&P company focused on large conventional and unconventional projects. Its primary projects are in Uruguay and Spain.",
+            "fax_number": "02 9037 2249",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-25T15:15:36+1100",
+                    "number_of_pages": 62,
+                    "id": "01912475",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-25T15:18:40+1100",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171025/pdf/43nksn7pnpv2kw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3814842,
+                "status": [],
+                "market_cap": 25289021,
+                "code": "PRL",
+                "indices": [],
+                "year_open_price": 0.24,
+                "previous_close_price": 0.015,
+                "year_change_price": -0.225,
+                "year_low_date": "2017-09-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1685934710,
+                "eps": -0.0022,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1670934710,
+                "pe": 0,
+                "offer_price": 0.016,
+                "suspended": false,
+                "last_price": 0.015,
+                "deprecated_market_cap": 25064000,
+                "day_low_price": 0.015,
+                "open_price": 0.016,
+                "year_high_date": "2017-04-18T00:00:00+1000",
+                "previous_day_percentage_change": "-11.765%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.047,
+                "bid_price": 0.015,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.017,
+                "year_change_in_percentage": "-93.75%",
+                "average_daily_volume": 9776414,
+                "year_low_price": 0.01,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "PRL",
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.petrelenergy.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": "http://www.petrelenergy.com/irm/content/welcome.aspx?RID=303"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alex Sundich",
+                    "first_name": "Alex",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sundich",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Casey",
+                    "first_name": "David",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Casey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Russell Porter",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Porter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Williams",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Kirkham",
+                    "first_name": "Ian",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kirkham",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Mitchell",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "External Advisor"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitchell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Kirkham",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kirkham",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

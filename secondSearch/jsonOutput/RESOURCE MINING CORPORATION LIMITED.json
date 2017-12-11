@@ -1,0 +1,130 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RMI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RESOURCE MINING CORPORATION LIMITED",
+    "ASXcode": "RMI",
+    "data": {
+        "summary": {
+            "name_short": "RES MINING",
+            "name_full": "RESOURCE MINING CORPORATION LIMITED",
+            "code": "RMI",
+            "primary_share_code": "RMI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RESOURCE MINING CORP",
+            "foreign_exempt": false,
+            "listing_date": "1985-02-14T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "rmc@resmin.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6494 0025",
+            "mailing_address": "Suite 14, Level 2, 210 Bagot Road, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Nickel and Cobalt exploration PNG.",
+            "fax_number": "08 6494 0025",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report June 2017",
+                    "document_date": "2017-09-27T14:33:43+1000",
+                    "number_of_pages": 42,
+                    "id": "01900575",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T14:37:25+1000",
+                    "size": "991.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mp8prx3h9gkg.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 303642,
+                "status": [],
+                "market_cap": 8591753,
+                "code": "RMI",
+                "indices": [],
+                "year_open_price": 0.001,
+                "previous_close_price": 0.029,
+                "year_change_price": 0.03,
+                "year_low_date": "2017-06-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 296267347,
+                "eps": -0.0024,
+                "change_in_percent": "6.897%",
+                "change_price": 0.002,
+                "deprecated_number_of_shares": 296267347,
+                "pe": 0,
+                "offer_price": 0.031,
+                "suspended": false,
+                "last_price": 0.031,
+                "deprecated_market_cap": 9184000,
+                "day_low_price": 0.027,
+                "open_price": 0.028,
+                "year_high_date": "2017-11-07T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.073,
+                "bid_price": 0.027,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.031,
+                "year_change_in_percentage": "3,000%",
+                "average_daily_volume": 1271443,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.resmin.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr William Mackenzie",
+                    "first_name": "William",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackenzie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warwick Davies",
+                    "first_name": "Warwick",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davies",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zhang Chi",
+                    "first_name": "Zhang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chi",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Amanda Grace Sparks",
+                    "first_name": "Amanda",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Sparks",
+                    "middle_name": "Grace"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CD1",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "CORDISH DIXON PRIVATE EQUITY FUND I",
+    "ASXcode": "CD1",
+    "data": {
+        "summary": {
+            "name_short": "CORDIXPEF1",
+            "name_full": "CORDISH DIXON PRIVATE EQUITY FUND I",
+            "code": "CD1",
+            "primary_share_code": "CD1",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "CORDISH DIXON PEF I",
+            "foreign_exempt": false,
+            "listing_date": "2012-08-14T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "18C SPECIAL; UNFRANK ED, NIL CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-11-08T00:00:00+1100",
+                "record_date": "2017-11-14T00:00:00+1100",
+                "payable_date": "2017-11-21T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.18,
+                "ex_date": "2017-11-13T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 454 801",
+            "mailing_address": "Suite 1502, Level 15, 100 Pacific Highway, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Acquire equity stakes in private investments.",
+            "fax_number": "1300 457 349",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 70224689,
+                "code": "CD1",
+                "indices": [],
+                "year_open_price": 1.75,
+                "previous_close_price": 1.8,
+                "year_change_price": 0.05,
+                "year_low_date": "2017-03-24T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 39013716,
+                "eps": 0.1225,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 39013716,
+                "pe": 14.69,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 1.8,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-06-06T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0,
+                "bid_price": 1.8,
+                "desc_full": "Ordinary Units Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "2.857%",
+                "average_daily_volume": 15148,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.usselectprivateopportunitiesfund.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Simon Barnett",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barnett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Hannah Chan",
+                    "first_name": "Hannah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PVE",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "PO VALLEY ENERGY LIMITED",
+    "ASXcode": "PVE",
+    "data": {
+        "summary": {
+            "name_short": "PO VALLEY",
+            "name_full": "PO VALLEY ENERGY LIMITED",
+            "code": "PVE",
+            "primary_share_code": "PVE",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "PO VALLEY ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-12-14T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@povalley.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9316 9100",
+            "mailing_address": "Suite 8, 7 The Esplanade, MT PLEASANT, WA, AUSTRALIA, 6153",
+            "principal_activities": "Gas development and exploration.",
+            "fax_number": "(08) 9315 5475",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-28T01:04:22+1000",
+                    "number_of_pages": 84,
+                    "id": "01851360",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-28T08:17:11+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170428/pdf/43ht3c4jqhbw4t.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 55978,
+                "status": [],
+                "market_cap": 24916925,
+                "code": "PVE",
+                "indices": [],
+                "year_open_price": 0.12,
+                "previous_close_price": 0.042,
+                "year_change_price": -0.08,
+                "year_low_date": "2017-02-14T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 593260128,
+                "eps": -0.02,
+                "change_in_percent": "-4.762%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 593260128,
+                "pe": 0,
+                "offer_price": 0.04,
+                "suspended": false,
+                "last_price": 0.04,
+                "deprecated_market_cap": 23730000,
+                "day_low_price": 0.04,
+                "open_price": 0.04,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.042,
+                "bid_price": 0.038,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.04,
+                "year_change_in_percentage": "-66.667%",
+                "average_daily_volume": 277234,
+                "year_low_price": 0.022,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.povalley.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Masterman",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Masterman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sara Edmonson",
+                    "first_name": "Sara",
+                    "roles": [
+                        "CEO",
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Edmonson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Bailey",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bailey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Byron Pirola",
+                    "first_name": "Byron",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pirola",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Zoe Manel Levendel",
+                    "first_name": "Zoe",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Levendel",
+                    "middle_name": "Manel"
+                }
+            ]
+        }
+    }
+}

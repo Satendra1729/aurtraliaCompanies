@@ -1,0 +1,135 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PAR",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "PARADIGM BIOPHARMACEUTICALS LIMITED..",
+    "ASXcode": "PAR",
+    "data": {
+        "summary": {
+            "name_short": "PARA BIO",
+            "name_full": "PARADIGM BIOPHARMACEUTICALS LIMITED..",
+            "code": "PAR",
+            "primary_share_code": "PAR",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "PARADIGM BIO.",
+            "foreign_exempt": false,
+            "listing_date": "2015-08-19T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "kevin@hollingsworthandco.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9629 5566",
+            "mailing_address": "Level 2, 517 Flinders Lane, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Biopharmaceutical company focused on repurposing the drug, pentosan polysulphate sodium, for the lead clinical indication of bone marrow edema",
+            "fax_number": "(03) 9629 5466",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and 2017 Annual Report",
+                    "document_date": "2017-08-29T17:33:53+1000",
+                    "number_of_pages": 54,
+                    "id": "01889756",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T17:35:43+1000",
+                    "size": "1.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lvmxwxmskdjr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 114798,
+                "status": [],
+                "market_cap": 31365157,
+                "code": "PAR",
+                "indices": [],
+                "deprecated_number_of_shares": 120635219,
+                "previous_close_price": 0.26,
+                "year_low_date": "2017-06-16T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 120635219,
+                "eps": -0.0447,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.295,
+                "suspended": false,
+                "last_price": 0.26,
+                "deprecated_market_cap": 31365000,
+                "day_low_price": 0.24,
+                "open_price": 0.245,
+                "year_high_date": "2017-06-14T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.72,
+                "bid_price": 0.26,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.26,
+                "average_daily_volume": 202927,
+                "year_low_price": 0.23,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.paradigmbiopharma.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graeme Kaufman",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kaufman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Rennie",
+                    "first_name": "Paul",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rennie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Fullerton",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fullerton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Gaffney",
+                    "first_name": "John",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gaffney",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kevin Hollingsworth",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hollingsworth",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

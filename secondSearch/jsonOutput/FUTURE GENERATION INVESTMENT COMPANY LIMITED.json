@@ -1,0 +1,176 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FGX",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "FUTURE GENERATION INVESTMENT COMPANY LIMITED",
+    "ASXcode": "FGX",
+    "data": {
+        "summary": {
+            "name_short": "FUTURE GEN",
+            "name_full": "FUTURE GENERATION INVESTMENT COMPANY LIMITED",
+            "code": "FGX",
+            "primary_share_code": "FGX",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "FUTURE GEN LTD",
+            "foreign_exempt": false,
+            "listing_date": "1997-03-06T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2.2C FRANKED@30%; DR P NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-10-18T00:00:00+1100",
+                "payable_date": "2017-10-27T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.022,
+                "ex_date": "2017-10-17T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9247 9202",
+            "mailing_address": "Level 11, 139 Macquarie Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment Company",
+            "fax_number": "02 8084 9918",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E & Transitional Six Month Period Report",
+                    "document_date": "2017-02-27T13:27:48+1100",
+                    "number_of_pages": 73,
+                    "id": "01833149",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-27T13:34:41+1100",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170227/pdf/43gccdfpvbnygc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 89150,
+                "status": [],
+                "market_cap": 401412147,
+                "code": "FGX",
+                "indices": [],
+                "year_open_price": 1.54,
+                "previous_close_price": 1.145,
+                "year_change_price": -0.395,
+                "year_low_date": "2017-06-07T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 350578294,
+                "eps": -0.02,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 350578294,
+                "pe": 0,
+                "offer_price": 1.145,
+                "suspended": false,
+                "last_price": 1.145,
+                "deprecated_market_cap": 401412000,
+                "day_low_price": 1.14,
+                "open_price": 1.14,
+                "year_high_date": "2017-04-05T00:00:00+1000",
+                "previous_day_percentage_change": "0.439%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.175,
+                "bid_price": 1.14,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.145,
+                "year_change_in_percentage": "-25.649%",
+                "average_daily_volume": 361606,
+                "year_low_price": 1.07,
+                "annual_dividend_yield": 3.76
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.futuregeninvest.com.au/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jonathan Trollip",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trollip",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Leeton",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leeton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Malcolm",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Malcolm",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Paradice",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paradice",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gabriel Radzyminski",
+                    "first_name": "Gabriel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Radzyminski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kate Thorley",
+                    "first_name": "Kate",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Thorley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Wilson",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Licciardo",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Licciardo",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

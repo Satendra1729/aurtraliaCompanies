@@ -1,0 +1,183 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LIC",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "LIFESTYLE COMMUNITIES LIMITED",
+    "ASXcode": "LIC",
+    "data": {
+        "summary": {
+            "name_full": "LIFESTYLE COMMUNITIES LIMITED",
+            "last_dividend": {
+                "comments": "2C FRANKED @30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-09-08T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.02,
+                "ex_date": "2017-09-07T00:00:00+1000"
+            },
+            "code": "LIC",
+            "name_short": "LIFESTYLE",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "LIFESTYLE COMMUNIT.",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/LIC?image_size=L&v=1466399318000",
+            "foreign_exempt": false,
+            "listing_date": "1998-12-15T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "investor.relations@lifestylecommunities.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9682 2249",
+            "mailing_address": "Level 2, 25 Ross St, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Creating and managing affordable communities which offer homeowners a whole new way of living.",
+            "fax_number": "(03) 9682 1236",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-08-16T13:09:15+1000",
+                    "number_of_pages": 85,
+                    "id": "01884372",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-16T13:13:58+1000",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170816/pdf/43lg4hfjs2rtkd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 46839,
+                "status": [],
+                "market_cap": 522725655,
+                "code": "LIC",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.2,
+                "previous_close_price": 5,
+                "year_change_price": 3.85,
+                "year_low_date": "2016-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 104545131,
+                "eps": 0.2656,
+                "change_in_percent": "1%",
+                "change_price": 0.05,
+                "deprecated_number_of_shares": 104545131,
+                "pe": 19.01,
+                "offer_price": 5.05,
+                "suspended": false,
+                "last_price": 5.05,
+                "deprecated_market_cap": 527953000,
+                "day_low_price": 4.95,
+                "open_price": 4.99,
+                "year_high_date": "2017-12-01T00:00:00+1100",
+                "previous_day_percentage_change": "1.42%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 5.27,
+                "bid_price": 4.95,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.26,
+                "year_change_in_percentage": "320.833%",
+                "average_daily_volume": 93383,
+                "year_low_price": 3.26,
+                "annual_dividend_yield": 0.69
+            },
+            "primary_share_code": "LIC",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.lifestylecommunities.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.lifestylecommunities.com.au/investor-information"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tim Poole",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Poole",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James L Kelly",
+                    "first_name": "James",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelly",
+                    "middle_name": "L"
+                },
+                {
+                    "full_name": "Mr Jim Craig",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Craig",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Philippa Kelly",
+                    "first_name": "Philippa",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Nicola Roxon",
+                    "first_name": "Nicola",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Roxon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Georgina Williams",
+                    "first_name": "Georgina",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Geoff Hollis",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hollis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RBD",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "RESTAURANT BRANDS NEW ZEALAND LIMITED",
+    "ASXcode": "RBD",
+    "data": {
+        "summary": {
+            "name_short": "RESTBRANNZ",
+            "name_full": "RESTAURANT BRANDS NEW ZEALAND LIMITED",
+            "code": "RBD",
+            "primary_share_code": "RBD",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "RESTAURANT BRANDS NZ",
+            "foreign_exempt": true,
+            "listing_date": "2017-09-28T00:00:00+1000",
+            "registry_address": "LEVEL 2, 159 HURSTMERE ROAD, TAKAPUNA   AUCKLAND, NEW ZEALAND, 1039",
+            "last_dividend": {
+                "comments": "NZ10C+1.7648C NR; 15 %W/HT; DRP",
+                "franked_percentage": "0%",
+                "created_date": "2017-11-02T00:00:00+1100",
+                "record_date": "2017-11-10T00:00:00+1100",
+                "payable_date": "2017-11-30T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.09000072,
+                "ex_date": "2017-11-09T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+64 9 525 8700",
+            "mailing_address": "Level 3, Building 7, Central Park, PENROSE, AUC, NEW ZEALAND, 1051",
+            "principal_activities": "Management of multi-site branded food retail chains",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2016",
+                    "document_date": "2017-09-27T11:53:39+1000",
+                    "number_of_pages": 76,
+                    "id": "01900501",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T12:02:34+1000",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mp3tcbwvn80f.pdf"
+                },
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-27T11:52:58+1000",
+                    "number_of_pages": 43,
+                    "id": "01900498",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T11:57:34+1000",
+                    "size": "7.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mp3mflj2j3j3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "year_high_price": 0,
+                "indices": [],
+                "deprecated_number_of_shares": 123629343,
+                "previous_close_price": 0,
+                "year_low_date": null,
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 123629343,
+                "eps": 0,
+                "code": "RBD",
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 0,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": null,
+                "year_open_date": null,
+                "market_cap": 0,
+                "bid_price": 5.5,
+                "desc_full": "Ordinary Fully Paid Foreign Exempt Nzx",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(64) 9 488 8700",
+            "web_address": "http://www.restaurantbrands.co.nz/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Grant Richard Ellis",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richard Ellis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

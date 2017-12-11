@@ -1,0 +1,115 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PDF",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "PACIFIC DAIRIES LIMITED",
+    "ASXcode": "PDF",
+    "data": {
+        "summary": {
+            "name_short": "PACIFIC D",
+            "name_full": "PACIFIC DAIRIES LIMITED",
+            "code": "PDF",
+            "primary_share_code": "PDF",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "PACIFIC DAIRIES",
+            "foreign_exempt": false,
+            "listing_date": "2001-08-28T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9580 4328",
+            "mailing_address": "21 Wells Road, MORDIALLOC, VIC, AUSTRALIA, 3195",
+            "principal_activities": "Sheep and other farming.",
+            "fax_number": "(03) 9580 2294",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "PDF",
+                "indices": [],
+                "year_open_price": 0.075,
+                "previous_close_price": 0.029,
+                "year_change_price": -0.046,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 337293759,
+                "eps": -0.0049,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 311365188,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.029,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-05-16T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.029,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-61.333%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.australiannaturalproteins.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Paul Duckett",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Duckett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Kelly",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Raymond Taylor",
+                    "first_name": "Raymond",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Taylor",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justyn Stedwell",
+                    "first_name": "Justyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stedwell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

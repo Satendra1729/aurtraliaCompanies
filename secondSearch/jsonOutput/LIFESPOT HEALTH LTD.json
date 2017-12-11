@@ -1,0 +1,124 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LSH",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "LIFESPOT HEALTH LTD",
+    "ASXcode": "LSH",
+    "data": {
+        "summary": {
+            "name_short": "LIFESPOT",
+            "name_full": "LIFESPOT HEALTH LTD",
+            "code": "LSH",
+            "primary_share_code": "LSH",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "LIFESPOT HEALTH LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-01-11T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9191 0135",
+            "mailing_address": "1B/205-207, Johnston Street, FITZROY, VIC, AUSTRALIA, 3065",
+            "principal_activities": "Development of telemedicine? mobile applications",
+            "fax_number": "03 8678 1747",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-28T18:00:12+1000",
+                    "number_of_pages": 61,
+                    "id": "01852519",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-28T18:02:48+1000",
+                    "size": "976.3KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170428/pdf/43hw97qfycyyxr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 28514,
+                "status": [],
+                "market_cap": 9742222,
+                "code": "LSH",
+                "indices": [],
+                "deprecated_number_of_shares": 47250000,
+                "previous_close_price": 0.13,
+                "year_low_date": "2017-10-30T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 74940173,
+                "eps": -0.0187,
+                "change_in_percent": "7.692%",
+                "change_price": 0.01,
+                "pe": 0,
+                "offer_price": 0.15,
+                "suspended": false,
+                "last_price": 0.14,
+                "deprecated_market_cap": 6615000,
+                "day_low_price": 0.14,
+                "open_price": 0.14,
+                "year_high_date": "2017-01-11T00:00:00+1100",
+                "previous_day_percentage_change": "-3.704%",
+                "year_open_date": null,
+                "year_high_price": 0.435,
+                "bid_price": 0.135,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.14,
+                "average_daily_volume": 221285,
+                "year_low_price": 0.11,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.lifespot-health.com/",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Mandel",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mandel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Heiner Emden",
+                    "first_name": "Heiner",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Emden",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank Cannavo",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cannavo",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justyn Stedwell",
+                    "first_name": "Justyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stedwell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

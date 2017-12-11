@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ADO",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "ANTEO DIAGNOSTICS LIMITED",
+    "ASXcode": "ADO",
+    "data": {
+        "summary": {
+            "name_short": "ANTEO",
+            "name_full": "ANTEO DIAGNOSTICS LIMITED",
+            "code": "ADO",
+            "primary_share_code": "ADO",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "ANTEO DIAGNOSTICS",
+            "foreign_exempt": false,
+            "listing_date": "2000-04-07T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3219 0085",
+            "mailing_address": "Unit 4, 26 Brandl Street, Eight Mile Plains, QLD, AUSTRALIA, 4113",
+            "principal_activities": "Developing and commercialising medical products.",
+            "fax_number": "(07) 3219 0553",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders 30 June 2017",
+                    "document_date": "2017-10-06T13:49:52+1100",
+                    "number_of_pages": 65,
+                    "id": "01905404",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-06T16:59:00+1100",
+                    "size": "839.3KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171006/pdf/43n0z7jfbpnzzj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 307123,
+                "status": [],
+                "market_cap": 17291349,
+                "code": "ADO",
+                "indices": [],
+                "year_open_price": 0.165,
+                "previous_close_price": 0.015,
+                "year_change_price": -0.149,
+                "year_low_date": "2017-10-17T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1152756577,
+                "eps": -0.0076,
+                "change_in_percent": "6.667%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 1152756577,
+                "pe": 0,
+                "offer_price": 0.016,
+                "suspended": false,
+                "last_price": 0.016,
+                "deprecated_market_cap": 18444000,
+                "day_low_price": 0.015,
+                "open_price": 0.015,
+                "year_high_date": "2017-01-05T00:00:00+1100",
+                "previous_day_percentage_change": "-6.25%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.051,
+                "bid_price": 0.015,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.016,
+                "year_change_in_percentage": "-90.303%",
+                "average_daily_volume": 6042261,
+                "year_low_price": 0.008,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.anteodx.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Hurrell",
+                    "first_name": "John",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hurrell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Geoffrey Cumming",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Cumming",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Sanderson",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sanderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rolf William Sickman",
+                    "first_name": "Rolf",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sickman",
+                    "middle_name": "William"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Julien McInally",
+                    "first_name": "Julien",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McInally",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

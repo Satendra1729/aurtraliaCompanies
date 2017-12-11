@@ -1,0 +1,185 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BFG",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "BELL FINANCIAL GROUP LIMITED",
+    "ASXcode": "BFG",
+    "data": {
+        "summary": {
+            "name_short": "BELL FN GP",
+            "name_full": "BELL FINANCIAL GROUP LIMITED",
+            "code": "BFG",
+            "primary_share_code": "BFG",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "BELL FINANCIAL GROUP",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-12T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "2C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-09T00:00:00+1000",
+                "record_date": "2017-08-23T00:00:00+1000",
+                "payable_date": "2017-09-13T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.02,
+                "ex_date": "2017-08-22T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 3 9256 8700",
+            "mailing_address": "Level 29, 101 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Broking, investment and advisory services",
+            "fax_number": "61 3 9235 1850",
+            "latest_annual_reports": [
+                {
+                    "header": "BFG 2016 Annual Report and Appendix 4E",
+                    "document_date": "2017-02-22T12:42:42+1100",
+                    "number_of_pages": 74,
+                    "id": "01830977",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-22T12:48:59+1100",
+                    "size": "803.3KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170222/pdf/43g6g18wdgrtwr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 26130,
+                "status": [],
+                "market_cap": 196455563,
+                "code": "BFG",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.68,
+                "previous_close_price": 0.735,
+                "year_change_price": 0.055,
+                "year_low_date": "2017-06-09T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 267286480,
+                "eps": 0.062,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 267286480,
+                "pe": 11.85,
+                "offer_price": 0.735,
+                "suspended": false,
+                "last_price": 0.735,
+                "deprecated_market_cap": 196456000,
+                "day_low_price": 0.73,
+                "open_price": 0.73,
+                "year_high_date": "2017-02-08T00:00:00+1100",
+                "previous_day_percentage_change": "0.685%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.785,
+                "bid_price": 0.725,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.735,
+                "year_change_in_percentage": "8.088%",
+                "average_daily_volume": 100192,
+                "year_low_price": 0.6,
+                "annual_dividend_yield": 7.82
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.bellfg.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Colin Bell",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alastair Provan",
+                    "first_name": "Alastair",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Provan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Coleman",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coleman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Cubbin",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cubbin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Brenda M Shanahan",
+                    "first_name": "Brenda",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Shanahan",
+                    "middle_name": "M"
+                },
+                {
+                    "full_name": "Mr Dean Davenport",
+                    "first_name": "Dean",
+                    "roles": [
+                        "Chief Op. Officer",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davenport",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Cindy-Jane Lee",
+                    "first_name": "Cindy-Jane",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Cindy-Jane Lee",
+                    "first_name": "Cindy-Jane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

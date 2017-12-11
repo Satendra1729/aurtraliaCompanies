@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CZR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "COZIRON RESOURCES LIMITED",
+    "ASXcode": "CZR",
+    "data": {
+        "summary": {
+            "name_short": "COZIRONRES",
+            "name_full": "COZIRON RESOURCES LIMITED",
+            "code": "CZR",
+            "primary_share_code": "CZR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "COZIRON RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2006-08-29T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6211 5099",
+            "mailing_address": "c/- Trident Management Services Pty Ltd, Level 24, 44 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "(08) 9218 8875",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T18:05:31+1000",
+                    "number_of_pages": 71,
+                    "id": "01901514",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T18:21:59+1000",
+                    "size": "3.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr7d19bcq8df.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1319063,
+                "status": [],
+                "market_cap": 28568820,
+                "code": "CZR",
+                "indices": [],
+                "year_open_price": 0.027,
+                "previous_close_price": 0.016,
+                "year_change_price": -0.006,
+                "year_low_date": "2016-12-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1785551268,
+                "eps": -0.0012,
+                "change_in_percent": "31.25%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 1785551268,
+                "pe": 0,
+                "offer_price": 0.022,
+                "suspended": false,
+                "last_price": 0.021,
+                "deprecated_market_cap": 37497000,
+                "day_low_price": 0.02,
+                "open_price": 0.02,
+                "year_high_date": "2017-11-08T00:00:00+1100",
+                "previous_day_percentage_change": "-23.81%",
+                "year_open_date": "2014-03-28T11:00:00+1100",
+                "year_high_price": 0.037,
+                "bid_price": 0.016,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.021,
+                "year_change_in_percentage": "-22.222%",
+                "average_daily_volume": 1817742,
+                "year_low_price": 0.009,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.coziron.com",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Adam Sierakowski",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sierakowski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steve Lowe",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lowe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Ramsay",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ramsay",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Stephen Hewitt-Dutton",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hewitt-Dutton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

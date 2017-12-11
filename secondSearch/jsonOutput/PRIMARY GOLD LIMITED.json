@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PGO",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PRIMARY GOLD LIMITED",
+    "ASXcode": "PGO",
+    "data": {
+        "summary": {
+            "name_full": "PRIMARY GOLD LIMITED",
+            "code": "PGO",
+            "name_short": "PRIM GOLD",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PRIMARY GOLD LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PGO?image_size=L&v=1446684477000",
+            "foreign_exempt": false,
+            "listing_date": "2007-07-16T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "info@primarygold.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6143 6700",
+            "mailing_address": "Suite 23, 513 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Gold exploration at the Mount Bundy Project, NT, and the Coolgardie Project, WA.",
+            "fax_number": "08 9388 8824",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T17:33:38+1100",
+                    "number_of_pages": 98,
+                    "id": "01916176",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T17:35:58+1100",
+                    "size": "9.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43ntv14j1180br.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 627235,
+                "status": [],
+                "market_cap": 22704515,
+                "code": "PGO",
+                "indices": [],
+                "year_open_price": 0.03811,
+                "previous_close_price": 0.037,
+                "year_change_price": -0.00011,
+                "year_low_date": "2017-12-04T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 613635553,
+                "eps": -0.0026,
+                "change_in_percent": "2.703%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 613635553,
+                "pe": 0,
+                "offer_price": 0.039,
+                "suspended": false,
+                "last_price": 0.038,
+                "deprecated_market_cap": 23318000,
+                "day_low_price": 0.038,
+                "open_price": 0.038,
+                "year_high_date": "2017-02-21T00:00:00+1100",
+                "previous_day_percentage_change": "-5.128%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.097,
+                "bid_price": 0.038,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.039,
+                "year_change_in_percentage": "-0.289%",
+                "average_daily_volume": 1525908,
+                "year_low_price": 0.036,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "PGO",
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.primarygold.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Garry Mills",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mills",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Marat Abzalov",
+                    "first_name": "Marat",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Abzalov",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tony Patrizi",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Patrizi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Mark Yumin Qiu",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Qiu",
+                    "middle_name": "Yumin"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Oonagh Jane Malone",
+                    "first_name": "Oonagh",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Malone",
+                    "middle_name": "Jane"
+                }
+            ]
+        }
+    }
+}

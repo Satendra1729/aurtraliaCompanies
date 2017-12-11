@@ -1,0 +1,90 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FPP",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "FAT PROPHETS GLOBAL PROPERTY FUND",
+    "ASXcode": "FPP",
+    "data": {
+        "summary": {
+            "name_short": "FAT PR GPF",
+            "name_full": "FAT PROPHETS GLOBAL PROPERTY FUND",
+            "code": "FPP",
+            "primary_share_code": "FPP",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "FAT PROPHETS G P F",
+            "foreign_exempt": false,
+            "listing_date": "2017-10-10T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8277 0000",
+            "mailing_address": "Level 11, 20 Hunter Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment in securities of entities with real estate exposure.",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 16985983,
+                "code": "FPP",
+                "indices": [],
+                "deprecated_number_of_shares": 15166056,
+                "previous_close_price": 1.12,
+                "year_low_date": "2017-10-19T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 15166056,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 1.14,
+                "suspended": false,
+                "last_price": 1.12,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-08T00:00:00+1100",
+                "previous_day_percentage_change": "0.901%",
+                "year_open_date": null,
+                "year_high_price": 0,
+                "bid_price": 1.11,
+                "desc_full": "Ordinary Units Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 10747,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.fpproperty.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sarah Wiesener",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wiesener",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Justin Epstein",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Epstein",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

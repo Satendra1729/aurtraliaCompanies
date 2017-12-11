@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RLC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "REEDY LAGOON CORPORATION LIMITED",
+    "ASXcode": "RLC",
+    "data": {
+        "summary": {
+            "name_short": "REEDYLC",
+            "name_full": "REEDY LAGOON CORPORATION LIMITED",
+            "code": "RLC",
+            "primary_share_code": "RLC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "REEDY LAGOON CORP.",
+            "foreign_exempt": false,
+            "listing_date": "2007-06-22T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8420 6280",
+            "mailing_address": "Suite 2, 337A Lennox Street, Richmond, VIC, AUSTRALIA, 3121",
+            "principal_activities": "Mining explorer",
+            "fax_number": "(03) 8420 6299",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-02T09:58:34+1100",
+                    "number_of_pages": 50,
+                    "id": "01903214",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-10-02T10:04:41+1100",
+                    "size": "6.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mw2ql37xyr50.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 330500,
+                "status": [],
+                "market_cap": 6499981,
+                "code": "RLC",
+                "indices": [],
+                "year_open_price": 0.016,
+                "previous_close_price": 0.037,
+                "year_change_price": 0.021,
+                "year_low_date": "2017-03-15T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 175675168,
+                "eps": -0.0056,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 175675168,
+                "pe": 0,
+                "offer_price": 0.039,
+                "suspended": false,
+                "last_price": 0.037,
+                "deprecated_market_cap": 6500000,
+                "day_low_price": 0.036,
+                "open_price": 0.037,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.071,
+                "bid_price": 0.036,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.037,
+                "year_change_in_percentage": "131.25%",
+                "average_daily_volume": 1183064,
+                "year_low_price": 0.009,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.reedylagoon.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jonathan Hamer",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hamer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geof Fethers",
+                    "first_name": "Geof",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fethers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adrian C Griffin",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Griffin",
+                    "middle_name": "C"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Geof Fethers",
+                    "first_name": "Geof",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fethers",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

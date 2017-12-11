@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LSA",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LACHLAN STAR LIMITED",
+    "ASXcode": "LSA",
+    "data": {
+        "summary": {
+            "name_short": "LACHLAN",
+            "name_full": "LACHLAN STAR LIMITED",
+            "code": "LSA",
+            "primary_share_code": "LSA",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LACHLAN STAR LTD",
+            "foreign_exempt": false,
+            "listing_date": "1971-07-28T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9481 0051",
+            "mailing_address": "KPMG, 235 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Gold producer and resources exploration company.",
+            "fax_number": "+61 8 9481 0052",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "LSA",
+                "indices": [],
+                "year_open_price": 0.235,
+                "previous_close_price": 0.024,
+                "year_change_price": -0.211,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 165393259,
+                "eps": -0.125,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 165393259,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.024,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-02-11T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.028,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-89.787%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.lachlanstar.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Anthony Cipriano",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cipriano",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Drobeck",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Drobeck",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Declan Franzmann",
+                    "first_name": "Declan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Franzmann",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Anderson",
+                    "first_name": "Robert",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Robert Anderson",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Company Secretary",
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Administrator Appointed",
+                    "first_name": "Administrator",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Appointed",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

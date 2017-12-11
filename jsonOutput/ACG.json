@@ -1,0 +1,984 @@
+[
+    [
+        {},
+        {
+            "Type": "Other Name",
+            "Location": "3051         VIC",
+            "ABN": "72 031 229 282Active,/SearchByAbn.aspx?abn=72031229282",
+            "Name": "ACG"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "5041         SA",
+            "ABN": "66 842 886 127Active,/SearchByAbn.aspx?abn=66842886127",
+            "Name": "ACG"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2114         NSW",
+            "ABN": "35 080 895 012Active,/SearchByAbn.aspx?abn=35080895012",
+            "Name": "ACG PTY LTD"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4218         QLD",
+            "ABN": "81 106 914 443Active,/SearchByAbn.aspx?abn=81106914443",
+            "Name": "ACG PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6021         WA",
+            "ABN": "97 420 205 758Active,/SearchByAbn.aspx?abn=97420205758",
+            "Name": "A & C G SINGH"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5006         SA",
+            "ABN": "75 640 977 127Active,/SearchByAbn.aspx?abn=75640977127",
+            "Name": "A & C G STEFANO"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5041         SA",
+            "ABN": "20 040 810 997Active,/SearchByAbn.aspx?abn=20040810997",
+            "Name": "A C & G KLOP"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4870         QLD",
+            "ABN": "83 177 312 292Active,/SearchByAbn.aspx?abn=83177312292",
+            "Name": "A C G BLOMQVIST"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3150         VIC",
+            "ABN": "89 274 356 874Active,/SearchByAbn.aspx?abn=89274356874",
+            "Name": "A C G LANDSCAPES"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2158         NSW",
+            "ABN": "99 570 085 478Active,/SearchByAbn.aspx?abn=99570085478",
+            "Name": "A C G SECRETT"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2141         NSW",
+            "ABN": "89 065 063 723Active,/SearchByAbn.aspx?abn=89065063723",
+            "Name": "A.C.G DAIRY"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2166         NSW",
+            "ABN": "92 147 438 873Active,/SearchByAbn.aspx?abn=92147438873",
+            "Name": "A.C.G Homes Pty Limited"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2586         NSW",
+            "ABN": "23 618 967 589Active,/SearchByAbn.aspx?abn=23618967589",
+            "Name": "A.C.G. CONCRETE PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4214         QLD",
+            "ABN": "28 168 217 089Active,/SearchByAbn.aspx?abn=28168217089",
+            "Name": "A.C.G. SOLUTIONS PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2148         NSW",
+            "ABN": "39 142 215 610Active,/SearchByAbn.aspx?abn=39142215610",
+            "Name": "A.C.G. SPORTS LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4227         QLD",
+            "ABN": "31 169 264 886Active,/SearchByAbn.aspx?abn=31169264886",
+            "Name": "A.C.G. TECH PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "50 609 479 727Active,/SearchByAbn.aspx?abn=50609479727",
+            "Name": "ACG (BRISBANE) PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         QLD",
+            "ABN": "28 617 001 500Active,/SearchByAbn.aspx?abn=28617001500",
+            "Name": "ACG (MELBOURNE) PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2138         NSW",
+            "ABN": "24 601 786 592Active,/SearchByAbn.aspx?abn=24601786592",
+            "Name": "ACG (NSW) PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2200         NSW",
+            "ABN": "99 602 973 115Active,/SearchByAbn.aspx?abn=99602973115",
+            "Name": "ACG AIR CONDITIONING PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4053         QLD",
+            "ABN": "75 095 095 355Active,/SearchByAbn.aspx?abn=75095095355",
+            "Name": "ACG AUSTRALIA PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "4573         QLD",
+            "ABN": "84 138 043 188Active,/SearchByAbn.aspx?abn=84138043188",
+            "Name": "ACG COMMERCIAL"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2166         NSW",
+            "ABN": "93 497 411 610Active,/SearchByAbn.aspx?abn=93497411610",
+            "Name": "ACG CONSTRUCTION"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4066         QLD",
+            "ABN": "27 083 227 829Active,/SearchByAbn.aspx?abn=27083227829",
+            "Name": "ACG CONSULTING PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2223         NSW",
+            "ABN": "50 108 652 580Active,/SearchByAbn.aspx?abn=50108652580",
+            "Name": "ACG CONTROLS PTY LTD"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "6065         WA",
+            "ABN": "32 807 162 695Active,/SearchByAbn.aspx?abn=32807162695",
+            "Name": "ACG Contractors"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4064         QLD",
+            "ABN": "26 162 167 179Active,/SearchByAbn.aspx?abn=26162167179",
+            "Name": "ACG DESIGN CO. PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2200         NSW",
+            "ABN": "31 604 424 713Active,/SearchByAbn.aspx?abn=31604424713",
+            "Name": "ACG DEVELOPMENTS PTY LTD"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "6152         WA",
+            "ABN": "73 578 084 549Active,/SearchByAbn.aspx?abn=73578084549",
+            "Name": "ACG EARTHMOVING"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6152         WA",
+            "ABN": "99 144 968 847Active,/SearchByAbn.aspx?abn=99144968847",
+            "Name": "ACG EARTHMOVING PTY. LTD."
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3183         VIC",
+            "ABN": "11 988 344 714Active,/SearchByAbn.aspx?abn=11988344714",
+            "Name": "ACG Electrical"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3051         VIC",
+            "ABN": "72 031 229 282Active,/SearchByAbn.aspx?abn=72031229282",
+            "Name": "ACG GROUP PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "45 603 259 687Active,/SearchByAbn.aspx?abn=45603259687",
+            "Name": "ACG GROUP PTY. LTD."
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "87 082 921 471Active,/SearchByAbn.aspx?abn=87082921471",
+            "Name": "ACG HOLDINGS PTY LIMITED"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2200         NSW",
+            "ABN": "93 604 417 307Active,/SearchByAbn.aspx?abn=93604417307",
+            "Name": "ACG INSTALLS PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2020         NSW",
+            "ABN": "37 090 152 926Active,/SearchByAbn.aspx?abn=37090152926",
+            "Name": "ACG Integrated"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4740         QLD",
+            "ABN": "58 114 808 669Active,/SearchByAbn.aspx?abn=58114808669",
+            "Name": "ACG MAINTENANCE PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "4055         QLD",
+            "ABN": "55 821 820 122Active,/SearchByAbn.aspx?abn=55821820122",
+            "Name": "ACG Marketing"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3131         VIC",
+            "ABN": "28 142 922 302Active,/SearchByAbn.aspx?abn=28142922302",
+            "Name": "ACG PLUMBING"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3004         VIC",
+            "ABN": "20 131 598 573Active,/SearchByAbn.aspx?abn=20131598573",
+            "Name": "ACG SECURITY"
+        }
+    ],
+    [
+        {},
+        {
+            "Type": "Entity Name",
+            "Location": "2575         NSW",
+            "ABN": "50 611 220 234Active,/SearchByAbn.aspx?abn=50611220234",
+            "Name": "ACG SER PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "5000         SA",
+            "ABN": "30 168 607 529Active,/SearchByAbn.aspx?abn=30168607529",
+            "Name": "ACG STUDIO"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2153         NSW",
+            "ABN": "45 618 036 016Active,/SearchByAbn.aspx?abn=45618036016",
+            "Name": "ACG SUPPLIES PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2206         NSW",
+            "ABN": "36 119 647 095Active,/SearchByAbn.aspx?abn=36119647095",
+            "Name": "ACG TRADING PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3160         VIC",
+            "ABN": "40 139 004 407Active,/SearchByAbn.aspx?abn=40139004407",
+            "Name": "ACG Transport Pty Ltd"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3066         VIC",
+            "ABN": "46 113 133 449Active,/SearchByAbn.aspx?abn=46113133449",
+            "Name": "ACG Wholesale Pty Ltd"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3021         VIC",
+            "ABN": "65 202 924 643Active,/SearchByAbn.aspx?abn=65202924643",
+            "Name": "Harpreet's ACG"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3150         VIC",
+            "ABN": "81 623 082 904Active,/SearchByAbn.aspx?abn=81623082904",
+            "Name": "MELBOURNE ACG PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4305         QLD",
+            "ABN": "29 617 259 677Active,/SearchByAbn.aspx?abn=29617259677",
+            "Name": "PENDER ACG PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6284         WA",
+            "ABN": "51 869 163 902Active,/SearchByAbn.aspx?abn=51869163902",
+            "Name": "THE ACG TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6122         WA",
+            "ABN": "60 722 817 122Active,/SearchByAbn.aspx?abn=60722817122",
+            "Name": "The Trustee for ACG FAMILY TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2259         NSW",
+            "ABN": "47 907 280 987Active,/SearchByAbn.aspx?abn=47907280987",
+            "Name": "The Trustee for ACG TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2278         NSW",
+            "ABN": "71 932 164 015Active,/SearchByAbn.aspx?abn=71932164015",
+            "Name": "The Trustee for ACG TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4055         QLD",
+            "ABN": "78 449 530 331Active,/SearchByAbn.aspx?abn=78449530331",
+            "Name": "The Trustee for ACG TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6027         WA",
+            "ABN": "24 952 636 769Active,/SearchByAbn.aspx?abn=24952636769",
+            "Name": "The Trustee for ACG Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3004         VIC",
+            "ABN": "75 775 254 451Active,/SearchByAbn.aspx?abn=75775254451",
+            "Name": "The Trustee for ACG Trust"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2878         NSW",
+            "ABN": "29 327 600 869Active,/SearchByAbn.aspx?abn=29327600869",
+            "Name": "A C & G E Carmichael"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3034         VIC",
+            "ABN": "67 520 566 519Active,/SearchByAbn.aspx?abn=67520566519",
+            "Name": "A C & G RAPITA FAMILY TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2100         NSW",
+            "ABN": "62 050 058 832Active,/SearchByAbn.aspx?abn=62050058832",
+            "Name": "A C G STORAGE & WAREHOUSE PTY. LTD."
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3182         VIC",
+            "ABN": "35 219 271 400Active,/SearchByAbn.aspx?abn=35219271400",
+            "Name": "A C G SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2165         NSW",
+            "ABN": "22 137 223 520Active,/SearchByAbn.aspx?abn=22137223520",
+            "Name": "A.C.G. STRATA MANAGEMENT PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5051         SA",
+            "ABN": "58 181 563 308Active,/SearchByAbn.aspx?abn=58181563308",
+            "Name": "ACG & K HANCOCK"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2211         NSW",
+            "ABN": "69 105 808 302Active,/SearchByAbn.aspx?abn=69105808302",
+            "Name": "ACG & KCG INVESTMENTS PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2211         NSW",
+            "ABN": "59 486 906 540Active,/SearchByAbn.aspx?abn=59486906540",
+            "Name": "ACG & KCG INVESTMENTS PTY LTD & THE TRUSTEE FOR GOKANI FAMILT TRUST & THE TRUSTEE FOR VISHRAM TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4552         QLD",
+            "ABN": "92 785 548 126Active,/SearchByAbn.aspx?abn=92785548126",
+            "Name": "ACG & VK HARVEY"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2212         NSW",
+            "ABN": "88 604 417 290Active,/SearchByAbn.aspx?abn=88604417290",
+            "Name": "ACG AIR CON GUYS PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2762         NSW",
+            "ABN": "15 516 771 404Active,/SearchByAbn.aspx?abn=15516771404",
+            "Name": "ACG AIRCONDITIONING AND REFRIGERATION"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "0000",
+            "ABN": "37 609 820 690Active,/SearchByAbn.aspx?abn=37609820690",
+            "Name": "ACG Acquisition 30288 LLC"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2200         NSW",
+            "ABN": "68 146 937 322Active,/SearchByAbn.aspx?abn=68146937322",
+            "Name": "ACG Air Conditioning Guys Pty Ltd"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2036         NSW",
+            "ABN": "57 605 030 251Active,/SearchByAbn.aspx?abn=57605030251",
+            "Name": "ACG BUILDING MANAGEMENT PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2092         NSW",
+            "ABN": "71 144 773 820Active,/SearchByAbn.aspx?abn=71144773820",
+            "Name": "ACG Building Aus Pty Ltd"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2036         NSW",
+            "ABN": "13 281 095 404Active,/SearchByAbn.aspx?abn=13281095404",
+            "Name": "ACG Building Management"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2000         NSW",
+            "ABN": "45 603 259 687Active,/SearchByAbn.aspx?abn=45603259687",
+            "Name": "ACG CLEANING SERVICES"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "33 623 121 568Active,/SearchByAbn.aspx?abn=33623121568",
+            "Name": "ACG CLOVELLY ROAD PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2196         NSW",
+            "ABN": "83 168 958 503Active,/SearchByAbn.aspx?abn=83168958503",
+            "Name": "ACG COMMERCIAL DIVISION PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3148         VIC",
+            "ABN": "36 622 169 475Active,/SearchByAbn.aspx?abn=36622169475",
+            "Name": "ACG CONCEPT (AUST) PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3004         VIC",
+            "ABN": "20 131 598 573Active,/SearchByAbn.aspx?abn=20131598573",
+            "Name": "ACG CORPORATE SERVICES"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4073         QLD",
+            "ABN": "58 095 741 227Active,/SearchByAbn.aspx?abn=58095741227",
+            "Name": "ACG EDUCATION AUSTRALIA PTY LIMITED"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2138         NSW",
+            "ABN": "92 003 943 226Active,/SearchByAbn.aspx?abn=92003943226",
+            "Name": "ACG ELECTRICAL CONTRACTORS PTY. LIMITED"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3004         VIC",
+            "ABN": "18 149 105 019Active,/SearchByAbn.aspx?abn=18149105019",
+            "Name": "ACG ELECTRONIC SOLUTIONS"
+        }
+    ],
+    [
+        {},
+        {
+            "Type": "Business Name",
+            "Location": "3004         VIC",
+            "ABN": "83 072 293 880Active,/SearchByAbn.aspx?abn=83072293880",
+            "Name": "ACG ELECTRONIC SOLUTIONS"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4510         QLD",
+            "ABN": "80 114 138 439Active,/SearchByAbn.aspx?abn=80114138439",
+            "Name": "ACG FAMILY INVESTMENTS PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2020         NSW",
+            "ABN": "37 090 152 926Active,/SearchByAbn.aspx?abn=37090152926",
+            "Name": "ACG FIRE & SECURITY PTY. LTD."
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2143         NSW",
+            "ABN": "50 103 366 061Active,/SearchByAbn.aspx?abn=50103366061",
+            "Name": "ACG Fund Holding Pty Ltd"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2017         NSW",
+            "ABN": "36 621 439 665Active,/SearchByAbn.aspx?abn=36621439665",
+            "Name": "ACG GLOBAL TRADING PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5062         SA",
+            "ABN": "40 146 514 301Active,/SearchByAbn.aspx?abn=40146514301",
+            "Name": "ACG Global Australasia Pty Ltd"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4223         QLD",
+            "ABN": "83 169 103 897Active,/SearchByAbn.aspx?abn=83169103897",
+            "Name": "ACG HOLDINGS (QLD) PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3030         VIC",
+            "ABN": "32 604 154 609Active,/SearchByAbn.aspx?abn=32604154609",
+            "Name": "ACG INTERNATIONAL GROUP PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3042         VIC",
+            "ABN": "64 091 179 387Active,/SearchByAbn.aspx?abn=64091179387",
+            "Name": "ACG INVESTMENT HOLDINGS PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3885         VIC",
+            "ABN": "25 189 567 661Active,/SearchByAbn.aspx?abn=25189567661",
+            "Name": "ACG KITCHENS & CABINETS"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4213         QLD",
+            "ABN": "76 159 905 085Active,/SearchByAbn.aspx?abn=76159905085",
+            "Name": "ACG METAL ROOFING PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2229         NSW",
+            "ABN": "27 621 538 887Active,/SearchByAbn.aspx?abn=27621538887",
+            "Name": "ACG PRESTIGE CARS PTY LIMITED"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2234         NSW",
+            "ABN": "41 426 241 930Active,/SearchByAbn.aspx?abn=41426241930",
+            "Name": "ACG PROPERTY SERVICES"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2206         NSW",
+            "ABN": "76 317 981 170Active,/SearchByAbn.aspx?abn=76317981170",
+            "Name": "ACG Painting Services"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5158         SA",
+            "ABN": "86 137 872 309Active,/SearchByAbn.aspx?abn=86137872309",
+            "Name": "ACG Research & Development Pty Ltd"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "32 270 313 066Active,/SearchByAbn.aspx?abn=32270313066",
+            "Name": "ACG SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2477         NSW",
+            "ABN": "71 986 834 792Active,/SearchByAbn.aspx?abn=71986834792",
+            "Name": "ACG SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "6160         WA",
+            "ABN": "53 612 871 940Active,/SearchByAbn.aspx?abn=53612871940",
+            "Name": "ACG Window Cleaning"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3206         VIC",
+            "ABN": "54 133 027 906Active,/SearchByAbn.aspx?abn=54133027906",
+            "Name": "ACG Wine Balaclava"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4053         QLD",
+            "ABN": "36 655 459 973Active,/SearchByAbn.aspx?abn=36655459973",
+            "Name": "STAFFORD VILLAGE REALTY PTY LTD & THE TRUSTEE FOR ACG PROPERTY TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "0800         NT",
+            "ABN": "27 673 953 939Active,/SearchByAbn.aspx?abn=27673953939",
+            "Name": "The Trustee for A C G UNIT TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4214         QLD",
+            "ABN": "11 842 399 879Active,/SearchByAbn.aspx?abn=11842399879",
+            "Name": "The Trustee for A.C.G Solutions Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6014         WA",
+            "ABN": "90 338 407 898Active,/SearchByAbn.aspx?abn=90338407898",
+            "Name": "The Trustee for ACG Arto Family Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3015         VIC",
+            "ABN": "94 462 334 100Active,/SearchByAbn.aspx?abn=94462334100",
+            "Name": "The Trustee for ACG Discretionary Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2111         NSW",
+            "ABN": "68 123 256 421Active,/SearchByAbn.aspx?abn=68123256421",
+            "Name": "The Trustee for ACG Li Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4053         QLD",
+            "ABN": "27 426 322 543Active,/SearchByAbn.aspx?abn=27426322543",
+            "Name": "The Trustee for ACG Management Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2210         NSW",
+            "ABN": "83 740 082 698Active,/SearchByAbn.aspx?abn=83740082698",
+            "Name": "The Trustee for ACG Properties Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3004         VIC",
+            "ABN": "22 538 391 264Active,/SearchByAbn.aspx?abn=22538391264",
+            "Name": "The Trustee for ACG SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3951         VIC",
+            "ABN": "60 517 574 780Active,/SearchByAbn.aspx?abn=60517574780",
+            "Name": "The Trustee for ACG Super Fund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5068         SA",
+            "ABN": "51 626 950 746Active,/SearchByAbn.aspx?abn=51626950746",
+            "Name": "The Trustee for ACG Super Fund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3070         VIC",
+            "ABN": "68 974 706 875Active,/SearchByAbn.aspx?abn=68974706875",
+            "Name": "The trustee for ACG Superannuation Fund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5158         SA",
+            "ABN": "81 384 245 230Active,/SearchByAbn.aspx?abn=81384245230",
+            "Name": "The trustee for The ACG Global Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2800         NSW",
+            "ABN": "56 495 847 506Active,/SearchByAbn.aspx?abn=56495847506",
+            "Name": "The trustee for The ACG Superannuation Fund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2600         ACT",
+            "ABN": "70 219 286 098Active,/SearchByAbn.aspx?abn=70219286098",
+            "Name": "The trustee for The ACG Superannuation Fund"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3802         VIC",
+            "ABN": "78 390 291 277Active,/SearchByAbn.aspx?abn=78390291277",
+            "Name": "A C G ARENA CONSTRUCTION GROUP"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3192         VIC",
+            "ABN": "21 146 663 336Active,/SearchByAbn.aspx?abn=21146663336",
+            "Name": "ACG ASIA CONSULTING GROUP PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3806         VIC",
+            "ABN": "30 616 475 159Active,/SearchByAbn.aspx?abn=30616475159",
+            "Name": "ACG AUSTRALIAN CONSULTING GROUP PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4020         QLD",
+            "ABN": "54 607 297 594Active,/SearchByAbn.aspx?abn=54607297594",
+            "Name": "ACG CONSTRUCTIONS EDUCATION & CONSULTING PTY LTD"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2390         NSW",
+            "ABN": "53 592 971 202Active,/SearchByAbn.aspx?abn=53592971202",
+            "Name": "ACG Fawcett & Edgeroi Organics Pty Ltd"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "4073         QLD",
+            "ABN": "58 095 741 227Active,/SearchByAbn.aspx?abn=58095741227",
+            "Name": "ACG Yoobee School of Design"
+        }
+    ],
+    [
+        {},
+        {
+            "Type": "Entity Name",
+            "Location": "2121         NSW",
+            "ABN": "84 057 509 770Active,/SearchByAbn.aspx?abn=84057509770",
+            "Name": "AUSTRALASIA CONSULTING GROUP (ACG) PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2027         NSW",
+            "ABN": "26 096 529 672Active,/SearchByAbn.aspx?abn=26096529672",
+            "Name": "AUSTRALIA CHINA GROUP (ACG)"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5050         SA",
+            "ABN": "49 168 304 626Active,/SearchByAbn.aspx?abn=49168304626",
+            "Name": "DE MAAIJER SUPERANNUATION FUND A C & G"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2229         NSW",
+            "ABN": "37 275 150 538Active,/SearchByAbn.aspx?abn=37275150538",
+            "Name": "The Trustee for ACG Prestige Cars Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2092         NSW",
+            "ABN": "75 746 801 359Active,/SearchByAbn.aspx?abn=75746801359",
+            "Name": "The trustee for ACG Building Unit Trust"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4053         QLD",
+            "ABN": "36 655 459 973Active,/SearchByAbn.aspx?abn=36655459973",
+            "Name": "Stafford Village Realty Pty Ltd and ACG Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3030         VIC",
+            "ABN": "49 688 791 192Active,/SearchByAbn.aspx?abn=49688791192",
+            "Name": "The Trustee for A&C and G&S Pengelly Superfund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2400         NSW",
+            "ABN": "47 104 608 657Active,/SearchByAbn.aspx?abn=47104608657",
+            "Name": "AE & CG Gillogly Pty Ltd"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "10007",
+            "ABN": "25 357 833 006Active,/SearchByAbn.aspx?abn=25357833006",
+            "Name": "Acquis Consulting Group LLC"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4105         QLD",
+            "ABN": "53 100 431 865Active,/SearchByAbn.aspx?abn=53100431865",
+            "Name": "ACDG PTY. LTD."
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6011         WA",
+            "ABN": "45 139 098 481Active,/SearchByAbn.aspx?abn=45139098481",
+            "Name": "ACGS Pty Ltd"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4053         QLD",
+            "ABN": "21 124 992 272Active,/SearchByAbn.aspx?abn=21124992272",
+            "Name": "AACG DESIGN"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2028         NSW",
+            "ABN": "91 609 390 347Active,/SearchByAbn.aspx?abn=91609390347",
+            "Name": "AACG ENTERPRISES PTY. LTD."
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2119         NSW",
+            "ABN": "81 323 918 201Active,/SearchByAbn.aspx?abn=81323918201",
+            "Name": "ACCG ACCOUNTING"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6160         WA",
+            "ABN": "96 604 748 254Active,/SearchByAbn.aspx?abn=96604748254",
+            "Name": "ACDG EQUITY PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6160         WA",
+            "ABN": "96 134 701 107Active,/SearchByAbn.aspx?abn=96134701107",
+            "Name": "ACDG Nominees Pty Ltd"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "5061         SA",
+            "ABN": "22 520 631 657Active,/SearchByAbn.aspx?abn=22520631657",
+            "Name": "ACGI Consultants"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4213         QLD",
+            "ABN": "42 610 676 849Active,/SearchByAbn.aspx?abn=42610676849",
+            "Name": "ACGS (MASTER) PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4169         QLD",
+            "ABN": "71 085 951 631Active,/SearchByAbn.aspx?abn=71085951631",
+            "Name": "ACGS NOMINEES PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "62 141 091 492Active,/SearchByAbn.aspx?abn=62141091492",
+            "Name": "AHCG INVESTMENT PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "0830         NT",
+            "ABN": "18 349 053 654Active,/SearchByAbn.aspx?abn=18349053654",
+            "Name": "The Trustee for ACHG Family Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3146         VIC",
+            "ABN": "23 549 233 243Active,/SearchByAbn.aspx?abn=23549233243",
+            "Name": "The Trustee for The ACGS Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4053         QLD",
+            "ABN": "14 105 077 035Active,/SearchByAbn.aspx?abn=14105077035",
+            "Name": "ACCG SUPER FUND"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "4105         QLD",
+            "ABN": "53 100 431 865Active,/SearchByAbn.aspx?abn=53100431865",
+            "Name": "ACDG Business Services"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2560         NSW",
+            "ABN": "39 769 318 582Active,/SearchByAbn.aspx?abn=39769318582",
+            "Name": "Campbelltown Local AECG"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2170         NSW",
+            "ABN": "76 854 970 238Active,/SearchByAbn.aspx?abn=76854970238",
+            "Name": "MIL-PRA AECG INC"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3105         VIC",
+            "ABN": "76 380 765 242Active,/SearchByAbn.aspx?abn=76380765242",
+            "Name": "The Trustee for ACGG Superannuation Fund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4213         QLD",
+            "ABN": "44 323 565 204Active,/SearchByAbn.aspx?abn=44323565204",
+            "Name": "The Trustee for ACGS (IP) Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6160         WA",
+            "ABN": "80 448 175 468Active,/SearchByAbn.aspx?abn=80448175468",
+            "Name": "The trustee for The ACDG Superannuation Fund"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "6210         WA",
+            "ABN": "44 341 424 041Active,/SearchByAbn.aspx?abn=44341424041",
+            "Name": "ACUG"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "6155         WA",
+            "ABN": "90 649 412 254Active,/SearchByAbn.aspx?abn=90649412254",
+            "Name": "ACUG"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "6155         WA",
+            "ABN": "54 820 669 495Active,/SearchByAbn.aspx?abn=54820669495",
+            "Name": "ACUG"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4300         QLD",
+            "ABN": "33 265 395 744Active,/SearchByAbn.aspx?abn=33265395744",
+            "Name": "ACUG"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "4172         QLD",
+            "ABN": "98 113 565 861Active,/SearchByAbn.aspx?abn=98113565861",
+            "Name": "ACUG"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "6008         WA",
+            "ABN": "65 188 197 380Active,/SearchByAbn.aspx?abn=65188197380",
+            "Name": "83 ARRANDALE P/L ACG 053010290 AS TST FOR THE EVERETT JOSLA SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6326         WA",
+            "ABN": "39 578 492 432Active,/SearchByAbn.aspx?abn=39578492432",
+            "Name": "The trustee for The ACGH Family Trust No 2"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3053         VIC",
+            "ABN": "35 455 006 704Active,/SearchByAbn.aspx?abn=35455006704",
+            "Name": "ACIG Australia Pty Ltd"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "6004         WA",
+            "ABN": "42 334 459 284Active,/SearchByAbn.aspx?abn=42334459284",
+            "Name": "ACIG TECHNOLOGIES"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6155         WA",
+            "ABN": "76 602 144 365Active,/SearchByAbn.aspx?abn=76602144365",
+            "Name": "ACUG NATIONAL PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "4172         QLD",
+            "ABN": "98 113 565 861Active,/SearchByAbn.aspx?abn=98113565861",
+            "Name": "ACUG QLD"
+        }
+    ],
+    [
+        {},
+        {
+            "Type": "Entity Name",
+            "Location": "4217         QLD",
+            "ABN": "87 355 324 697Active,/SearchByAbn.aspx?abn=87355324697",
+            "Name": "The Trustee for ACIG Trust"
+        }
+    ],
+    "\r\n   Your search for ACG found 161 matches. Current names with active ABNs are listed below sorted by relevance. Use All ABNs tab to list cancelled ABNs/names. Click on an ABN or refine your search.\r\n"
+]

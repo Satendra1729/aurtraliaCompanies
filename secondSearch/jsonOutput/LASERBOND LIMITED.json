@@ -1,0 +1,150 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LBL",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "LASERBOND LIMITED",
+    "ASXcode": "LBL",
+    "data": {
+        "summary": {
+            "name_full": "LASERBOND LIMITED",
+            "last_dividend": {
+                "comments": "0.3C FRANKED @ 30%;  DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-30T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-10-13T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.003,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "code": "LBL",
+            "name_short": "LASERBOND",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "LASERBOND LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/LBL?image_size=L&v=1455673038000",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-17T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "corporate@laserbond.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 4631 4500",
+            "mailing_address": "2/57 Anderson Road, SMEATON GRANGE, NSW, AUSTRALIA, 2567",
+            "principal_activities": "",
+            "fax_number": "02 4631 4555",
+            "latest_annual_reports": [
+                {
+                    "header": "LaserBond 2017 Annual Report",
+                    "document_date": "2017-08-30T13:19:18+1000",
+                    "number_of_pages": 52,
+                    "id": "01890252",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-30T13:21:04+1000",
+                    "size": "17.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lwq753v10xsb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 125084,
+                "status": [],
+                "market_cap": 11987553,
+                "code": "LBL",
+                "indices": [],
+                "year_open_price": 0.099,
+                "previous_close_price": 0.13,
+                "year_change_price": 0.051,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 92211945,
+                "eps": 0.0122,
+                "change_in_percent": "15.385%",
+                "change_price": 0.02,
+                "deprecated_number_of_shares": 92211945,
+                "pe": 12.3,
+                "offer_price": 0.155,
+                "suspended": false,
+                "last_price": 0.15,
+                "deprecated_market_cap": 13832000,
+                "day_low_price": 0.13,
+                "open_price": 0.13,
+                "year_high_date": "2017-09-19T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.17,
+                "bid_price": 0.15,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.15,
+                "year_change_in_percentage": "51.515%",
+                "average_daily_volume": 47317,
+                "year_low_price": 0.115,
+                "annual_dividend_yield": 3.33
+            },
+            "primary_share_code": "LBL",
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.laserbond.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Allan Morton",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Hooper",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hooper",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wayne Hooper",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hooper",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phillip Suriano",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Suriano",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Matthew Ernest Twist",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Twist",
+                    "middle_name": "Ernest"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DXA",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "CAISSE FRANCAISE DE FINANCEMENT LOCAL",
+    "ASXcode": "DXA",
+    "data": {
+        "summary": {
+            "name_full": "CAISSE FRANCAISE DE FINANCEMENT LOCAL",
+            "products": [],
+            "phone_number": "+33 143 92 7777",
+            "mailing_address": "1, Passerelle des Reflets, Tour Dexia La Defense 2, TSA 92202, AUSTRALIA,",
+            "principal_activities": "",
+            "name_short": "DEXIA",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "CAISSEFRANCAISE",
+            "registry_phone_number": "(02) 9256 0689",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-02-08T18:22:11+1100",
+                    "number_of_pages": 140,
+                    "id": "01826726",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-02-08T18:25:25+1100",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170208/pdf/43fw2nntprmbwj.pdf"
+                }
+            ],
+            "foreign_exempt": false,
+            "code": "DXA",
+            "registry_address": "20 BRIDGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2002-02-15T00:00:00+1100",
+            "fax_number": "+33 143 92 7000",
+            "web_address": "http://www.dexia-ma.com",
+            "registry_name": "AUSTRACLEAR SERVICES LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gilles Laurent",
+                    "first_name": "Gilles",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Laurent",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jean-Claude Synave",
+                    "first_name": "Jean-Claude",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Synave",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sylvic Vade",
+                    "first_name": "Sylvic",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vade",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Cecile Pacht",
+                    "first_name": "Cecile",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Pacht",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

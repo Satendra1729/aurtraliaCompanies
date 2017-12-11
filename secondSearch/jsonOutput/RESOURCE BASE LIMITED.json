@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RBX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RESOURCE BASE LIMITED",
+    "ASXcode": "RBX",
+    "data": {
+        "summary": {
+            "name_short": "RES BASE",
+            "name_full": "RESOURCE BASE LIMITED",
+            "code": "RBX",
+            "primary_share_code": "RBX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RESOURCE BASE",
+            "foreign_exempt": false,
+            "listing_date": "2007-11-23T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9614 0600",
+            "mailing_address": "Level 17, 500 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Gold exploration and production",
+            "fax_number": "(03) 9614 0550",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-20T12:01:38+1000",
+                    "number_of_pages": 42,
+                    "id": "01897962",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-20T12:04:14+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170920/pdf/43mh1r1cm8tpvn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 962198,
+                "code": "RBX",
+                "indices": [],
+                "year_open_price": 0.01,
+                "previous_close_price": 0.035,
+                "year_change_price": 0.025,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 27491373,
+                "eps": -0.0336,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 27491373,
+                "pe": 0,
+                "offer_price": 0.036,
+                "suspended": false,
+                "last_price": 0.035,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-21T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.135,
+                "bid_price": 0.035,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "250%",
+                "average_daily_volume": 71283,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.resourcebase.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter E Kelliher",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelliher",
+                    "middle_name": "E"
+                },
+                {
+                    "full_name": "Mr Martin Janes",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Janes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Kennedy",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kennedy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Angelo Siciliano",
+                    "first_name": "Angelo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Siciliano",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Adrien Michele Wing",
+                    "first_name": "Adrien",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wing",
+                    "middle_name": "Michele"
+                }
+            ]
+        }
+    }
+}

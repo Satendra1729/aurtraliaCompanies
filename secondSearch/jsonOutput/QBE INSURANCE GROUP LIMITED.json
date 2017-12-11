@@ -1,0 +1,328 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/QBE",
+    "GICSindustrygroup": "Insurance",
+    "Companyname": "QBE INSURANCE GROUP LIMITED",
+    "ASXcode": "QBE",
+    "data": {
+        "summary": {
+            "name_short": "QBE INSUR.",
+            "name_full": "QBE INSURANCE GROUP LIMITED",
+            "code": "QBE",
+            "primary_share_code": "QBE",
+            "industry_group_name": "Insurance",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "QBE INSURANCE GROUP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/QBE?image_size=L&v=1389746747000",
+            "foreign_exempt": false,
+            "listing_date": "1973-06-28T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "6.6C FR@30%;15.4C CF I; DRP&BSP NIL DISC",
+                "franked_percentage": "30%",
+                "created_date": "2017-08-17T00:00:00+1000",
+                "record_date": "2017-08-25T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.22,
+                "ex_date": "2017-08-24T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 9375 4444",
+            "mailing_address": "Level 27, 8 Chifley Square, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Underwriting general and reinsurance risks, investment management and management of the economic entity's share of the NSW and Victorian workers' compensation scheme.",
+            "fax_number": "(02) 9375 4884",
+            "latest_annual_reports": [
+                {
+                    "header": "QBE's 2016 Annual Results",
+                    "document_date": "2017-02-27T07:38:15+1100",
+                    "number_of_pages": 262,
+                    "id": "01832656",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-27T07:44:27+1100",
+                    "size": "14.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170227/pdf/43gbf62f4mtlyl.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3420328,
+                "status": [],
+                "market_cap": 14498626782,
+                "code": "QBE",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 20",
+                        "index_code": "XTL",
+                        "name_abrev": "S&P/ASX 20",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 20"
+                    },
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 12.27,
+                "previous_close_price": 10.66,
+                "year_change_price": -1.57,
+                "year_low_date": "2017-10-03T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1360096321,
+                "eps": 0.9177,
+                "change_in_percent": "0.375%",
+                "change_price": 0.04,
+                "deprecated_number_of_shares": 1360096321,
+                "pe": 11.66,
+                "offer_price": 10.72,
+                "suspended": false,
+                "last_price": 10.7,
+                "deprecated_market_cap": 14553031000,
+                "day_low_price": 10.635,
+                "open_price": 10.64,
+                "year_high_date": "2017-05-11T00:00:00+1000",
+                "previous_day_percentage_change": "-0.187%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 13.62,
+                "bid_price": 10.69,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 10.74,
+                "year_change_in_percentage": "-12.795%",
+                "average_daily_volume": 4957341,
+                "year_low_price": 9.65,
+                "annual_dividend_yield": 5.14
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.qbe.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Marty Becker",
+                    "first_name": "Marty",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Becker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Neal",
+                    "first_name": "John",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Neal",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Pat Regan",
+                    "first_name": "Pat",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Regan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Fitzgerald",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzgerald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Green",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Green",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Margaret Leung",
+                    "first_name": "Margaret",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leung",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathy Lisson",
+                    "first_name": "Kathy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lisson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Sir Brian Pomeroy",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Sir",
+                    "last_name": "Pomeroy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jann Skinner",
+                    "first_name": "Jann",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Skinner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rolf Tolle",
+                    "first_name": "Rolf",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tolle",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mike Wilkins",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilkins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Pat Regan",
+                    "first_name": "Pat",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Regan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tony Jackson",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jackson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Smiles",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smiles",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Carolyn Scobie",
+                    "first_name": "Carolyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Scobie",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

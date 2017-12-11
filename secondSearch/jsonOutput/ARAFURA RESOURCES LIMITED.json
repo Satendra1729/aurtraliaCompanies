@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ARU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ARAFURA RESOURCES LIMITED",
+    "ASXcode": "ARU",
+    "data": {
+        "summary": {
+            "name_short": "ARAFURA",
+            "name_full": "ARAFURA RESOURCES LIMITED",
+            "code": "ARU",
+            "primary_share_code": "ARU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ARAFURA RESOURCE LTD",
+            "foreign_exempt": false,
+            "listing_date": "2003-11-05T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6210 7666",
+            "mailing_address": "Level 3, Durack Centre, 263 Adelaide Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Industrial Minerals & Mineral Exploration",
+            "fax_number": "+61 8 9221 7966",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-20T16:20:09+1000",
+                    "number_of_pages": 93,
+                    "id": "01898081",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-20T16:22:40+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170920/pdf/43mh9mn3vl8drv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 307232,
+                "status": [],
+                "market_cap": 50090768,
+                "code": "ARU",
+                "indices": [],
+                "year_open_price": 0.087,
+                "previous_close_price": 0.087,
+                "year_change_price": 0.0,
+                "year_low_date": "2017-05-12T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 575755949,
+                "eps": -0.0072,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 575755949,
+                "pe": 0,
+                "offer_price": 0.089,
+                "suspended": false,
+                "last_price": 0.087,
+                "deprecated_market_cap": 50091000,
+                "day_low_price": 0.086,
+                "open_price": 0.09,
+                "year_high_date": "2017-10-09T00:00:00+1100",
+                "previous_day_percentage_change": "4.819%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.155,
+                "bid_price": 0.085,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.09,
+                "year_change_in_percentage": "0%",
+                "average_daily_volume": 1495975,
+                "year_low_price": 0.05,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.arultd.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Kowalick",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kowalick",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gavin John Lockyer",
+                    "first_name": "Gavin",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lockyer",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Terence Grose",
+                    "first_name": "Terence",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grose",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zhang Quansheng",
+                    "first_name": "Zhang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Quansheng",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Tonkin",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tonkin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Scott Sherrington",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sherrington",
+                    "middle_name": "Scott"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Scott Sherrington",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sherrington",
+                    "middle_name": "Scott"
+                }
+            ]
+        }
+    }
+}

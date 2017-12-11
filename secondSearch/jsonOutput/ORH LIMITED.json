@@ -1,0 +1,112 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ORH",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "ORH LIMITED",
+    "ASXcode": "ORH",
+    "data": {
+        "summary": {
+            "name_short": "ORH",
+            "name_full": "ORH LIMITED",
+            "code": "ORH",
+            "primary_share_code": "ORH",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "ORH LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1997-09-05T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9493 3355",
+            "mailing_address": "Level 5, 56 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Engineering design, implementation and supply of service trucks, water carts and other vehicles.",
+            "fax_number": "(08) 9493 3310",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "ORH",
+                "indices": [],
+                "deprecated_number_of_shares": 1318934612,
+                "previous_close_price": 0.001,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1318934612,
+                "eps": -0.0024,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.001,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-09-23T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.001,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.orh.net.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Domenic Vincent Martino",
+                    "first_name": "Domenic",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Martino",
+                    "middle_name": "Vincent"
+                },
+                {
+                    "full_name": "Mr Jamie Detata",
+                    "first_name": "Jamie",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Detata",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jackob Tsaban",
+                    "first_name": "Jackob",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tsaban",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Louisa Martino",
+                    "first_name": "Louisa",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Martino",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PTL",
+    "GICSindustrygroup": "Household & Personal Products",
+    "Companyname": "PENTAL LIMITED",
+    "ASXcode": "PTL",
+    "data": {
+        "summary": {
+            "name_short": "PENTAL",
+            "name_full": "PENTAL LIMITED",
+            "code": "PTL",
+            "primary_share_code": "PTL",
+            "industry_group_name": "Household & Personal Products",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "PENTAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "2000-08-29T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2.1C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-21T00:00:00+1000",
+                "record_date": "2017-09-11T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.021,
+                "ex_date": "2017-09-08T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9251 2311",
+            "mailing_address": "Level 6, 390 St Kilda Road, MELBOURNE, VIC, AUSTRALIA, 3004",
+            "principal_activities": "Manufactures and distributes: personal hygiene products such as soaps, bath and shower gels; oral care products; cleaning products for the laundry and kitchen",
+            "fax_number": "03 9645 3001",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-25T17:36:47+1100",
+                    "number_of_pages": 92,
+                    "id": "01912604",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-25T17:39:56+1100",
+                    "size": "5.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171025/pdf/43nl1mhqf510qf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 10421,
+                "status": [],
+                "market_cap": 67444063,
+                "code": "PTL",
+                "indices": [],
+                "year_open_price": 0.525,
+                "previous_close_price": 0.495,
+                "year_change_price": -0.03,
+                "year_low_date": "2017-12-04T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 136250633,
+                "eps": 0.0429,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 136250633,
+                "pe": 11.54,
+                "offer_price": 0.5,
+                "suspended": false,
+                "last_price": 0.495,
+                "deprecated_market_cap": 67444000,
+                "day_low_price": 0.495,
+                "open_price": 0.495,
+                "year_high_date": "2017-08-29T00:00:00+1000",
+                "previous_day_percentage_change": "1.02%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.71,
+                "bid_price": 0.495,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.495,
+                "year_change_in_percentage": "-5.714%",
+                "average_daily_volume": 44297,
+                "year_low_price": 0.485,
+                "annual_dividend_yield": 6.57
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.pental.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Robinson",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Charlie McLeish",
+                    "first_name": "Charlie",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McLeish",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan Johnstone",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnstone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Rishworth",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rishworth",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Etherington",
+                    "first_name": "John",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Etherington",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mel Sutton",
+                    "first_name": "Mel",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sutton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Albert Zago",
+                    "first_name": "Albert",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zago",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Oliver Carton",
+                    "first_name": "Oliver",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

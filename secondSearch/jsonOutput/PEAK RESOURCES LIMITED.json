@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PEK",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PEAK RESOURCES LIMITED",
+    "ASXcode": "PEK",
+    "data": {
+        "summary": {
+            "name_short": "PEAK RES",
+            "name_full": "PEAK RESOURCES LIMITED",
+            "code": "PEK",
+            "primary_share_code": "PEK",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PEAK RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PEK?image_size=L&v=1459913799000",
+            "foreign_exempt": false,
+            "listing_date": "2006-11-29T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9200 5360",
+            "mailing_address": "Ground Floor, 5 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Development and exploration for rare earth, gold, nickel, copper etc",
+            "fax_number": "+61 8 9226 3831",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-27T11:06:02+1100",
+                    "number_of_pages": 70,
+                    "id": "01913604",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T11:10:40+1100",
+                    "size": "9.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nn7hz87m2rxb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 351533,
+                "status": [],
+                "market_cap": 28946690,
+                "code": "PEK",
+                "indices": [],
+                "year_open_price": 0.088,
+                "previous_close_price": 0.047,
+                "year_change_price": -0.042,
+                "year_low_date": "2017-10-02T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 615887022,
+                "eps": -0.0104,
+                "change_in_percent": "-2.128%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 615887022,
+                "pe": 0,
+                "offer_price": 0.052,
+                "suspended": false,
+                "last_price": 0.046,
+                "deprecated_market_cap": 28331000,
+                "day_low_price": 0.046,
+                "open_price": 0.047,
+                "year_high_date": "2017-03-02T00:00:00+1100",
+                "previous_day_percentage_change": "-4.082%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.13,
+                "bid_price": 0.046,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.048,
+                "year_change_in_percentage": "-47.727%",
+                "average_daily_volume": 1490163,
+                "year_low_price": 0.034,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.peakresources.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Harold",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harold",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rocky Smith",
+                    "first_name": "Rocky",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Jetter",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jetter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jonathan Murray",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Darren Townsend",
+                    "first_name": "Darren",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Townsend",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme Scott",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scott",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Graeme Scott",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scott",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

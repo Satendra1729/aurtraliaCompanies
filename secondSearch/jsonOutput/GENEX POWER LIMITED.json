@@ -1,0 +1,155 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GNX",
+    "GICSindustrygroup": "Utilities",
+    "Companyname": "GENEX POWER LIMITED",
+    "ASXcode": "GNX",
+    "data": {
+        "summary": {
+            "name_short": "GENEXPOWER",
+            "name_full": "GENEX POWER LIMITED",
+            "code": "GNX",
+            "primary_share_code": "GNX",
+            "industry_group_name": "Utilities",
+            "delisting_date": null,
+            "sector_name": "Utilities",
+            "name_abbrev": "GENEX POWER LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-07-08T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "jclyne@clynecorporate.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9048 8850",
+            "mailing_address": "Suite 6.02, Level 6, 28 O'Connell Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Genex Power Limited (GNX) is a power generation and energy storage company based in Australia. Its current focus is the development of the Kidston Renewable Energy Hub in Northern Queensland.  Stage 1 is 50MW of solar PV and stage 2 is an integrated 250MW",
+            "fax_number": "(02) 9993 4433",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T19:00:04+1000",
+                    "number_of_pages": 82,
+                    "id": "01902803",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T19:07:26+1000",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtt7th4yztyv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 381292,
+                "status": [],
+                "market_cap": 109951751,
+                "code": "GNX",
+                "indices": [],
+                "deprecated_number_of_shares": 289346714,
+                "previous_close_price": 0.38,
+                "year_low_date": "2017-02-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 289346714,
+                "eps": -0.0278,
+                "change_in_percent": "-1.316%",
+                "change_price": -0.005,
+                "pe": 0,
+                "offer_price": 0.38,
+                "suspended": false,
+                "last_price": 0.375,
+                "deprecated_market_cap": 108505000,
+                "day_low_price": 0.37,
+                "open_price": 0.38,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.425,
+                "bid_price": 0.37,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.38,
+                "average_daily_volume": 574458,
+                "year_low_price": 0.17,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.genexpower.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Ralph Craven",
+                    "first_name": "Ralph",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Craven",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Addison",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Addison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Kidston",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kidston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yongqing Yu",
+                    "first_name": "Yongqing",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan du Mee",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "du Mee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ben Guo",
+                    "first_name": "Ben",
+                    "roles": [
+                        "Finance Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Guo",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justin Clyne",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clyne",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SWF",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "SELFWEALTH LIMITED",
+    "ASXcode": "SWF",
+    "data": {
+        "summary": {
+            "name_short": "SELFWEALTH",
+            "name_full": "SELFWEALTH LIMITED",
+            "code": "SWF",
+            "primary_share_code": "SWF",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "SELFWEALTH",
+            "foreign_exempt": false,
+            "listing_date": "2017-11-23T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1800 220 771",
+            "mailing_address": "Level 2, 613 Canterbury Road, SURREY HILLS, VIC, AUSTRALIA, 3127",
+            "principal_activities": "Online share trading platform provider",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report - 30 June 2016",
+                    "document_date": "2017-11-22T11:50:54+1100",
+                    "number_of_pages": 28,
+                    "id": "01924458",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-22T11:52:27+1100",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171122/pdf/43pghpzq04hkfr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 521336,
+                "status": [],
+                "market_cap": 22007398,
+                "code": "SWF",
+                "indices": [],
+                "deprecated_number_of_shares": 109479305,
+                "previous_close_price": 0.17,
+                "year_low_date": "2017-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 129455280,
+                "eps": 0,
+                "change_in_percent": "-8.824%",
+                "change_price": -0.015,
+                "pe": 0,
+                "offer_price": 0.165,
+                "suspended": false,
+                "last_price": 0.155,
+                "deprecated_market_cap": 16969000,
+                "day_low_price": 0.155,
+                "open_price": 0.17,
+                "year_high_date": "2017-11-23T00:00:00+1100",
+                "previous_day_percentage_change": "13.333%",
+                "year_open_date": null,
+                "year_high_price": 0.21,
+                "bid_price": 0.155,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.17,
+                "average_daily_volume": 1041805,
+                "year_low_price": 0.13,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.selfwealth.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Lawrence",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lawrence",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

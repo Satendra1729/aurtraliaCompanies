@@ -1,0 +1,260 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GMG",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "GOODMAN GROUP",
+    "ASXcode": "GMG",
+    "data": {
+        "summary": {
+            "name_short": "GOOD GROUP",
+            "name_full": "GOODMAN GROUP",
+            "code": "GMG",
+            "primary_share_code": "GMG",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "GOODMAN GROUP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/GMG?image_size=L&v=1385945542000",
+            "foreign_exempt": false,
+            "listing_date": "2005-02-02T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "last_dividend": {
+                "comments": "DRP SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-06-26T00:00:00+1000",
+                "record_date": "2017-06-30T00:00:00+1000",
+                "payable_date": "2017-08-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.132,
+                "ex_date": "2017-06-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 9230 7400",
+            "mailing_address": "Level 17, 60 Castlereagh Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "International industrial and business space property, development and funds management business.",
+            "fax_number": "(02) 9230 7444",
+            "latest_annual_reports": [
+                {
+                    "header": "Goodman Group Stakeholder Review and Annual Report 2017",
+                    "document_date": "2017-09-29T14:59:23+1000",
+                    "number_of_pages": 322,
+                    "id": "01902309",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T15:08:15+1000",
+                    "size": "10.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msw25cmqbfv2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2363238,
+                "status": [],
+                "market_cap": 15558599897,
+                "code": "GMG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Prop",
+                        "index_code": "XPJ",
+                        "name_abrev": "A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX200 A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 4.84,
+                "previous_close_price": 8.64,
+                "year_change_price": 3.76,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1800763877,
+                "eps": 0.435,
+                "change_in_percent": "-0.463%",
+                "change_price": -0.04,
+                "deprecated_number_of_shares": 1800763877,
+                "pe": 19.77,
+                "offer_price": 8.7,
+                "suspended": false,
+                "last_price": 8.6,
+                "deprecated_market_cap": 15486569000,
+                "day_low_price": 8.595,
+                "open_price": 8.65,
+                "year_high_date": "2017-11-10T00:00:00+1100",
+                "previous_day_percentage_change": "1.171%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 8.83,
+                "bid_price": 8.58,
+                "desc_full": "Stapled Securities Fully Paid",
+                "day_high_price": 8.67,
+                "year_change_in_percentage": "77.686%",
+                "average_daily_volume": 3279242,
+                "year_low_price": 6.5,
+                "annual_dividend_yield": 3.01
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.goodman.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://investors.goodman.com/phoenix.zhtml?c=167466&p=irol-irhome"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Ferrier",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferrier",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gregory Goodman",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goodman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Rozic",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Deputy CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rozic",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Danny Peeters",
+                    "first_name": "Danny",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Peeters",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Johns",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johns",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Rebecca McGrath",
+                    "first_name": "Rebecca",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McGrath",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phillip Pryke",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pryke",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Sloman",
+                    "first_name": "James",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sloman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nick Vrondas",
+                    "first_name": "Nick",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vrondas",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Carl Bicego",
+                    "first_name": "Carl",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bicego",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

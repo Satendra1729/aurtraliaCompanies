@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NMI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NORTHERN MINING LIMITED",
+    "ASXcode": "NMI",
+    "data": {
+        "summary": {
+            "name_short": "NORTHMIN",
+            "name_full": "NORTHERN MINING LIMITED",
+            "code": "NMI",
+            "primary_share_code": "NMI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NORTHERN MINING",
+            "foreign_exempt": false,
+            "listing_date": "2006-09-12T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@northernmining.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8016 2819",
+            "mailing_address": "Level 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Mining and exploration.",
+            "fax_number": "(02) 9279 0664",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "NMI",
+                "indices": [],
+                "year_open_price": 0.05,
+                "previous_close_price": 0.011,
+                "year_change_price": -0.039,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1079207833,
+                "eps": -0.003,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1079207833,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.011,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-07-21T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.019,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-78%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.northernmining.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tony Ong",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Danette Chan",
+                    "first_name": "Danette",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Nai",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nai",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gerald Woon",
+                    "first_name": "Gerald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Woon",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Lisa Dadswell",
+                    "first_name": "Lisa",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Dadswell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

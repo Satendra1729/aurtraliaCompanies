@@ -1,0 +1,225 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MGC",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "MG UNIT TRUST",
+    "ASXcode": "MGC",
+    "data": {
+        "summary": {
+            "name_short": "MG UNIT",
+            "name_full": "MG UNIT TRUST",
+            "code": "MGC",
+            "primary_share_code": "MGC",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "MG UNIT TRUST",
+            "foreign_exempt": false,
+            "listing_date": "2015-07-03T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "1.7C FRANKED @ 30%;  DRP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-02-24T00:00:00+1100",
+                "record_date": "2017-03-06T00:00:00+1100",
+                "payable_date": "2017-03-30T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.017,
+                "ex_date": "2017-03-03T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9040 5000",
+            "mailing_address": "Freshwater Place, Level 15, 2 Southbank Boulevard, SOUTHBANK, VIC, AUSTRALIA, 3006",
+            "principal_activities": "Special purpose funding vehicle for dairy foods company, Murray Goulburn.",
+            "fax_number": "(03) 9040 5100",
+            "latest_annual_reports": [
+                {
+                    "header": "MG Unit Annual Report 2017",
+                    "document_date": "2017-09-28T08:50:56+1000",
+                    "number_of_pages": 25,
+                    "id": "01900923",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T08:54:30+1000",
+                    "size": "556.3KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mq285n9chq7m.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 143350,
+                "status": [],
+                "market_cap": 158041910,
+                "code": "MGC",
+                "indices": [],
+                "deprecated_number_of_shares": 205249234,
+                "previous_close_price": 0.77,
+                "year_low_date": "2017-06-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 205249234,
+                "eps": 0,
+                "change_in_percent": "1.299%",
+                "change_price": 0.01,
+                "pe": 0,
+                "offer_price": 0.78,
+                "suspended": false,
+                "last_price": 0.78,
+                "deprecated_market_cap": 160094000,
+                "day_low_price": 0.775,
+                "open_price": 0.775,
+                "year_high_date": "2017-04-28T00:00:00+1000",
+                "previous_day_percentage_change": "-0.645%",
+                "year_open_date": null,
+                "year_high_price": 1.055,
+                "bid_price": 0.77,
+                "desc_full": "Ordinary Units Fully Paid",
+                "day_high_price": 0.78,
+                "average_daily_volume": 1095111,
+                "year_low_price": 0.6,
+                "annual_dividend_yield": 7.19
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.mgc.com.au/investor-centre/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Menzies Spark",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spark",
+                    "middle_name": "Menzies"
+                },
+                {
+                    "full_name": "Mr Ari Mervis",
+                    "first_name": "Ari",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mervis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Natalie Akers",
+                    "first_name": "Natalie",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Akers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr William Trenton Bodman",
+                    "first_name": "William",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bodman",
+                    "middle_name": "Trenton"
+                },
+                {
+                    "full_name": "Mr Mark Clark",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clark",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig John Dwyer",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dwyer",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mrs Lisa Marie Dwyer",
+                    "first_name": "Lisa",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Dwyer",
+                    "middle_name": "Marie"
+                },
+                {
+                    "full_name": "Mr Michael Francis Ihlein",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ihlein",
+                    "middle_name": "Francis"
+                },
+                {
+                    "full_name": "Mr Kelvin Dale Jackson",
+                    "first_name": "Kelvin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jackson",
+                    "middle_name": "Dale"
+                },
+                {
+                    "full_name": "Mr Kenneth William Jones",
+                    "first_name": "Kenneth",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": "William"
+                },
+                {
+                    "full_name": "Mr George Harper Kilpatrick",
+                    "first_name": "George",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kilpatrick",
+                    "middle_name": "Harper"
+                },
+                {
+                    "full_name": "Mr Graham Neil Munzel",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Munzel",
+                    "middle_name": "Neil"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Amy Alston",
+                    "first_name": "Amy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Alston",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

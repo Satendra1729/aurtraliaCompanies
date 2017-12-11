@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LIN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LINDIAN RESOURCES LIMITED",
+    "ASXcode": "LIN",
+    "data": {
+        "summary": {
+            "name_short": "LINDIAN",
+            "name_full": "LINDIAN RESOURCES LIMITED",
+            "code": "LIN",
+            "primary_share_code": "LIN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LINDIAN RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2000-03-02T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "contact@lindianresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9486 7799",
+            "mailing_address": "Level 5, 216 St George's Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Mining and Exploration",
+            "fax_number": "-",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-18T16:44:45+1000",
+                    "number_of_pages": 65,
+                    "id": "01897177",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-18T16:49:44+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170918/pdf/43mf7vpwx3zgr9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 30000,
+                "status": [],
+                "market_cap": 6695303,
+                "code": "LIN",
+                "indices": [],
+                "year_open_price": 0.009,
+                "previous_close_price": 0.025,
+                "year_change_price": 0.014,
+                "year_low_date": "2017-07-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 267812123,
+                "eps": -0.0043,
+                "change_in_percent": "-8%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 267812123,
+                "pe": 0,
+                "offer_price": 0.025,
+                "suspended": false,
+                "last_price": 0.023,
+                "deprecated_market_cap": 6160000,
+                "day_low_price": 0.023,
+                "open_price": 0.023,
+                "year_high_date": "2017-11-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.03,
+                "bid_price": 0.023,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.023,
+                "year_change_in_percentage": "155.556%",
+                "average_daily_volume": 691638,
+                "year_low_price": 0.012,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "https://www.lindianresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Asimwe Kabunga",
+                    "first_name": "Asimwe",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kabunga",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Norman Bull",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bull",
+                    "middle_name": "Norman"
+                },
+                {
+                    "full_name": "Mr Steve Formica",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Formica",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Eddie King",
+                    "first_name": "Eddie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "King",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Suraj Sanghani",
+                    "first_name": "Suraj",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sanghani",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

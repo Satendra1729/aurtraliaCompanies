@@ -1,0 +1,145 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PAF",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "PM CAPITAL ASIAN OPPORTUNITIES FUND LIMITED",
+    "ASXcode": "PAF",
+    "data": {
+        "summary": {
+            "name_short": "PMASIAN",
+            "name_full": "PM CAPITAL ASIAN OPPORTUNITIES FUND LIMITED",
+            "code": "PAF",
+            "primary_share_code": "PAF",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "PM CAPITAL ASIAN OPS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PAF?image_size=L&v=1486934498000",
+            "foreign_exempt": false,
+            "listing_date": "2014-05-22T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2.5C FRANKED @27.5%;  DRP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-14T00:00:00+1000",
+                "payable_date": "2017-10-05T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.025,
+                "ex_date": "2017-09-13T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8243 0888",
+            "mailing_address": "Level 27, 420 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment in listed securities predominately in Asian region (ex-Japan).",
+            "fax_number": "(02) 8243 0880",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report 2017",
+                    "document_date": "2017-08-24T18:00:33+1000",
+                    "number_of_pages": 51,
+                    "id": "01887946",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-24T18:07:23+1000",
+                    "size": "8.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lqb81k89b8qs.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 32765,
+                "status": [],
+                "market_cap": 68904671,
+                "code": "PAF",
+                "indices": [],
+                "deprecated_number_of_shares": 56248711,
+                "previous_close_price": 1.225,
+                "year_low_date": "2017-01-24T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 56248711,
+                "eps": 0.1702,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 7.2,
+                "offer_price": 1.225,
+                "suspended": false,
+                "last_price": 1.225,
+                "deprecated_market_cap": 68905000,
+                "day_low_price": 1.22,
+                "open_price": 1.22,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.23,
+                "bid_price": 1.22,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.225,
+                "average_daily_volume": 84577,
+                "year_low_price": 0.925,
+                "annual_dividend_yield": 3.67
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.pmcapital.com.au/listed-investment-company/paf",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brett Spork",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spork",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew McGill",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ben Everard Skilbeck",
+                    "first_name": "Ben",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Skilbeck",
+                    "middle_name": "Everard"
+                },
+                {
+                    "full_name": "Mr Richard Matthews",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Matthews",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Richard Matthews",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Matthews",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

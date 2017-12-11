@@ -1,0 +1,109 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BFC",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "BESTON GLOBAL FOOD COMPANY LIMITED",
+    "ASXcode": "BFC",
+    "data": {
+        "summary": {
+            "name_short": "BEST GLOB",
+            "name_full": "BESTON GLOBAL FOOD COMPANY LIMITED",
+            "code": "BFC",
+            "primary_share_code": "BFC",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "BESTON GLOBAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-08-28T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI",
+                "franked_percentage": "0%",
+                "created_date": "2016-08-31T00:00:00+1000",
+                "record_date": "2016-09-08T00:00:00+1000",
+                "payable_date": "2016-10-31T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.006,
+                "ex_date": "2016-09-07T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 8231 2777",
+            "mailing_address": "C/- Beston Pacific Asset Management Pty, 72 Sturt St, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "Acquire and operate selected assets and investments in the food and beverage industry in Australia and several overseas countries.",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-20T12:17:03+1100",
+                    "number_of_pages": 110,
+                    "id": "01910367",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T12:21:20+1100",
+                    "size": "7.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43ndwcf9b5mt5s.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 115366,
+                "status": [],
+                "market_cap": 113232423,
+                "code": "BFC",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 427292163,
+                "previous_close_price": 0.265,
+                "year_low_date": "2017-06-06T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 427292163,
+                "eps": -0.0182,
+                "change_in_percent": "1.887%",
+                "change_price": 0.005,
+                "pe": 0,
+                "offer_price": 0.275,
+                "suspended": false,
+                "last_price": 0.27,
+                "deprecated_market_cap": 115369000,
+                "day_low_price": 0.27,
+                "open_price": 0.285,
+                "year_high_date": "2016-12-13T00:00:00+1100",
+                "previous_day_percentage_change": "-1.852%",
+                "year_open_date": null,
+                "year_high_price": 0.36,
+                "bid_price": 0.27,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.285,
+                "average_daily_volume": 385888,
+                "year_low_price": 0.182,
+                "annual_dividend_yield": 2.22
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.bestonglobalfoods.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Richard Willson",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Willson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

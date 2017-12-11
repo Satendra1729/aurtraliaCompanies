@@ -1,0 +1,92 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MIH",
+    "GICSindustrygroup": "Telecommunication Services",
+    "Companyname": "MNC MEDIA INVESTMENT LTD",
+    "ASXcode": "MIH",
+    "data": {
+        "summary": {
+            "name_short": "MNC INVEST",
+            "name_full": "MNC MEDIA INVESTMENT LTD",
+            "code": "MIH",
+            "primary_share_code": "MIH",
+            "industry_group_name": "Telecommunication Services",
+            "delisting_date": null,
+            "sector_name": "Telecommunication Services",
+            "name_abbrev": "MNC MEDIA INVEST LTD",
+            "foreign_exempt": false,
+            "listing_date": "2013-09-13T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+65 6840 3588",
+            "mailing_address": "C/- Maples Corporate Services Limited, P.O. Box 309, Ugland House, AUSTRALIA,",
+            "principal_activities": "Telecom valued added services including online PC and mobile games, media content and online news.",
+            "fax_number": "+61 2 9287 0350",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-03-31T15:26:08+1100",
+                    "number_of_pages": 75,
+                    "id": "01843916",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T15:30:36+1100",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h64ql99ztz83.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 85992552,
+                "code": "MIH",
+                "indices": [],
+                "deprecated_number_of_shares": 23886820,
+                "previous_close_price": 3.6,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 23886820,
+                "eps": -0.0239,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 3.6,
+                "suspended": false,
+                "last_price": 3.6,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2014-09-26T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 3.6,
+                "bid_price": 0.1,
+                "desc_full": "Chess Depositary Interests Us Prohibited 1:10",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.mncmi.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peck Joo Tan",
+                    "first_name": "Peck Joo",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

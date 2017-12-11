@@ -1,0 +1,239 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BPT",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "BEACH ENERGY LIMITED",
+    "ASXcode": "BPT",
+    "data": {
+        "summary": {
+            "name_short": "BEACH",
+            "name_full": "BEACH ENERGY LIMITED",
+            "code": "BPT",
+            "primary_share_code": "BPT",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "BEACH ENERGY LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BPT?image_size=L&v=1382333192000",
+            "foreign_exempt": false,
+            "listing_date": "1972-06-30T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "last_dividend": {
+                "comments": "1C FRANKED @30%; DRP  SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-21T00:00:00+1000",
+                "record_date": "2017-08-28T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.01,
+                "ex_date": "2017-08-25T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "08 8338 2833",
+            "mailing_address": "25 Conyngham Street, GLENSIDE, SA, AUSTRALIA, 5065",
+            "principal_activities": "Oil and gas exploration, development and production, and investment in the resource industry.",
+            "fax_number": "08 8338 2336",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Beach Energy Ltd Annual Report",
+                    "document_date": "2017-10-20T16:07:09+1100",
+                    "number_of_pages": 132,
+                    "id": "01910528",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T16:09:49+1100",
+                    "size": "3.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43nf6jvntc7rzx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 7324311,
+                "status": [],
+                "market_cap": 2366370580,
+                "code": "BPT",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Energy",
+                        "index_code": "XEJ",
+                        "name_abrev": "Energy",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Energy (Sector)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 1.54055,
+                "previous_close_price": 1.04,
+                "year_change_price": -0.44555,
+                "year_low_date": "2017-06-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2275356327,
+                "eps": 0.2076,
+                "change_in_percent": "5.288%",
+                "change_price": 0.055,
+                "deprecated_number_of_shares": 2275356327,
+                "pe": 5.27,
+                "offer_price": 1.1,
+                "suspended": false,
+                "last_price": 1.095,
+                "deprecated_market_cap": 2491515000,
+                "day_low_price": 1.045,
+                "open_price": 1.05,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "-3.704%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.19,
+                "bid_price": 1.09,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.105,
+                "year_change_in_percentage": "-28.921%",
+                "average_daily_volume": 11598991,
+                "year_low_price": 0.551,
+                "annual_dividend_yield": 1.83
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.beachpetroleum.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Glenn S Davis",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davis",
+                    "middle_name": "S"
+                },
+                {
+                    "full_name": "Mr Philip J Bainbridge",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bainbridge",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Colin D Beckett",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beckett",
+                    "middle_name": "D"
+                },
+                {
+                    "full_name": "Mr James D McKerlie",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKerlie",
+                    "middle_name": "D"
+                },
+                {
+                    "full_name": "Dr Peter Stanley Moore",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Moore",
+                    "middle_name": "Stanley"
+                },
+                {
+                    "full_name": "Mr Richard Joseph Richards",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richards",
+                    "middle_name": "Joseph"
+                },
+                {
+                    "full_name": "Mr Ryan Kerry Stokes",
+                    "first_name": "Ryan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stokes",
+                    "middle_name": "Kerry"
+                },
+                {
+                    "full_name": "Ms Cathy Oster",
+                    "first_name": "Cathy",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Oster",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Cathy Oster",
+                    "first_name": "Cathy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Oster",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

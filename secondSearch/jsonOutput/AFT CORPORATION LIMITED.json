@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AFT",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "AFT CORPORATION LIMITED",
+    "ASXcode": "AFT",
+    "data": {
+        "summary": {
+            "name_short": "AFT CORP",
+            "name_full": "AFT CORPORATION LIMITED",
+            "code": "AFT",
+            "primary_share_code": "AFT",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "AFT CORPORATION",
+            "foreign_exempt": false,
+            "listing_date": "1992-01-16T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 794 907",
+            "mailing_address": "Unit 7, 6-8 Herbert Street, ST LEONARDS, NSW, AUSTRALIA, 2065",
+            "principal_activities": "Investment in energy saving or renewable energy building products, particularly solar photovoltaic (pv) and building integrated photovoltaic systems (bipv), as well as providing pv total solutions, and the existing air purification technology.",
+            "fax_number": "+61 2 9437 9104",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-03-29T09:20:03+1100",
+                    "number_of_pages": 48,
+                    "id": "01842842",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-29T09:22:54+1100",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170329/pdf/43h3rl3f5zx7ls.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 8508528,
+                "code": "AFT",
+                "indices": [],
+                "year_open_price": 0.001,
+                "previous_close_price": 0.001,
+                "year_change_price": 0.0,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 8508528009,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 8508528009,
+                "pe": 0,
+                "offer_price": 0.001,
+                "suspended": false,
+                "last_price": 0.001,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-27T11:00:00+1100",
+                "year_high_price": 0.001,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "0%",
+                "average_daily_volume": 1488762,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.aftcorp.net",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stone Wang",
+                    "first_name": "Stone",
+                    "roles": [
+                        "Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Zhang",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil Patrick Bourne",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bourne",
+                    "middle_name": "Patrick"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Maurice John Watson",
+                    "first_name": "Maurice",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Watson",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

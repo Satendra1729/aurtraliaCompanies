@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PVD",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "PURA VIDA ENERGY NL",
+    "ASXcode": "PVD",
+    "data": {
+        "summary": {
+            "name_short": "PURA VIDA",
+            "name_full": "PURA VIDA ENERGY NL",
+            "code": "PVD",
+            "primary_share_code": "PVD",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "PURA VIDA ENERGY NL",
+            "foreign_exempt": false,
+            "listing_date": "2012-02-14T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9226 2011",
+            "mailing_address": "Level 1, 89 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Oil exploration.",
+            "fax_number": "+61 8 9226 2099",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-31T19:18:16+1100",
+                    "number_of_pages": 56,
+                    "id": "01916365",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T19:20:49+1100",
+                    "size": "858.3KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nv68rm3f8mrg.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2689048,
+                "status": [],
+                "market_cap": 14564682,
+                "code": "PVD",
+                "indices": [],
+                "year_open_price": 0.505,
+                "previous_close_price": 0.056,
+                "year_change_price": -0.452,
+                "year_low_date": "2017-08-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 260083604,
+                "eps": 0.0138,
+                "change_in_percent": "-5.357%",
+                "change_price": -0.003,
+                "deprecated_number_of_shares": 260083604,
+                "pe": 3.84,
+                "offer_price": 0.054,
+                "suspended": false,
+                "last_price": 0.053,
+                "deprecated_market_cap": 13784000,
+                "day_low_price": 0.05,
+                "open_price": 0.057,
+                "year_high_date": "2017-11-17T00:00:00+1100",
+                "previous_day_percentage_change": "-1.754%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.086,
+                "bid_price": 0.053,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.057,
+                "year_change_in_percentage": "-89.505%",
+                "average_daily_volume": 1790178,
+                "year_low_price": 0.032,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.puravidaenergy.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Simon Eley",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Eley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nathan Lude",
+                    "first_name": "Nathan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lude",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Sanders",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sanders",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kevin Ronald Hart",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hart",
+                    "middle_name": "Ronald"
+                }
+            ]
+        }
+    }
+}

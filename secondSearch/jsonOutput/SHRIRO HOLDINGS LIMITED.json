@@ -1,0 +1,109 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SHM",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "SHRIRO HOLDINGS LIMITED",
+    "ASXcode": "SHM",
+    "data": {
+        "summary": {
+            "name_short": "SHRIRO",
+            "name_full": "SHRIRO HOLDINGS LIMITED",
+            "code": "SHM",
+            "primary_share_code": "SHM",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "SHRIRO HOLDINGS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-06-23T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "4C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-22T00:00:00+1000",
+                "record_date": "2017-09-14T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.04,
+                "ex_date": "2017-09-13T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9415 5000",
+            "mailing_address": "104 Vanessa Street, KINGSGROVE, NSW, AUSTRALIA, 2208",
+            "principal_activities": "Marketing and distributing kitchen appliances and consumer goods.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-03-16T14:51:24+1100",
+                    "number_of_pages": 68,
+                    "id": "01839642",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-16T14:53:16+1100",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170316/pdf/43gvgczmp5pt63.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 137648,
+                "status": [],
+                "market_cap": 150100000,
+                "code": "SHM",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "deprecated_number_of_shares": 95000000,
+                "previous_close_price": 1.58,
+                "year_low_date": "2017-06-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 95000000,
+                "eps": 0.141,
+                "change_in_percent": "3.165%",
+                "change_price": 0.05,
+                "pe": 11.56,
+                "offer_price": 1.65,
+                "suspended": false,
+                "last_price": 1.63,
+                "deprecated_market_cap": 154850000,
+                "day_low_price": 1.575,
+                "open_price": 1.58,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.67,
+                "bid_price": 1.58,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.63,
+                "average_daily_volume": 134816,
+                "year_low_price": 0.9,
+                "annual_dividend_yield": 6.75
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.shriro.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Shane Booth",
+                    "first_name": "Shane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Booth",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

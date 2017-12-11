@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AQH",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "APT PIPELINES LIMITED.",
+    "ASXcode": "AQH",
+    "data": {
+        "summary": {
+            "name_full": "APT PIPELINES LIMITED.",
+            "code": "AQH",
+            "name_short": "APTPIPLNE",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "APT PIPELINES LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AQH?image_size=L&v=1509510324000",
+            "foreign_exempt": false,
+            "listing_date": "2012-09-19T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "floating-rate-notes"
+            ],
+            "phone_number": "(02) 9693 0000",
+            "mailing_address": "Level 25, 580 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The Issuer is a fully owned subsidiary of Australian Pipeline Trust. The Issuer is the borrowing entity of APA Group. APA Group invests in various energy investment enterprises and provides asset management and operational services for the majority of these investments.",
+            "fax_number": "(02) 9693 0093",
+            "latest_annual_reports": [
+                {
+                    "header": "APA Group Annual Report and Sustainability Report",
+                    "document_date": "2017-09-22T14:12:48+1000",
+                    "number_of_pages": 153,
+                    "id": "01899010",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T14:17:32+1000",
+                    "size": "3.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mkddy7wv788t.pdf"
+                },
+                {
+                    "header": "APT Pipelines Limited Annual Report",
+                    "document_date": "2017-08-23T10:09:07+1000",
+                    "number_of_pages": 85,
+                    "id": "01886937",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-23T11:30:24+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43ln70dkx8b58y.pdf"
+                }
+            ],
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.apa.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Fraser",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fraser",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael McCormack",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McCormack",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Crane",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Fletcher",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fletcher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Debra Goodin",
+                    "first_name": "Debra",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Goodin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Russell Higgins",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Higgins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Patricia McKenzie",
+                    "first_name": "Patricia",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McKenzie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jennifer Blake",
+                    "first_name": "Jennifer",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Blake",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Nevenka Codevelle",
+                    "first_name": "Nevenka",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Codevelle",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

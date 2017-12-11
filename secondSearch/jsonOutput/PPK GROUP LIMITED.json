@@ -1,0 +1,156 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PPK",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "PPK GROUP LIMITED",
+    "ASXcode": "PPK",
+    "data": {
+        "summary": {
+            "name_short": "PPK GROUP",
+            "name_full": "PPK GROUP LIMITED",
+            "code": "PPK",
+            "primary_share_code": "PPK",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "PPK GROUP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1994-12-21T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+ 61 7 3054 4500",
+            "mailing_address": "Level 27, 10 Eagle Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Property, investments and the manufacture, support and innovation of underground coal mining equipment",
+            "fax_number": "+61 7 3054 4599",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders - Year Ended 30 June 2017",
+                    "document_date": "2017-09-12T08:44:53+1000",
+                    "number_of_pages": 71,
+                    "id": "01894938",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-12T08:48:18+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170912/pdf/43m7w40x0ggv3c.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders - Year Ended 30 June 2015",
+                    "document_date": "2017-06-26T10:41:59+1000",
+                    "number_of_pages": 78,
+                    "id": "01868439",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-06-26T11:02:57+1000",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170626/pdf/43k5vx0d3yf539.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 12709282,
+                "code": "PPK",
+                "indices": [],
+                "year_open_price": 0.78,
+                "previous_close_price": 0.205,
+                "year_change_price": -0.575,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 61996498,
+                "eps": 0.008,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 61996498,
+                "pe": 25.63,
+                "offer_price": 0.21,
+                "suspended": false,
+                "last_price": 0.205,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "2.5%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.205,
+                "bid_price": 0.2,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-73.718%",
+                "average_daily_volume": 47096,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.ppkgroup.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robin Levison",
+                    "first_name": "Robin",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Levison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dale McNamara",
+                    "first_name": "Dale",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McNamara",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Glenn R Molloy",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Molloy",
+                    "middle_name": "R"
+                },
+                {
+                    "full_name": "Mr Anthony John McDonald",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDonald",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Graeme D Webb",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Webb",
+                    "middle_name": "D"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew J Cooke",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooke",
+                    "middle_name": "J"
+                }
+            ]
+        }
+    }
+}

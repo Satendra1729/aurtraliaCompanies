@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AZM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AZUMAH RESOURCES LIMITED",
+    "ASXcode": "AZM",
+    "data": {
+        "summary": {
+            "name_short": "AZUMAH",
+            "name_full": "AZUMAH RESOURCES LIMITED",
+            "code": "AZM",
+            "primary_share_code": "AZM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AZUMAH RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2006-01-09T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9486 7911",
+            "mailing_address": "Ground Floor, 20 Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold exploration",
+            "fax_number": "+61 8 9481 4417",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T16:42:41+1000",
+                    "number_of_pages": 63,
+                    "id": "01902548",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:45:18+1000",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtb39p5tnkf6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 320000,
+                "status": [],
+                "market_cap": 15379741,
+                "code": "AZM",
+                "indices": [],
+                "year_open_price": 0.046,
+                "previous_close_price": 0.022,
+                "year_change_price": -0.025,
+                "year_low_date": "2017-09-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 699079149,
+                "eps": -0.006,
+                "change_in_percent": "-4.545%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 699079149,
+                "pe": 0,
+                "offer_price": 0.022,
+                "suspended": false,
+                "last_price": 0.021,
+                "deprecated_market_cap": 14681000,
+                "day_low_price": 0.021,
+                "open_price": 0.021,
+                "year_high_date": "2017-02-27T00:00:00+1100",
+                "previous_day_percentage_change": "10%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.037,
+                "bid_price": 0.02,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.021,
+                "year_change_in_percentage": "-54.348%",
+                "average_daily_volume": 1656817,
+                "year_low_price": 0.018,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.azumahresources.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Atkins",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Atkins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Stone",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Jones",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Dennis Wilkins",
+                    "first_name": "Dennis",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilkins",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

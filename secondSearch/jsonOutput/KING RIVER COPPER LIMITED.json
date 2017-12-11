@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KRC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KING RIVER COPPER LIMITED",
+    "ASXcode": "KRC",
+    "data": {
+        "summary": {
+            "name_short": "KING RIVER",
+            "name_full": "KING RIVER COPPER LIMITED",
+            "code": "KRC",
+            "primary_share_code": "KRC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KING RIVER COPPER",
+            "foreign_exempt": false,
+            "listing_date": "2007-09-21T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9221 8055",
+            "mailing_address": "254 Adelaide Tce, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Titanium, Vanadium, Fluorite, PGE and Copper exploration",
+            "fax_number": "+61 8 9325 8088",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-22T18:03:38+1000",
+                    "number_of_pages": 51,
+                    "id": "01899205",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T18:10:39+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mksjfbp92kz4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 729231,
+                "status": [],
+                "market_cap": 15126705,
+                "code": "KRC",
+                "indices": [],
+                "year_open_price": 0.02533,
+                "previous_close_price": 0.014,
+                "year_change_price": -0.01233,
+                "year_low_date": "2017-06-26T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1080478933,
+                "eps": -0.0007,
+                "change_in_percent": "-7.143%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 1080478933,
+                "pe": 0,
+                "offer_price": 0.014,
+                "suspended": false,
+                "last_price": 0.013,
+                "deprecated_market_cap": 14046000,
+                "day_low_price": 0.013,
+                "open_price": 0.014,
+                "year_high_date": "2017-11-21T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.021,
+                "bid_price": 0.013,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.014,
+                "year_change_in_percentage": "-48.677%",
+                "average_daily_volume": 11759773,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.kingrivercopper.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Anthony Barton",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leonid Charuckyj",
+                    "first_name": "Leonid",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Charuckyj",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg MacMillan",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "MacMillan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Greg MacMillan",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "MacMillan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

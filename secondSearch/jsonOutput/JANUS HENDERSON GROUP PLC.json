@@ -1,0 +1,280 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/JHG",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "JANUS HENDERSON GROUP PLC",
+    "ASXcode": "JHG",
+    "data": {
+        "summary": {
+            "name_short": "JANUS",
+            "name_full": "JANUS HENDERSON GROUP PLC",
+            "code": "JHG",
+            "primary_share_code": "JHG",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "JANUS HENDERSON",
+            "foreign_exempt": false,
+            "listing_date": "2008-10-27T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "USD 32C; UNFRANKED;  NIL CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-11-09T00:00:00+1100",
+                "record_date": "2017-11-20T00:00:00+1100",
+                "payable_date": "2017-12-01T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.42339,
+                "ex_date": "2017-11-17T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+44 20 7818 5310",
+            "mailing_address": "47 Esplanade, ST HELIER, NSW, JERSEY, JE1 0BD",
+            "principal_activities": "UK-based pan-European asset management",
+            "fax_number": "+44 20 7818 6900",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 441661,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 4150993861,
+                "code": "JHG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 4.47,
+                "previous_close_price": 47.99,
+                "year_change_price": 43.95,
+                "year_low_date": "2017-02-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 86497059,
+                "eps": 1.672,
+                "change_in_percent": "0.896%",
+                "change_price": 0.43,
+                "deprecated_number_of_shares": 86497059,
+                "pe": 28.96,
+                "offer_price": 48.9,
+                "suspended": false,
+                "last_price": 48.42,
+                "deprecated_market_cap": 4188188000,
+                "day_low_price": 48.14,
+                "open_price": 48.75,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "1.352%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 49.84,
+                "bid_price": 48.4,
+                "desc_full": "Chess Depositary Interests",
+                "day_high_price": 48.92,
+                "year_change_in_percentage": "983.221%",
+                "average_daily_volume": 366621,
+                "year_low_price": 33.85,
+                "annual_dividend_yield": 7.44
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.henderson.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Gillingwater",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gillingwater",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Formica",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Formica",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Charles Wagstaff",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wagstaff",
+                    "middle_name": "Charles"
+                },
+                {
+                    "full_name": "Ms Sarah Arkle",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Arkle",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kalpana Desai",
+                    "first_name": "Kalpana",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Desai",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Dolan",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dolan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tim How",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "How",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Jeens",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jeens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Angela Seymour-Jackson",
+                    "first_name": "Angela",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Seymour-Jackson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Roger Thompson",
+                    "first_name": "Roger",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thompson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jacqui Irvine",
+                    "first_name": "Jacqui",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Irvine",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Louise Curran",
+                    "first_name": "Louise",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Curran",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Miriam McKay",
+                    "first_name": "Miriam",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McKay",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jacqui Irvine",
+                    "first_name": "Jacqui",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Irvine",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

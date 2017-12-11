@@ -1,0 +1,242 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AGG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ANGLOGOLD ASHANTI LIMITED",
+    "ASXcode": "AGG",
+    "data": {
+        "summary": {
+            "name_short": "ANGLOGOLD",
+            "name_full": "ANGLOGOLD ASHANTI LIMITED",
+            "code": "AGG",
+            "primary_share_code": "AGG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ANGLOGOLD ASHANTI",
+            "foreign_exempt": true,
+            "listing_date": "1999-11-16T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "26C STH AFR PER CDI;  15%W/HT",
+                "franked_percentage": "0%",
+                "created_date": "2017-02-24T00:00:00+1100",
+                "record_date": "2017-03-24T00:00:00+1100",
+                "payable_date": "2017-04-07T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.02222665,
+                "ex_date": "2017-03-23T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+27 11 637 6000",
+            "mailing_address": "76 Jeppe Street, Newtown, AUSTRALIA,",
+            "principal_activities": "Gold production and exploration",
+            "fax_number": "+27 11 637 6624",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 39949,
+                "status": [],
+                "market_cap": 4721354538,
+                "code": "AGG",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    }
+                ],
+                "year_open_price": 4.02,
+                "previous_close_price": 2.45,
+                "year_change_price": -1.53,
+                "year_low_date": "2017-10-19T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1927083485,
+                "eps": -0.3839,
+                "change_in_percent": "1.633%",
+                "change_price": 0.04,
+                "deprecated_number_of_shares": 89207765,
+                "pe": 0,
+                "offer_price": 2.88,
+                "suspended": false,
+                "last_price": 2.49,
+                "deprecated_market_cap": 222127000,
+                "day_low_price": 2.43,
+                "open_price": 2.43,
+                "year_high_date": "2017-02-07T00:00:00+1100",
+                "previous_day_percentage_change": "-5.769%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 3.7,
+                "bid_price": 2.35,
+                "desc_full": "Cdi 5:1 Foreign Exempt Jse",
+                "day_high_price": 2.49,
+                "year_change_in_percentage": "-38.06%",
+                "average_daily_volume": 6579,
+                "year_low_price": 2.34,
+                "annual_dividend_yield": 0.89
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.anglogoldashanti.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Sipho M Pityana",
+                    "first_name": "Sipho",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pityana",
+                    "middle_name": "M"
+                },
+                {
+                    "full_name": "Mr Srinivasan Venkatakrishnan",
+                    "first_name": "Srinivasan",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Venkatakrishnan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Christine C Ramon",
+                    "first_name": "Christine",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ramon",
+                    "middle_name": "C"
+                },
+                {
+                    "full_name": "Mr Albert Garner",
+                    "first_name": "Albert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Garner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rhidwaan Gasant",
+                    "first_name": "Rhidwaan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gasant",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David L Hodgson",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hodgson",
+                    "middle_name": "L"
+                },
+                {
+                    "full_name": "Mrs Nozipho January-Bardill",
+                    "first_name": "Nozipho",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "January-Bardill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael J Kirkwood",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kirkwood",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Prof. Wiseman L Nkuhlu",
+                    "first_name": "Wiseman",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Nkuhlu",
+                    "middle_name": "L"
+                },
+                {
+                    "full_name": "Ms Maria Richter",
+                    "first_name": "Maria",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Richter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rodney J Ruston",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ruston",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Ms Sindiswa Zilwa",
+                    "first_name": "Sindiswa",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Zilwa",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Andrea E Maxey",
+                    "first_name": "Andrea",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Maxey",
+                    "middle_name": "E"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Maria E Sanz Perez",
+                    "first_name": "Maria",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Sanz Perez",
+                    "middle_name": "E"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NKP",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NKWE PLATINUM LIMITED",
+    "ASXcode": "NKP",
+    "data": {
+        "summary": {
+            "name_short": "NKWE",
+            "name_full": "NKWE PLATINUM LIMITED",
+            "code": "NKP",
+            "primary_share_code": "NKP",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NKWE PLATINUM",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/NKP?image_size=L&v=1430366166000",
+            "foreign_exempt": false,
+            "listing_date": "2003-09-24T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9481 8858",
+            "mailing_address": "Level 1, 18 Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Platinum explorer.",
+            "fax_number": "08 9481 3813",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-04-02T19:54:17+1000",
+                    "number_of_pages": 62,
+                    "id": "01844359",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-03T09:34:18+1000",
+                    "size": "989.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170403/pdf/43h7hk106zc6kb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 21000,
+                "status": [],
+                "market_cap": 36751216,
+                "code": "NKP",
+                "indices": [],
+                "year_open_price": 0.086,
+                "previous_close_price": 0.041,
+                "year_change_price": -0.044,
+                "year_low_date": "2017-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 896371120,
+                "eps": -0.0011,
+                "change_in_percent": "2.439%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 896371120,
+                "pe": 0,
+                "offer_price": 0.048,
+                "suspended": false,
+                "last_price": 0.042,
+                "deprecated_market_cap": 37648000,
+                "day_low_price": 0.042,
+                "open_price": 0.042,
+                "year_high_date": "2017-11-17T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.075,
+                "bid_price": 0.042,
+                "desc_full": "1c Us Common Shares Fully Paid",
+                "day_high_price": 0.042,
+                "year_change_in_percentage": "-51.163%",
+                "average_daily_volume": 334226,
+                "year_low_price": 0.041,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://nkweplatinum.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Qixue Fang",
+                    "first_name": "Qixue",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Fang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Tan Tielong",
+                    "first_name": "Tan",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Tielong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Jones",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robin Wang",
+                    "first_name": "Robin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Xin Li",
+                    "first_name": "Xin",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Keith Bowker",
+                    "first_name": "Keith",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bowker",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

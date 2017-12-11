@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GEV",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "GLOBAL ENERGY VENTURES LTD",
+    "ASXcode": "GEV",
+    "data": {
+        "summary": {
+            "name_short": "GLOBENEVEN",
+            "name_full": "GLOBAL ENERGY VENTURES LTD",
+            "code": "GEV",
+            "primary_share_code": "GEV",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "GLOBAL ENE VEN LTD",
+            "foreign_exempt": false,
+            "listing_date": "2005-03-21T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 6955",
+            "mailing_address": "Suite 3, 28 Outram St, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Oil and gas exploration",
+            "fax_number": "(08) 6267 8155",
+            "latest_annual_reports": [
+                {
+                    "header": "GEV 2017 Annual Report",
+                    "document_date": "2017-08-25T17:55:06+1000",
+                    "number_of_pages": 69,
+                    "id": "01888500",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-25T17:59:50+1000",
+                    "size": "533.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170825/pdf/43lrjx06sdkp57.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": -1,
+                "code": "GEV",
+                "indices": [],
+                "year_open_price": 0.024,
+                "previous_close_price": 0.34,
+                "year_change_price": 0.316,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 245279757,
+                "eps": -0.0431,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 245279757,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.34,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-15T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.35,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "1,316.667%",
+                "average_daily_volume": 325232,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://gev.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Maurice Brand",
+                    "first_name": "Maurice",
+                    "roles": [
+                        "Executive Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brand",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Garner",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Director",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Garner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Garry Triglavcanin",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Triglavcanin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jack Toby",
+                    "first_name": "Jack",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Toby",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jack Toby",
+                    "first_name": "Jack",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Toby",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

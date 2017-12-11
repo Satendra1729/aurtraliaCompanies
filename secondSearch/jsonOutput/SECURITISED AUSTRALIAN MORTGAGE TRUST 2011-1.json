@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SAC",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "SECURITISED AUSTRALIAN MORTGAGE TRUST 2011-1",
+    "ASXcode": "SAC",
+    "data": {
+        "summary": {
+            "name_full": "SECURITISED AUSTRALIAN MORTGAGE TRUST 2011-1",
+            "products": [],
+            "phone_number": "02 8225 1595",
+            "mailing_address": "Citigroup Pty Limited, Citigroup Centre, 2 Park Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": ".",
+            "name_short": "SAM 2011-1",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "SAM TRUST 2011-1",
+            "registry_phone_number": "02 9551 5009",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "SAC",
+            "registry_address": "LEVEL 4, 35 CLARENCE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2011-06-09T00:00:00+1000",
+            "fax_number": "02 8225 5558",
+            "web_address": null,
+            "registry_name": "BNY TRUST COMPANY OF AUSTRALIA LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Samantha Mostyn",
+                    "first_name": "Samantha",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Mostyn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Livingstone",
+                    "first_name": "David",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Livingstone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Francis Ford",
+                    "first_name": "Francis",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ford",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Julian Potter",
+                    "first_name": "Julian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Potter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Belinda Gibson",
+                    "first_name": "Belinda",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gibson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Hammond",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hammond",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Watt",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Watt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan Machet",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Machet",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Sedgwick",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sedgwick",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Michael Forde",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Forde",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PEL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PELICAN RESOURCES LIMITED",
+    "ASXcode": "PEL",
+    "data": {
+        "summary": {
+            "name_short": "PELICAN",
+            "name_full": "PELICAN RESOURCES LIMITED",
+            "code": "PEL",
+            "primary_share_code": "PEL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PELICAN RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2002-01-25T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 64249299",
+            "mailing_address": "Level 11, BGC Centre, 28 The Esplanade, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Mineral exploration.",
+            "fax_number": "08 64249299",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T11:31:46+1000",
+                    "number_of_pages": 69,
+                    "id": "01901121",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T11:33:36+1000",
+                    "size": "995.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqg77bk8cny1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 331111,
+                "status": [],
+                "market_cap": 7238471,
+                "code": "PEL",
+                "indices": [],
+                "year_open_price": 0.009,
+                "previous_close_price": 0.02,
+                "year_change_price": 0.011,
+                "year_low_date": "2017-06-23T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 361923540,
+                "eps": -0.0012,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 361923540,
+                "pe": 0,
+                "offer_price": 0.025,
+                "suspended": false,
+                "last_price": 0.02,
+                "deprecated_market_cap": 7238000,
+                "day_low_price": 0.02,
+                "open_price": 0.02,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.02,
+                "bid_price": 0.019,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.02,
+                "year_change_in_percentage": "122.222%",
+                "average_daily_volume": 257738,
+                "year_low_price": 0.008,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.pelicanresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Colin Chenu",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chenu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alec Pismiris",
+                    "first_name": "Alec",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pismiris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Antonio Torresan",
+                    "first_name": "Antonio",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Torresan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Alec Psimiris",
+                    "first_name": "Alec",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Psimiris",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DGX",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "DIPLOMA GROUP LIMITED",
+    "ASXcode": "DGX",
+    "data": {
+        "summary": {
+            "name_short": "DIPLOMA",
+            "name_full": "DIPLOMA GROUP LIMITED",
+            "code": "DGX",
+            "primary_share_code": "DGX",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "DIPLOMA GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-05T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@diploma.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9475 3500",
+            "mailing_address": "Level 1, 140 Abernethy Road, BELMONT, WA, AUSTRALIA, 6104",
+            "principal_activities": "Construction and property development",
+            "fax_number": "(08) 9475 3501",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "DGX",
+                "indices": [],
+                "year_open_price": 0.037,
+                "previous_close_price": 0.006,
+                "year_change_price": -0.031,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 472234182,
+                "eps": -0.0191,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 472234182,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.006,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-08-29T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.007,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-83.784%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.diploma.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Nick Di Latte",
+                    "first_name": "Nick",
+                    "roles": [
+                        "Executive Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Di Latte",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Di Latte",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Di Latte",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeff Hill",
+                    "first_name": "Jeff",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nick Di Latte",
+                    "first_name": "Nick",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Di Latte",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

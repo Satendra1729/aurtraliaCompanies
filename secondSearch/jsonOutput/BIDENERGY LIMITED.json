@@ -1,0 +1,125 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BID",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "BIDENERGY LIMITED",
+    "ASXcode": "BID",
+    "data": {
+        "summary": {
+            "name_short": "BIDENERGY",
+            "name_full": "BIDENERGY LIMITED",
+            "code": "BID",
+            "primary_share_code": "BID",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "BIDENERGY LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2011-01-27T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@bidenergy.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9389 3110",
+            "mailing_address": "Suite 5 CPC, 145 Stirling Highway, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Provision of cloud-based source to pay platform for energy.",
+            "fax_number": "+61 8 9389 3199",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T09:18:05+1000",
+                    "number_of_pages": 75,
+                    "id": "01901866",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T09:21:28+1000",
+                    "size": "2.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43ms0bd5dw7qy0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 7406774,
+                "code": "BID",
+                "indices": [],
+                "deprecated_number_of_shares": 603279099,
+                "previous_close_price": 0.01,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 740677364,
+                "eps": -0.0221,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.01,
+                "suspended": false,
+                "last_price": 0.01,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "11.111%",
+                "year_open_date": null,
+                "year_high_price": 0.075,
+                "bid_price": 0.009,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 914316,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.bidenergy.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James Baillieu",
+                    "first_name": "James",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baillieu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Du Preez",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Du Preez",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Leanne Graham",
+                    "first_name": "Leanne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Graham",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Erlyn Dale",
+                    "first_name": "Erlyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Dale",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

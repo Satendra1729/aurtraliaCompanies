@@ -1,0 +1,261 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ILU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ILUKA RESOURCES LIMITED",
+    "ASXcode": "ILU",
+    "data": {
+        "summary": {
+            "name_short": "ILUKA RES",
+            "name_full": "ILUKA RESOURCES LIMITED",
+            "code": "ILU",
+            "primary_share_code": "ILU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ILUKA RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ILU?image_size=L&v=1439793094000",
+            "foreign_exempt": false,
+            "listing_date": "1962-06-30T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "6C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-08-31T00:00:00+1000",
+                "payable_date": "2017-09-27T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.06,
+                "ex_date": "2017-08-30T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "+61 8 9360 4700",
+            "mailing_address": "Level 23, 140 St George's Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Production of mineral sands.",
+            "fax_number": "+61 8 9360 4777",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2016 including Appendix 4E",
+                    "document_date": "2017-02-23T08:02:56+1100",
+                    "number_of_pages": 120,
+                    "id": "01831238",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-23T08:18:05+1100",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170223/pdf/43g72l986w1vlw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 848040,
+                "status": [],
+                "market_cap": 3852044756,
+                "code": "ILU",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 9.45,
+                "previous_close_price": 9.2,
+                "year_change_price": -0.22,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 418700517,
+                "eps": -0.679,
+                "change_in_percent": "0.326%",
+                "change_price": 0.03,
+                "deprecated_number_of_shares": 418700517,
+                "pe": 0,
+                "offer_price": 9.26,
+                "suspended": false,
+                "last_price": 9.23,
+                "deprecated_market_cap": 3864606000,
+                "day_low_price": 9.165,
+                "open_price": 9.23,
+                "year_high_date": "2017-10-16T00:00:00+1100",
+                "previous_day_percentage_change": "-0.109%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 10.02,
+                "bid_price": 9.17,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 9.26,
+                "year_change_in_percentage": "-2.328%",
+                "average_daily_volume": 1601498,
+                "year_low_price": 6.44,
+                "annual_dividend_yield": 0.98
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.iluka.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Greg Martin",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Martin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tom O'Leary",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Leary",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Marcelo Bastos",
+                    "first_name": "Marcelo",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bastos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Xiaoling Liu",
+                    "first_name": "Xiaoling",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Hutchinson Ranck",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ranck",
+                    "middle_name": "Hutchinson"
+                },
+                {
+                    "full_name": "Ms Jennifer Seabrook",
+                    "first_name": "Jennifer",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Seabrook",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Doug Warden",
+                    "first_name": "Doug",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warden",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Susan Wilson",
+                    "first_name": "Susan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nigel Tinley",
+                    "first_name": "Nigel",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tinley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LCN",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "LATITUDE AUSTRALIA CREDIT CARD LOAN NOTE TRUST",
+    "ASXcode": "LCN",
+    "data": {
+        "summary": {
+            "name_full": "LATITUDE AUSTRALIA CREDIT CARD LOAN NOTE TRUST",
+            "products": [],
+            "phone_number": "(03) 9921 6141",
+            "mailing_address": "572 Swan Street, ., ., BURNLEY, VIC, AUSTRALIA, 3121",
+            "principal_activities": ".",
+            "name_short": "LATITUDE",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "LATITUDE AUSTRALIA",
+            "registry_phone_number": "(02) 9256 0689",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "LCN",
+            "listing_date": "2017-05-25T00:00:00+1000",
+            "registry_address": "20 BRIDGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "AUSTRACLEAR SERVICES LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Katherine Kloeden",
+                    "first_name": "Katherine",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Kloeden",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

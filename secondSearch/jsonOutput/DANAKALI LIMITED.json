@@ -1,0 +1,179 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DNK",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "DANAKALI LIMITED",
+    "ASXcode": "DNK",
+    "data": {
+        "summary": {
+            "name_short": "DANAKALI",
+            "name_full": "DANAKALI LIMITED",
+            "code": "DNK",
+            "primary_share_code": "DNK",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "DANAKALI LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2003-10-17T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@danakali.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6315 1444",
+            "mailing_address": "Level 1, 234 Churchill Avenue, Churchill Court, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Potash Exploration and Development",
+            "fax_number": "(08) 9467 9119",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-04-13T17:23:54+1000",
+                    "number_of_pages": 84,
+                    "id": "01848158",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-13T17:25:47+1000",
+                    "size": "6.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170413/pdf/43hjf5q7dpqx20.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 152248,
+                "status": [],
+                "market_cap": 171115790,
+                "code": "DNK",
+                "indices": [],
+                "year_open_price": 0.195,
+                "previous_close_price": 0.68,
+                "year_change_price": 0.485,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 251640868,
+                "eps": -0.0283,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 251640868,
+                "pe": 0,
+                "offer_price": 0.69,
+                "suspended": false,
+                "last_price": 0.68,
+                "deprecated_market_cap": 171116000,
+                "day_low_price": 0.67,
+                "open_price": 0.68,
+                "year_high_date": "2017-06-07T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.85,
+                "bid_price": 0.675,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.68,
+                "year_change_in_percentage": "248.718%",
+                "average_daily_volume": 80380,
+                "year_low_price": 0.38,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.danakali.com.au/",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Seamus Cornelius",
+                    "first_name": "Seamus",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cornelius",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Donaldson",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Donaldson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Gordon Connochie",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Connochie",
+                    "middle_name": "Gordon"
+                },
+                {
+                    "full_name": "Mr Liam Cornelius",
+                    "first_name": "Liam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cornelius",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Fitzgerald",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzgerald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jing Zhang",
+                    "first_name": "Jing",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Tarrant",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tarrant",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Melissa Kate Chapman",
+                    "first_name": "Melissa",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chapman",
+                    "middle_name": "Kate"
+                },
+                {
+                    "full_name": "Mrs Catherine Julie Grant-Edwards",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Grant-Edwards",
+                    "middle_name": "Julie"
+                }
+            ]
+        }
+    }
+}

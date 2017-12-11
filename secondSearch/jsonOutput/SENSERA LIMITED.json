@@ -1,0 +1,122 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SE1",
+    "GICSindustrygroup": "Semiconductors & Semiconductor Equipment",
+    "Companyname": "SENSERA LIMITED",
+    "ASXcode": "SE1",
+    "data": {
+        "summary": {
+            "name_short": "SENSERA",
+            "name_full": "SENSERA LIMITED",
+            "code": "SE1",
+            "primary_share_code": "SE1",
+            "industry_group_name": "Semiconductors & Semiconductor Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "SENSERA LTD",
+            "foreign_exempt": false,
+            "listing_date": "2016-12-23T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9824 5254",
+            "mailing_address": "Level 3, 62 Lygon Street, CARLTON, VIC, AUSTRALIA, 3053",
+            "principal_activities": "Designer and manufacturer of specialised high performance Micro-Electro-Mechanical Systems (MEMS)",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to shareholders",
+                    "document_date": "2017-09-27T10:06:28+1000",
+                    "number_of_pages": 56,
+                    "id": "01900413",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T10:12:38+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mnyb81qxpy5s.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 401007,
+                "status": [],
+                "market_cap": 47929000,
+                "code": "SE1",
+                "indices": [],
+                "deprecated_number_of_shares": 109638333,
+                "previous_close_price": 0.3,
+                "year_low_date": "2017-07-13T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 159763333,
+                "eps": -0.0737,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.305,
+                "suspended": false,
+                "last_price": 0.3,
+                "deprecated_market_cap": 32891000,
+                "day_low_price": 0.29,
+                "open_price": 0.3,
+                "year_high_date": "2017-04-24T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.47,
+                "bid_price": 0.295,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.305,
+                "average_daily_volume": 405186,
+                "year_low_price": 0.265,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.sensera.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Matthew Morgan",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr George Lauro",
+                    "first_name": "George",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lauro",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jonathan Tooth",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tooth",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Phillip Allen Hains",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hains",
+                    "middle_name": "Allen"
+                }
+            ]
+        }
+    }
+}

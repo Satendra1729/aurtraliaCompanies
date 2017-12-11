@@ -1,0 +1,195 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DCG",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "DECMIL GROUP LIMITED",
+    "ASXcode": "DCG",
+    "data": {
+        "summary": {
+            "name_short": "DECMIL GRP",
+            "name_full": "DECMIL GROUP LIMITED",
+            "code": "DCG",
+            "primary_share_code": "DCG",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "DECMIL GROUP LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/DCG?image_size=L&v=1443700054000",
+            "foreign_exempt": false,
+            "listing_date": "2005-04-22T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "2C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-02-28T00:00:00+1100",
+                "record_date": "2017-03-08T00:00:00+1100",
+                "payable_date": "2017-03-29T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.02,
+                "ex_date": "2017-03-07T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9368 8877",
+            "mailing_address": "20 Parkland Road, OSBORNE PARK, WA, AUSTRALIA, 6017",
+            "principal_activities": "Diversified industrial services provider",
+            "fax_number": "(08) 9368 8878",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-08-29T22:43:54+1000",
+                    "number_of_pages": 117,
+                    "id": "01889834",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-30T08:14:42+1000",
+                    "size": "8.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lvx4b2x5b7wx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 111523,
+                "status": [],
+                "market_cap": 193703267,
+                "code": "DCG",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 2.13,
+                "previous_close_price": 1.115,
+                "year_change_price": -0.955,
+                "year_low_date": "2017-05-02T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 173724903,
+                "eps": -0.1657,
+                "change_in_percent": "5.381%",
+                "change_price": 0.06,
+                "deprecated_number_of_shares": 173724903,
+                "pe": 0,
+                "offer_price": 1.18,
+                "suspended": false,
+                "last_price": 1.175,
+                "deprecated_market_cap": 204127000,
+                "day_low_price": 1.11,
+                "open_price": 1.115,
+                "year_high_date": "2017-10-17T00:00:00+1100",
+                "previous_day_percentage_change": "-0.446%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.45,
+                "bid_price": 1.11,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.175,
+                "year_change_in_percentage": "-44.836%",
+                "average_daily_volume": 389261,
+                "year_low_price": 0.745,
+                "annual_dividend_yield": 3.4
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.decmilgroup.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bill Healy",
+                    "first_name": "Bill",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Healy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Criddle",
+                    "first_name": "Scott",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Criddle",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lee Verios",
+                    "first_name": "Lee",
+                    "roles": [
+                        "Director",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Verios",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Denis Criddle",
+                    "first_name": "Denis",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Criddle",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Davies",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davies",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Giles Everist",
+                    "first_name": "Giles",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Everist",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Amos",
+                    "first_name": "Craig",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Amos",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Alison Thompson",
+                    "first_name": "Alison",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Thompson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

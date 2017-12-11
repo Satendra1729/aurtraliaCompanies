@@ -1,0 +1,186 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PAC",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "PACIFIC CURRENT GROUP LIMITED",
+    "ASXcode": "PAC",
+    "data": {
+        "summary": {
+            "name_short": "PACCURRENT",
+            "name_full": "PACIFIC CURRENT GROUP LIMITED",
+            "code": "PAC",
+            "primary_share_code": "PAC",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "PACIFIC GRP LTD",
+            "foreign_exempt": false,
+            "listing_date": "1987-09-25T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "18C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-31T00:00:00+1000",
+                "record_date": "2017-09-08T00:00:00+1000",
+                "payable_date": "2017-09-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.18,
+                "ex_date": "2017-09-07T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8243 0400",
+            "mailing_address": "Level 29, 259 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Invest in and provide services to fund management companies",
+            "fax_number": "(02) 8243 0410",
+            "latest_annual_reports": [
+                {
+                    "header": "Pacific Current Group - Annual Report 2017",
+                    "document_date": "2017-09-29T09:56:22+1000",
+                    "number_of_pages": 104,
+                    "id": "01901960",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T09:58:48+1000",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43ms5v7yplfvkd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 53994,
+                "status": [],
+                "market_cap": 331590874,
+                "code": "PAC",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 9.22,
+                "previous_close_price": 6.96,
+                "year_change_price": -2.12,
+                "year_low_date": "2016-12-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 47642367,
+                "eps": 0.341,
+                "change_in_percent": "2.011%",
+                "change_price": 0.14,
+                "deprecated_number_of_shares": 47642367,
+                "pe": 20.82,
+                "offer_price": 7.1,
+                "suspended": false,
+                "last_price": 7.1,
+                "deprecated_market_cap": 338261000,
+                "day_low_price": 6.97,
+                "open_price": 6.99,
+                "year_high_date": "2017-09-01T00:00:00+1000",
+                "previous_day_percentage_change": "0.87%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 8.4,
+                "bid_price": 7.08,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 7.2,
+                "year_change_in_percentage": "-22.993%",
+                "average_daily_volume": 301458,
+                "year_low_price": 3.83,
+                "annual_dividend_yield": 2.54
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.paccurrent.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mike Fitzpatrick",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzpatrick",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Greenwood",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Greenwood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tony Robinson",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Melda Donnelly",
+                    "first_name": "Melda",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Donnelly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gilles Guerin",
+                    "first_name": "Gilles",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Guerin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Robert Kennedy",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kennedy",
+                    "middle_name": "Robert"
+                },
+                {
+                    "full_name": "Mr Joseph Ferragina",
+                    "first_name": "Joseph",
+                    "roles": [
+                        "Finance Director",
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferragina",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Phil Mackey",
+                    "first_name": "Phil",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackey",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

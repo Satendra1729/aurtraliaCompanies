@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AEV",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AVENIRA LIMITED",
+    "ASXcode": "AEV",
+    "data": {
+        "summary": {
+            "name_full": "AVENIRA LIMITED",
+            "code": "AEV",
+            "name_short": "AVENIRA",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AVENIRA LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AEV?image_size=L&v=1460531771000",
+            "foreign_exempt": false,
+            "listing_date": "2006-10-10T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "frontdesk@avenira.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9264 7000",
+            "mailing_address": "20 Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Base mineral exploration",
+            "fax_number": "08 9264 7099",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-02T08:48:27+1100",
+                    "number_of_pages": 103,
+                    "id": "01903104",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:50:40+1100",
+                    "size": "4.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvw4rv9rj58h.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 108536,
+                "status": [],
+                "market_cap": 34329747,
+                "code": "AEV",
+                "indices": [],
+                "year_open_price": 0.13,
+                "previous_close_price": 0.046,
+                "year_change_price": -0.084,
+                "year_low_date": "2017-11-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 746298843,
+                "eps": -0.0509,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 746298843,
+                "pe": 0,
+                "offer_price": 0.049,
+                "suspended": false,
+                "last_price": 0.046,
+                "deprecated_market_cap": 34330000,
+                "day_low_price": 0.046,
+                "open_price": 0.046,
+                "year_high_date": "2016-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-2.128%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.148,
+                "bid_price": 0.046,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.046,
+                "year_change_in_percentage": "-64.615%",
+                "average_daily_volume": 215316,
+                "year_low_price": 0.041,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "AEV",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.avenira.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Christopher Pointon",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Pointon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Farouk Chaouni",
+                    "first_name": "Farouk",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chaouni",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Cotton",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cotton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian McCubbing",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McCubbing",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Mimran",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mimran",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rodney Wheatley",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wheatley",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Ribbons",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ribbons",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rodney Wheatley",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wheatley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

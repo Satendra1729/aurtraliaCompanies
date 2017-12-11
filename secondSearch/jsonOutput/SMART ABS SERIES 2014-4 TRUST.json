@@ -1,0 +1,44 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SSE",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "SMART ABS SERIES 2014-4 TRUST",
+    "ASXcode": "SSE",
+    "data": {
+        "summary": {
+            "name_full": "SMART ABS SERIES 2014-4 TRUST",
+            "products": [],
+            "phone_number": "TBA",
+            "mailing_address": "Macquarie Limited, Level 1, No. 1 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "name_short": "SMART 14-4",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "SMART ABS 2014-4",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "SSE",
+            "listing_date": "2014-12-17T00:00:00+1100",
+            "registry_address": "LEVEL 7, 9 CASTLEREAGH STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": "http://www.macquarie.com",
+            "registry_name": "PERPETUAL TRUSTEE COMPANY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jennifer Chamberlain",
+                    "first_name": "Jennifer",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chamberlain",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

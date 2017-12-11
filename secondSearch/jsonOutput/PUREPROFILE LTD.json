@@ -1,0 +1,142 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PPL",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "PUREPROFILE LTD",
+    "ASXcode": "PPL",
+    "data": {
+        "summary": {
+            "name_short": "PUREPROFIL",
+            "name_full": "PUREPROFILE LTD",
+            "code": "PPL",
+            "primary_share_code": "PPL",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "PUREPROFILE LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-07-29T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9333 9700",
+            "mailing_address": "Level 1, 35 Reservoir Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "principal_activities": "Profile marketing and insights technology business.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-09-29T09:40:08+1000",
+                    "number_of_pages": 84,
+                    "id": "01901918",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T09:43:28+1000",
+                    "size": "5.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43ms3czbjkpmws.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 21979,
+                "status": [],
+                "market_cap": 21610890,
+                "code": "PPL",
+                "indices": [],
+                "deprecated_number_of_shares": 120060500,
+                "previous_close_price": 0.18,
+                "year_low_date": "2017-11-30T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 120060500,
+                "eps": -0.031,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.2,
+                "suspended": false,
+                "last_price": 0.18,
+                "deprecated_market_cap": 21611000,
+                "day_low_price": 0.18,
+                "open_price": 0.18,
+                "year_high_date": "2017-04-12T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.45,
+                "bid_price": 0.18,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.18,
+                "average_daily_volume": 154600,
+                "year_low_price": 0.175,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://businesses.pureprofile.com/investors",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Edwards",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Chan",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoffrey Nesbitt",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nesbitt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Berriman",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Berriman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Clifford Rosenberg",
+                    "first_name": "Clifford",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rosenberg",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Nicola Jayne Betteridge",
+                    "first_name": "Nicola",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Betteridge",
+                    "middle_name": "Jayne"
+                }
+            ]
+        }
+    }
+}

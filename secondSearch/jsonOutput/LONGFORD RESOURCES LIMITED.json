@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LFR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LONGFORD RESOURCES LIMITED",
+    "ASXcode": "LFR",
+    "data": {
+        "summary": {
+            "name_short": "LONGFORD",
+            "name_full": "LONGFORD RESOURCES LIMITED",
+            "code": "LFR",
+            "primary_share_code": "LFR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LONGFORD RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2005-09-21T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9226 1356",
+            "mailing_address": "Level 2 Spectrum, 100 Railway Road, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Diversified Explorer.",
+            "fax_number": "+61 8 9367 8812",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-01T16:24:13+1100",
+                    "number_of_pages": 73,
+                    "id": "01902958",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:03:11+1100",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvlp56d6dy2t.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 520745,
+                "status": [],
+                "market_cap": 40134641,
+                "code": "LFR",
+                "indices": [],
+                "year_open_price": 0.009,
+                "previous_close_price": 0.105,
+                "year_change_price": 0.091,
+                "year_low_date": "2017-07-17T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 382234672,
+                "eps": -0.022,
+                "change_in_percent": "-4.762%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 381101338,
+                "pe": 0,
+                "offer_price": 0.105,
+                "suspended": false,
+                "last_price": 0.1,
+                "deprecated_market_cap": 38110000,
+                "day_low_price": 0.1,
+                "open_price": 0.105,
+                "year_high_date": "2017-11-03T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.185,
+                "bid_price": 0.1,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.105,
+                "year_change_in_percentage": "1,011.111%",
+                "average_daily_volume": 1354977,
+                "year_low_price": 0.025,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.longfordresources.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Haynes",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haynes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Charles Bill Guy",
+                    "first_name": "Charles",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Guy",
+                    "middle_name": "Bill"
+                },
+                {
+                    "full_name": "Mr Richard Hill",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Mison",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mison",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Eryn Kestel",
+                    "first_name": "Eryn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kestel",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

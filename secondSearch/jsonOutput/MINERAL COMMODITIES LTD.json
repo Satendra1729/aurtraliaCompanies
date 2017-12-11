@@ -1,0 +1,160 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MRC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MINERAL COMMODITIES LTD",
+    "ASXcode": "MRC",
+    "data": {
+        "summary": {
+            "name_short": "MIN.COMMOD",
+            "name_full": "MINERAL COMMODITIES LTD",
+            "code": "MRC",
+            "primary_share_code": "MRC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MINERAL COMMODITIES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MRC?image_size=L&v=1429087500000",
+            "foreign_exempt": false,
+            "listing_date": "1981-08-14T00:00:00+1000",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-09-06T00:00:00+1000",
+                "payable_date": "2017-10-12T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.005,
+                "ex_date": "2017-09-05T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6253 1100",
+            "mailing_address": "40 Murray Road North, WELSHPOOL, WA, AUSTRALIA, 6106",
+            "principal_activities": "The development of mineral sands projects and investigations into other mineral resources.",
+            "fax_number": "+61 8 9258 3601",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-18T19:01:05+1000",
+                    "number_of_pages": 84,
+                    "id": "01848606",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-18T19:04:59+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170418/pdf/43hl72nqvn2t4b.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 19315,
+                "status": [],
+                "market_cap": 53942404,
+                "code": "MRC",
+                "indices": [],
+                "year_open_price": 0.14,
+                "previous_close_price": 0.13,
+                "year_change_price": -0.015,
+                "year_low_date": "2017-02-02T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 414941571,
+                "eps": 0.0204,
+                "change_in_percent": "-3.846%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 414941571,
+                "pe": 6.13,
+                "offer_price": 0.17,
+                "suspended": false,
+                "last_price": 0.125,
+                "deprecated_market_cap": 51868000,
+                "day_low_price": 0.125,
+                "open_price": 0.13,
+                "year_high_date": "2017-01-11T00:00:00+1100",
+                "previous_day_percentage_change": "4%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.15,
+                "bid_price": 0.12,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.13,
+                "year_change_in_percentage": "-10.714%",
+                "average_daily_volume": 98390,
+                "year_low_price": 0.09,
+                "annual_dividend_yield": 13.6
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.mncom.com.au/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Caruso",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Executive Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Caruso",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joseph Caruso",
+                    "first_name": "Joseph",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Caruso",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross Hastings",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hastings",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Torre",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Torre",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Guy Walker",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walker",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Torre",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Torre",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

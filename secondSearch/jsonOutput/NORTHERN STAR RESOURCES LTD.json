@@ -1,0 +1,278 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NST",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NORTHERN STAR RESOURCES LTD",
+    "ASXcode": "NST",
+    "data": {
+        "summary": {
+            "name_short": "NTH STAR",
+            "name_full": "NORTHERN STAR RESOURCES LTD",
+            "code": "NST",
+            "primary_share_code": "NST",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NORTHERN STAR",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/NST?image_size=L&v=1430467780000",
+            "foreign_exempt": false,
+            "listing_date": "2003-12-17T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "6C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-22T00:00:00+1000",
+                "record_date": "2017-08-30T00:00:00+1000",
+                "payable_date": "2017-09-13T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.06,
+                "ex_date": "2017-08-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+61 8 6188 2100",
+            "mailing_address": "Level 1, 388 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Gold production and exploration for gold and other minerals.",
+            "fax_number": "+61 8 6188 2111",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-08-22T19:22:28+1000",
+                    "number_of_pages": 82,
+                    "id": "01886500",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-22T19:24:04+1000",
+                    "size": "5.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170822/pdf/43lm90vlrp3lsx.pdf"
+                },
+                {
+                    "header": "Amendment Notice - 2017 Annual Report to Shareholders",
+                    "document_date": "2017-08-22T19:21:15+1000",
+                    "number_of_pages": 1,
+                    "id": "01886499",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-22T19:22:24+1000",
+                    "size": "88.6KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170822/pdf/43lm8yw6126cv6.pdf"
+                },
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-08-22T04:37:22+1000",
+                    "number_of_pages": 82,
+                    "id": "01886008",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-22T08:13:30+1000",
+                    "size": "5.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170822/pdf/43ll95vz9xq9dc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3503763,
+                "status": [],
+                "market_cap": 3570778056,
+                "code": "NST",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 1.27,
+                "previous_close_price": 5.92,
+                "year_change_price": 4.39,
+                "year_low_date": "2016-12-19T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 603171969,
+                "eps": 0.359,
+                "change_in_percent": "-4.392%",
+                "change_price": -0.26,
+                "deprecated_number_of_shares": 603171969,
+                "pe": 15.77,
+                "offer_price": 5.75,
+                "suspended": false,
+                "last_price": 5.66,
+                "deprecated_market_cap": 3413953000,
+                "day_low_price": 5.66,
+                "open_price": 5.85,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "1.544%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 5.93,
+                "bid_price": 5.66,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.875,
+                "year_change_in_percentage": "345.669%",
+                "average_daily_volume": 2714756,
+                "year_low_price": 2.965,
+                "annual_dividend_yield": 1.59
+            },
+            "web_address": "http://www.nsrltd.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bill Beament",
+                    "first_name": "Bill",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beament",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Tonkin",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tonkin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Fitzgerald",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzgerald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Flanagan",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Flanagan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Shirley In'tVeld",
+                    "first_name": "Shirley",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "In'tVeld",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter O'Connor",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Connor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Kenneth George Rowe",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowe",
+                    "middle_name": "Kenneth George"
+                },
+                {
+                    "full_name": "Mr Shaun Day",
+                    "first_name": "Shaun",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Day",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Liza Carpene",
+                    "first_name": "Liza",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Carpene",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

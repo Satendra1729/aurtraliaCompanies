@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IDH",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "IDOL 2011-1 TRUST",
+    "ASXcode": "IDH",
+    "data": {
+        "summary": {
+            "name_full": "IDOL 2011-1 TRUST",
+            "products": [],
+            "phone_number": "02 9028 4849",
+            "mailing_address": "ING Bank (Australia) Limited, Level 28, 60 Margaret Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "name_short": "IDOL2011-1",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "IDOL 2011-1 TRUST",
+            "registry_phone_number": "02 9551 5009",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "IDH",
+            "registry_address": "LEVEL 4, 35 CLARENCE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2011-09-16T00:00:00+1000",
+            "fax_number": "02 9018 5146",
+            "web_address": null,
+            "registry_name": "BNY TRUST COMPANY OF AUSTRALIA LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Katz",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Katz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Uday Sareen",
+                    "first_name": "Uday",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sareen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Aris Bogdaneris",
+                    "first_name": "Aris",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bogdaneris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Amanda Lacaze",
+                    "first_name": "Amanda",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Lacaze",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Masters",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Masters",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Newman",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Newman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Ann Sherry",
+                    "first_name": "Ann",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Sherry",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Rodney Saville",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Saville",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Seamus Dowdall",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dowdall",
+                    "middle_name": "Seamus"
+                }
+            ]
+        }
+    }
+}

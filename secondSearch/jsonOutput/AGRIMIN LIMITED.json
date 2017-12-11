@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AMN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AGRIMIN LIMITED",
+    "ASXcode": "AMN",
+    "data": {
+        "summary": {
+            "name_short": "AGRIMIN",
+            "name_full": "AGRIMIN LIMITED",
+            "code": "AMN",
+            "primary_share_code": "AMN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AGRIMIN LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-10-09T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@agrimin.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9389 5363",
+            "mailing_address": "2C Loch Street, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Agricultural minerals company with a focus on developing sulphate of potash assets.",
+            "fax_number": "08 9389 5363",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-27T14:53:16+1000",
+                    "number_of_pages": 58,
+                    "id": "01900595",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T14:55:15+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mp9xgq91cjwt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 43332,
+                "status": [],
+                "market_cap": 124894490,
+                "code": "AMN",
+                "indices": [],
+                "year_open_price": 0.07,
+                "previous_close_price": 0.8,
+                "year_change_price": 0.755,
+                "year_low_date": "2017-05-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 156118112,
+                "eps": -0.007,
+                "change_in_percent": "3.125%",
+                "change_price": 0.025,
+                "deprecated_number_of_shares": 156118112,
+                "pe": 0,
+                "offer_price": 0.89,
+                "suspended": false,
+                "last_price": 0.825,
+                "deprecated_market_cap": 128797000,
+                "day_low_price": 0.825,
+                "open_price": 0.83,
+                "year_high_date": "2017-11-20T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.945,
+                "bid_price": 0.82,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.83,
+                "year_change_in_percentage": "1,078.571%",
+                "average_daily_volume": 42936,
+                "year_low_price": 0.43,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.agrimin.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stuart Bradley Sampson",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sampson",
+                    "middle_name": "Bradley"
+                },
+                {
+                    "full_name": "Mr Alec Christopher Pismiris",
+                    "first_name": "Alec",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pismiris",
+                    "middle_name": "Christopher"
+                },
+                {
+                    "full_name": "Mr Mark David Savich",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Savich",
+                    "middle_name": "David"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Alec Christopher Pismiris",
+                    "first_name": "Alec",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pismiris",
+                    "middle_name": "Christopher"
+                }
+            ]
+        }
+    }
+}

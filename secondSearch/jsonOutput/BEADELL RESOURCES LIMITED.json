@@ -1,0 +1,205 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BDR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BEADELL RESOURCES LIMITED",
+    "ASXcode": "BDR",
+    "data": {
+        "summary": {
+            "name_full": "BEADELL RESOURCES LIMITED",
+            "code": "BDR",
+            "name_short": "BEADELL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BEADELL RESOURCE LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BDR?image_size=L&v=1493267286000",
+            "foreign_exempt": false,
+            "listing_date": "2007-09-26T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@beadellresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9429 0800",
+            "mailing_address": "Level 2, 16 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold producer",
+            "fax_number": "(08) 9481 3176",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-04-13T08:54:24+1000",
+                    "number_of_pages": 94,
+                    "id": "01847784",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-13T08:56:45+1000",
+                    "size": "4.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170413/pdf/43hhny7m1dy1mx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 13481359,
+                "status": [],
+                "market_cap": 209683244,
+                "code": "BDR",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    }
+                ],
+                "year_open_price": 0.79,
+                "previous_close_price": 0.17,
+                "year_change_price": -0.62,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1233430847,
+                "eps": -0.0177,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1233430847,
+                "pe": 0,
+                "offer_price": 0.17,
+                "suspended": false,
+                "last_price": 0.17,
+                "deprecated_market_cap": 209683000,
+                "day_low_price": 0.16,
+                "open_price": 0.165,
+                "year_high_date": "2017-02-07T00:00:00+1100",
+                "previous_day_percentage_change": "3.03%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.39,
+                "bid_price": 0.16,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.17,
+                "year_change_in_percentage": "-78.481%",
+                "average_daily_volume": 3281205,
+                "year_low_price": 0.16,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "BDR",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.beadellresources.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Craig Readhead",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Readhead",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Jackson",
+                    "first_name": "Simon",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jackson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Nicole Adshead-Bell",
+                    "first_name": "Nicole",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Adshead-Bell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brant Hinze",
+                    "first_name": "Brant",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hinze",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timo Jauristo",
+                    "first_name": "Timo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jauristo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Holmes",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Holmes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Barrett",
+                    "first_name": "Greg",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barrett",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Greg Barrett",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barrett",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

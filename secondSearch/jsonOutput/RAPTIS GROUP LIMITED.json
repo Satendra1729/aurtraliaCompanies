@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RPG",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "RAPTIS GROUP LIMITED",
+    "ASXcode": "RPG",
+    "data": {
+        "summary": {
+            "name_short": "RAPTIS",
+            "name_full": "RAPTIS GROUP LIMITED",
+            "code": "RPG",
+            "primary_share_code": "RPG",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "RAPTIS GROUP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1986-07-17T00:00:00+1000",
+            "registry_address": "Level 16, 1 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "mcory@raptis.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 56280474",
+            "mailing_address": "Level 16, 1 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Property investment development and management.",
+            "fax_number": "(07) 56464317",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T19:39:39+1000",
+                    "number_of_pages": 31,
+                    "id": "01902848",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T19:42:17+1000",
+                    "size": "20.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtwz0pw00ssv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 4444045,
+                "code": "RPG",
+                "indices": [],
+                "deprecated_number_of_shares": 63486358,
+                "previous_close_price": 0.07,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 63486358,
+                "eps": -0.0005,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.08,
+                "suspended": false,
+                "last_price": 0.07,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-03T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.08,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 58333,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.raptisgroup.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "NEXTREGISTRIES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James Raptis, OBE",
+                    "first_name": "James",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Raptis, OBE",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Helen Raptis",
+                    "first_name": "Helen",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Raptis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Malcolm Cory",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cory",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Raptis, OBE",
+                    "first_name": "James",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Raptis, OBE",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

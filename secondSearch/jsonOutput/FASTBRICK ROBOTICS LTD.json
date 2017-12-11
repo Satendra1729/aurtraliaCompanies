@@ -1,0 +1,156 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FBR",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "FASTBRICK ROBOTICS LTD",
+    "ASXcode": "FBR",
+    "data": {
+        "summary": {
+            "name_short": "FASTBRICK",
+            "name_full": "FASTBRICK ROBOTICS LTD",
+            "code": "FBR",
+            "primary_share_code": "FBR",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "FASTBRICK ROBOTICS",
+            "foreign_exempt": false,
+            "listing_date": "2001-02-08T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "investor@fbr.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 (08) 9380 0240",
+            "mailing_address": "122 Sultana Road West, HIGH WYCOMBE, WA, AUSTRALIA, 6057",
+            "principal_activities": "Fastbrick Robotics Limited (ASX:FBR) is an Australian robotics company developing and commercialising digital construction solutions. Fastbrick Robotics\u00bf\u00bf\u00bf revolutionary Hadrian X bricklaying machine represents the first application of the Company\u00bf\u00bf\u00bfs und",
+            "fax_number": "+61 (08) 9380 0240",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T15:57:37+1000",
+                    "number_of_pages": 54,
+                    "id": "01901318",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T16:00:13+1000",
+                    "size": "3.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqvltf6mkd5w.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1077262,
+                "status": [],
+                "market_cap": 200564584,
+                "code": "FBR",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.004,
+                "previous_close_price": 0.195,
+                "year_change_price": 0.191,
+                "year_low_date": "2017-02-02T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1028536327,
+                "eps": -0.0018,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1028536327,
+                "pe": 0,
+                "offer_price": 0.2,
+                "suspended": false,
+                "last_price": 0.195,
+                "deprecated_market_cap": 200565000,
+                "day_low_price": 0.195,
+                "open_price": 0.2,
+                "year_high_date": "2017-08-24T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.3,
+                "bid_price": 0.195,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.2,
+                "year_change_in_percentage": "4,775%",
+                "average_daily_volume": 2997716,
+                "year_low_price": 0.078,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.fbr.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.fbr.com.au/view/investors"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Shannon Jayne Robinson",
+                    "first_name": "Shannon",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Robinson",
+                    "middle_name": "Jayne"
+                },
+                {
+                    "full_name": "Mr Michael John Pivac",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pivac",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Mark Pivac",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pivac",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gabriel Chiappini",
+                    "first_name": "Gabriel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chiappini",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jacquie Kruger",
+                    "first_name": "Jacquie",
+                    "roles": [
+                        "Administrator"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kruger",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gabriel Chiappini",
+                    "first_name": "Gabriel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chiappini",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

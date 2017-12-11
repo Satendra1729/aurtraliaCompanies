@@ -1,0 +1,45 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NAH",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "NATIONAL RMBS TRUST 2012-2 SERIES 2012-2",
+    "ASXcode": "NAH",
+    "data": {
+        "summary": {
+            "name_full": "NATIONAL RMBS TRUST 2012-2 SERIES 2012-2",
+            "products": [],
+            "phone_number": "03 8616 1000",
+            "mailing_address": "Advantedge Financial Services Pty Ltd, Level 10, 101 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "",
+            "name_short": "NAT 12-02",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "NATIONAL RMBS 2012-2",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "NAH",
+            "registry_address": "LEVEL 7, 9 CASTLEREAGH STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2013-03-15T00:00:00+1100",
+            "fax_number": "03 8616 4439",
+            "web_address": null,
+            "registry_name": "PERPETUAL TRUSTEE COMPANY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Louise Thomson",
+                    "first_name": "Louise",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Thomson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

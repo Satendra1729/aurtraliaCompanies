@@ -1,0 +1,124 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ASH",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "ASHLEY SERVICES GROUP LIMITED",
+    "ASXcode": "ASH",
+    "data": {
+        "summary": {
+            "name_short": "ASHLEYSERV",
+            "name_full": "ASHLEY SERVICES GROUP LIMITED",
+            "code": "ASH",
+            "primary_share_code": "ASH",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "ASHLEY SERVICES GRP",
+            "foreign_exempt": false,
+            "listing_date": "2014-08-21T00:00:00+1000",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9216 4747",
+            "mailing_address": "Level 10, 92 Pitt St, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Training and labour hire.",
+            "fax_number": "02 92221 6677",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-31T09:02:01+1000",
+                    "number_of_pages": 74,
+                    "id": "01890690",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-31T09:03:50+1000",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lxp6wbh3yxq0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 50000,
+                "status": [],
+                "market_cap": 27355422,
+                "code": "ASH",
+                "indices": [],
+                "deprecated_number_of_shares": 143975904,
+                "previous_close_price": 0.19,
+                "year_low_date": "2017-04-12T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 143975904,
+                "eps": -0.0408,
+                "change_in_percent": "5.263%",
+                "change_price": 0.01,
+                "pe": 0,
+                "offer_price": 0.2,
+                "suspended": false,
+                "last_price": 0.2,
+                "deprecated_market_cap": 28795000,
+                "day_low_price": 0.2,
+                "open_price": 0.2,
+                "year_high_date": "2017-11-22T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.23,
+                "bid_price": 0.19,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.2,
+                "average_daily_volume": 538162,
+                "year_low_price": 0.056,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.ashleyservicesgroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Pratt",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pratt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Marc Shrimpton",
+                    "first_name": "Marc",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shrimpton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross Shrimpton",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shrimpton",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ronald Hollands",
+                    "first_name": "Ronald",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hollands",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

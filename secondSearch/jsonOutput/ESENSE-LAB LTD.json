@@ -1,0 +1,151 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ESE",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "ESENSE-LAB LTD",
+    "ASXcode": "ESE",
+    "data": {
+        "summary": {
+            "name_full": "ESENSE-LAB LTD",
+            "primary_share_code": "ESE",
+            "mailing_address": "8 Sapir Street, AUSTRALIA,",
+            "principal_activities": "",
+            "name_short": "ESENSELAB",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "primary_share": {
+                "volume": 597826,
+                "status": [],
+                "market_cap": 23120276,
+                "code": "ESE",
+                "indices": [],
+                "deprecated_number_of_shares": 31777999,
+                "previous_close_price": 0.325,
+                "year_low_date": "2017-09-12T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 71139311,
+                "eps": -0.0294,
+                "change_in_percent": "7.692%",
+                "change_price": 0.025,
+                "pe": 0,
+                "offer_price": 0.355,
+                "suspended": false,
+                "last_price": 0.35,
+                "deprecated_market_cap": 11122000,
+                "day_low_price": 0.335,
+                "open_price": 0.335,
+                "year_high_date": "2017-03-29T00:00:00+1100",
+                "previous_day_percentage_change": "8.333%",
+                "year_open_date": null,
+                "year_high_price": 0.57,
+                "bid_price": 0.335,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0.365,
+                "average_daily_volume": 474569,
+                "year_low_price": 0.145,
+                "annual_dividend_yield": 0
+            },
+            "name_abbrev": "ESENSE-LAB LTD",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-04-28T16:34:03+1000",
+                    "number_of_pages": 40,
+                    "id": "01852316",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-28T16:36:14+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170428/pdf/43hvxf0n0q0p7y.pdf"
+                }
+            ],
+            "products": [
+                "shares"
+            ],
+            "foreign_exempt": false,
+            "code": "ESE",
+            "listing_date": "2017-02-14T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "web_address": "http://www.esense-lab.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Brendan De Kauwe",
+                    "first_name": "Brendan",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "De Kauwe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Haim Cohen",
+                    "first_name": "Haim",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cohen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Galit Assaf",
+                    "first_name": "Galit",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Assaf",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Eran Gilboa",
+                    "first_name": "Eran",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gilboa",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Quentin Megson",
+                    "first_name": "Quentin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Megson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ilan Saad",
+                    "first_name": "Ilan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Saad",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Steven Wood",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wood",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

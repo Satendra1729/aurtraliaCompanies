@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/JVG",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "JV GLOBAL LIMITED",
+    "ASXcode": "JVG",
+    "data": {
+        "summary": {
+            "name_short": "JV GLOBAL",
+            "name_full": "JV GLOBAL LIMITED",
+            "code": "JVG",
+            "primary_share_code": "JVG",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "JV GLOBAL LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1986-03-05T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9363 1750",
+            "mailing_address": "Shop 12 'South Shore Piazza', 85 South Perth Esplanade, SOUTH PERTH, WA, AUSTRALIA, 6151",
+            "principal_activities": "JV Global manufactures steel building products globally through joint ventures and supplies turn key projects for the manufacture of steel building products. JVG holds a 40% shareholding in Sharus Steel Products Pvt Ltd in India.",
+            "fax_number": "(08) 9367 2450",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T16:41:59+1100",
+                    "number_of_pages": 36,
+                    "id": "01914006",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T16:44:58+1100",
+                    "size": "488.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43np0x7p52tb0v.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 279834,
+                "code": "JVG",
+                "indices": [],
+                "year_open_price": 0.002,
+                "previous_close_price": 0.001,
+                "year_change_price": -0.001,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 279834293,
+                "eps": -0.0008,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1879834293,
+                "pe": 0,
+                "offer_price": 0.002,
+                "suspended": false,
+                "last_price": 0.001,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.002,
+                "bid_price": 0.001,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-50%",
+                "average_daily_volume": 5660283,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.jvglobal.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graham Durtanovich",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Durtanovich",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Collin Vost",
+                    "first_name": "Collin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vost",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Justin Vost",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vost",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Patrick O'Neill",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Neill",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

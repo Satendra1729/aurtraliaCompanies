@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ESH",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "ESPORTS MOGUL ASIA PACIFIC LIMITED",
+    "ASXcode": "ESH",
+    "data": {
+        "summary": {
+            "name_short": "ESPORTS",
+            "name_full": "ESPORTS MOGUL ASIA PACIFIC LIMITED",
+            "code": "ESH",
+            "primary_share_code": "ESH",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "ESPORTS MOGUL ASIA",
+            "foreign_exempt": false,
+            "listing_date": "2011-10-19T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9429 8875",
+            "mailing_address": "45 Ventnor Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "eSports Media Hub",
+            "fax_number": "(08) 9429 8888",
+            "latest_annual_reports": [
+                {
+                    "header": "Preliminary Final Report and Annual Report 2016",
+                    "document_date": "2017-02-28T14:58:48+1100",
+                    "number_of_pages": 92,
+                    "id": "01834033",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-28T15:04:09+1100",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170228/pdf/43gf5j5mvwmkrk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 759080,
+                "status": [],
+                "market_cap": 13179564,
+                "code": "ESH",
+                "indices": [],
+                "year_open_price": 0.062,
+                "previous_close_price": 0.015,
+                "year_change_price": -0.047,
+                "year_low_date": "2017-09-26T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 878637609,
+                "eps": -0.0084,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 852637609,
+                "pe": 0,
+                "offer_price": 0.015,
+                "suspended": false,
+                "last_price": 0.015,
+                "deprecated_market_cap": 12790000,
+                "day_low_price": 0.015,
+                "open_price": 0.016,
+                "year_high_date": "2016-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.032,
+                "bid_price": 0.014,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.016,
+                "year_change_in_percentage": "-75.806%",
+                "average_daily_volume": 1956882,
+                "year_low_price": 0.013,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.esportmogul.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr George Lazarou",
+                    "first_name": "George",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lazarou",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Sumich",
+                    "first_name": "David",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sumich",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Smith",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr George Lazarou",
+                    "first_name": "George",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lazarou",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

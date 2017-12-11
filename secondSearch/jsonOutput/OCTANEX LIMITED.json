@@ -1,0 +1,190 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OXX",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "OCTANEX LIMITED",
+    "ASXcode": "OXX",
+    "data": {
+        "summary": {
+            "name_full": "OCTANEX LIMITED",
+            "code": "OXX",
+            "name_short": "OCTANEX",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "OCTANEX LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/OXX?image_size=L&v=1463725008000",
+            "foreign_exempt": false,
+            "listing_date": "2009-11-06T00:00:00+1100",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@octanex.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61(0)3 8610 4702",
+            "mailing_address": "Level 21, 500 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Oil and gas exploration.",
+            "fax_number": "+61(0)3 8610 4799",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-28T17:09:18+1000",
+                    "number_of_pages": 63,
+                    "id": "01901434",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T17:14:13+1000",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr2jlz6snkdj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 41000,
+                "status": [],
+                "market_cap": 27271295,
+                "code": "OXX",
+                "indices": [],
+                "year_open_price": 0.125,
+                "previous_close_price": 0.1,
+                "year_change_price": -0.025,
+                "year_low_date": "2017-03-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 272712947,
+                "eps": -0.022,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 272712947,
+                "pe": 0,
+                "offer_price": 0.11,
+                "suspended": false,
+                "last_price": 0.1,
+                "deprecated_market_cap": 27271000,
+                "day_low_price": 0.1,
+                "open_price": 0.1,
+                "year_high_date": "2017-05-16T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.145,
+                "bid_price": 0.1,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.1,
+                "year_change_in_percentage": "-20%",
+                "average_daily_volume": 59167,
+                "year_low_price": 0.041,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "OXX",
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.octanex.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": "https://automic.com.au/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr E Geoffrey Albers",
+                    "first_name": "E",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Albers",
+                    "middle_name": "Geoffrey"
+                },
+                {
+                    "full_name": "Mrs Rae Clark",
+                    "first_name": "Rae",
+                    "roles": [
+                        "Executive Director",
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Clark",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Coombes",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coombes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Giustino Guglielmo",
+                    "first_name": "Giustino",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Guglielmo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin How Kow",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "How Kow",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Suhnylla Klerr",
+                    "first_name": "Suhnylla",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Klerr",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Willis",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Willis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Wright",
+                    "first_name": "Robert",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wright",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Robert Wright",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wright",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jack Tuohy",
+                    "first_name": "Jack",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tuohy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

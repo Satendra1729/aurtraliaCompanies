@@ -1,0 +1,219 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MYS",
+    "GICSindustrygroup": "Banks",
+    "Companyname": "MYSTATE LIMITED",
+    "ASXcode": "MYS",
+    "data": {
+        "summary": {
+            "name_short": "MYSTATE",
+            "name_full": "MYSTATE LIMITED",
+            "code": "MYS",
+            "primary_share_code": "MYS",
+            "industry_group_name": "Banks",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "MYSTATE LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2009-09-10T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "14.5C FRANKED @ 30%;  DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-18T00:00:00+1000",
+                "record_date": "2017-08-24T00:00:00+1000",
+                "payable_date": "2017-09-13T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.145,
+                "ex_date": "2017-08-23T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 6215 9602",
+            "mailing_address": "Level 2, 137 Harrington Street, HOBART, TAS, AUSTRALIA, 7000",
+            "principal_activities": "Diversified financial services.",
+            "fax_number": "03 6215 9760",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-15T08:45:34+1000",
+                    "number_of_pages": 96,
+                    "id": "01896385",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-15T08:48:10+1000",
+                    "size": "4.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170915/pdf/43mc42y95pbb93.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 41627,
+                "status": [],
+                "market_cap": 442764035,
+                "code": "MYS",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 4.78,
+                "previous_close_price": 4.92,
+                "year_change_price": 0.19,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 89992690,
+                "eps": 0.3404,
+                "change_in_percent": "1.016%",
+                "change_price": 0.05,
+                "deprecated_number_of_shares": 89992690,
+                "pe": 14.6,
+                "offer_price": 4.99,
+                "suspended": false,
+                "last_price": 4.97,
+                "deprecated_market_cap": 447264000,
+                "day_low_price": 4.89,
+                "open_price": 4.92,
+                "year_high_date": "2017-08-22T00:00:00+1000",
+                "previous_day_percentage_change": "0.613%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 5.25,
+                "bid_price": 4.95,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 4.99,
+                "year_change_in_percentage": "3.975%",
+                "average_daily_volume": 60236,
+                "year_low_price": 4.11,
+                "annual_dividend_yield": 5.73
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.mystatelimited.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Miles L Hampton",
+                    "first_name": "Miles",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hampton",
+                    "middle_name": "L"
+                },
+                {
+                    "full_name": "Mr Melos Anthony Sulicich",
+                    "first_name": "Melos",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sulicich",
+                    "middle_name": "Anthony"
+                },
+                {
+                    "full_name": "Mr Peter D Armstrong",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Armstrong",
+                    "middle_name": "D"
+                },
+                {
+                    "full_name": "Mr Robert L Gordon",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gordon",
+                    "middle_name": "L"
+                },
+                {
+                    "full_name": "Ms Sibylle Krieger",
+                    "first_name": "Sibylle",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Krieger",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warren John Lee",
+                    "first_name": "Warren",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Stephen E Lonie",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lonie",
+                    "middle_name": "E"
+                },
+                {
+                    "full_name": "Ms Andrea Jane Waters",
+                    "first_name": "Andrea",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Waters",
+                    "middle_name": "Jane"
+                },
+                {
+                    "full_name": "Mr David Harradine",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harradine",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Scott A Lukianenko",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lukianenko",
+                    "middle_name": "A"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CGF",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "CHALLENGER LIMITED",
+    "ASXcode": "CGF",
+    "data": {
+        "summary": {
+            "name_short": "CHALLENGER",
+            "name_full": "CHALLENGER LIMITED",
+            "code": "CGF",
+            "primary_share_code": "CGF",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "CHALLENGER LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CGF?image_size=L&v=1512431727000",
+            "foreign_exempt": false,
+            "listing_date": "2003-12-23T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "17.5C FRANKED @30%;  DRP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-15T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-09-27T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.175,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "hybrid-securities",
+                "warrants"
+            ],
+            "phone_number": "(02) 9994 7000",
+            "mailing_address": "Level 2, 5 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The Company is a multi-faceted financial services organisation, with core businesses in annuities, funds management and administration platforms.",
+            "fax_number": "(02) 9994 7777",
+            "latest_annual_reports": [
+                {
+                    "header": "Part 1 Annual Report 2017",
+                    "document_date": "2017-08-15T07:54:05+1000",
+                    "number_of_pages": 116,
+                    "id": "01883643",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-15T08:01:07+1000",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170815/pdf/43ldkkl494zpg7.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 552054,
+                "status": [],
+                "market_cap": 8560370520,
+                "code": "CGF",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 6.28,
+                "previous_close_price": 14.02,
+                "year_change_price": 7.75,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 610582776,
+                "eps": 0.707,
+                "change_in_percent": "0.071%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 610582776,
+                "pe": 19.84,
+                "offer_price": 14.07,
+                "suspended": false,
+                "last_price": 14.03,
+                "deprecated_market_cap": 8566476000,
+                "day_low_price": 13.96,
+                "open_price": 14.02,
+                "year_high_date": "2017-12-01T00:00:00+1100",
+                "previous_day_percentage_change": "0.43%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 14.12,
+                "bid_price": 14.02,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 14.1,
+                "year_change_in_percentage": "123.408%",
+                "average_daily_volume": 1524360,
+                "year_low_price": 10.61,
+                "annual_dividend_yield": 2.46
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.challenger.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Leith Polson",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Polson",
+                    "middle_name": "Leith"
+                },
+                {
+                    "full_name": "Mr Brian Benari",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Benari",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Cubbin",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cubbin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Gregg",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gregg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jonathan Grunzweig",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grunzweig",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms JoAnne Stephenson",
+                    "first_name": "JoAnne",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stephenson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leon Zwier",
+                    "first_name": "Leon",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zwier",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Tobin",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tobin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Vardanega",
+                    "first_name": "Michael",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vardanega",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Kingham",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kingham",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Brown",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

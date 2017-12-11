@@ -1,0 +1,187 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EZL",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "EUROZ LIMITED",
+    "ASXcode": "EZL",
+    "data": {
+        "summary": {
+            "name_full": "EUROZ LIMITED",
+            "last_dividend": {
+                "comments": "5.5C FRANKED @ 30%;  DRP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-07-11T00:00:00+1000",
+                "record_date": "2017-07-19T00:00:00+1000",
+                "payable_date": "2017-07-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.055,
+                "ex_date": "2017-07-18T00:00:00+1000"
+            },
+            "code": "EZL",
+            "name_short": "EUROZ",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "EUROZ LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/EZL?image_size=L&v=1422946552000",
+            "foreign_exempt": false,
+            "listing_date": "1971-08-02T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@euroz.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9488 1400",
+            "mailing_address": "Level 18, Alluvion, 58 Mounts Bay Road, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Stockbroking; Institutional Dealing, Private Wealth Management, Corporate Finance, Funds Management",
+            "fax_number": "(08) 9488 1477",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T11:52:54+1000",
+                    "number_of_pages": 76,
+                    "id": "01902108",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T11:55:14+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msgs74rq9s0m.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 39004,
+                "status": [],
+                "market_cap": 180308108,
+                "code": "EZL",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.26,
+                "previous_close_price": 1.12,
+                "year_change_price": -0.13,
+                "year_low_date": "2017-08-01T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 160989382,
+                "eps": 0.123,
+                "change_in_percent": "0.893%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 160989382,
+                "pe": 9.19,
+                "offer_price": 1.13,
+                "suspended": false,
+                "last_price": 1.13,
+                "deprecated_market_cap": 181918000,
+                "day_low_price": 1.115,
+                "open_price": 1.115,
+                "year_high_date": "2017-04-10T00:00:00+1000",
+                "previous_day_percentage_change": "0.901%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.26,
+                "bid_price": 1.11,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.13,
+                "year_change_in_percentage": "-10.317%",
+                "average_daily_volume": 65715,
+                "year_low_price": 1,
+                "annual_dividend_yield": 6.42
+            },
+            "primary_share_code": "EZL",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.euroz.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.euroz.com"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew McKenzie",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKenzie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Black",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Black",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Brittain",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brittain",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Chessell",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chessell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jay Hughes",
+                    "first_name": "Jay",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hughes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Russell Kane",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Yeo",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yeo",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Anthony Hewett",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hewett",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

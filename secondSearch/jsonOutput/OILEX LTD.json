@@ -1,0 +1,135 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OEX",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "OILEX LTD",
+    "ASXcode": "OEX",
+    "data": {
+        "summary": {
+            "name_short": "OILEX LTD",
+            "name_full": "OILEX LTD",
+            "code": "OEX",
+            "primary_share_code": "OEX",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "OILEX LTD",
+            "foreign_exempt": false,
+            "listing_date": "2003-10-24T00:00:00+1000",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9485 3200",
+            "mailing_address": "Ground Floor, 44a Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Oil exploration",
+            "fax_number": "+61 8 9485 3290",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to shareholders",
+                    "document_date": "2017-10-30T16:00:13+1100",
+                    "number_of_pages": 92,
+                    "id": "01914803",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-30T16:01:23+1100",
+                    "size": "2.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171030/pdf/43nr2zhxzvtb9l.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6130000,
+                "status": [],
+                "market_cap": 6792449,
+                "code": "OEX",
+                "indices": [],
+                "year_open_price": 0.072,
+                "previous_close_price": 0.004,
+                "year_change_price": -0.068,
+                "year_low_date": "2017-11-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1698112165,
+                "eps": -0.0028,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1698112165,
+                "pe": 0,
+                "offer_price": 0.004,
+                "suspended": false,
+                "last_price": 0.004,
+                "deprecated_market_cap": 6792000,
+                "day_low_price": 0.004,
+                "open_price": 0.004,
+                "year_high_date": "2017-01-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.008,
+                "bid_price": 0.003,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.004,
+                "year_change_in_percentage": "-94.444%",
+                "average_daily_volume": 3460262,
+                "year_low_price": 0.002,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.oilex.com.au/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brad Lingo",
+                    "first_name": "Brad",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lingo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jonathan A Salomon",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Salomon",
+                    "middle_name": "A"
+                },
+                {
+                    "full_name": "Mr Paul Haywood",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haywood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Bolton",
+                    "first_name": "Mark",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bolton",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Bolton",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bolton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

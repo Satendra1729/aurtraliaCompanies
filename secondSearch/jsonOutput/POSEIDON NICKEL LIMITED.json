@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/POS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "POSEIDON NICKEL LIMITED",
+    "ASXcode": "POS",
+    "data": {
+        "summary": {
+            "name_short": "POSEIDON",
+            "name_full": "POSEIDON NICKEL LIMITED",
+            "code": "POS",
+            "primary_share_code": "POS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "POSEIDON NICK LTD",
+            "foreign_exempt": false,
+            "listing_date": "1993-11-29T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 6167 6600",
+            "mailing_address": "Unit 8, Churchill Court, 331-335 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Exploration for nickel.",
+            "fax_number": "08 6167 6649",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-09T12:37:46+1100",
+                    "number_of_pages": 92,
+                    "id": "01905744",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-09T12:41:42+1100",
+                    "size": "4.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171009/pdf/43n2561bwt324d.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6824862,
+                "status": [],
+                "market_cap": 39779688,
+                "code": "POS",
+                "indices": [],
+                "year_open_price": 0.082,
+                "previous_close_price": 0.037,
+                "year_change_price": -0.048,
+                "year_low_date": "2017-06-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1075126697,
+                "eps": 0,
+                "change_in_percent": "-8.108%",
+                "change_price": -0.003,
+                "deprecated_number_of_shares": 1075126697,
+                "pe": 0,
+                "offer_price": 0.036,
+                "suspended": false,
+                "last_price": 0.034,
+                "deprecated_market_cap": 36554000,
+                "day_low_price": 0.034,
+                "open_price": 0.037,
+                "year_high_date": "2017-11-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.063,
+                "bid_price": 0.034,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.037,
+                "year_change_in_percentage": "-58.537%",
+                "average_daily_volume": 7475328,
+                "year_low_price": 0.018,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.poseidon-nickel.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Chris Indermaur",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Indermaur",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Brayshaw",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brayshaw",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Dennis",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dennis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Singleton",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Singleton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Rodriguez",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rodriguez",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Eryn Kestel",
+                    "first_name": "Eryn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kestel",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

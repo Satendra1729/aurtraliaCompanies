@@ -1,0 +1,155 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BIQ",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "BUILDINGIQ, INC",
+    "ASXcode": "BIQ",
+    "data": {
+        "summary": {
+            "name_short": "BUILDINGIQ",
+            "name_full": "BUILDINGIQ, INC",
+            "code": "BIQ",
+            "primary_share_code": "BIQ",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "BUILDINGIQ, INC",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BIQ?image_size=L&v=1450288355000",
+            "foreign_exempt": false,
+            "listing_date": "2015-12-17T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "TBA",
+            "mailing_address": "2711 Centerville Road, Suite 400, City of Wilmington, COUNTY OF NEW CASTLE, DEL, UNITED STATES OF AMERICA, 19808",
+            "principal_activities": "Provider of a cloud-based, software-as-a-service (SaaS) energy management and optimisation solutions for owners and managers of large commercial building portfolios.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-07T09:39:25+1000",
+                    "number_of_pages": 58,
+                    "id": "01846113",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-07T09:45:16+1000",
+                    "size": "18.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170407/pdf/43hcgn838ct5l9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5379,
+                "status": [],
+                "market_cap": 5899733,
+                "code": "BIQ",
+                "indices": [],
+                "deprecated_number_of_shares": 50246901,
+                "previous_close_price": 0.07,
+                "year_low_date": "2017-06-13T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 84281905,
+                "eps": -0.0638,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.07,
+                "suspended": false,
+                "last_price": 0.07,
+                "deprecated_market_cap": 3517000,
+                "day_low_price": 0.07,
+                "open_price": 0.07,
+                "year_high_date": "2017-02-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.115,
+                "bid_price": 0.058,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0.07,
+                "average_daily_volume": 51941,
+                "year_low_price": 0.045,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.BuildingIQ.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alan Cameron",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cameron",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Nark",
+                    "first_name": "Michael",
+                    "roles": [
+                        "President",
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nark",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Tanya Cox",
+                    "first_name": "Tanya",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Cox",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr William Deane",
+                    "first_name": "William",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Deane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gerd Goette",
+                    "first_name": "Gerd",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goette",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ken Pentimonti",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pentimonti",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Lisa Meredith Jones",
+                    "first_name": "Lisa",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Jones",
+                    "middle_name": "Meredith"
+                }
+            ]
+        }
+    }
+}

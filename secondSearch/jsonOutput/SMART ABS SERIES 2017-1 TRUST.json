@@ -1,0 +1,44 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SSF",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "SMART ABS SERIES 2017-1 TRUST",
+    "ASXcode": "SSF",
+    "data": {
+        "summary": {
+            "name_full": "SMART ABS SERIES 2017-1 TRUST",
+            "products": [],
+            "phone_number": "(02) 8232 7819",
+            "mailing_address": "., ., ., ., AUSTRALIA, .",
+            "principal_activities": ".",
+            "name_short": "SMART20171",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "SMART ABS 2017-1",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "SSF",
+            "listing_date": "2017-07-27T00:00:00+1000",
+            "registry_address": "LEVEL 7, 9 CASTLEREAGH STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "PERPETUAL TRUSTEE COMPANY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Jennifer Chamberlain",
+                    "first_name": "Jennifer",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Chamberlain",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

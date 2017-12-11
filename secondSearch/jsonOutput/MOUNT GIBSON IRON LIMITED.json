@@ -1,0 +1,216 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MGX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MOUNT GIBSON IRON LIMITED",
+    "ASXcode": "MGX",
+    "data": {
+        "summary": {
+            "name_short": "MT GIBSON",
+            "name_full": "MOUNT GIBSON IRON LIMITED",
+            "code": "MGX",
+            "primary_share_code": "MGX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MOUNT GIBSON IRON",
+            "foreign_exempt": false,
+            "listing_date": "1976-02-12T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "2C FRANKED @ 30% D.R .P. SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-16T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.02,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "08 9426 7500",
+            "mailing_address": "Level 1,, 2 Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": ".",
+            "fax_number": "08 9485 2305",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-06T12:32:21+1100",
+                    "number_of_pages": 100,
+                    "id": "01905158",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-06T12:34:04+1100",
+                    "size": "13.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171006/pdf/43n0h28y3p5sfy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2131945,
+                "status": [],
+                "market_cap": 449590632,
+                "code": "MGX",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.93,
+                "previous_close_price": 0.41,
+                "year_change_price": -0.525,
+                "year_low_date": "2017-06-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1096562516,
+                "eps": 0.0241,
+                "change_in_percent": "-1.22%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 1096562516,
+                "pe": 16.8,
+                "offer_price": 0.405,
+                "suspended": false,
+                "last_price": 0.405,
+                "deprecated_market_cap": 444108000,
+                "day_low_price": 0.395,
+                "open_price": 0.4,
+                "year_high_date": "2017-02-22T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.582,
+                "bid_price": 0.4,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.405,
+                "year_change_in_percentage": "-56.452%",
+                "average_daily_volume": 1265337,
+                "year_low_price": 0.275,
+                "annual_dividend_yield": 4.94
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.mtgibsoniron.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Lee Seng Hui",
+                    "first_name": "Lee",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Seng Hui",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jim Beyer",
+                    "first_name": "Jim",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beyer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan Jones",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Director",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Russell Barwick",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barwick",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Bird",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bird",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Dougas",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dougas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Li Shaofeng",
+                    "first_name": "Li",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shaofeng",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Ferguson",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferguson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Kerr",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kerr",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Stokes",
+                    "first_name": "David",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stokes",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Stokes",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stokes",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

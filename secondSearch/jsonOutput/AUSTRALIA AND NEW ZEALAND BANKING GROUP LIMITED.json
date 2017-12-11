@@ -1,0 +1,344 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ANZ",
+    "GICSindustrygroup": "Banks",
+    "Companyname": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+    "ASXcode": "ANZ",
+    "data": {
+        "summary": {
+            "name_short": "ANZ BANK",
+            "name_full": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "code": "ANZ",
+            "primary_share_code": "ANZ",
+            "industry_group_name": "Banks",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "ANZ BANKING GRP LTD",
+            "foreign_exempt": false,
+            "listing_date": "1969-09-30T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "80C FRANKED @ 30%; D RP & BSP NIL DISC",
+                "franked_percentage": "100%",
+                "created_date": "2017-10-26T00:00:00+1100",
+                "record_date": "2017-11-14T00:00:00+1100",
+                "payable_date": "2017-12-18T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.8,
+                "ex_date": "2017-11-13T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "hybrid-securities",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "03 9273 5555",
+            "mailing_address": "ANZ Centre Melbourne, Level 9, 833 Collins Street, DOCKLANDS, VIC, AUSTRALIA, 3008",
+            "principal_activities": "General banking, mortgage and instalment lending, life insurance, property development, leasing, hire purchase and general finance, international and investment banking, investment and portfolio management and advisory services, nominee and custodian serv",
+            "fax_number": "+61 3 8542 5252",
+            "latest_annual_reports": [
+                {
+                    "header": "ANZ Bank New Zealand Limited DS 30 September 2017",
+                    "document_date": "2017-11-16T07:37:46+1100",
+                    "number_of_pages": 88,
+                    "id": "01921927",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-16T07:48:14+1100",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171116/pdf/43p8lbj0738nc6.pdf"
+                },
+                {
+                    "header": "ANZ's September 2017 Pillar 3 disclosure",
+                    "document_date": "2017-11-06T14:13:22+1100",
+                    "number_of_pages": 99,
+                    "id": "01918396",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-06T14:14:21+1100",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171106/pdf/43p03hwlt1sggc.pdf"
+                },
+                {
+                    "header": "UK DTR Submission",
+                    "document_date": "2017-11-06T14:08:36+1100",
+                    "number_of_pages": 21,
+                    "id": "01918393",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-06T14:10:55+1100",
+                    "size": "296.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171106/pdf/43p03bh77fqwv1.pdf"
+                },
+                {
+                    "header": "ANZ 1st bank to report using global climate recommendations",
+                    "document_date": "2017-11-06T14:03:28+1100",
+                    "number_of_pages": 1,
+                    "id": "01918390",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-06T14:04:45+1100",
+                    "size": "87.7KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171106/pdf/43p034mvy2t107.pdf"
+                },
+                {
+                    "header": "ANZ 2017 Annual Review",
+                    "document_date": "2017-11-06T14:00:34+1100",
+                    "number_of_pages": 36,
+                    "id": "01918388",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-06T14:02:25+1100",
+                    "size": "8.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171106/pdf/43p0311f83zgzw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3660829,
+                "status": [
+                    "XD"
+                ],
+                "market_cap": 83657588513,
+                "code": "ANZ",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 20",
+                        "index_code": "XTL",
+                        "name_abrev": "S&P/ASX 20",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 20"
+                    },
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 32.02,
+                "previous_close_price": 28.48,
+                "year_change_price": -3.51,
+                "year_low_date": "2017-06-07T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2937415327,
+                "eps": 2.201,
+                "change_in_percent": "0.105%",
+                "change_price": 0.03,
+                "deprecated_number_of_shares": 2937415327,
+                "pe": 12.95,
+                "offer_price": 28.53,
+                "suspended": false,
+                "last_price": 28.51,
+                "deprecated_market_cap": 83745711000,
+                "day_low_price": 28.44,
+                "open_price": 28.5,
+                "year_high_date": "2017-05-01T00:00:00+1000",
+                "previous_day_percentage_change": "0.85%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 32.95,
+                "bid_price": 28.48,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 28.73,
+                "year_change_in_percentage": "-10.962%",
+                "average_daily_volume": 5012058,
+                "year_low_price": 27.185,
+                "annual_dividend_yield": 5.61
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.anz.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Gonski",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gonski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Shayne Elliott",
+                    "first_name": "Shayne",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Elliott",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Hodges",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Deputy CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hodges",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Ilana Atlas",
+                    "first_name": "Ilana",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Atlas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Paula Dwyer",
+                    "first_name": "Paula",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Dwyer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lee Hsien Yang",
+                    "first_name": "Lee",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hsien Yang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme Liebelt",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liebelt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John T Macfarlane",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Macfarlane",
+                    "middle_name": "T"
+                },
+                {
+                    "full_name": "Ms Jane Halton",
+                    "first_name": "Jane",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Halton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Michelle Jablko",
+                    "first_name": "Michelle",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Jablko",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bob Santamaria",
+                    "first_name": "Bob",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Santamaria",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Simon Pordage",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pordage",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Priestley",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Priestley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

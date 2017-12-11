@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KIS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KING ISLAND SCHEELITE LIMITED",
+    "ASXcode": "KIS",
+    "data": {
+        "summary": {
+            "name_short": "KING ISLND",
+            "name_full": "KING ISLAND SCHEELITE LIMITED",
+            "code": "KIS",
+            "primary_share_code": "KIS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KING ISLAND",
+            "foreign_exempt": false,
+            "listing_date": "1967-09-21T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8622 1400",
+            "mailing_address": "Suite 26.01, Level 26, 259 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Development of the King Island scheelite deposits.",
+            "fax_number": "(02) 8622 1401",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report June 2017",
+                    "document_date": "2017-08-08T16:50:02+1000",
+                    "number_of_pages": 47,
+                    "id": "01881908",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-08T16:51:27+1000",
+                    "size": "526.5KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170808/pdf/43l825bb4q6gyr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 8593957,
+                "code": "KIS",
+                "indices": [],
+                "year_open_price": 0.085,
+                "previous_close_price": 0.041,
+                "year_change_price": -0.044,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 209608702,
+                "eps": -0.005,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 209608702,
+                "pe": 0,
+                "offer_price": 0.045,
+                "suspended": false,
+                "last_price": 0.041,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-22T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.07,
+                "bid_price": 0.042,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-51.765%",
+                "average_daily_volume": 41615,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.kingislandscheelite.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Johann Jacobs",
+                    "first_name": "Johann",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jacobs",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Allan Davies",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davies",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Ellis",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ellis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Morgan",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

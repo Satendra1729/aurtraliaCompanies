@@ -1,0 +1,263 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AZJ",
+    "GICSindustrygroup": "Transportation",
+    "Companyname": "AURIZON HOLDINGS LIMITED",
+    "ASXcode": "AZJ",
+    "data": {
+        "summary": {
+            "name_short": "AURIZON",
+            "name_full": "AURIZON HOLDINGS LIMITED",
+            "code": "AZJ",
+            "primary_share_code": "AZJ",
+            "industry_group_name": "Transportation",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "AURIZON HOLDINGS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2010-11-22T00:00:00+1100",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "4.45C FRANKED@30%; N IL CFI",
+                "franked_percentage": "50%",
+                "created_date": "2017-08-14T00:00:00+1000",
+                "record_date": "2017-08-29T00:00:00+1000",
+                "payable_date": "2017-09-25T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.089,
+                "ex_date": "2017-08-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "132332",
+            "mailing_address": "Level 17, 175 Eagle Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Integrated heavy haul freight railway operator and rail transporter of coal from mine to port for export markets, with portfolio of other bulk, general and containerised freight businesses, as well as large-scale rail services activities.",
+            "fax_number": "(07) 3019 0720",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-08-14T07:30:10+1000",
+                    "number_of_pages": 113,
+                    "id": "01883188",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-14T08:21:59+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170814/pdf/43lcjn0lyzmy50.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3590619,
+                "status": [],
+                "market_cap": 10655913531,
+                "code": "AZJ",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Inds",
+                        "index_code": "XNJ",
+                        "name_abrev": "Industrials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Industrials (Sector)"
+                    }
+                ],
+                "year_open_price": 5.14,
+                "previous_close_price": 5.29,
+                "year_change_price": 0.2,
+                "year_low_date": "2017-10-10T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2014350384,
+                "eps": -0.092,
+                "change_in_percent": "0.945%",
+                "change_price": 0.05,
+                "deprecated_number_of_shares": 2014350384,
+                "pe": 0,
+                "offer_price": 5.35,
+                "suspended": false,
+                "last_price": 5.34,
+                "deprecated_market_cap": 10756631000,
+                "day_low_price": 5.26,
+                "open_price": 5.28,
+                "year_high_date": "2017-06-02T00:00:00+1000",
+                "previous_day_percentage_change": "1.341%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 5.745,
+                "bid_price": 5.2,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.38,
+                "year_change_in_percentage": "3.891%",
+                "average_daily_volume": 3889455,
+                "year_low_price": 4.77,
+                "annual_dividend_yield": 4.21
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.aurizon.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tim Poole",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Poole",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Thomas Harding",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harding",
+                    "middle_name": "Thomas"
+                },
+                {
+                    "full_name": "Mr Russell Caplan",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Caplan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Cooper",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooper",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Karen Field",
+                    "first_name": "Karen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Field",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Fraser",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fraser",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sam Lewis",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lewis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kate Vidgen",
+                    "first_name": "Kate",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Vidgen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Pam Bains",
+                    "first_name": "Pam",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bains",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Dominic D Smith",
+                    "first_name": "Dominic",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": "D"
+                }
+            ]
+        }
+    }
+}

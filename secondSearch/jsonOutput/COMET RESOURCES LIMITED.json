@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CRL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "COMET RESOURCES LIMITED",
+    "ASXcode": "CRL",
+    "data": {
+        "summary": {
+            "name_short": "COMET",
+            "name_full": "COMET RESOURCES LIMITED",
+            "code": "CRL",
+            "primary_share_code": "CRL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "COMET RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "1994-03-02T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9475 7100",
+            "mailing_address": "Unit 2, 23 Belgravia Street, BELMONT, WA, AUSTRALIA, 6104",
+            "principal_activities": "Mineral Exploration",
+            "fax_number": "+61 8 9277 4147",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-15T13:25:09+1000",
+                    "number_of_pages": 50,
+                    "id": "01896576",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-15T13:26:57+1000",
+                    "size": "4.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170915/pdf/43mcj58l3vk62x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 21049,
+                "status": [],
+                "market_cap": 17050000,
+                "code": "CRL",
+                "indices": [],
+                "year_open_price": 0.013,
+                "previous_close_price": 0.1,
+                "year_change_price": 0.083,
+                "year_low_date": "2017-02-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 170500000,
+                "eps": -0.01,
+                "change_in_percent": "-4%",
+                "change_price": -0.004,
+                "deprecated_number_of_shares": 170500000,
+                "pe": 0,
+                "offer_price": 0.1,
+                "suspended": false,
+                "last_price": 0.096,
+                "deprecated_market_cap": 16368000,
+                "day_low_price": 0.096,
+                "open_price": 0.096,
+                "year_high_date": "2017-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-14T11:00:00+1100",
+                "year_high_price": 0.105,
+                "bid_price": 0.095,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.096,
+                "year_change_in_percentage": "638.462%",
+                "average_daily_volume": 621768,
+                "year_low_price": 0.024,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.cometres.com.au/",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert O Jones",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": "O"
+                },
+                {
+                    "full_name": "Mr Anthony Cooper",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooper",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Edmund Czechowski",
+                    "first_name": "Edmund",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Czechowski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hamish Halliday",
+                    "first_name": "Hamish",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Halliday",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Edmund Czechowski",
+                    "first_name": "Edmund",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Czechowski",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

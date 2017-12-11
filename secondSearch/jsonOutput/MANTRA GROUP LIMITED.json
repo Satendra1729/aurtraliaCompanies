@@ -1,0 +1,208 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MTR",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "MANTRA GROUP LIMITED",
+    "ASXcode": "MTR",
+    "data": {
+        "summary": {
+            "name_short": "MANTRA GRP",
+            "name_full": "MANTRA GROUP LIMITED",
+            "code": "MTR",
+            "primary_share_code": "MTR",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "MANTRA GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2014-06-20T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "6C FRANKED@30%; DRP  SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-09-05T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.06,
+                "ex_date": "2017-09-04T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(07) 5631 2500",
+            "mailing_address": "Level 15, 50 Cavill Avenue, SURFERS PARADISE, QLD, AUSTRALIA, 4217",
+            "principal_activities": "Accommodation operator in Australia, New Zealand and Indonesia.",
+            "fax_number": "(07) 5631 2999",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and FY2017 Financial Statements",
+                    "document_date": "2017-08-29T08:48:20+1000",
+                    "number_of_pages": 114,
+                    "id": "01889339",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T08:52:05+1000",
+                    "size": "7.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43ltsyxqhy9f36.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2077973,
+                "status": [],
+                "market_cap": 1162947065,
+                "code": "MTR",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 297428917,
+                "previous_close_price": 3.91,
+                "year_low_date": "2017-03-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 297428917,
+                "eps": 0.153,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 25.56,
+                "offer_price": 3.91,
+                "suspended": false,
+                "last_price": 3.91,
+                "deprecated_market_cap": 1162947000,
+                "day_low_price": 3.9,
+                "open_price": 3.91,
+                "year_high_date": "2017-11-06T00:00:00+1100",
+                "previous_day_percentage_change": "0.256%",
+                "year_open_date": null,
+                "year_high_price": 3.95,
+                "bid_price": 3.9,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.92,
+                "average_daily_volume": 3059724,
+                "year_low_price": 2.58,
+                "annual_dividend_yield": 2.81
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.mantragroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Hallam Bush",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bush",
+                    "middle_name": "Hallam"
+                },
+                {
+                    "full_name": "Mr Kerry Robert East",
+                    "first_name": "Kerry",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "East",
+                    "middle_name": "Robert"
+                },
+                {
+                    "full_name": "Mr Andrew Cummins",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cummins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Gibson",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gibson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Elizabeth Ann Savage",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Savage",
+                    "middle_name": "Ann"
+                },
+                {
+                    "full_name": "Ms Melanie Willis",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Willis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Fiona Van Wyk",
+                    "first_name": "Fiona",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Van Wyk",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

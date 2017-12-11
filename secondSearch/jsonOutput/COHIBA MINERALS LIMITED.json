@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CHK",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "COHIBA MINERALS LIMITED",
+    "ASXcode": "CHK",
+    "data": {
+        "summary": {
+            "name_short": "COHIBA",
+            "name_full": "COHIBA MINERALS LIMITED",
+            "code": "CHK",
+            "primary_share_code": "CHK",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "COHIBA MIN LTD",
+            "foreign_exempt": false,
+            "listing_date": "2012-02-01T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9692 7222",
+            "mailing_address": "Level 4, 100 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Exploration for gold and base metals.",
+            "fax_number": "+61 3 9077 9233",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-09-28T14:14:32+1000",
+                    "number_of_pages": 47,
+                    "id": "01901218",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T14:16:47+1000",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqngcpl90hfw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2767494,
+                "status": [],
+                "market_cap": 4795423,
+                "code": "CHK",
+                "indices": [],
+                "year_open_price": 0.01981,
+                "previous_close_price": 0.011,
+                "year_change_price": -0.00881,
+                "year_low_date": "2017-11-27T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 435947574,
+                "eps": -0.0041,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 435947574,
+                "pe": 0,
+                "offer_price": 0.012,
+                "suspended": false,
+                "last_price": 0.011,
+                "deprecated_market_cap": 4795000,
+                "day_low_price": 0.011,
+                "open_price": 0.012,
+                "year_high_date": "2017-02-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.034,
+                "bid_price": 0.011,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.012,
+                "year_change_in_percentage": "-44.472%",
+                "average_daily_volume": 3096921,
+                "year_low_price": 0.008,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.cohibaminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mordechai Benedikt",
+                    "first_name": "Mordechai",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Benedikt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Herszberg",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Herszberg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nochum Labkowski",
+                    "first_name": "Nochum",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Labkowski",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justin Mouchacca",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mouchacca",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CDD",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "CARDNO LIMITED",
+    "ASXcode": "CDD",
+    "data": {
+        "summary": {
+            "name_short": "CARDNO",
+            "name_full": "CARDNO LIMITED",
+            "code": "CDD",
+            "primary_share_code": "CDD",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "CARDNO LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CDD?image_size=L&v=1383616540000",
+            "foreign_exempt": false,
+            "listing_date": "2004-05-20T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+61 7 3369 9822",
+            "mailing_address": "Level 11, Green Square North Tower, 515 St Paul's Terrace, FORTITUDE VALLEY, QLD, AUSTRALIA, 4006",
+            "principal_activities": "Professional infrastructure and environmental services company, with expertise in the development and improvement of physical and social infrastructure for communities around the world.",
+            "fax_number": "+61 7 3369 9722",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-21T09:09:29+1000",
+                    "number_of_pages": 82,
+                    "id": "01885617",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-21T09:12:18+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170821/pdf/43lkd15snv090w.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 18081,
+                "status": [],
+                "market_cap": 673823850,
+                "code": "CDD",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 6.43,
+                "previous_close_price": 1.405,
+                "year_change_price": -5.01,
+                "year_low_date": "2016-12-16T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 479589929,
+                "eps": 0.0179,
+                "change_in_percent": "1.068%",
+                "change_price": 0.015,
+                "deprecated_number_of_shares": 479589929,
+                "pe": 79.33,
+                "offer_price": 1.42,
+                "suspended": false,
+                "last_price": 1.42,
+                "deprecated_market_cap": 681018000,
+                "day_low_price": 1.4,
+                "open_price": 1.4,
+                "year_high_date": "2017-09-22T00:00:00+1000",
+                "previous_day_percentage_change": "-1.056%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.5,
+                "bid_price": 1.4,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.42,
+                "year_change_in_percentage": "-77.916%",
+                "average_daily_volume": 297345,
+                "year_low_price": 0.905,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.cardno.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.cardno.com/en-us/InvestorCentre/Pages/Home.aspx"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Alscher",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Alscher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neville Buch",
+                    "first_name": "Neville",
+                    "roles": [
+                        "CEO",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Buch",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeffrey Forbes",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Forbes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Jandegian",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jandegian",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Prieto",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Prieto",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Sherman",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sherman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nathanial Thomson",
+                    "first_name": "Nathanial",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thomson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Barker",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barker",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Barker",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Courtney Marsden",
+                    "first_name": "Courtney",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Marsden",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

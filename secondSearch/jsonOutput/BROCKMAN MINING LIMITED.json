@@ -1,0 +1,192 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BCK",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BROCKMAN MINING LIMITED",
+    "ASXcode": "BCK",
+    "data": {
+        "summary": {
+            "name_short": "BROCKMAN",
+            "name_full": "BROCKMAN MINING LIMITED",
+            "code": "BCK",
+            "primary_share_code": "BCK",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BROCKMAN MINING LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-01-11T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9389 3000",
+            "mailing_address": "Level 2,, 56 Ord Street,, WEST PERTH,, WA, AUSTRALIA, 6005",
+            "principal_activities": "Investment holding company principally engaged in: Exploitation, processing sales of mineral resources.  The investment of funds in equity securities.",
+            "fax_number": "+61 8 9389 3033",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T19:59:03+1000",
+                    "number_of_pages": 98,
+                    "id": "01901634",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:16:56+1000",
+                    "size": "4.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrkv0vw94zzn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 150875678,
+                "code": "BCK",
+                "indices": [],
+                "year_open_price": 0.057,
+                "previous_close_price": 0.018,
+                "year_change_price": -0.039,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 8381982131,
+                "eps": -0.0008,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 8381982131,
+                "pe": 0,
+                "offer_price": 0.023,
+                "suspended": false,
+                "last_price": 0.018,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-31T00:00:00+1100",
+                "previous_day_percentage_change": "-5.263%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.028,
+                "bid_price": 0.012,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-68.421%",
+                "average_daily_volume": 108806,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.brockmanmining.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kwai Sze Hoi",
+                    "first_name": "Kwai",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sze Hoi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Liu Zhengui",
+                    "first_name": "Liu",
+                    "roles": [
+                        "Vice Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhengui",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chan Kam Kwan Jason",
+                    "first_name": "Chan",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kam Kwan Jason",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kwai Kwun Lawrence",
+                    "first_name": "Kwai Kwun",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lawrence",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colin Paterson",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paterson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yue Chun Eugene Choi",
+                    "first_name": "Yue Chun Eugene",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Choi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Uwe Henke Von Parpart",
+                    "first_name": "Uwe",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Henke Von Parpart",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross Stewart Norgard",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stewart Norgard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Henry Fat Suan Yap",
+                    "first_name": "Henry Fat Suan",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yap",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jason Chan",
+                    "first_name": "Jason",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

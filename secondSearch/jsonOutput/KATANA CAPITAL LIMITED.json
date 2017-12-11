@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KAT",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "KATANA CAPITAL LIMITED",
+    "ASXcode": "KAT",
+    "data": {
+        "summary": {
+            "name_short": "KATANA",
+            "name_full": "KATANA CAPITAL LIMITED",
+            "code": "KAT",
+            "primary_share_code": "KAT",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "KATANA CAPITAL",
+            "foreign_exempt": false,
+            "listing_date": "2005-12-23T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "0.5C FRANKED@30%; DR P NIL DISC",
+                "franked_percentage": "100%",
+                "created_date": "2017-10-23T00:00:00+1100",
+                "record_date": "2017-10-30T00:00:00+1100",
+                "payable_date": "2017-11-23T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.005,
+                "ex_date": "2017-10-27T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9220 9888",
+            "mailing_address": "Level 9, The Quadrant Building, 1 William Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Investment in listed and unlisted entities. The Manager of the Company is Classic Capital Pty Limited",
+            "fax_number": "+61 8 9327 1778",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders 30 June 2017",
+                    "document_date": "2017-10-12T17:06:43+1100",
+                    "number_of_pages": 52,
+                    "id": "01907344",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-12T17:09:07+1100",
+                    "size": "1.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171012/pdf/43n5r8lkmj4xw2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 47009,
+                "status": [],
+                "market_cap": 35365431,
+                "code": "KAT",
+                "indices": [],
+                "year_open_price": 0.85015,
+                "previous_close_price": 0.8,
+                "year_change_price": -0.04515,
+                "year_low_date": "2017-07-14T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 44206789,
+                "eps": 0.0211,
+                "change_in_percent": "0.625%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 44206789,
+                "pe": 38.15,
+                "offer_price": 0.805,
+                "suspended": false,
+                "last_price": 0.805,
+                "deprecated_market_cap": 35586000,
+                "day_low_price": 0.805,
+                "open_price": 0.805,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.82,
+                "bid_price": 0.8,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.82,
+                "year_change_in_percentage": "-5.311%",
+                "average_daily_volume": 31234,
+                "year_low_price": 0.7,
+                "annual_dividend_yield": 2.48
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.katanacapital.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Dalton Gooding",
+                    "first_name": "Dalton",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gooding",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Giuliano Sala Tenna",
+                    "first_name": "Giuliano",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tenna",
+                    "middle_name": "Sala"
+                },
+                {
+                    "full_name": "Mr Peter Wallace",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wallace",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gabriel Chiappini",
+                    "first_name": "Gabriel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chiappini",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

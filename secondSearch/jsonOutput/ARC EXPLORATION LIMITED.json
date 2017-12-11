@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ARX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ARC EXPLORATION LIMITED",
+    "ASXcode": "ARX",
+    "data": {
+        "summary": {
+            "name_short": "ARC EXPLRN",
+            "name_full": "ARC EXPLORATION LIMITED",
+            "code": "ARX",
+            "primary_share_code": "ARX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ARC EXPLORATION LTD",
+            "foreign_exempt": false,
+            "listing_date": "1985-04-26T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8076 6004",
+            "mailing_address": "Level 8, 65 York Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Gold exploration in Indonesia and Australia.",
+            "fax_number": "(02) 8215 1600",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders - Year Ended 31 December 2016",
+                    "document_date": "2017-04-26T10:10:14+1000",
+                    "number_of_pages": 52,
+                    "id": "01850391",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-26T10:12:15+1000",
+                    "size": "5.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170426/pdf/43hqyzk5ff41g2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 2184127,
+                "code": "ARX",
+                "indices": [],
+                "year_open_price": 0.005,
+                "previous_close_price": 0.52,
+                "year_change_price": 0.515,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 4200244,
+                "eps": -0.2368,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 4200244,
+                "pe": 0,
+                "offer_price": 0.54,
+                "suspended": false,
+                "last_price": 0.52,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-02T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.576,
+                "bid_price": 0.52,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "10,300%",
+                "average_daily_volume": 3339,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.arcexploration.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Simon O'Loughlin",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Loughlin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew J Cooke",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooke",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Simon Taylor",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Taylor",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew J Cooke",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooke",
+                    "middle_name": "J"
+                }
+            ]
+        }
+    }
+}

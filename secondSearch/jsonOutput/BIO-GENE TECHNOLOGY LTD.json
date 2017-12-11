@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BGT",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BIO-GENE TECHNOLOGY LTD",
+    "ASXcode": "BGT",
+    "data": {
+        "summary": {
+            "name_short": "BIOGENETEC",
+            "name_full": "BIO-GENE TECHNOLOGY LTD",
+            "code": "BGT",
+            "primary_share_code": "BGT",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "BIO-GENE TECHNOLOGY",
+            "foreign_exempt": false,
+            "listing_date": "2017-11-29T00:00:00+1100",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "investor_relations_email": "bgt.info@bio-gene.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9628 4178",
+            "mailing_address": "Suite 1, Level 6, 50 Queen St, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Development and commercialisation of insecticide products",
+            "fax_number": "-",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Audited Accounts 30 June 2017",
+                    "document_date": "2017-11-27T18:01:18+1100",
+                    "number_of_pages": 37,
+                    "id": "01926646",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-27T18:06:51+1100",
+                    "size": "577.8KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171127/pdf/43pmlwm04khdbp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 134155,
+                "status": [],
+                "market_cap": 37995761,
+                "code": "BGT",
+                "indices": [],
+                "deprecated_number_of_shares": 105456998,
+                "previous_close_price": 0.215,
+                "year_low_date": "2017-11-29T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 176724471,
+                "eps": 0,
+                "change_in_percent": "2.326%",
+                "change_price": 0.005,
+                "pe": 0,
+                "offer_price": 0.23,
+                "suspended": false,
+                "last_price": 0.22,
+                "deprecated_market_cap": 23201000,
+                "day_low_price": 0.215,
+                "open_price": 0.215,
+                "year_high_date": "2017-12-01T00:00:00+1100",
+                "previous_day_percentage_change": "-6.522%",
+                "year_open_date": null,
+                "year_high_price": 0.28,
+                "bid_price": 0.22,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.23,
+                "average_daily_volume": 1053474,
+                "year_low_price": 0.19,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://bio-gene.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Donald Brumley",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brumley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Klupacs",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Klupacs",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Jagger",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jagger",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter May",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "May",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Rumble",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rumble",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Roger McPherson",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McPherson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

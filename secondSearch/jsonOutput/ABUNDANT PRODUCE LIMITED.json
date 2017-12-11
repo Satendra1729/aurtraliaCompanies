@@ -1,0 +1,145 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ABT",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "ABUNDANT PRODUCE LIMITED",
+    "ASXcode": "ABT",
+    "data": {
+        "summary": {
+            "name_short": "ABUNDANT",
+            "name_full": "ABUNDANT PRODUCE LIMITED",
+            "code": "ABT",
+            "primary_share_code": "ABT",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "ABUNDANT PRODUCE LTD",
+            "foreign_exempt": false,
+            "listing_date": "2016-04-26T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9571 8300",
+            "mailing_address": "Suite 4.06, Level 4, 55 Miller Street, PYRMONT, NSW, AUSTRALIA, 2009",
+            "principal_activities": "Production and sale of vegetable seeds",
+            "fax_number": "(02) 9571 8200",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-01T17:21:40+1100",
+                    "number_of_pages": 60,
+                    "id": "01902982",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:06:01+1100",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvn2b0kr5c26.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 13953,
+                "status": [],
+                "market_cap": 26542875,
+                "code": "ABT",
+                "indices": [],
+                "deprecated_number_of_shares": 31704236,
+                "previous_close_price": 0.5,
+                "year_low_date": "2017-05-03T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 53085750,
+                "eps": -0.0228,
+                "change_in_percent": "2%",
+                "change_price": 0.01,
+                "pe": 0,
+                "offer_price": 0.51,
+                "suspended": false,
+                "last_price": 0.51,
+                "deprecated_market_cap": 16169000,
+                "day_low_price": 0.5,
+                "open_price": 0.5,
+                "year_high_date": "2017-01-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.75,
+                "bid_price": 0.5,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.51,
+                "average_daily_volume": 64133,
+                "year_low_price": 0.325,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.abundantproduce.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graham Brown",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Crimmins",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crimmins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adam Hajek",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hajek",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Richardson",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richardson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nicholas Falzon",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Falzon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme Hogan",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hogan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

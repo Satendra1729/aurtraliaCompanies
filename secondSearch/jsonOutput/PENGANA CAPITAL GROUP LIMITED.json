@@ -1,0 +1,168 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PCG",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "PENGANA CAPITAL GROUP LIMITED",
+    "ASXcode": "PCG",
+    "data": {
+        "summary": {
+            "name_short": "PENGANA",
+            "name_full": "PENGANA CAPITAL GROUP LIMITED",
+            "last_dividend": {
+                "comments": "4.5C FRANKED @ 30%;  DRP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-31T00:00:00+1000",
+                "record_date": "2017-09-14T00:00:00+1000",
+                "payable_date": "2017-09-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.045,
+                "ex_date": "2017-09-13T00:00:00+1000"
+            },
+            "code": "PCG",
+            "primary_share_code": "PCG",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "PENGANA CAPITAL",
+            "foreign_exempt": false,
+            "listing_date": "2001-02-28T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "clientservice@pengana.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8524 9900",
+            "mailing_address": "Level 12, 167 Macquarie Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment management business.",
+            "fax_number": "(02) 8524 9901",
+            "latest_annual_reports": [
+                {
+                    "header": "PCG Annual Report 30 June 2017",
+                    "document_date": "2017-08-30T19:37:51+1000",
+                    "number_of_pages": 74,
+                    "id": "01890527",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T08:16:05+1000",
+                    "size": "900.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lxcr41f1r3dq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 35360,
+                "status": [],
+                "market_cap": 319652840,
+                "code": "PCG",
+                "indices": [],
+                "year_open_price": 2.35,
+                "previous_close_price": 3.15,
+                "year_change_price": 0.89,
+                "year_low_date": "2017-01-03T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 101477092,
+                "eps": 0.0019,
+                "change_in_percent": "2.857%",
+                "change_price": 0.09,
+                "deprecated_number_of_shares": 101477092,
+                "pe": 1705.26,
+                "offer_price": 3.24,
+                "suspended": false,
+                "last_price": 3.24,
+                "deprecated_market_cap": 328786000,
+                "day_low_price": 3.15,
+                "open_price": 3.15,
+                "year_high_date": "2016-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 3.61,
+                "bid_price": 3.2,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.24,
+                "year_change_in_percentage": "37.872%",
+                "average_daily_volume": 24188,
+                "year_low_price": 2.05,
+                "annual_dividend_yield": 2.62
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.pengana.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Warwick Martin Negus",
+                    "first_name": "Warwick",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Negus",
+                    "middle_name": "Martin"
+                },
+                {
+                    "full_name": "Mr Russel Craig Pillemer",
+                    "first_name": "Russel",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pillemer",
+                    "middle_name": "Craig"
+                },
+                {
+                    "full_name": "Mr Robert Hugh Barry",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barry",
+                    "middle_name": "Hugh"
+                },
+                {
+                    "full_name": "Mr Jeremy Steven Dunkel",
+                    "first_name": "Jeremy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dunkel",
+                    "middle_name": "Steven"
+                },
+                {
+                    "full_name": "Mr Kevin Eley",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Eley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Groves",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Groves",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Paula Ferrao",
+                    "first_name": "Paula",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ferrao",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

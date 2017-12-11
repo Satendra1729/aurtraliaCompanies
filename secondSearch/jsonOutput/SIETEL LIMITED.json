@@ -1,0 +1,118 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SSL",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "SIETEL LIMITED",
+    "ASXcode": "SSL",
+    "data": {
+        "summary": {
+            "name_short": "SIETEL",
+            "name_full": "SIETEL LIMITED",
+            "code": "SSL",
+            "primary_share_code": "SSL",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "SIETEL LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1974-01-01T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9553 5740",
+            "mailing_address": "C/- Cook's Body Works Pty Ltd, 140-144 Cochranes Road, MOORABBIN, VIC, AUSTRALIA, 3189",
+            "principal_activities": "Investment in industrial and commercial real estate, provision of leased facilities, and plant and management services to its controlled entities and management, evaluation and expansion of these and other business opportunities.",
+            "fax_number": "(03) 9555 2662",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 43240387,
+                "code": "SSL",
+                "indices": [],
+                "year_open_price": 5,
+                "previous_close_price": 5.4,
+                "year_change_price": 0.4,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 8007479,
+                "eps": 0.171,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 8007479,
+                "pe": 31.58,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 5.4,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-05-01T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-19T11:00:00+1100",
+                "year_high_price": 6,
+                "bid_price": 5.95,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "8%",
+                "average_daily_volume": 225,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.sietel.com.au/",
+            "fiscal_year_end": "30/09",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoffrey Rees",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rees",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Rees",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Managing Director",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rees",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Delwyn Rees",
+                    "first_name": "Delwyn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rees",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Richard Rees",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rees",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EGL",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "ENVIRONMENTAL GROUP LIMITED (THE)",
+    "ASXcode": "EGL",
+    "data": {
+        "summary": {
+            "name_short": "ENVN GROUP",
+            "name_full": "ENVIRONMENTAL GROUP LIMITED (THE)",
+            "code": "EGL",
+            "primary_share_code": "EGL",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "ENVIRONMENTAL GROUP",
+            "foreign_exempt": false,
+            "listing_date": "1981-02-12T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "0.06C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-18T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.0006,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9763 6711",
+            "mailing_address": "Level 1 Suite 1, 10 Ferntree Place, NOTTING HILL, VIC, AUSTRALIA, 3168",
+            "principal_activities": "Supply of turnkey gas and vapour emission control systems, inlet and exhaust systems for gas turbines, and engineering services to a wide variety of industries.",
+            "fax_number": "(03) 9763 6711",
+            "latest_annual_reports": [
+                {
+                    "header": "EGL Annual Report 2017",
+                    "document_date": "2017-08-30T15:23:34+1000",
+                    "number_of_pages": 92,
+                    "id": "01890331",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-30T15:27:05+1000",
+                    "size": "6.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lww86ztcc1dj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 202555,
+                "status": [],
+                "market_cap": 18570127,
+                "code": "EGL",
+                "indices": [],
+                "year_open_price": 0.057,
+                "previous_close_price": 0.086,
+                "year_change_price": 0.031,
+                "year_low_date": "2017-06-20T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 215931711,
+                "eps": 0.0079,
+                "change_in_percent": "2.326%",
+                "change_price": 0.002,
+                "deprecated_number_of_shares": 215931711,
+                "pe": 11.14,
+                "offer_price": 0.09,
+                "suspended": false,
+                "last_price": 0.088,
+                "deprecated_market_cap": 19002000,
+                "day_low_price": 0.087,
+                "open_price": 0.087,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "2.381%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.095,
+                "bid_price": 0.088,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.088,
+                "year_change_in_percentage": "54.386%",
+                "average_daily_volume": 147237,
+                "year_low_price": 0.015,
+                "annual_dividend_yield": 0.68
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.environmental.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Cartney",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cartney",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ellis Richardson",
+                    "first_name": "Ellis",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richardson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dean Dowie",
+                    "first_name": "Dean",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dowie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lynn Richardson",
+                    "first_name": "Lynn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Richardson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Bush",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bush",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Bush",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bush",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

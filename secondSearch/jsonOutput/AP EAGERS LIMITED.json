@@ -1,0 +1,201 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/APE",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "AP EAGERS LIMITED",
+    "ASXcode": "APE",
+    "data": {
+        "summary": {
+            "name_short": "AP EAGERS",
+            "name_full": "AP EAGERS LIMITED",
+            "last_dividend": {
+                "comments": "13.5C FRANKED @ 30%;  DRP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.135,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "code": "APE",
+            "primary_share_code": "APE",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "A.P. EAGERS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1957-04-17T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "corporate@apeagers.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3608 7100",
+            "mailing_address": "5 Edmund Street, NEWSTEAD, QLD, AUSTRALIA, 4006",
+            "principal_activities": "Selling of new and used motor vehicles, the distribution of parts, accessories, car care products, and the repair and servicing of motor vehicles; the facilitation of finance, insurance, leasing and extended warranties for motor vehicles; property ownersh",
+            "fax_number": "(07) 3608 7101",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-21T12:52:51+1000",
+                    "number_of_pages": 96,
+                    "id": "01849563",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-21T12:55:40+1000",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170421/pdf/43hnhpdy4hgyfk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 32338,
+                "status": [],
+                "market_cap": 1518517400,
+                "code": "APE",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 5.1,
+                "previous_close_price": 7.95,
+                "year_change_price": 2.88,
+                "year_low_date": "2017-05-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 191008478,
+                "eps": 0.546,
+                "change_in_percent": "0.377%",
+                "change_price": 0.03,
+                "deprecated_number_of_shares": 191008478,
+                "pe": 14.62,
+                "offer_price": 7.98,
+                "suspended": false,
+                "last_price": 7.98,
+                "deprecated_market_cap": 1524248000,
+                "day_low_price": 7.86,
+                "open_price": 7.86,
+                "year_high_date": "2017-01-30T00:00:00+1100",
+                "previous_day_percentage_change": "0.379%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 9.97,
+                "bid_price": 7.95,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 7.98,
+                "year_change_in_percentage": "56.471%",
+                "average_daily_volume": 47708,
+                "year_low_price": 7.25,
+                "annual_dividend_yield": 4.45
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.apeagers.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.apeagers.com.au/shareholders/ap-eagers-share-price/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tim Crommelin",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crommelin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Ward",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ward",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sophie Moore",
+                    "first_name": "Sophie",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Moore",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Marcus John Birrell",
+                    "first_name": "Marcus",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Birrell",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr David Cowper",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cowper",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nick Politis",
+                    "first_name": "Nick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Politis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dan Ryan",
+                    "first_name": "Dan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ryan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Denis Stark",
+                    "first_name": "Denis",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stark",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Denis Stark",
+                    "first_name": "Denis",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stark",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

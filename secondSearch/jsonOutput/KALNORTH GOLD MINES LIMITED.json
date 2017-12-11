@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KGM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KALNORTH GOLD MINES LIMITED",
+    "ASXcode": "KGM",
+    "data": {
+        "summary": {
+            "name_short": "KNORTHGOLD",
+            "name_full": "KALNORTH GOLD MINES LIMITED",
+            "code": "KGM",
+            "primary_share_code": "KGM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KALNORTH GOLD LTD",
+            "foreign_exempt": false,
+            "listing_date": "2005-01-20T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "lijun.yang@kalnorthgoldmines.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9021 8327  0437507362",
+            "mailing_address": "224-226 Dugan Street, KALGOORLIE, WA, AUSTRALIA, 6430",
+            "principal_activities": "Gold mining and exploration.",
+            "fax_number": "(08) 9225 5533",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T14:45:44+1100",
+                    "number_of_pages": 1,
+                    "id": "01915822",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T14:48:26+1100",
+                    "size": "192.3KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nt5319btj98l.pdf"
+                },
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-29T19:01:58+1000",
+                    "number_of_pages": 57,
+                    "id": "01902807",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T19:10:11+1000",
+                    "size": "629.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtth8mvjntcj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 7153920,
+                "code": "KGM",
+                "indices": [],
+                "year_open_price": 0.014,
+                "previous_close_price": 0.008,
+                "year_change_price": -0.006,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 894240060,
+                "eps": -0.0001,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 894240060,
+                "pe": 0,
+                "offer_price": 0.009,
+                "suspended": false,
+                "last_price": 0.008,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-06-05T00:00:00+1000",
+                "previous_day_percentage_change": "14.286%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.018,
+                "bid_price": 0.007,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-42.857%",
+                "average_daily_volume": 112641,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.kalnorthgoldmines.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jerry Jiajun Hu",
+                    "first_name": "Jerry",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hu",
+                    "middle_name": "Jiajun"
+                },
+                {
+                    "full_name": "Mrs Xiaojing Wang",
+                    "first_name": "Xiaojing",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yuanguang Yang",
+                    "first_name": "Yuanguang",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jerry Jiajun Hu",
+                    "first_name": "Jerry",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hu",
+                    "middle_name": "Jiajun"
+                }
+            ]
+        }
+    }
+}

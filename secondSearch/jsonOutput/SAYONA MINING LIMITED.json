@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SYA",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "SAYONA MINING LIMITED",
+    "ASXcode": "SYA",
+    "data": {
+        "summary": {
+            "name_short": "SAYONA",
+            "name_full": "SAYONA MINING LIMITED",
+            "code": "SYA",
+            "primary_share_code": "SYA",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "SAYONA MINING LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-03-30T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "pcrawford@sayonamining.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3369 7058",
+            "mailing_address": "Unit 68, 283 Given Terrace, Paddinton, QLD, AUSTRALIA, 4064",
+            "principal_activities": "Mineral exploration and development.",
+            "fax_number": "(07) 3300 9213",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-17T10:25:52+1100",
+                    "number_of_pages": 72,
+                    "id": "01908733",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-17T10:27:59+1100",
+                    "size": "4.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171017/pdf/43n97y53h4qzc9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 16791662,
+                "status": [],
+                "market_cap": 70472523,
+                "code": "SYA",
+                "indices": [],
+                "year_open_price": 0.005,
+                "previous_close_price": 0.048,
+                "year_change_price": 0.041,
+                "year_low_date": "2017-10-04T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1468177569,
+                "eps": -0.0031,
+                "change_in_percent": "-4.167%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 1468177569,
+                "pe": 0,
+                "offer_price": 0.046,
+                "suspended": false,
+                "last_price": 0.046,
+                "deprecated_market_cap": 67536000,
+                "day_low_price": 0.045,
+                "open_price": 0.049,
+                "year_high_date": "2017-11-29T00:00:00+1100",
+                "previous_day_percentage_change": "-5.882%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.06,
+                "bid_price": 0.045,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.05,
+                "year_change_in_percentage": "820%",
+                "average_daily_volume": 29393528,
+                "year_low_price": 0.01,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.sayonamining.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Dennis O'Neill",
+                    "first_name": "Dennis",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Neill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Crawford",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crawford",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Brown",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Allan Buckler",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Buckler",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Paul Crawford",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crawford",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

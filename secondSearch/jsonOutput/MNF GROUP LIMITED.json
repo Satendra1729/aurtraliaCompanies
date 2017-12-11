@@ -1,0 +1,172 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MNF",
+    "GICSindustrygroup": "Telecommunication Services",
+    "Companyname": "MNF GROUP LIMITED",
+    "ASXcode": "MNF",
+    "data": {
+        "summary": {
+            "name_short": "MNFGROUP",
+            "name_full": "MNF GROUP LIMITED",
+            "code": "MNF",
+            "primary_share_code": "MNF",
+            "industry_group_name": "Telecommunication Services",
+            "delisting_date": null,
+            "sector_name": "Telecommunication Services",
+            "name_abbrev": "MNF GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-05-18T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "4.5C FRANKED @30%; D RP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-15T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-09-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.045,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8008 8000",
+            "mailing_address": "Level 3, 580 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provider of broadband VoIP phone services to the residential and business markets in Australia.",
+            "fax_number": "(02) 8008 8008",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-13T09:22:08+1100",
+                    "number_of_pages": 80,
+                    "id": "01907517",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T09:24:40+1100",
+                    "size": "5.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n66cdnfgzpl6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 31074,
+                "status": [],
+                "market_cap": 465656352,
+                "code": "MNF",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 2.05,
+                "previous_close_price": 6.38,
+                "year_change_price": 4.22,
+                "year_low_date": "2017-05-01T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 72986889,
+                "eps": 0.1732,
+                "change_in_percent": "-1.724%",
+                "change_price": -0.11,
+                "deprecated_number_of_shares": 72986889,
+                "pe": 36.2,
+                "offer_price": 6.37,
+                "suspended": false,
+                "last_price": 6.27,
+                "deprecated_market_cap": 457628000,
+                "day_low_price": 6.26,
+                "open_price": 6.4,
+                "year_high_date": "2017-11-29T00:00:00+1100",
+                "previous_day_percentage_change": "0.631%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 6.52,
+                "bid_price": 6.26,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 6.49,
+                "year_change_in_percentage": "205.854%",
+                "average_daily_volume": 101314,
+                "year_low_price": 4.03,
+                "annual_dividend_yield": 1.32
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.mynetfone.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Terry Cuthbertson",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cuthbertson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rene Sugo",
+                    "first_name": "Rene",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sugo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael John Boorne",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boorne",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Andy Kam Kan Fung",
+                    "first_name": "Andy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fung",
+                    "middle_name": "Kam Kan"
+                },
+                {
+                    "full_name": "Mr Matthew Gepp",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gepp",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Catherine Ly",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ly",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

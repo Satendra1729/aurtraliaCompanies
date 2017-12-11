@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GOE",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "GO ENERGY GROUP LIMITED",
+    "ASXcode": "GOE",
+    "data": {
+        "summary": {
+            "name_full": "GO ENERGY GROUP LIMITED",
+            "code": "GOE",
+            "name_short": "GO ENERGY",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "GO ENERGY GROUP LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/GOE?image_size=L&v=1456693747000",
+            "foreign_exempt": false,
+            "listing_date": "2000-12-15T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "corporate@goenergy.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8907 7407",
+            "mailing_address": "GO energy, Level 6, 221 Miller Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Sustainable water and power solutions",
+            "fax_number": "(02) 8008 1506",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "GOE",
+                "indices": [],
+                "year_open_price": 0.014,
+                "previous_close_price": 0.027,
+                "year_change_price": 0.013,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 988608252,
+                "eps": -0.0128,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 361001874,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.027,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-03-09T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.027,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "92.857%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "GOE",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.goenergygroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.goenergygroup.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Rodney Harvey",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harvey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lui Pangiarella",
+                    "first_name": "Lui",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pangiarella",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dean Walker",
+                    "first_name": "Dean",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warren Kember",
+                    "first_name": "Warren",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kember",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Administrators Appointed",
+                    "first_name": "Administrators",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Appointed",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warren Kember",
+                    "first_name": "Warren",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kember",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CGM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "COUGAR METALS NL",
+    "ASXcode": "CGM",
+    "data": {
+        "summary": {
+            "name_short": "COUGAR",
+            "name_full": "COUGAR METALS NL",
+            "code": "CGM",
+            "primary_share_code": "CGM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "COUGAR METALS NL",
+            "foreign_exempt": false,
+            "listing_date": "2003-12-16T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9482 0580",
+            "mailing_address": "Ground Floor, 16 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold and nickel exploration",
+            "fax_number": "08 9482 0505",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-01T13:51:17+1100",
+                    "number_of_pages": 62,
+                    "id": "01903143",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T09:08:47+1100",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvyfnqq23htv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5863843,
+                "status": [],
+                "market_cap": 6413625,
+                "code": "CGM",
+                "indices": [],
+                "year_open_price": 0.005,
+                "previous_close_price": 0.007,
+                "year_change_price": 0.002,
+                "year_low_date": "2017-08-18T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 916232139,
+                "eps": -0.0021,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 916232139,
+                "pe": 0,
+                "offer_price": 0.008,
+                "suspended": false,
+                "last_price": 0.007,
+                "deprecated_market_cap": 6414000,
+                "day_low_price": 0.007,
+                "open_price": 0.007,
+                "year_high_date": "2017-10-02T00:00:00+1100",
+                "previous_day_percentage_change": "-12.5%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.023,
+                "bid_price": 0.007,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.007,
+                "year_change_in_percentage": "40%",
+                "average_daily_volume": 6813054,
+                "year_low_price": 0.006,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.cgm.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Randal LLoyd Swick",
+                    "first_name": "Randal",
+                    "roles": [
+                        "Executive Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Swick",
+                    "middle_name": "LLoyd"
+                },
+                {
+                    "full_name": "Mr Michael Fry",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fry",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Symons",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Symons",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brian Thomas",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thomas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Tucker",
+                    "first_name": "Brett",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tucker",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Brett Tucker",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tucker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Fry",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fry",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

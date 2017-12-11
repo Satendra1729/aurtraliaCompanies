@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PBP",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "PROBIOTEC LIMITED",
+    "ASXcode": "PBP",
+    "data": {
+        "summary": {
+            "name_short": "PROBIOTEC",
+            "name_full": "PROBIOTEC LIMITED",
+            "code": "PBP",
+            "primary_share_code": "PBP",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "PROBIOTEC LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2006-11-14T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "1.5C FRANKED @30%; D RP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-25T00:00:00+1000",
+                "record_date": "2017-09-05T00:00:00+1000",
+                "payable_date": "2017-10-04T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.015,
+                "ex_date": "2017-09-04T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9278 7555",
+            "mailing_address": "83 Cherry Lane, LAVERTON NORTH, VIC, AUSTRALIA, 3026",
+            "principal_activities": "Management and marketing of quality brands and intellectual property, as well as pharmaceutical manufacturing including contract manufacturing for third parties. Brand owner, manufacturer, marketer and distributor of a range of over the counter pharmaceuticals, complementary medicines and specialty ingredients.",
+            "fax_number": "(03) 9369 6730",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-23T16:46:50+1100",
+                    "number_of_pages": 74,
+                    "id": "01911226",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T16:50:34+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43nh38ppn3qj97.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 139917,
+                "status": [],
+                "market_cap": 46838604,
+                "code": "PBP",
+                "indices": [],
+                "year_open_price": 0.51,
+                "previous_close_price": 0.77,
+                "year_change_price": 0.21,
+                "year_low_date": "2017-06-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 60829356,
+                "eps": 0.0428,
+                "change_in_percent": "-6.494%",
+                "change_price": -0.05,
+                "deprecated_number_of_shares": 60829356,
+                "pe": 16.82,
+                "offer_price": 0.72,
+                "suspended": false,
+                "last_price": 0.72,
+                "deprecated_market_cap": 43797000,
+                "day_low_price": 0.72,
+                "open_price": 0.77,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.78,
+                "bid_price": 0.7,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.78,
+                "year_change_in_percentage": "41.176%",
+                "average_daily_volume": 82793,
+                "year_low_price": 0.37,
+                "annual_dividend_yield": 2.78
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.probiotec.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoffrey Ronald Pearce",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pearce",
+                    "middle_name": "Ronald"
+                },
+                {
+                    "full_name": "Mr Wesley Stringer",
+                    "first_name": "Wesley",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stringer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Lan",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jared Stringer",
+                    "first_name": "Jared",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stringer",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jared Stringer",
+                    "first_name": "Jared",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stringer",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

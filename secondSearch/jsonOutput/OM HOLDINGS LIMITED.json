@@ -1,0 +1,181 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OMH",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "OM HOLDINGS LIMITED",
+    "ASXcode": "OMH",
+    "data": {
+        "summary": {
+            "name_short": "OM HLDNGS",
+            "name_full": "OM HOLDINGS LIMITED",
+            "code": "OMH",
+            "primary_share_code": "OMH",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "OM HOLDINGS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1998-03-12T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+65 6346 5515",
+            "mailing_address": "80 Marine Parade Road, #08-08 Parkway Parade, AUSTRALIA,",
+            "principal_activities": "The principal activity of the Chief Entity is investment holding.  The principal activity of the Chief Entity's controlled entities is the mining, processing and sale of specialised metal materials.",
+            "fax_number": "+65 6342 2242",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-26T08:32:33+1000",
+                    "number_of_pages": 128,
+                    "id": "01850219",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-26T08:35:21+1000",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170426/pdf/43hqmvvbd73rv1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 165591,
+                "status": [],
+                "market_cap": 465723819,
+                "code": "OMH",
+                "indices": [],
+                "year_open_price": 0.47,
+                "previous_close_price": 0.635,
+                "year_change_price": 0.18,
+                "year_low_date": "2017-05-22T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 733423337,
+                "eps": 0.0487,
+                "change_in_percent": "2.362%",
+                "change_price": 0.015,
+                "deprecated_number_of_shares": 733423337,
+                "pe": 13.35,
+                "offer_price": 0.68,
+                "suspended": false,
+                "last_price": 0.65,
+                "deprecated_market_cap": 476725000,
+                "day_low_price": 0.63,
+                "open_price": 0.63,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "-6.618%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.695,
+                "bid_price": 0.64,
+                "desc_full": "10c Ordinary Fully Paid",
+                "day_high_price": 0.66,
+                "year_change_in_percentage": "38.298%",
+                "average_daily_volume": 285019,
+                "year_low_price": 0.1,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.omholdingsltd.com/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Low Ngee Tong",
+                    "first_name": "Low Ngee",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zainul Abidin Rasheed",
+                    "first_name": "Zainul",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rasheed",
+                    "middle_name": "Abidin"
+                },
+                {
+                    "full_name": "Mr Tan Peng Chin",
+                    "first_name": "Tan Peng",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Church",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Church",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ivo Philipps",
+                    "first_name": "Ivo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Philipps",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Thomas Teo Liang Huat",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Teo Liang Huat",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Julie-Anne Wolseley",
+                    "first_name": "Julie-Anne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wolseley",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Julie-Anne Wolseley",
+                    "first_name": "Julie-Anne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wolseley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Heng Siow Kwee",
+                    "first_name": "Heng Siow",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Kwee",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

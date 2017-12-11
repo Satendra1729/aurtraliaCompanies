@@ -1,0 +1,125 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SFM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "SANTA FE MINERALS LTD",
+    "ASXcode": "SFM",
+    "data": {
+        "summary": {
+            "name_short": "SANTAFEMIN",
+            "name_full": "SANTA FE MINERALS LTD",
+            "code": "SFM",
+            "primary_share_code": "SFM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "SANTA FE MINERALS",
+            "foreign_exempt": false,
+            "listing_date": "2011-10-07T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 93896032",
+            "mailing_address": "39 Clifton Street, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Currently evaluating potential new projects",
+            "fax_number": "(08) 93898226",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 7955067,
+                "code": "SFM",
+                "indices": [],
+                "year_open_price": 0.086,
+                "previous_close_price": 0.11,
+                "year_change_price": 0.024,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 72318789,
+                "eps": -0.0058,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 71068789,
+                "pe": 0,
+                "offer_price": 0.12,
+                "suspended": false,
+                "last_price": 0.11,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-24T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.125,
+                "bid_price": 0.11,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "27.907%",
+                "average_daily_volume": 231263,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.ezacorp.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Jones",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Douglas Rose",
+                    "first_name": "Douglas",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rose",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terence Brown",
+                    "first_name": "Terence",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Quin",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Quin",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Krystel Kirou",
+                    "first_name": "Krystel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kirou",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

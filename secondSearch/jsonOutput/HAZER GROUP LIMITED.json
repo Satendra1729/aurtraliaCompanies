@@ -1,0 +1,143 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HZR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "HAZER GROUP LIMITED",
+    "ASXcode": "HZR",
+    "data": {
+        "summary": {
+            "name_short": "HAZERGROUP",
+            "name_full": "HAZER GROUP LIMITED",
+            "code": "HZR",
+            "primary_share_code": "HZR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "HAZER GROUP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2015-12-02T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9389 7050",
+            "mailing_address": "Suite 2, 29 The Avenue, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Commercialising the production of hydrogen gas from methane with negligible carbon dioxide emissions and the co-production of a high purity graphite",
+            "fax_number": "(08) 9389 1464",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E & Annual Report 30 June 2017",
+                    "document_date": "2017-08-31T17:40:02+1000",
+                    "number_of_pages": 55,
+                    "id": "01891402",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-31T17:42:33+1000",
+                    "size": "1.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lz1yjp1hg1wx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 376081,
+                "status": [],
+                "market_cap": 33301858,
+                "code": "HZR",
+                "indices": [],
+                "deprecated_number_of_shares": 66336158,
+                "previous_close_price": 0.435,
+                "year_low_date": "2017-09-19T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 76555995,
+                "eps": -0.0574,
+                "change_in_percent": "-3.448%",
+                "change_price": -0.015,
+                "pe": 0,
+                "offer_price": 0.465,
+                "suspended": false,
+                "last_price": 0.42,
+                "deprecated_market_cap": 27861000,
+                "day_low_price": 0.405,
+                "open_price": 0.43,
+                "year_high_date": "2017-03-24T00:00:00+1100",
+                "previous_day_percentage_change": "-4.396%",
+                "year_open_date": null,
+                "year_high_price": 0.77,
+                "bid_price": 0.42,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.44,
+                "average_daily_volume": 250670,
+                "year_low_price": 0.395,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.hazergroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tim Goldsmith",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goldsmith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Pocock",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pocock",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Harris",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Danielle Lee",
+                    "first_name": "Danielle",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terry Walsh",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walsh",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Emma Waldon",
+                    "first_name": "Emma",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Waldon",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

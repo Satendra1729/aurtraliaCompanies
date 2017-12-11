@@ -1,0 +1,33 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RT9",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "RESIMAC BASTILLE TRUST SERIES 2017-1NC",
+    "ASXcode": "RT9",
+    "data": {
+        "summary": {
+            "name_full": "RESIMAC BASTILLE TRUST SERIES 2017-1NC",
+            "products": [],
+            "phone_number": ".",
+            "mailing_address": "tba, ., NSW, AUSTRALIA, .",
+            "principal_activities": ".",
+            "name_short": "RESIMAC BT",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "RESIMAC BASTILLE",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "RT9",
+            "listing_date": "2017-12-07T00:00:00+1100",
+            "registry_address": "LEVEL 7, 9 CASTLEREAGH STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "PERPETUAL TRUSTEE COMPANY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": []
+        }
+    }
+}

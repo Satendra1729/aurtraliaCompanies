@@ -1,0 +1,93 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DAV",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "DAVENPORT RESOURCES LIMITED",
+    "ASXcode": "DAV",
+    "data": {
+        "summary": {
+            "name_short": "DAVENPORT",
+            "name_full": "DAVENPORT RESOURCES LIMITED",
+            "code": "DAV",
+            "primary_share_code": "DAV",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "DAVENPORT RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2017-01-20T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9678 9104",
+            "mailing_address": "Level 28, 303 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Mining Exploration.",
+            "fax_number": "0",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-24T17:32:45+1100",
+                    "number_of_pages": 56,
+                    "id": "01911947",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T17:35:13+1100",
+                    "size": "4.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43njmvtzz1xsm5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 10051,
+                "status": [],
+                "market_cap": 7031642,
+                "code": "DAV",
+                "indices": [],
+                "deprecated_number_of_shares": 36103592,
+                "previous_close_price": 0.095,
+                "year_low_date": "2017-11-27T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 74017282,
+                "eps": 0,
+                "change_in_percent": "3.158%",
+                "change_price": 0.003,
+                "pe": 0,
+                "offer_price": 0.098,
+                "suspended": false,
+                "last_price": 0.098,
+                "deprecated_market_cap": 3538000,
+                "day_low_price": 0.098,
+                "open_price": 0.098,
+                "year_high_date": "2017-02-01T00:00:00+1100",
+                "previous_day_percentage_change": "10.465%",
+                "year_open_date": null,
+                "year_high_price": 0.225,
+                "bid_price": 0.086,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.098,
+                "average_daily_volume": 117920,
+                "year_low_price": 0.075,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.davenportresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Rajan Narayanasamy",
+                    "first_name": "Rajan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Narayanasamy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

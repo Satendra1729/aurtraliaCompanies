@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PHK",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "PHOSLOCK WATER SOLUTIONS LIMITED",
+    "ASXcode": "PHK",
+    "data": {
+        "summary": {
+            "name_short": "PHOSLOCK",
+            "name_full": "PHOSLOCK WATER SOLUTIONS LIMITED",
+            "code": "PHK",
+            "primary_share_code": "PHK",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "PHOSLOCK WATER",
+            "foreign_exempt": false,
+            "listing_date": "2002-08-16T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "enquiries@phoslock.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8014 7611",
+            "mailing_address": "SUITE 403, 25 LIME STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Water treatment & water services company.",
+            "fax_number": "(02) 8014 7625",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-15T13:22:33+1100",
+                    "number_of_pages": 72,
+                    "id": "01907980",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-16T08:24:55+1100",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171016/pdf/43n7n70j1x88z2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 196281,
+                "status": [],
+                "market_cap": 100655898,
+                "code": "PHK",
+                "indices": [],
+                "year_open_price": 0.04,
+                "previous_close_price": 0.21,
+                "year_change_price": 0.165,
+                "year_low_date": "2017-02-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 479313801,
+                "eps": -0.005,
+                "change_in_percent": "-2.381%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 479313801,
+                "pe": 0,
+                "offer_price": 0.21,
+                "suspended": false,
+                "last_price": 0.205,
+                "deprecated_market_cap": 98259000,
+                "day_low_price": 0.205,
+                "open_price": 0.21,
+                "year_high_date": "2017-07-07T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.24,
+                "bid_price": 0.205,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.215,
+                "year_change_in_percentage": "412.5%",
+                "average_daily_volume": 313305,
+                "year_low_price": 0.068,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.phoslock.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.phoslock.com.au/investors"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Laurence Freedman",
+                    "first_name": "Laurence",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Freedman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Schuitema",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Managing Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schuitema",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Pam Allan",
+                    "first_name": "Pam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Allan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Brenda Shanahan",
+                    "first_name": "Brenda",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Shanahan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zhigang Zhang",
+                    "first_name": "Zhigang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Robert Schuitema",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schuitema",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KTE",
+    "GICSindustrygroup": "Utilities",
+    "Companyname": "K2 ENERGY LIMITED.",
+    "ASXcode": "KTE",
+    "data": {
+        "summary": {
+            "name_short": "K2 ENERGY",
+            "name_full": "K2 ENERGY LIMITED.",
+            "code": "KTE",
+            "primary_share_code": "KTE",
+            "industry_group_name": "Utilities",
+            "delisting_date": null,
+            "sector_name": "Utilities",
+            "name_abbrev": "K2 ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-07-02T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 92513311",
+            "mailing_address": "Level 2 Kyle House, 27 Macquarie Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Oil & Gas Exploration",
+            "fax_number": "02 92516550",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T16:31:22+1000",
+                    "number_of_pages": 45,
+                    "id": "01901366",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T16:32:58+1000",
+                    "size": "620.7KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqyh0vcglm80.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 2178995,
+                "code": "KTE",
+                "indices": [],
+                "year_open_price": 0.015,
+                "previous_close_price": 0.009,
+                "year_change_price": -0.006,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 242110570,
+                "eps": -0.0014,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 242110570,
+                "pe": 0,
+                "offer_price": 0.012,
+                "suspended": false,
+                "last_price": 0.009,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-12T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.025,
+                "bid_price": 0.009,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-40%",
+                "average_daily_volume": 86067,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.k2energy.com.au/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Sam Gazal",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gazal",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ken Gaunt",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gaunt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Robert Mears",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Mears",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Terry Flitcroft",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Flitcroft",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

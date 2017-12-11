@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FUN",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "FUNTASTIC LIMITED",
+    "ASXcode": "FUN",
+    "data": {
+        "summary": {
+            "name_short": "FUNTASTIC",
+            "name_full": "FUNTASTIC LIMITED",
+            "code": "FUN",
+            "primary_share_code": "FUN",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "FUNTASTIC LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2000-09-14T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8569 9000",
+            "mailing_address": "Level 2, 307 Ferntree Gully Rd, MOUNT WAVERLEY, VIC, AUSTRALIA, 3149",
+            "principal_activities": "Wholesale trade",
+            "fax_number": "03 8569 9111",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-11-10T09:50:46+1100",
+                    "number_of_pages": 88,
+                    "id": "01920023",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-10T09:54:34+1100",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171110/pdf/43p3wd623h59s4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3212207,
+                "status": [],
+                "market_cap": 29166517,
+                "code": "FUN",
+                "indices": [],
+                "year_open_price": 0.15,
+                "previous_close_price": 0.012,
+                "year_change_price": -0.137,
+                "year_low_date": "2017-06-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2430543114,
+                "eps": -0.0463,
+                "change_in_percent": "8.333%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 2430143114,
+                "pe": 0,
+                "offer_price": 0.013,
+                "suspended": false,
+                "last_price": 0.013,
+                "deprecated_market_cap": 31592000,
+                "day_low_price": 0.012,
+                "open_price": 0.012,
+                "year_high_date": "2017-02-10T00:00:00+1100",
+                "previous_day_percentage_change": "9.091%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.015,
+                "bid_price": 0.012,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.013,
+                "year_change_in_percentage": "-91.333%",
+                "average_daily_volume": 3499507,
+                "year_low_price": 0.003,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://funtastic.com.au",
+            "fiscal_year_end": "31/07",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Shane Francis Tanner",
+                    "first_name": "Shane",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tanner",
+                    "middle_name": "Francis"
+                },
+                {
+                    "full_name": "Mr Nir Pizmony",
+                    "first_name": "Nir",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pizmony",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Heath",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Heath",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Mackenzie",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Chief Op. Officer",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackenzie",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Grant Mackenzie",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackenzie",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

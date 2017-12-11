@@ -1,0 +1,133 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NMG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NMG CORPORATION LIMITED",
+    "ASXcode": "NMG",
+    "data": {
+        "summary": {
+            "name_short": "NOBLEMIN",
+            "name_full": "NMG CORPORATION LIMITED",
+            "code": "NMG",
+            "primary_share_code": "NMG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NMG CORP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2008-06-27T00:00:00+1000",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8072 1400",
+            "mailing_address": "c/- Whittens & McKeough, Level 29, 201 Elizabeth Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Mining exploration",
+            "fax_number": "(02) 8072 1440",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-29T16:46:49+1000",
+                    "number_of_pages": 67,
+                    "id": "01902561",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:50:41+1000",
+                    "size": "808.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtbw03gzxwxy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "NMG",
+                "indices": [],
+                "deprecated_number_of_shares": 338328147,
+                "previous_close_price": 0.008,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 338328147,
+                "eps": -0.002,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.008,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-08-23T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.01,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.nmglimited.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mike Hill",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Chenoweth",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chenoweth",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gregg Taylor",
+                    "first_name": "Gregg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Taylor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jonathan Pager",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Finance Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pager",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Whitten",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whitten",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ELO",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "ELMO SOFTWARE LIMITED",
+    "ASXcode": "ELO",
+    "data": {
+        "summary": {
+            "name_short": "ELMOSFTWRE",
+            "name_full": "ELMO SOFTWARE LIMITED",
+            "code": "ELO",
+            "primary_share_code": "ELO",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "ELMO SOFTWARE",
+            "foreign_exempt": false,
+            "listing_date": "2017-06-29T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9375 7975",
+            "mailing_address": "Level 12, 680 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Talent management software",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-18T09:05:29+1100",
+                    "number_of_pages": 84,
+                    "id": "01909135",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-18T09:07:26+1100",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171018/pdf/43nb5rkrfbmbk0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 19252,
+                "status": [],
+                "market_cap": 190142260,
+                "code": "ELO",
+                "indices": [],
+                "deprecated_number_of_shares": 13297745,
+                "previous_close_price": 3.51,
+                "year_low_date": "2017-06-29T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 54171584,
+                "eps": 0,
+                "change_in_percent": "5.413%",
+                "change_price": 0.19,
+                "pe": 0,
+                "offer_price": 3.7,
+                "suspended": false,
+                "last_price": 3.7,
+                "deprecated_market_cap": 49202000,
+                "day_low_price": 3.55,
+                "open_price": 3.55,
+                "year_high_date": "2017-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "-6.4%",
+                "year_open_date": null,
+                "year_high_price": 3.8,
+                "bid_price": 3.65,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.7,
+                "average_daily_volume": 35164,
+                "year_low_price": 2.17,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.elmotalent.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jim McKerlie",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKerlie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Danny Lessem",
+                    "first_name": "Danny",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lessem",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Lonstein",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lonstein",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Hancock",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hancock",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Anna Sandham",
+                    "first_name": "Anna",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Sandham",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

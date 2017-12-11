@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EOS",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "ELECTRO OPTIC SYSTEMS HOLDINGS LIMITED",
+    "ASXcode": "EOS",
+    "data": {
+        "summary": {
+            "name_short": "ELEC OPTIC",
+            "name_full": "ELECTRO OPTIC SYSTEMS HOLDINGS LIMITED",
+            "code": "EOS",
+            "primary_share_code": "EOS",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "ELECTRO OPTIC SYS.",
+            "foreign_exempt": false,
+            "listing_date": "2000-10-23T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "iandennis@eos-aus.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9233 5015",
+            "mailing_address": "Suite 2, Level 12, 75 Elizabeth Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Design, development and production of advanced electro optic technology devices and systems for the space and defence markets.",
+            "fax_number": "(02) 9232 3411",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-10T14:39:17+1000",
+                    "number_of_pages": 72,
+                    "id": "01846708",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-10T14:40:48+1000",
+                    "size": "3.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170410/pdf/43hf5kczb4nyhd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 44985,
+                "status": [],
+                "market_cap": 169637241,
+                "code": "EOS",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.4,
+                "previous_close_price": 2.43,
+                "year_change_price": 2.02,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 69809564,
+                "eps": -0.1071,
+                "change_in_percent": "-0.412%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 69809564,
+                "pe": 0,
+                "offer_price": 2.45,
+                "suspended": false,
+                "last_price": 2.42,
+                "deprecated_market_cap": 168939000,
+                "day_low_price": 2.38,
+                "open_price": 2.4,
+                "year_high_date": "2017-05-12T00:00:00+1000",
+                "previous_day_percentage_change": "5.195%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 3.4,
+                "bid_price": 2.4,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.49,
+                "year_change_in_percentage": "505%",
+                "average_daily_volume": 67878,
+                "year_low_price": 1.42,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.eos-aus.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Fred Bart",
+                    "first_name": "Fred",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bart",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Ben Greene",
+                    "first_name": "Ben",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Greene",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian A Dennis",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dennis",
+                    "middle_name": "A"
+                },
+                {
+                    "full_name": "Mr Peter Leahy",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leahy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Scully",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scully",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Ureda",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ureda",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian A Dennis",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dennis",
+                    "middle_name": "A"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EMP",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "EMPEROR ENERGY LIMITED",
+    "ASXcode": "EMP",
+    "data": {
+        "summary": {
+            "name_short": "EMPEROR",
+            "name_full": "EMPEROR ENERGY LIMITED",
+            "code": "EMP",
+            "primary_share_code": "EMP",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "EMPEROR ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "1987-06-05T00:00:00+1000",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9692 7222",
+            "mailing_address": "Level 4, 100 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Oil exploration, development, production and investment.",
+            "fax_number": "(03) 9077 9233",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 2597573,
+                "code": "EMP",
+                "indices": [],
+                "year_open_price": 0.023,
+                "previous_close_price": 0.003,
+                "year_change_price": -0.02,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 865857730,
+                "eps": -0.0072,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 865857730,
+                "pe": 0,
+                "offer_price": 0.004,
+                "suspended": false,
+                "last_price": 0.003,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-08-11T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.005,
+                "bid_price": 0.003,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-86.957%",
+                "average_daily_volume": 4542707,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.oilbasins.com.au",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Carl Dumbrell",
+                    "first_name": "Carl",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dumbrell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Vaz Hovanessian",
+                    "first_name": "Vaz",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hovanessian",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Justyn Peters",
+                    "first_name": "Justyn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Peters",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Carl Dumbrell",
+                    "first_name": "Carl",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dumbrell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

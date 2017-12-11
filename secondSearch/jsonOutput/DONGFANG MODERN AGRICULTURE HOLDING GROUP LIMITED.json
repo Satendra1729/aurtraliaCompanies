@@ -1,0 +1,98 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DFM",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "DONGFANG MODERN AGRICULTURE HOLDING GROUP LIMITED",
+    "ASXcode": "DFM",
+    "data": {
+        "summary": {
+            "name_short": "DONGFANG",
+            "name_full": "DONGFANG MODERN AGRICULTURE HOLDING GROUP LIMITED",
+            "code": "DFM",
+            "primary_share_code": "DFM",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "DONGFANG MODERN AG",
+            "foreign_exempt": false,
+            "listing_date": "2015-10-19T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "UNFRANKED; 100% CFI;  DRP",
+                "franked_percentage": "0%",
+                "created_date": "2017-03-01T00:00:00+1100",
+                "record_date": "2017-04-03T00:00:00+1000",
+                "payable_date": "2017-08-15T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.05,
+                "ex_date": "2017-03-31T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8964 8531",
+            "mailing_address": "Level 18, 12 Creek Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Holding Company for subsidiary operating company which carries on business of cultivation and sales of navel oranges, pomelos, tangerines and camellia located in the Ghanzhou Province in China.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-31T15:05:20+1100",
+                    "number_of_pages": 61,
+                    "id": "01843887",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T15:06:45+1100",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h62zswzmrx0z.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 56772,
+                "status": [],
+                "market_cap": 329979966,
+                "code": "DFM",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 420356644,
+                "previous_close_price": 0.785,
+                "year_low_date": "2017-01-04T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 420356644,
+                "eps": 0.223,
+                "change_in_percent": "1.274%",
+                "change_price": 0.01,
+                "pe": 3.57,
+                "offer_price": 0.8,
+                "suspended": false,
+                "last_price": 0.795,
+                "deprecated_market_cap": 334184000,
+                "day_low_price": 0.78,
+                "open_price": 0.79,
+                "year_high_date": "2017-03-02T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.96,
+                "bid_price": 0.78,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.795,
+                "average_daily_volume": 100292,
+                "year_low_price": 0.74,
+                "annual_dividend_yield": 6.29
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.dongfangmodernagriculture.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": []
+        }
+    }
+}

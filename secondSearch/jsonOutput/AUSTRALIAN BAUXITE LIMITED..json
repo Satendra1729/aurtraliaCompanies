@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ABX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AUSTRALIAN BAUXITE LIMITED.",
+    "ASXcode": "ABX",
+    "data": {
+        "summary": {
+            "name_short": "AUSBAUXITE",
+            "name_full": "AUSTRALIAN BAUXITE LIMITED.",
+            "code": "ABX",
+            "primary_share_code": "ABX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AUST BAUXITE LTD.",
+            "foreign_exempt": false,
+            "listing_date": "2009-12-24T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9251 7177",
+            "mailing_address": "Level 2, 131 Macquarie Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Bauxite exploration.",
+            "fax_number": "(02) 9251 7500",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-30T14:08:15+1100",
+                    "number_of_pages": 74,
+                    "id": "01843430",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T14:10:39+1100",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h51yxm534nyy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 32813,
+                "status": [],
+                "market_cap": 16545587,
+                "code": "ABX",
+                "indices": [],
+                "year_open_price": 0.24,
+                "previous_close_price": 0.115,
+                "year_change_price": -0.125,
+                "year_low_date": "2017-05-31T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 143874673,
+                "eps": -0.0104,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 143874673,
+                "pe": 0,
+                "offer_price": 0.12,
+                "suspended": false,
+                "last_price": 0.115,
+                "deprecated_market_cap": 16546000,
+                "day_low_price": 0.115,
+                "open_price": 0.115,
+                "year_high_date": "2016-12-14T00:00:00+1100",
+                "previous_day_percentage_change": "-4.167%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.215,
+                "bid_price": 0.115,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.115,
+                "year_change_in_percentage": "-52.083%",
+                "average_daily_volume": 133190,
+                "year_low_price": 0.097,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.australianbauxite.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Warwick Levy",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Levy",
+                    "middle_name": "Warwick"
+                },
+                {
+                    "full_name": "Mr Ken Boundy",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boundy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Anthony Lennon",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lennon",
+                    "middle_name": "Anthony"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Henry Kinstlinger",
+                    "first_name": "Henry",
+                    "roles": [
+                        "Company Secretary",
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kinstlinger",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

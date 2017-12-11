@@ -1,0 +1,123 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IMI",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "IM MEDICAL LTD",
+    "ASXcode": "IMI",
+    "data": {
+        "summary": {
+            "name_short": "IM MEDICAL",
+            "name_full": "IM MEDICAL LTD",
+            "code": "IMI",
+            "primary_share_code": "IMI",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "IM MEDICAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "1996-12-13T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9607 8280",
+            "mailing_address": "Level 40, 140 William Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Health care services in the prevention and management of cardiovasular and other life threatening diseases.",
+            "fax_number": "(03) 9607 8285",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-04T16:16:40+1000",
+                    "number_of_pages": 50,
+                    "id": "01892497",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-04T16:23:27+1000",
+                    "size": "868.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170904/pdf/43m1vn1543qlm3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": -1,
+                "indices": [],
+                "year_open_price": 0.001,
+                "previous_close_price": 0,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 91344632,
+                "eps": -0.0002,
+                "code": "IMI",
+                "deprecated_number_of_shares": 91344632,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-12-22T00:00:00+1100",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.001,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.immedical.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Nigel Blaze",
+                    "first_name": "Nigel",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Blaze",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Burton",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Wadley",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wadley",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Richard Wadley",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wadley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

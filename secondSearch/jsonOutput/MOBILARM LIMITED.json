@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MBO",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "MOBILARM LIMITED",
+    "ASXcode": "MBO",
+    "data": {
+        "summary": {
+            "name_short": "MOBILARM",
+            "name_full": "MOBILARM LIMITED",
+            "code": "MBO",
+            "primary_share_code": "MBO",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "MOBILARM LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2010-09-21T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9315 3511",
+            "mailing_address": "38 Guthrie Street, OSBORNE PARK, WA, AUSTRALIA, 6017",
+            "principal_activities": "Development of marine safety solutions.",
+            "fax_number": "(08) 9315 3611",
+            "latest_annual_reports": [
+                {
+                    "header": "Despatch of 2017 Notice of AGM & Annual Report",
+                    "document_date": "2017-10-20T14:46:53+1100",
+                    "number_of_pages": 116,
+                    "id": "01910468",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T14:49:34+1100",
+                    "size": "6.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43nf2rzkd1jm00.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T16:34:47+1000",
+                    "number_of_pages": 99,
+                    "id": "01901397",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T16:46:03+1000",
+                    "size": "6.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr09hhnn46vk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "MBO",
+                "indices": [],
+                "year_open_price": 0.035,
+                "previous_close_price": 0.021,
+                "year_change_price": -0.014,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 493119583,
+                "eps": -0.0019,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 493119583,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.021,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-11T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.03,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-40%",
+                "average_daily_volume": 253297,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.mobilarm.com",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Admiral Sir Tim McClement",
+                    "first_name": "Sir Tim",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Admiral",
+                    "last_name": "McClement",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ken Gaunt",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gaunt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jorge Nigaglioni",
+                    "first_name": "Jorge",
+                    "roles": [
+                        "Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nigaglioni",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David McArthur",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McArthur",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

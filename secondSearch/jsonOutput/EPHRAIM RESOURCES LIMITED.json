@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EPA",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "EPHRAIM RESOURCES LIMITED",
+    "ASXcode": "EPA",
+    "data": {
+        "summary": {
+            "name_short": "EPHRAIMRES",
+            "name_full": "EPHRAIM RESOURCES LIMITED",
+            "code": "EPA",
+            "primary_share_code": "EPA",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "EPHRAIM RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "1989-11-06T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9463  2463",
+            "mailing_address": "C/- Nexia Perth, Level 3, 88 William Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Agricultural biogenetics research and experimentation, licensing and consultancy, with a focus on nipah palm breeding, tissue culture, cultivation and plantation and producing sugar syrup from nipah palm sap.",
+            "fax_number": "(08) 9463 2499",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-08-31T14:14:24+1000",
+                    "number_of_pages": 59,
+                    "id": "01891055",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T14:21:22+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lydbtfvd743l.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "EPA",
+                "indices": [],
+                "year_open_price": 0.16,
+                "previous_close_price": 0.002,
+                "year_change_price": -0.158,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1540000642,
+                "eps": -0.0003,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1540000642,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.002,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-28T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.002,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-98.75%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.ephraimresources.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Frederick (Eric) Ng",
+                    "first_name": "Frederick (Eric)",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ng",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Pynt",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pynt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Chan",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Henko Vos",
+                    "first_name": "Henko",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vos",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

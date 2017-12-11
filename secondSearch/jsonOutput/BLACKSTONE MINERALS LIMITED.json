@@ -1,0 +1,124 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BSX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BLACKSTONE MINERALS LIMITED",
+    "ASXcode": "BSX",
+    "data": {
+        "summary": {
+            "name_short": "BLACKSTONE",
+            "name_full": "BLACKSTONE MINERALS LIMITED",
+            "code": "BSX",
+            "primary_share_code": "BSX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BLACKSTONE LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-01-23T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9425 5217",
+            "mailing_address": "Level 3, 24 Outram Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mineral exploration and development",
+            "fax_number": "08 6500 9982",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T22:01:23+1000",
+                    "number_of_pages": 64,
+                    "id": "01901674",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:19:08+1000",
+                    "size": "3.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrn4wg54r1tv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 34048002,
+                "code": "BSX",
+                "indices": [],
+                "deprecated_number_of_shares": 43500004,
+                "previous_close_price": 0.56,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 60800004,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.57,
+                "suspended": false,
+                "last_price": 0.56,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-16T00:00:00+1100",
+                "previous_day_percentage_change": "3.704%",
+                "year_open_date": null,
+                "year_high_price": 0.62,
+                "bid_price": 0.6,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 135189,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.blackstoneminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Hamish Halliday",
+                    "first_name": "Hamish",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Halliday",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Radonjic",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Radonjic",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce McFadzean",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McFadzean",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jamie Anthony Byrde",
+                    "first_name": "Jamie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Byrde",
+                    "middle_name": "Anthony"
+                }
+            ]
+        }
+    }
+}

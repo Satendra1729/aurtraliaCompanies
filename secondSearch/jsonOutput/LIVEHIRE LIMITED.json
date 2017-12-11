@@ -1,0 +1,154 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LVH",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "LIVEHIRE LIMITED",
+    "ASXcode": "LVH",
+    "data": {
+        "summary": {
+            "name_short": "LIVEHIRE",
+            "name_full": "LIVEHIRE LIMITED",
+            "code": "LVH",
+            "primary_share_code": "LVH",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "LIVEHIRE LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2016-06-10T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9078 4485",
+            "mailing_address": "Level 13, 114 William Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Provision of cloud-based human resources software and platform services.",
+            "fax_number": "03 8692 6587",
+            "latest_annual_reports": [
+                {
+                    "header": "FY17 Annual Report",
+                    "document_date": "2017-08-29T19:14:33+1000",
+                    "number_of_pages": 63,
+                    "id": "01889820",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-29T19:18:24+1000",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lvs0btsh5dh3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 338775,
+                "status": [],
+                "market_cap": 272075828,
+                "code": "LVH",
+                "indices": [],
+                "deprecated_number_of_shares": 163814159,
+                "previous_close_price": 1.125,
+                "year_low_date": "2016-12-15T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 241845180,
+                "eps": -0.022,
+                "change_in_percent": "-0.444%",
+                "change_price": -0.005,
+                "pe": 0,
+                "offer_price": 1.12,
+                "suspended": false,
+                "last_price": 1.12,
+                "deprecated_market_cap": 183472000,
+                "day_low_price": 1.11,
+                "open_price": 1.135,
+                "year_high_date": "2017-11-30T00:00:00+1100",
+                "previous_day_percentage_change": "1.351%",
+                "year_open_date": null,
+                "year_high_price": 1.2,
+                "bid_price": 1.11,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.145,
+                "average_daily_volume": 556899,
+                "year_low_price": 0.295,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.livehire.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoffrey Morgan",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Antonluigi Gozzi",
+                    "first_name": "Antonluigi",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gozzi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Grant Galvin",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Galvin",
+                    "middle_name": "Grant"
+                },
+                {
+                    "full_name": "Mr Michael Haywood",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haywood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Christy Lyn Forest",
+                    "first_name": "Christy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Forest",
+                    "middle_name": "Lyn"
+                },
+                {
+                    "full_name": "Mr Adam Zorzi",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zorzi",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Charly Duffy",
+                    "first_name": "Charly",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Duffy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

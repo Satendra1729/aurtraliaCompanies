@@ -1,0 +1,110 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BIR",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "BIRRABONG CORPORATION LIMITED",
+    "ASXcode": "BIR",
+    "data": {
+        "summary": {
+            "name_short": "BIRRABONG",
+            "name_full": "BIRRABONG CORPORATION LIMITED",
+            "code": "BIR",
+            "primary_share_code": "BIR",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "BIRRABONG CORP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-07-31T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8091 5916",
+            "mailing_address": "Suite 29, Level 32, 1 Market St, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Property & Infrastructure Development",
+            "fax_number": "(02) 9275 8800",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "indices": [],
+                "year_open_price": 0.018,
+                "previous_close_price": 0,
+                "year_low_date": "2015-03-25T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 149000000,
+                "eps": 0.3303,
+                "code": "BIR",
+                "deprecated_number_of_shares": 149000000,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-03-25T00:00:00+1100",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://BIR@tearum.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Christopher Anderson",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alexander Harmstorf",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harmstorf",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tai Silberman",
+                    "first_name": "Tai",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Silberman",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Greg Barry Starr",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Starr",
+                    "middle_name": "Barry"
+                }
+            ]
+        }
+    }
+}

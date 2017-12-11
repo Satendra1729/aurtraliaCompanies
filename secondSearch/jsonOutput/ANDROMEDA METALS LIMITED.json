@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ADN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ANDROMEDA METALS LIMITED",
+    "ASXcode": "ADN",
+    "data": {
+        "summary": {
+            "name_short": "ANDROMEDA",
+            "name_full": "ANDROMEDA METALS LIMITED",
+            "code": "ADN",
+            "primary_share_code": "ADN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ANDROMEDA METALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "1996-09-17T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 8271 0600",
+            "mailing_address": "69 King William Road, UNLEY, SA, AUSTRALIA, 5061",
+            "principal_activities": "Exploration for economic gold and copper deposits.",
+            "fax_number": "(08) 8271 0033",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-31T18:07:53+1100",
+                    "number_of_pages": 56,
+                    "id": "01916241",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T18:12:04+1100",
+                    "size": "4.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43ntywzt8bm4rg.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 240000,
+                "status": [],
+                "market_cap": 4603925,
+                "code": "ADN",
+                "indices": [],
+                "year_open_price": 0.06572,
+                "previous_close_price": 0.006,
+                "year_change_price": -0.05972,
+                "year_low_date": "2017-08-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 767320855,
+                "eps": -0.0174,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 767320855,
+                "pe": 0,
+                "offer_price": 0.007,
+                "suspended": false,
+                "last_price": 0.006,
+                "deprecated_market_cap": 4604000,
+                "day_low_price": 0.006,
+                "open_price": 0.006,
+                "year_high_date": "2017-10-27T00:00:00+1100",
+                "previous_day_percentage_change": "-14.286%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.013,
+                "bid_price": 0.006,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.006,
+                "year_change_in_percentage": "-90.87%",
+                "average_daily_volume": 5082262,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.adelaideresources.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Colin George Jackson",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jackson",
+                    "middle_name": "George"
+                },
+                {
+                    "full_name": "Mr Christopher George Drown",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Drown",
+                    "middle_name": "George"
+                },
+                {
+                    "full_name": "Mr Nick Harding",
+                    "first_name": "Nick",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harding",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jonathan Peter Buckley",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Buckley",
+                    "middle_name": "Peter"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nick Harding",
+                    "first_name": "Nick",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harding",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

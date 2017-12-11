@@ -1,0 +1,174 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MNW",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "MINT PAYMENTS LIMITED",
+    "ASXcode": "MNW",
+    "data": {
+        "summary": {
+            "name_short": "MINT PAYM",
+            "name_full": "MINT PAYMENTS LIMITED",
+            "code": "MNW",
+            "primary_share_code": "MNW",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "MINT PAYMENTS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-08-02T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8752 7888",
+            "mailing_address": "Level 4, 450 Victoria Road, GLADESVILLE, NSW, AUSTRALIA, 2111",
+            "principal_activities": "Mint Payments is a global mobile payments and transactions processing company. Mint Payments has a mobile payments technology platform that enables corporate enterprises to accept credit and debit card payments on various mobile phones, tablets and mobile devices.",
+            "fax_number": "(02) 8752 7899",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-31T14:17:08+1100",
+                    "number_of_pages": 60,
+                    "id": "01915781",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T14:19:26+1100",
+                    "size": "2.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nt2mlmzj376m.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 331865,
+                "status": [],
+                "market_cap": 27885705,
+                "code": "MNW",
+                "indices": [],
+                "year_open_price": 0.325,
+                "previous_close_price": 0.043,
+                "year_change_price": -0.276,
+                "year_low_date": "2017-09-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 648504776,
+                "eps": -0.0088,
+                "change_in_percent": "13.953%",
+                "change_price": 0.006,
+                "deprecated_number_of_shares": 648504776,
+                "pe": 0,
+                "offer_price": 0.049,
+                "suspended": false,
+                "last_price": 0.049,
+                "deprecated_market_cap": 31777000,
+                "day_low_price": 0.045,
+                "open_price": 0.045,
+                "year_high_date": "2017-02-01T00:00:00+1100",
+                "previous_day_percentage_change": "-4.444%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.09,
+                "bid_price": 0.045,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.049,
+                "year_change_in_percentage": "-84.923%",
+                "average_daily_volume": 412060,
+                "year_low_price": 0.036,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.mintpayments.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Terry Cuthbertson",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cuthbertson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alex Teoh",
+                    "first_name": "Alex",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Teoh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Teoh",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Teoh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr William Bartee",
+                    "first_name": "William",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bartee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Anne Weatherston",
+                    "first_name": "Anne",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Weatherston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Wright",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wright",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Owyong",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Owyong",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Owyong",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Owyong",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

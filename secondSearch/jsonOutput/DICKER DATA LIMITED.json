@@ -1,0 +1,176 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DDR",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "DICKER DATA LIMITED",
+    "ASXcode": "DDR",
+    "data": {
+        "summary": {
+            "name_short": "DICKERDATA",
+            "name_full": "DICKER DATA LIMITED",
+            "code": "DDR",
+            "primary_share_code": "DDR",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "DICKER DATA LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2011-01-24T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "4C FRANKED @ 30%; DR P NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-11-14T00:00:00+1100",
+                "record_date": "2017-11-20T00:00:00+1100",
+                "payable_date": "2017-12-01T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.04,
+                "ex_date": "2017-11-17T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9589 8400",
+            "mailing_address": "230 Captain Cook Drive, KURNELL, NSW, AUSTRALIA, 2231",
+            "principal_activities": "Specialist IT hardware distributor of various prominent brands.",
+            "fax_number": "(02) 9525 0481",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2016",
+                    "document_date": "2017-02-27T15:38:25+1100",
+                    "number_of_pages": 60,
+                    "id": "01833236",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-02-27T15:49:14+1100",
+                    "size": "2.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170227/pdf/43gcjvl726yyhs.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 91295,
+                "status": [],
+                "market_cap": 477804978,
+                "code": "DDR",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.24,
+                "previous_close_price": 2.98,
+                "year_change_price": 1.79,
+                "year_low_date": "2017-03-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 160337241,
+                "eps": 0.1628,
+                "change_in_percent": "1.678%",
+                "change_price": 0.05,
+                "deprecated_number_of_shares": 160337241,
+                "pe": 18.61,
+                "offer_price": 3.03,
+                "suspended": false,
+                "last_price": 3.03,
+                "deprecated_market_cap": 485822000,
+                "day_low_price": 2.98,
+                "open_price": 2.99,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-0.832%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 3.03,
+                "bid_price": 3.02,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.03,
+                "year_change_in_percentage": "144.355%",
+                "average_daily_volume": 52267,
+                "year_low_price": 2.06,
+                "annual_dividend_yield": 5.41
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "https://www.dickerdata.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Dicker",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dicker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Fiona Brown",
+                    "first_name": "Fiona",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Demetre",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Demetre",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Vlad Mitnovetski",
+                    "first_name": "Vlad",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitnovetski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Mary Stojcevski",
+                    "first_name": "Mary",
+                    "roles": [
+                        "Director",
+                        "Finance Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stojcevski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Welch",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Welch",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Leanne Ralph",
+                    "first_name": "Leanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Ralph",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

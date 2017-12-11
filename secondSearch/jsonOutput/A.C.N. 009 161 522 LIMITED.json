@@ -1,0 +1,124 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SZG",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "A.C.N. 009 161 522 LIMITED",
+    "ASXcode": "SZG",
+    "data": {
+        "summary": {
+            "name_short": "SUBZERO",
+            "name_full": "A.C.N. 009 161 522 LIMITED",
+            "code": "SZG",
+            "primary_share_code": "SZG",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "A.C.N. 009 161 522",
+            "foreign_exempt": false,
+            "listing_date": "1987-03-12T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9486 7244",
+            "mailing_address": "108 Outram Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mining services.",
+            "fax_number": "(08) 9463 6373",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report - 30 June 2017",
+                    "document_date": "2017-11-07T22:26:33+1100",
+                    "number_of_pages": 42,
+                    "id": "01918955",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-08T08:26:13+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171108/pdf/43p1hhf2vg5kn3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": -1,
+                "indices": [],
+                "year_open_price": 0.12,
+                "previous_close_price": 0,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 40430796,
+                "eps": 0.75,
+                "code": "SZG",
+                "deprecated_number_of_shares": 40430796,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2014-12-31T00:00:00+1100",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.18,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.subzeroservices.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Davy",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kyla Garic",
+                    "first_name": "Kyla",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Garic",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Young",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Young",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kyla Garic",
+                    "first_name": "Kyla",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Garic",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

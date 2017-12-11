@@ -1,0 +1,777 @@
+[
+    [
+        {},
+        {
+            "Type": "Entity Name",
+            "Location": "2529         NSW",
+            "ABN": "93 003 559 733Active,/SearchByAbn.aspx?abn=93003559733",
+            "Name": "ADJ PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6251         WA",
+            "ABN": "62 498 578 928Active,/SearchByAbn.aspx?abn=62498578928",
+            "Name": "A & D J TORRISI"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2756         NSW",
+            "ABN": "88 339 064 848Active,/SearchByAbn.aspx?abn=88339064848",
+            "Name": "A & D J WOLDHUIS"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3808         VIC",
+            "ABN": "65 403 349 984Active,/SearchByAbn.aspx?abn=65403349984",
+            "Name": "A D & J BARKER"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "6215         WA",
+            "ABN": "74 423 171 017Active,/SearchByAbn.aspx?abn=74423171017",
+            "Name": "A D & J BRANCHI"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "5022         SA",
+            "ABN": "77 087 134 317Active,/SearchByAbn.aspx?abn=77087134317",
+            "Name": "A D & J THORNE"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4213         QLD",
+            "ABN": "33 065 733 860Active,/SearchByAbn.aspx?abn=33065733860",
+            "Name": "A D J CONSTRUCTIONS PTY. LTD."
+        },
+        {
+            "Type": "Other Name",
+            "Location": "2127         NSW",
+            "ABN": "38 138 564 217Active,/SearchByAbn.aspx?abn=38138564217",
+            "Name": "A D J IMPEX PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2064         NSW",
+            "ABN": "79 116 031 399Active,/SearchByAbn.aspx?abn=79116031399",
+            "Name": "A.D.J. AUSTRALIA PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3195         VIC",
+            "ABN": "90 005 024 993Active,/SearchByAbn.aspx?abn=90005024993",
+            "Name": "A.D.J. HOLDINGS PTY. LIMITED"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3305         VIC",
+            "ABN": "79 814 736 482Active,/SearchByAbn.aspx?abn=79814736482",
+            "Name": "A.D.J. PLUMBING"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5089         SA",
+            "ABN": "72 101 203 427Active,/SearchByAbn.aspx?abn=72101203427",
+            "Name": "ADJ (SA) PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2069         NSW",
+            "ABN": "83 240 250 118Active,/SearchByAbn.aspx?abn=83240250118",
+            "Name": "ADJ ACCOUNTANTS"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4211         QLD",
+            "ABN": "70 978 709 348Active,/SearchByAbn.aspx?abn=70978709348",
+            "Name": "ADJ BOOKKEEPING"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6027         WA",
+            "ABN": "17 121 113 817Active,/SearchByAbn.aspx?abn=17121113817",
+            "Name": "ADJ Brickwork Pty Ltd"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3046         VIC",
+            "ABN": "20 089 501 669Active,/SearchByAbn.aspx?abn=20089501669",
+            "Name": "ADJ CARPENTRY"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2564         NSW",
+            "ABN": "22 147 504 795Active,/SearchByAbn.aspx?abn=22147504795",
+            "Name": "ADJ ELECTRICAL"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2564         NSW",
+            "ABN": "85 124 005 876Active,/SearchByAbn.aspx?abn=85124005876",
+            "Name": "ADJ ELECTRICAL PTY LTD"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4878         QLD",
+            "ABN": "87 904 818 869Active,/SearchByAbn.aspx?abn=87904818869",
+            "Name": "ADJ ELECTRONICS"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4670         QLD",
+            "ABN": "67 620 225 523Active,/SearchByAbn.aspx?abn=67620225523",
+            "Name": "ADJ ENGINEERING PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2145         NSW",
+            "ABN": "79 141 595 842Active,/SearchByAbn.aspx?abn=79141595842",
+            "Name": "ADJ ENTERPRISES PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2402         NSW",
+            "ABN": "87 114 860 570Active,/SearchByAbn.aspx?abn=87114860570",
+            "Name": "ADJ Farming Pty Ltd"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2218         NSW",
+            "ABN": "62 166 237 154Active,/SearchByAbn.aspx?abn=62166237154",
+            "Name": "ADJ GENERATION PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3195         VIC",
+            "ABN": "53 602 332 187Active,/SearchByAbn.aspx?abn=53602332187",
+            "Name": "ADJ GROUP PTY. LTD."
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3189         VIC",
+            "ABN": "81 519 044 123Active,/SearchByAbn.aspx?abn=81519044123",
+            "Name": "ADJ INVESTMENTS PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2402         NSW",
+            "ABN": "62 165 860 579Active,/SearchByAbn.aspx?abn=62165860579",
+            "Name": "ADJ LOGISTICS PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2074         NSW",
+            "ABN": "14 620 742 092Active,/SearchByAbn.aspx?abn=14620742092",
+            "Name": "ADJ MANAGEMENT PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3042         VIC",
+            "ABN": "28 166 928 838Active,/SearchByAbn.aspx?abn=28166928838",
+            "Name": "ADJ MARKETING PTY. LTD."
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6065         WA",
+            "ABN": "84 611 029 728Active,/SearchByAbn.aspx?abn=84611029728",
+            "Name": "ADJ MOTOR COMPANY PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3075         VIC",
+            "ABN": "68 695 424 470Active,/SearchByAbn.aspx?abn=68695424470",
+            "Name": "ADJ Photography"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3073         VIC",
+            "ABN": "78 128 029 920Active,/SearchByAbn.aspx?abn=78128029920",
+            "Name": "ADJ RENDERING"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6149         WA",
+            "ABN": "38 607 903 711Active,/SearchByAbn.aspx?abn=38607903711",
+            "Name": "ADJ SUPERANNUATION PTY. LTD."
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3173         VIC",
+            "ABN": "39 612 826 954Active,/SearchByAbn.aspx?abn=39612826954",
+            "Name": "ADJ TEK PTY LTD"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3036         VIC",
+            "ABN": "21 480 109 880Active,/SearchByAbn.aspx?abn=21480109880",
+            "Name": "ADJ Transport"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4705         QLD",
+            "ABN": "48 638 568 854Active,/SearchByAbn.aspx?abn=48638568854",
+            "Name": "ADJ WHELAN"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4802         QLD",
+            "ABN": "62 707 762 352Active,/SearchByAbn.aspx?abn=62707762352",
+            "Name": "J.C HOGAN & R.G HOGAN & The Trustee For ADJ FAMILY TRUST & The Trustee for BRADBURY FAMILY TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6255         WA",
+            "ABN": "17 143 561 542Active,/SearchByAbn.aspx?abn=17143561542",
+            "Name": "PATTERSON A D & J"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4352         QLD",
+            "ABN": "20 605 460 092Active,/SearchByAbn.aspx?abn=20605460092",
+            "Name": "The Trustee for ADJ Super"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2069         NSW",
+            "ABN": "75 912 911 030Active,/SearchByAbn.aspx?abn=75912911030",
+            "Name": "The Trustee for ADJ Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2607         ACT",
+            "ABN": "44 775 939 177Active,/SearchByAbn.aspx?abn=44775939177",
+            "Name": "The Trustee for THE ADJ FAMILY TRUST"
+        }
+    ],
+    [
+        {},
+        {
+            "Type": "Entity Name",
+            "Location": "3046         VIC",
+            "ABN": "63 317 313 126Active,/SearchByAbn.aspx?abn=63317313126",
+            "Name": "The Trustee for The ADJ Family Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4213         QLD",
+            "ABN": "70 401 923 851Active,/SearchByAbn.aspx?abn=70401923851",
+            "Name": "The trustee for A D J Family Trust"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3076         VIC",
+            "ABN": "13 773 602 755Active,/SearchByAbn.aspx?abn=13773602755",
+            "Name": "adj creatives"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4850         QLD",
+            "ABN": "83 918 641 691Active,/SearchByAbn.aspx?abn=83918641691",
+            "Name": "A A AND D J LARSEN"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2340         NSW",
+            "ABN": "59 758 633 514Active,/SearchByAbn.aspx?abn=59758633514",
+            "Name": "A D & J A KIRK"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3523         VIC",
+            "ABN": "25 760 039 175Active,/SearchByAbn.aspx?abn=25760039175",
+            "Name": "A D & J A MUNRO"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2444         NSW",
+            "ABN": "76 074 873 909Active,/SearchByAbn.aspx?abn=76074873909",
+            "Name": "A D & J A Massey"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "7260         TAS",
+            "ABN": "81 605 885 669Active,/SearchByAbn.aspx?abn=81605885669",
+            "Name": "A D & J A SUMMERS"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4823         QLD",
+            "ABN": "17 269 062 834Active,/SearchByAbn.aspx?abn=17269062834",
+            "Name": "A D & J E FYSH"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2705         NSW",
+            "ABN": "46 584 600 678Active,/SearchByAbn.aspx?abn=46584600678",
+            "Name": "A D & J J BOYS"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4810         QLD",
+            "ABN": "94 753 982 985Active,/SearchByAbn.aspx?abn=94753982985",
+            "Name": "A D AND J E MOSS"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3621         VIC",
+            "ABN": "24 200 342 951Active,/SearchByAbn.aspx?abn=24200342951",
+            "Name": "A.D & J.A TYLER"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3401         VIC",
+            "ABN": "84 431 155 296Active,/SearchByAbn.aspx?abn=84431155296",
+            "Name": "A.D. & J.A. Templeton"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2176         NSW",
+            "ABN": "74 527 252 296Active,/SearchByAbn.aspx?abn=74527252296",
+            "Name": "A.D.J AUTO SERVICES"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2207         NSW",
+            "ABN": "96 122 476 662Active,/SearchByAbn.aspx?abn=96122476662",
+            "Name": "A.D.J. FINANCIAL SERVICES PTY LTD"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2560         NSW",
+            "ABN": "45 187 317 538Active,/SearchByAbn.aspx?abn=45187317538",
+            "Name": "A.D.J.A PANOUTSOPOULOS"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6285         WA",
+            "ABN": "32 998 631 074Active,/SearchByAbn.aspx?abn=32998631074",
+            "Name": "ADJ & AD BUDGE"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3568         VIC",
+            "ABN": "28 652 258 164Active,/SearchByAbn.aspx?abn=28652258164",
+            "Name": "ADJ & RL Pollock"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2767         NSW",
+            "ABN": "91 127 842 712Active,/SearchByAbn.aspx?abn=91127842712",
+            "Name": "ADJ CAJO ELECTRICAL"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2085         NSW",
+            "ABN": "62 275 253 029Active,/SearchByAbn.aspx?abn=62275253029",
+            "Name": "ADJ CONSULTANCY SERVICES"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "5118         SA",
+            "ABN": "28 564 558 017Active,/SearchByAbn.aspx?abn=28564558017",
+            "Name": "ADJ Computing and Electronics"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3173         VIC",
+            "ABN": "15 109 742 008Active,/SearchByAbn.aspx?abn=15109742008",
+            "Name": "ADJ Design Studio"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4019         QLD",
+            "ABN": "78 113 219 453Active,/SearchByAbn.aspx?abn=78113219453",
+            "Name": "ADJ ELECTRICAL (QLD) PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3195         VIC",
+            "ABN": "80 264 613 873Active,/SearchByAbn.aspx?abn=80264613873",
+            "Name": "ADJ ELECTRICAL CONTRACTORS"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2207         NSW",
+            "ABN": "73 676 220 785Active,/SearchByAbn.aspx?abn=73676220785",
+            "Name": "ADJ FINANCIAL SERVICES"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4055         QLD",
+            "ABN": "93 614 373 465Active,/SearchByAbn.aspx?abn=93614373465",
+            "Name": "ADJ HOBBY HOLDINGS PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3220         VIC",
+            "ABN": "84 617 972 719Active,/SearchByAbn.aspx?abn=84617972719",
+            "Name": "ADJ HOSPITALITY GROUP PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6157         WA",
+            "ABN": "70 149 233 670Active,/SearchByAbn.aspx?abn=70149233670",
+            "Name": "ADJ INDUSTRIES WA PTY. LTD."
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3189         VIC",
+            "ABN": "81 519 044 123Active,/SearchByAbn.aspx?abn=81519044123",
+            "Name": "ADJ INVESTMENTS TRUST"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "6230         WA",
+            "ABN": "55 683 514 733Active,/SearchByAbn.aspx?abn=55683514733",
+            "Name": "ADJ Mowing & More"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "6237         WA",
+            "ABN": "35 233 962 882Active,/SearchByAbn.aspx?abn=35233962882",
+            "Name": "ADJ Mowing & More"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2619         NSW",
+            "ABN": "84 616 504 913Active,/SearchByAbn.aspx?abn=84616504913",
+            "Name": "JC&ADJ ENTERPRISES PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3352         VIC",
+            "ABN": "86 640 647 053Active,/SearchByAbn.aspx?abn=86640647053",
+            "Name": "MATHEWS A A AND D J"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3630         VIC",
+            "ABN": "26 655 263 752Active,/SearchByAbn.aspx?abn=26655263752",
+            "Name": "THE ADJ GALBRAITH FAMILY TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2484         NSW",
+            "ABN": "19 195 205 655Active,/SearchByAbn.aspx?abn=19195205655",
+            "Name": "The Trustee for ADJ SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6149         WA",
+            "ABN": "82 165 197 349Active,/SearchByAbn.aspx?abn=82165197349",
+            "Name": "The Trustee for ADJ Superfund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3041         VIC",
+            "ABN": "66 331 327 089Active,/SearchByAbn.aspx?abn=66331327089",
+            "Name": "The trustee for AA and ADJ Family Trust"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2095         NSW",
+            "ABN": "80 326 421 884Active,/SearchByAbn.aspx?abn=80326421884",
+            "Name": "W A A & D J HEWITT"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3192         VIC",
+            "ABN": "87 007 371 502Active,/SearchByAbn.aspx?abn=87007371502",
+            "Name": "A.D.J.S. ELECTRICAL CONTRACTORS PTY. LTD."
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2484         NSW",
+            "ABN": "19 195 205 655Active,/SearchByAbn.aspx?abn=19195205655",
+            "Name": "ADJ CONSTRUCTIONS SUPERANNUATION FUND"
+        }
+    ],
+    [
+        {},
+        {
+            "Type": "Business Name",
+            "Location": "3121         VIC",
+            "ABN": "64 542 637 596Active,/SearchByAbn.aspx?abn=64542637596",
+            "Name": "ADJ FIRE SPRINKLER SYSTEMS"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4068         QLD",
+            "ABN": "99 573 219 914Active,/SearchByAbn.aspx?abn=99573219914",
+            "Name": "ADJ Plumbing and Gas Services"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "5291         SA",
+            "ABN": "93 707 998 962Active,/SearchByAbn.aspx?abn=93707998962",
+            "Name": "RGJ & SM & ADJ HINTON"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4300         QLD",
+            "ABN": "95 641 303 938Active,/SearchByAbn.aspx?abn=95641303938",
+            "Name": "THE TRUSTEE FOR ADJ COMMERCIAL PROPERTY TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3195         VIC",
+            "ABN": "80 264 613 873Active,/SearchByAbn.aspx?abn=80264613873",
+            "Name": "THE TRUSTEE FOR THE ADJ CONTRACTING UNIT TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3060         VIC",
+            "ABN": "59 768 745 499Active,/SearchByAbn.aspx?abn=59768745499",
+            "Name": "The Trustee for ADJ Consulting & Design Family Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4031         QLD",
+            "ABN": "31 736 761 395Active,/SearchByAbn.aspx?abn=31736761395",
+            "Name": "The Trustee for ADJ PEZZIMENTI INVESTMENT TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3025         VIC",
+            "ABN": "60 536 946 896Active,/SearchByAbn.aspx?abn=60536946896",
+            "Name": "The Trustee for EE & ADJ Puopolo Family Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4209         QLD",
+            "ABN": "42 981 350 708Active,/SearchByAbn.aspx?abn=42981350708",
+            "Name": "The Trustee for The A D and J A Weekes Family Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2060         NSW",
+            "ABN": "50 235 314 569Active,/SearchByAbn.aspx?abn=50235314569",
+            "Name": "The Trustee for the ADJ Holdings Unit Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2074         NSW",
+            "ABN": "59 894 849 081Active,/SearchByAbn.aspx?abn=59894849081",
+            "Name": "A D J WRIGHT SUPERANNUATION FU ND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3195         VIC",
+            "ABN": "47 079 106 639Active,/SearchByAbn.aspx?abn=47079106639",
+            "Name": "ADJ INVESTMENTS EMPLOYEE SHARE PLAN PTY. LTD."
+        },
+        {
+            "Type": "Business Name",
+            "Location": "6155         WA",
+            "ABN": "59 969 753 539Active,/SearchByAbn.aspx?abn=59969753539",
+            "Name": "ADJ Sound Hire & PC Repairs"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4213         QLD",
+            "ABN": "87 613 872 658Active,/SearchByAbn.aspx?abn=87613872658",
+            "Name": "The Trustee for ADJ Super Fund No 2"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3038         VIC",
+            "ABN": "77 941 628 206Active,/SearchByAbn.aspx?abn=77941628206",
+            "Name": "The Trustee for DK & ADJ Lekovski Superfund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2088         NSW",
+            "ABN": "27 368 599 054Active,/SearchByAbn.aspx?abn=27368599054",
+            "Name": "The Trustee for RTM & ADJ DOHERTY SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3437         VIC",
+            "ABN": "84 194 585 962Active,/SearchByAbn.aspx?abn=84194585962",
+            "Name": "Y Y LY AND A D J LY"
+        },
+        {
+            "Type": "Other Name",
+            "Location": "2127         NSW",
+            "ABN": "38 138 564 217Active,/SearchByAbn.aspx?abn=38138564217",
+            "Name": "A D J I"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4053         QLD",
+            "ABN": "95 207 700 220Active,/SearchByAbn.aspx?abn=95207700220",
+            "Name": "ADJ Pezzimenti Investment Trust & Poli Developments Trust"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3207         VIC",
+            "ABN": "94 356 611 922Active,/SearchByAbn.aspx?abn=94356611922",
+            "Name": "ADJA PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2027         NSW",
+            "ABN": "19 094 142 042Active,/SearchByAbn.aspx?abn=19094142042",
+            "Name": "ADJJ PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2176         NSW",
+            "ABN": "54 608 433 576Active,/SearchByAbn.aspx?abn=54608433576",
+            "Name": "ADJO PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2527         NSW",
+            "ABN": "24 613 020 385Active,/SearchByAbn.aspx?abn=24613020385",
+            "Name": "ADJA ENTERPRISES PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2131         NSW",
+            "ABN": "23 174 285 204Active,/SearchByAbn.aspx?abn=23174285204",
+            "Name": "ADJE DA SILVEIRA"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3195         VIC",
+            "ABN": "29 088 953 405Active,/SearchByAbn.aspx?abn=29088953405",
+            "Name": "ADJE Solutions"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3000         VIC",
+            "ABN": "33 938 833 104Active,/SearchByAbn.aspx?abn=33938833104",
+            "Name": "ADJI BASKORO"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "0870         NT",
+            "ABN": "47 187 557 156Active,/SearchByAbn.aspx?abn=47187557156",
+            "Name": "ADJI RAINOW"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6522         WA",
+            "ABN": "30 476 569 033Active,/SearchByAbn.aspx?abn=30476569033",
+            "Name": "ADJI TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2027         NSW",
+            "ABN": "29 947 705 534Active,/SearchByAbn.aspx?abn=29947705534",
+            "Name": "ADJJ FAMILY TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2088         NSW",
+            "ABN": "84 140 661 918Active,/SearchByAbn.aspx?abn=84140661918",
+            "Name": "ADJO Investments Pty Ltd"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2756         NSW",
+            "ABN": "84 255 933 780Active,/SearchByAbn.aspx?abn=84255933780",
+            "Name": "AdJa Tactical"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2756         NSW",
+            "ABN": "84 255 933 780Active,/SearchByAbn.aspx?abn=84255933780",
+            "Name": "ADJA ABSOLUTE ENTERPRISES"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2021         NSW",
+            "ABN": "86 967 128 634Active,/SearchByAbn.aspx?abn=86967128634",
+            "Name": "ADJI MAREME DIOP"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6522         WA",
+            "ABN": "50 992 063 043Active,/SearchByAbn.aspx?abn=50992063043",
+            "Name": "ADJI SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2120         NSW",
+            "ABN": "79 789 864 423Active,/SearchByAbn.aspx?abn=79789864423",
+            "Name": "AUDREY INDRAWATI ADJI"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3141         VIC",
+            "ABN": "99 138 554 738Active,/SearchByAbn.aspx?abn=99138554738",
+            "Name": "CINDY SELO ADJI"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2291         NSW",
+            "ABN": "74 644 632 647Active,/SearchByAbn.aspx?abn=74644632647",
+            "Name": "ESTELITA ADJE HUIJER"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3195         VIC",
+            "ABN": "51 436 582 429Active,/SearchByAbn.aspx?abn=51436582429",
+            "Name": "THE ADJS SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2440         NSW",
+            "ABN": "64 618 499 577Active,/SearchByAbn.aspx?abn=64618499577",
+            "Name": "ADEJ PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2216         NSW",
+            "ABN": "54 434 991 171Active,/SearchByAbn.aspx?abn=54434991171",
+            "Name": "ANDJAR ADJI TAUFIK HIDAYAT"
+        }
+    ],
+    [
+        {},
+        {
+            "Type": "Entity Name",
+            "Location": "4053         QLD",
+            "ABN": "12 386 610 584Active,/SearchByAbn.aspx?abn=12386610584",
+            "Name": "ELSIE ADJO ENYONAM KANDA"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2120         NSW",
+            "ABN": "16 236 492 918Active,/SearchByAbn.aspx?abn=16236492918",
+            "Name": "K ADJI & S ADJI"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6714         WA",
+            "ABN": "40 417 054 090Active,/SearchByAbn.aspx?abn=40417054090",
+            "Name": "The Trustee for ADJH Buzz Super Fund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2194         NSW",
+            "ABN": "34 131 450 309Active,/SearchByAbn.aspx?abn=34131450309",
+            "Name": "A D E & J CONSTRUCTIONS PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2430         NSW",
+            "ABN": "18 427 707 020Active,/SearchByAbn.aspx?abn=18427707020",
+            "Name": "ADAJ COUTURE"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2774         NSW",
+            "ABN": "35 675 652 065Active,/SearchByAbn.aspx?abn=35675652065",
+            "Name": "ADAJ DESIGNS"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3107         VIC",
+            "ABN": "61 569 720 981Active,/SearchByAbn.aspx?abn=61569720981",
+            "Name": "The Trustee for ADAJ Trust"
+        }
+    ],
+    "\r\n   Your search for ADJ found 127 matches. Current names with active ABNs are listed below sorted by relevance. Use All ABNs tab to list cancelled ABNs/names. Click on an ABN or refine your search.\r\n"
+]

@@ -1,0 +1,141 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RGP",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "REFRESH GROUP LIMITED",
+    "ASXcode": "RGP",
+    "data": {
+        "summary": {
+            "name_full": "REFRESH GROUP LIMITED",
+            "code": "RGP",
+            "name_short": "REFRESHGRP",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "REFRESH GROUP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RGP?image_size=L&v=1387645006000",
+            "foreign_exempt": false,
+            "listing_date": "2006-03-29T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@refreshgroup.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9248 3006",
+            "mailing_address": "17 Denninup Way, MALAGA, WA, AUSTRALIA, 6090",
+            "principal_activities": "Largest producer of distilled drinking water in Australia, offering bottled water, water filters and purifiers. \nPlastics blow moulder capable of producing up to 210-litre.",
+            "fax_number": "(08) 9248 7233",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-22T17:04:18+1000",
+                    "number_of_pages": 67,
+                    "id": "01899165",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T17:08:13+1000",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mkpzg0g7wl73.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 216399,
+                "status": [],
+                "market_cap": 12678281,
+                "code": "RGP",
+                "indices": [],
+                "year_open_price": 0.043,
+                "previous_close_price": 0.095,
+                "year_change_price": 0.042,
+                "year_low_date": "2017-06-16T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 133455590,
+                "eps": 0,
+                "change_in_percent": "-10.526%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 133455590,
+                "pe": 0,
+                "offer_price": 0.089,
+                "suspended": false,
+                "last_price": 0.085,
+                "deprecated_market_cap": 11344000,
+                "day_low_price": 0.085,
+                "open_price": 0.099,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "50.794%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.099,
+                "bid_price": 0.078,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.099,
+                "year_change_in_percentage": "97.674%",
+                "average_daily_volume": 245514,
+                "year_low_price": 0.035,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "RGP",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.refreshgroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Henry Heng",
+                    "first_name": "Henry",
+                    "roles": [
+                        "Executive Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Heng",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Chai",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chai",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Pixley",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pixley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Thuan Teh",
+                    "first_name": "Thuan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Teh",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Julie Moore",
+                    "first_name": "Julie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Moore",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EHH",
+    "GICSindustrygroup": "Household & Personal Products",
+    "Companyname": "EAGLE HEALTH HOLDINGS LIMITED",
+    "ASXcode": "EHH",
+    "data": {
+        "summary": {
+            "name_short": "EAGLE H",
+            "name_full": "EAGLE HEALTH HOLDINGS LIMITED",
+            "code": "EHH",
+            "primary_share_code": "EHH",
+            "industry_group_name": "Household & Personal Products",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "EAGLE HLTH HLDGS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-07-03T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI;  DRP",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-10-12T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.005,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8644 3500",
+            "mailing_address": "c/o HWL Ebsworth Lawyers, Level 26, 530 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "The Eagle Group is principally engaged in the developing, manufacturing, marketing and distributing health food products and nutritional and dietary supplements in China.",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 76284,
+                "status": [],
+                "market_cap": 110954681,
+                "code": "EHH",
+                "indices": [],
+                "deprecated_number_of_shares": 312548397,
+                "previous_close_price": 0.355,
+                "year_low_date": "2017-10-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 312548397,
+                "eps": 0,
+                "change_in_percent": "1.408%",
+                "change_price": 0.005,
+                "pe": 0,
+                "offer_price": 0.365,
+                "suspended": false,
+                "last_price": 0.36,
+                "deprecated_market_cap": 112517000,
+                "day_low_price": 0.36,
+                "open_price": 0.36,
+                "year_high_date": "2017-07-03T00:00:00+1000",
+                "previous_day_percentage_change": "-2.74%",
+                "year_open_date": null,
+                "year_high_price": 0.45,
+                "bid_price": 0.35,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.36,
+                "average_daily_volume": 45191,
+                "year_low_price": 0.35,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.eaglehealthltd.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "The Hon Andrew Thomson",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "Thomson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Chen Linxiang",
+                    "first_name": "Chen",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Linxiang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zhang Mingwang",
+                    "first_name": "Zhang",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mingwang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rodney Hannington",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hannington",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Smith",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Liu Yuhong",
+                    "first_name": "Liu",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Yuhong",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Michael Beer",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Justyn Peter Stedwell",
+                    "first_name": "Justyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stedwell",
+                    "middle_name": "Peter"
+                }
+            ]
+        }
+    }
+}

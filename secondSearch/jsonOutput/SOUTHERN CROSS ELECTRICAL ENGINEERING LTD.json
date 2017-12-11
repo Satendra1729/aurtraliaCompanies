@@ -1,0 +1,189 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SXE",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "SOUTHERN CROSS ELECTRICAL ENGINEERING LTD",
+    "ASXcode": "SXE",
+    "data": {
+        "summary": {
+            "name_short": "STH X ELEC",
+            "name_full": "SOUTHERN CROSS ELECTRICAL ENGINEERING LTD",
+            "code": "SXE",
+            "primary_share_code": "SXE",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "STH CRS ELECT ENGNR",
+            "foreign_exempt": false,
+            "listing_date": "2007-11-28T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "1.35C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2016-08-24T00:00:00+1000",
+                "record_date": "2016-09-19T00:00:00+1000",
+                "payable_date": "2016-10-13T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.0135,
+                "ex_date": "2016-09-16T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9236 8300",
+            "mailing_address": "41 Macedonia Street, NAVAL BASE, WA, AUSTRALIA, 6165",
+            "principal_activities": "Provider of large scale specialised electrical, control and instrumentation installation and testing services for the resources, infrastructure and heavy industrial sectors.",
+            "fax_number": "(08) 9410 2504",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-29T23:24:02+1000",
+                    "number_of_pages": 84,
+                    "id": "01889878",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-30T08:19:13+1000",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lvzp7wnjx1cb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 543337,
+                "status": [],
+                "market_cap": 172384877,
+                "code": "SXE",
+                "indices": [],
+                "year_open_price": 0.82,
+                "previous_close_price": 0.745,
+                "year_change_price": -0.075,
+                "year_low_date": "2017-05-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 231389097,
+                "eps": -0.0023,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 231389097,
+                "pe": 0,
+                "offer_price": 0.76,
+                "suspended": false,
+                "last_price": 0.745,
+                "deprecated_market_cap": 172385000,
+                "day_low_price": 0.74,
+                "open_price": 0.74,
+                "year_high_date": "2017-09-29T00:00:00+1000",
+                "previous_day_percentage_change": "2.055%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.835,
+                "bid_price": 0.74,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.76,
+                "year_change_in_percentage": "-9.146%",
+                "average_daily_volume": 359220,
+                "year_low_price": 0.435,
+                "annual_dividend_yield": 1.81
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.scee.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Prof. Derek Parkin",
+                    "first_name": "Derek",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Parkin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme Dunn",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dunn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Buchhorn",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Buchhorn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank Tomasi",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tomasi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Karl Paganin",
+                    "first_name": "Karl",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paganin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Douglass",
+                    "first_name": "Chris",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Douglass",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colin Harper",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harper",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Colin Harper",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harper",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Douglass",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Douglass",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

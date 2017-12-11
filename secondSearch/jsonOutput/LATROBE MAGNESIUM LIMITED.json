@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LMG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LATROBE MAGNESIUM LIMITED",
+    "ASXcode": "LMG",
+    "data": {
+        "summary": {
+            "name_short": "LATROBE",
+            "name_full": "LATROBE MAGNESIUM LIMITED",
+            "code": "LMG",
+            "primary_share_code": "LMG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LATROBE MAGNESIUM",
+            "foreign_exempt": false,
+            "listing_date": "1986-12-18T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "lmg@latrobemagnesium.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 80970250",
+            "mailing_address": "Suite 307, Level 3, 20 Barrack Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Magnesium",
+            "fax_number": "02 92793854",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-01T15:20:22+1000",
+                    "number_of_pages": 49,
+                    "id": "01891950",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-01T15:22:50+1000",
+                    "size": "960.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170901/pdf/43m07q2m2t9zhw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3188009,
+                "status": [],
+                "market_cap": 18848982,
+                "code": "LMG",
+                "indices": [],
+                "year_open_price": 0.006,
+                "previous_close_price": 0.015,
+                "year_change_price": 0.009,
+                "year_low_date": "2017-09-08T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1256598818,
+                "eps": -0.0015,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1256598818,
+                "pe": 0,
+                "offer_price": 0.015,
+                "suspended": false,
+                "last_price": 0.015,
+                "deprecated_market_cap": 18849000,
+                "day_low_price": 0.015,
+                "open_price": 0.015,
+                "year_high_date": "2017-02-01T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.03,
+                "bid_price": 0.014,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.018,
+                "year_change_in_percentage": "150%",
+                "average_daily_volume": 451736,
+                "year_low_price": 0.013,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.latrobemagnesium.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jock Murray",
+                    "first_name": "Jock",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Paterson",
+                    "first_name": "David",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paterson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Bruce",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bruce",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Lee",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Torpey",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Torpey",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Lee",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

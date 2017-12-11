@@ -1,0 +1,33 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LO1",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "LLOYDS BANKING GROUP PLC",
+    "ASXcode": "LO1",
+    "data": {
+        "summary": {
+            "name_full": "LLOYDS BANKING GROUP PLC",
+            "products": [],
+            "phone_number": "tba",
+            "mailing_address": "tba, ., ., AUSTRALIA, .",
+            "principal_activities": ".",
+            "name_short": "LLOYDS BG",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "LLOYDS BANKING GROUP",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "LO1",
+            "listing_date": "2017-11-16T00:00:00+1100",
+            "registry_address": "LEVEL 23, 2 PARK STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "CITIGROUP PTY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": []
+        }
+    }
+}

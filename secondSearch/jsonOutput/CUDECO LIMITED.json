@@ -1,0 +1,176 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CDU",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CUDECO LIMITED",
+    "ASXcode": "CDU",
+    "data": {
+        "summary": {
+            "name_short": "CUDECO",
+            "name_full": "CUDECO LIMITED",
+            "code": "CDU",
+            "primary_share_code": "CDU",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CUDECO LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1971-08-02T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@cudeco.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 32105906",
+            "mailing_address": "Suite 11A, Level 11, 100 Edward Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Mining and mining investments",
+            "fax_number": "0732109999",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report - 30 June 2017",
+                    "document_date": "2017-10-31T18:55:48+1100",
+                    "number_of_pages": 99,
+                    "id": "01916325",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T18:58:09+1100",
+                    "size": "4.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nv3wxhxd4k4r.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 167442,
+                "status": [],
+                "market_cap": 122226241,
+                "code": "CDU",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.865,
+                "previous_close_price": 0.31,
+                "year_change_price": -1.565,
+                "year_low_date": "2017-07-18T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 394278197,
+                "eps": -0.349,
+                "change_in_percent": "-3.226%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 394278197,
+                "pe": 0,
+                "offer_price": 0.3,
+                "suspended": false,
+                "last_price": 0.3,
+                "deprecated_market_cap": 118283000,
+                "day_low_price": 0.29,
+                "open_price": 0.3,
+                "year_high_date": "2017-01-16T00:00:00+1100",
+                "previous_day_percentage_change": "8.772%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.525,
+                "bid_price": 0.29,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.315,
+                "year_change_in_percentage": "-83.914%",
+                "average_daily_volume": 136345,
+                "year_low_price": 0.235,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.cudeco.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Hutchison",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hutchison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Keran",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keran",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hongwei Liu",
+                    "first_name": "Hongwei",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zhijun Ma",
+                    "first_name": "Zhijun",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ma",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chiwei Wang",
+                    "first_name": "Chiwei",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zhaohui (Tony) Wu",
+                    "first_name": "Zhaohui (Tony)",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mu Po Zhu",
+                    "first_name": "Mu Po",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhu",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Leni Pia Stanley",
+                    "first_name": "Leni",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stanley",
+                    "middle_name": "Pia"
+                }
+            ]
+        }
+    }
+}

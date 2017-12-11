@@ -1,0 +1,156 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NOE",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NOVARISE RENEWABLE RESOURCES INTERNATIONAL LIMITED",
+    "ASXcode": "NOE",
+    "data": {
+        "summary": {
+            "name_short": "NOVARISE",
+            "name_full": "NOVARISE RENEWABLE RESOURCES INTERNATIONAL LIMITED",
+            "code": "NOE",
+            "primary_share_code": "NOE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "NOVARISE RENEW RES",
+            "foreign_exempt": false,
+            "listing_date": "2010-04-29T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 92831338",
+            "mailing_address": "Suite 5, Level 1, 325 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Integrated green producer of a range of polypropylene fibre-based products made from post consumer polypropylene waste materials.",
+            "fax_number": "02 92833308",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "NOE",
+                "indices": [],
+                "year_open_price": 0.17,
+                "previous_close_price": 0.16,
+                "year_change_price": -0.01,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 415057737,
+                "eps": -0.0558,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 415057737,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.16,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-03-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.16,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-5.882%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.novarise.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Qingyue Su",
+                    "first_name": "Qingyue",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Su",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Fai-Peng Chen",
+                    "first_name": "Fai-Peng",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Keiran O'Brien",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Brien",
+                    "middle_name": "Keiran"
+                },
+                {
+                    "full_name": "Mr Liandong Tu",
+                    "first_name": "Liandong",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chung Yi So",
+                    "first_name": "Chung",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yi So",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Xiaobin Zhuang",
+                    "first_name": "Xiaobin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhuang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Winnie Chen",
+                    "first_name": "Winnie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Xiaobin Zhuang",
+                    "first_name": "Xiaobin",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhuang",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

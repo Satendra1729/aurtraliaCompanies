@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BSP",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "BLACK STAR PETROLEUM LIMITED",
+    "ASXcode": "BSP",
+    "data": {
+        "summary": {
+            "name_short": "BLACKSTAR",
+            "name_full": "BLACK STAR PETROLEUM LIMITED",
+            "code": "BSP",
+            "primary_share_code": "BSP",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "BLACK STAR PETROLEUM",
+            "foreign_exempt": false,
+            "listing_date": "2011-07-05T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9200 4493",
+            "mailing_address": "Level 1, 330 Churchill Avenue, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Exploration for oil.",
+            "fax_number": "(08) 9200 4469",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-28T19:19:28+1000",
+                    "number_of_pages": 50,
+                    "id": "01901596",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T19:25:24+1000",
+                    "size": "866.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mrdb9qn2kbs3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 1060025,
+                "code": "BSP",
+                "indices": [],
+                "year_open_price": 0.0619,
+                "previous_close_price": 0.002,
+                "year_change_price": -0.0599,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 530012680,
+                "eps": -0.0005,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 530012680,
+                "pe": 0,
+                "offer_price": 0.002,
+                "suspended": false,
+                "last_price": 0.002,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-04-24T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-11T11:00:00+1100",
+                "year_high_price": 0.003,
+                "bid_price": 0.001,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-96.769%",
+                "average_daily_volume": 270370,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.blackstarpetroleum.com.au",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James Sambrook",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sambrook",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Chee Low",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Low",
+                    "middle_name": "Chee"
+                },
+                {
+                    "full_name": "Mr Chia Lau",
+                    "first_name": "Chia",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lau",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Gregory",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gregory",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

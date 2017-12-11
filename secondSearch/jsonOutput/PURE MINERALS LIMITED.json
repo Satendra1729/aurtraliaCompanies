@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PM1",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PURE MINERALS LIMITED",
+    "ASXcode": "PM1",
+    "data": {
+        "summary": {
+            "name_short": "PURE MIN",
+            "name_full": "PURE MINERALS LIMITED",
+            "code": "PM1",
+            "primary_share_code": "PM1",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PURE MINERALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2008-03-14T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9191 0135",
+            "mailing_address": "Level 1, 1 Altona Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Nickel exploration.",
+            "fax_number": "61 3 8678 1747",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T16:50:22+1000",
+                    "number_of_pages": 42,
+                    "id": "01902567",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:52:26+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtc6vyfpyh5k.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6918207,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 6495097,
+                "code": "PM1",
+                "indices": [],
+                "year_open_price": 0.004,
+                "previous_close_price": 0.024,
+                "year_change_price": 0.018,
+                "year_low_date": "2017-10-11T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 270629059,
+                "eps": -0.0119,
+                "change_in_percent": "-8.333%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 253129059,
+                "pe": 0,
+                "offer_price": 0.024,
+                "suspended": false,
+                "last_price": 0.022,
+                "deprecated_market_cap": 5569000,
+                "day_low_price": 0.022,
+                "open_price": 0.023,
+                "year_high_date": "2017-08-28T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.031,
+                "bid_price": 0.022,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.024,
+                "year_change_in_percentage": "450%",
+                "average_daily_volume": 5920492,
+                "year_low_price": 0.018,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.eaglenickel.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jeremy King",
+                    "first_name": "Jeremy",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "King",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr ROBERT NORMAN PARTON",
+                    "first_name": "ROBERT",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "PARTON",
+                    "middle_name": "NORMAN"
+                },
+                {
+                    "full_name": "Mr Sean Keenan",
+                    "first_name": "Sean",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keenan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lincoln Ho",
+                    "first_name": "Lincoln",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ho",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justyn Peter Stedwell",
+                    "first_name": "Justyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stedwell",
+                    "middle_name": "Peter"
+                }
+            ]
+        }
+    }
+}

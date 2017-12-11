@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PMY",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PACIFICO MINERALS LIMITED",
+    "ASXcode": "PMY",
+    "data": {
+        "summary": {
+            "name_full": "PACIFICO MINERALS LIMITED",
+            "code": "PMY",
+            "name_short": "PACIFICO",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PACIFICO MIN LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PMY?image_size=L&v=1427177601000",
+            "foreign_exempt": false,
+            "listing_date": "2004-07-15T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "info@pacificominerals.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6266 8642",
+            "mailing_address": "Level 10, 553 Hay Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Minerals exploration.",
+            "fax_number": "+61 8 9421 1008",
+            "latest_annual_reports": [
+                {
+                    "header": "Amended Annual Report to shareholders",
+                    "document_date": "2017-09-20T18:40:59+1000",
+                    "number_of_pages": 68,
+                    "id": "01898186",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-20T18:45:20+1000",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170920/pdf/43mhj7373jv2gf.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-20T12:08:02+1000",
+                    "number_of_pages": 67,
+                    "id": "01897966",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-20T12:10:34+1000",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170920/pdf/43mh1zxwjlvk2s.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 840000,
+                "status": [],
+                "market_cap": 4482382,
+                "code": "PMY",
+                "indices": [],
+                "year_open_price": 0.045,
+                "previous_close_price": 0.006,
+                "year_change_price": -0.039,
+                "year_low_date": "2017-11-03T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 747063749,
+                "eps": -0.0026,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 747063749,
+                "pe": 0,
+                "offer_price": 0.007,
+                "suspended": false,
+                "last_price": 0.006,
+                "deprecated_market_cap": 4856000,
+                "day_low_price": 0.006,
+                "open_price": 0.007,
+                "year_high_date": "2017-02-23T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.01,
+                "bid_price": 0.006,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.007,
+                "year_change_in_percentage": "-86.667%",
+                "average_daily_volume": 6195680,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "PMY",
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.pacificominerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Monti",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Monti",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Noon",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Noon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Harold",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harold",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Parker",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Parker",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Patrick Holywell",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Holywell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

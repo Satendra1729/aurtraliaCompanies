@@ -1,0 +1,183 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FAR",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "FAR LIMITED",
+    "ASXcode": "FAR",
+    "data": {
+        "summary": {
+            "name_full": "FAR LIMITED",
+            "code": "FAR",
+            "name_short": "FAR",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "FAR LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/FAR?image_size=L&v=1434581618000",
+            "foreign_exempt": false,
+            "listing_date": "1986-01-23T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "info@far.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9618 2550",
+            "mailing_address": "Level 17, 530 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Exploration for oil and gas",
+            "fax_number": "+61 3 9620 5200",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-22T15:34:12+1100",
+                    "number_of_pages": 80,
+                    "id": "01841190",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-22T15:36:14+1100",
+                    "size": "4.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170322/pdf/43gzfwbgn6690x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3629106,
+                "status": [],
+                "market_cap": 415076467,
+                "code": "FAR",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.055,
+                "previous_close_price": 0.076,
+                "year_change_price": 0.019,
+                "year_low_date": "2017-11-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 5461532458,
+                "eps": -0.0069,
+                "change_in_percent": "-2.632%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 5461532458,
+                "pe": 0,
+                "offer_price": 0.075,
+                "suspended": false,
+                "last_price": 0.074,
+                "deprecated_market_cap": 404153000,
+                "day_low_price": 0.074,
+                "open_price": 0.076,
+                "year_high_date": "2017-04-18T00:00:00+1000",
+                "previous_day_percentage_change": "-1.299%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.095,
+                "bid_price": 0.074,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.076,
+                "year_change_in_percentage": "34.545%",
+                "average_daily_volume": 4456645,
+                "year_low_price": 0.066,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "FAR",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.far.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Nicholas Limb",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Limb",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Catherine Norman",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Norman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ben Clube",
+                    "first_name": "Ben",
+                    "roles": [
+                        "Executive Director",
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clube",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Reginald Nelson",
+                    "first_name": "Reginald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nelson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy R Woodall",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Woodall",
+                    "middle_name": "R"
+                },
+                {
+                    "full_name": "Mr Peter Thiessen",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thiessen",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Thiessen",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thiessen",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

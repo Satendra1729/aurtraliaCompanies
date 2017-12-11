@@ -1,0 +1,210 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HT1",
+    "GICSindustrygroup": "Media",
+    "Companyname": "HT&E LIMITED",
+    "ASXcode": "HT1",
+    "data": {
+        "summary": {
+            "name_short": "HT&E LTD",
+            "name_full": "HT&E LIMITED",
+            "code": "HT1",
+            "primary_share_code": "HT1",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "HT&E LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1992-05-07T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "3C FRANKED @ 30%; DR P NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.03,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9333 4999",
+            "mailing_address": "Level 4, 100 William Street, SYDNEY, NSW, AUSTRALIA, 2011",
+            "principal_activities": "HT&E Limited (formerly APN News & Media Limited) is a leading media and entertainment business, with diverse assets in Australia, New Zealand and Hong Kong.",
+            "fax_number": "(02) 9333 4900",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 520047,
+                "status": [],
+                "market_cap": 583843854,
+                "code": "HT1",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    }
+                ],
+                "year_open_price": 0.615,
+                "previous_close_price": 1.89,
+                "year_change_price": 1.29,
+                "year_low_date": "2017-11-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 308912092,
+                "eps": 1.6506,
+                "change_in_percent": "0.794%",
+                "change_price": 0.015,
+                "deprecated_number_of_shares": 308912092,
+                "pe": 1.15,
+                "offer_price": 1.935,
+                "suspended": false,
+                "last_price": 1.905,
+                "deprecated_market_cap": 588478000,
+                "day_low_price": 1.89,
+                "open_price": 1.895,
+                "year_high_date": "2017-01-03T00:00:00+1100",
+                "previous_day_percentage_change": "0.265%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.97,
+                "bid_price": 1.885,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.91,
+                "year_change_in_percentage": "209.756%",
+                "average_daily_volume": 948623,
+                "year_low_price": 1.59,
+                "annual_dividend_yield": 3.67
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.htande.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Cosgrove",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cosgrove",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ciaran Davis",
+                    "first_name": "Ciaran",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Connolly",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Connolly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Cullinane",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cullinane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Christine Holman",
+                    "first_name": "Christine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Holman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Anne Templeman-Jones",
+                    "first_name": "Anne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Templeman-Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Yvette Lamont",
+                    "first_name": "Yvette",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lamont",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Yvette Lamont",
+                    "first_name": "Yvette",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lamont",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

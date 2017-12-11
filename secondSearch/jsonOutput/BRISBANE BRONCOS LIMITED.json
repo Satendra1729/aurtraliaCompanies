@@ -1,0 +1,186 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BBL",
+    "GICSindustrygroup": "Media",
+    "Companyname": "BRISBANE BRONCOS LIMITED",
+    "ASXcode": "BBL",
+    "data": {
+        "summary": {
+            "name_short": "BRIS BRONC",
+            "name_full": "BRISBANE BRONCOS LIMITED",
+            "code": "BBL",
+            "primary_share_code": "BBL",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "BRISBANE BRONCOS",
+            "foreign_exempt": false,
+            "listing_date": "1989-05-12T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "0.75C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-02-23T00:00:00+1100",
+                "record_date": "2017-03-23T00:00:00+1100",
+                "payable_date": "2017-04-12T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.0075,
+                "ex_date": "2017-03-22T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3858 9111",
+            "mailing_address": "Broncos League Club, Level 1, 92 Fulcher Road, RED HILL, QLD, AUSTRALIA, 4059",
+            "principal_activities": "Operation of the Brisbane Broncos Rugby League Football Club.",
+            "fax_number": "(07) 3858 9112",
+            "latest_annual_reports": [
+                {
+                    "header": "BBL 2016 Annual Report NOM and Proxy Amended",
+                    "document_date": "2017-04-04T15:10:43+1000",
+                    "number_of_pages": 83,
+                    "id": "01845033",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-04T15:13:28+1000",
+                    "size": "2.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170404/pdf/43h8z0d3h5xs46.pdf"
+                },
+                {
+                    "header": "BBL 2016 Annual Report NOM and Proxy",
+                    "document_date": "2017-04-04T14:49:57+1000",
+                    "number_of_pages": 83,
+                    "id": "01845018",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-04T14:52:51+1000",
+                    "size": "2.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170404/pdf/43h8y2hslsxd9y.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 54902754,
+                "code": "BBL",
+                "indices": [],
+                "year_open_price": 0.255,
+                "previous_close_price": 0.56,
+                "year_change_price": 0.305,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 98040632,
+                "eps": 0.0313,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 98040631,
+                "pe": 17.89,
+                "offer_price": 0.59,
+                "suspended": false,
+                "last_price": 0.56,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-30T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-06T11:00:00+1100",
+                "year_high_price": 0.56,
+                "bid_price": 0.56,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "119.608%",
+                "average_daily_volume": 7477,
+                "year_low_price": 0,
+                "annual_dividend_yield": 1.34
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.broncos.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Dennis Watt",
+                    "first_name": "Dennis",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Watt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul White",
+                    "first_name": "Paul",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "White",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Katie Bickford",
+                    "first_name": "Katie",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Bickford",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tony Joseph",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Joseph",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Michael Lawlor",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lawlor",
+                    "middle_name": "Michael"
+                },
+                {
+                    "full_name": "Mr Darren Lockyer",
+                    "first_name": "Darren",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lockyer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Shirley Moro",
+                    "first_name": "Shirley",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Moro",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Louise Lanigan",
+                    "first_name": "Louise",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lanigan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

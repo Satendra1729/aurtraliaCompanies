@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FRM",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "FARM PRIDE FOODS LIMITED",
+    "ASXcode": "FRM",
+    "data": {
+        "summary": {
+            "name_short": "FARM PRIDE",
+            "name_full": "FARM PRIDE FOODS LIMITED",
+            "code": "FRM",
+            "primary_share_code": "FRM",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "FARM PRIDE FOODS",
+            "foreign_exempt": false,
+            "listing_date": "1997-12-19T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "companysecretary@farmpride.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9798 7207",
+            "mailing_address": "551 Chandler Road, KEYSBOROUGH, VIC, AUSTRALIA, 3173",
+            "principal_activities": "Manufacture and sale of egg and egg products and operation of  modern poultry farms.",
+            "fax_number": "(03) 9798 6163",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-18T18:27:51+1000",
+                    "number_of_pages": 63,
+                    "id": "01885401",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-18T18:31:55+1000",
+                    "size": "388.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170818/pdf/43ljgnql0mjqw3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 24068,
+                "status": [],
+                "market_cap": 49938058,
+                "code": "FRM",
+                "indices": [],
+                "year_open_price": 0.13,
+                "previous_close_price": 0.905,
+                "year_change_price": 0.79,
+                "year_low_date": "2017-11-17T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 55180175,
+                "eps": 0.1537,
+                "change_in_percent": "1.657%",
+                "change_price": 0.015,
+                "deprecated_number_of_shares": 55180175,
+                "pe": 5.99,
+                "offer_price": 0.93,
+                "suspended": false,
+                "last_price": 0.92,
+                "deprecated_market_cap": 50766000,
+                "day_low_price": 0.915,
+                "open_price": 0.915,
+                "year_high_date": "2017-01-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.815,
+                "bid_price": 0.92,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.92,
+                "year_change_in_percentage": "607.692%",
+                "average_daily_volume": 113755,
+                "year_low_price": 0.86,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.farmpride.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Bell",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gavin Bruce De Lacy",
+                    "first_name": "Gavin",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "De Lacy",
+                    "middle_name": "Bruce"
+                },
+                {
+                    "full_name": "Mr Malcolm Ward",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ward",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gavin Bruce De Lacy",
+                    "first_name": "Gavin Bruce",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "De Lacy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

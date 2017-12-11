@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KOR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KORAB RESOURCES LIMITED",
+    "ASXcode": "KOR",
+    "data": {
+        "summary": {
+            "name_full": "KORAB RESOURCES LIMITED",
+            "code": "KOR",
+            "name_short": "KORAB RES",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KORAB RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/KOR?image_size=L&v=1383276348000",
+            "foreign_exempt": false,
+            "listing_date": "2005-08-31T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "information@korabresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9474 6166",
+            "mailing_address": "Suite 1, 20 Prowse Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mining of phosphates, gold & silver. Exploration for minerals and metals. Holds phosphate, gold, silver, base metals and magnesite projects.",
+            "fax_number": "(08) 9322 6333",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-29T22:27:22+1100",
+                    "number_of_pages": 52,
+                    "id": "01914256",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-30T08:15:44+1100",
+                    "size": "720.2KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171030/pdf/43nq0rg2ybx71t.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 92916,
+                "status": [],
+                "market_cap": 8015112,
+                "code": "KOR",
+                "indices": [],
+                "year_open_price": 0.032,
+                "previous_close_price": 0.027,
+                "year_change_price": -0.007,
+                "year_low_date": "2017-09-01T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 296855982,
+                "eps": -0.0026,
+                "change_in_percent": "-7.407%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 296855982,
+                "pe": 0,
+                "offer_price": 0.025,
+                "suspended": false,
+                "last_price": 0.025,
+                "deprecated_market_cap": 7421000,
+                "day_low_price": 0.025,
+                "open_price": 0.027,
+                "year_high_date": "2017-02-10T00:00:00+1100",
+                "previous_day_percentage_change": "3.846%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.05,
+                "bid_price": 0.024,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.027,
+                "year_change_in_percentage": "-21.875%",
+                "average_daily_volume": 1587705,
+                "year_low_price": 0.016,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "KOR",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.korabresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrej K Karpinski",
+                    "first_name": "Andrej",
+                    "roles": [
+                        "Executive Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Karpinski",
+                    "middle_name": "K"
+                },
+                {
+                    "full_name": "Mr Rodney Skeet",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Skeet",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Smetana",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smetana",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Guinness Wills",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wills",
+                    "middle_name": "Guinness"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrej K Karpinski",
+                    "first_name": "Andrej",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Karpinski",
+                    "middle_name": "K"
+                }
+            ]
+        }
+    }
+}

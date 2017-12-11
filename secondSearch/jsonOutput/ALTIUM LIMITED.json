@@ -1,0 +1,243 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ALU",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "ALTIUM LIMITED",
+    "ASXcode": "ALU",
+    "data": {
+        "summary": {
+            "name_short": "ALTIUM LTD",
+            "name_full": "ALTIUM LIMITED",
+            "code": "ALU",
+            "primary_share_code": "ALU",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "ALTIUM LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ALU?image_size=L&v=1488519088000",
+            "foreign_exempt": false,
+            "listing_date": "1999-08-04T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-10-02T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.12,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+61 2 9410 1005",
+            "mailing_address": "Level 6, Tower B, The Zenith, 821 Pacific Highway, CHATSWOOD, NSW, AUSTRALIA, 2067",
+            "principal_activities": "Development and sales of computer Software for the design of electronic products.",
+            "fax_number": "+61 2 9410 0509",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-06T07:31:00+1100",
+                    "number_of_pages": 76,
+                    "id": "01904936",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-06T08:27:38+1100",
+                    "size": "4.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171006/pdf/43n01c5vb16b3b.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 387320,
+                "status": [],
+                "market_cap": 1662855932,
+                "code": "ALU",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Tech",
+                        "index_code": "XIJ",
+                        "name_abrev": "Info Technology",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Information Technology (Sector)"
+                    }
+                ],
+                "year_open_price": 2.46,
+                "previous_close_price": 12.77,
+                "year_change_price": 10.34,
+                "year_low_date": "2017-03-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 130215813,
+                "eps": 0.2821,
+                "change_in_percent": "0.235%",
+                "change_price": 0.03,
+                "deprecated_number_of_shares": 130215813,
+                "pe": 45.37,
+                "offer_price": 12.84,
+                "suspended": false,
+                "last_price": 12.8,
+                "deprecated_market_cap": 1666762000,
+                "day_low_price": 12.7,
+                "open_price": 12.84,
+                "year_high_date": "2017-11-29T00:00:00+1100",
+                "previous_day_percentage_change": "1.269%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 13.9,
+                "bid_price": 12.7,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 12.86,
+                "year_change_in_percentage": "420.325%",
+                "average_daily_volume": 526471,
+                "year_low_price": 7.01,
+                "annual_dividend_yield": 1.8
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.altium.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Samuel Weiss",
+                    "first_name": "Samuel",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Weiss",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Aram Mirkazemi",
+                    "first_name": "Aram",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mirkazemi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lynn Mickleburgh",
+                    "first_name": "Lynn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Mickleburgh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Raelene Murphy",
+                    "first_name": "Raelene",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Murphy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David M Warren",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warren",
+                    "middle_name": "M"
+                },
+                {
+                    "full_name": "Mr Joe Bedewi",
+                    "first_name": "Joe",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bedewi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kim Besharati",
+                    "first_name": "Kim",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Besharati",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Alison Raffin",
+                    "first_name": "Alison",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Raffin",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kim Besharati",
+                    "first_name": "Kim",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Besharati",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Alison Raffin",
+                    "first_name": "Alison",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Raffin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

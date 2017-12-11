@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OEL",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "OTTO ENERGY LIMITED",
+    "ASXcode": "OEL",
+    "data": {
+        "summary": {
+            "name_short": "OTTOENERGY",
+            "name_full": "OTTO ENERGY LIMITED",
+            "code": "OEL",
+            "primary_share_code": "OEL",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "OTTO ENERGY LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/OEL?image_size=L&v=1423035721000",
+            "foreign_exempt": false,
+            "listing_date": "2004-12-22T00:00:00+1100",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 6467 8800",
+            "mailing_address": "32 Delhi Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Oil and gas exploration.",
+            "fax_number": "08 6467 8801",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T15:37:25+1000",
+                    "number_of_pages": 88,
+                    "id": "01902395",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T15:40:00+1000",
+                    "size": "4.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt13bjcklzrm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2031382,
+                "status": [],
+                "market_cap": 68818432,
+                "code": "OEL",
+                "indices": [],
+                "year_open_price": 0.09,
+                "previous_close_price": 0.045,
+                "year_change_price": -0.045,
+                "year_low_date": "2017-07-12T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1529298490,
+                "eps": -0.0057,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1529298490,
+                "pe": 0,
+                "offer_price": 0.046,
+                "suspended": false,
+                "last_price": 0.045,
+                "deprecated_market_cap": 68818000,
+                "day_low_price": 0.044,
+                "open_price": 0.045,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.051,
+                "bid_price": 0.045,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.045,
+                "year_change_in_percentage": "-50%",
+                "average_daily_volume": 3041167,
+                "year_low_price": 0.024,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.ottoenergy.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Jetter",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jetter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Allen",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Allen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Boserio",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boserio",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Macliver",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Macliver",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Hasson",
+                    "first_name": "Craig",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hasson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Rich",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rich",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Rich",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rich",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

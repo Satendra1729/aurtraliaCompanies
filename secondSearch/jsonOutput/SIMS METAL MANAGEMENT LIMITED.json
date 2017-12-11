@@ -1,0 +1,298 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SGM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "SIMS METAL MANAGEMENT LIMITED",
+    "ASXcode": "SGM",
+    "data": {
+        "summary": {
+            "name_short": "SIMS METAL",
+            "name_full": "SIMS METAL MANAGEMENT LIMITED",
+            "code": "SGM",
+            "primary_share_code": "SGM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "SIMS METAL MGMT LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SGM?image_size=L&v=1427076341000",
+            "foreign_exempt": false,
+            "listing_date": "2005-10-21T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "20C FRANKED@30%; 10C  CFI; 10C SPECIAL",
+                "franked_percentage": "66.67%",
+                "created_date": "2017-08-25T00:00:00+1000",
+                "record_date": "2017-10-06T00:00:00+1100",
+                "payable_date": "2017-10-20T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.3,
+                "ex_date": "2017-10-05T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 81131600",
+            "mailing_address": "Sir Joseph Banks Corporate Park, Suite 3, Level 2, 32 - 34 Lord Street, BOTANY, NSW, AUSTRALIA, 2019",
+            "principal_activities": "Global metal recycling and innovative recycling solutions.",
+            "fax_number": "(02) 81131622",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-09T09:43:51+1100",
+                    "number_of_pages": 112,
+                    "id": "01905620",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-09T09:47:36+1100",
+                    "size": "8.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171009/pdf/43n1xckf1cdl1g.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1852736,
+                "status": [],
+                "market_cap": 3002359503,
+                "code": "SGM",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 9.84,
+                "previous_close_price": 14.93,
+                "year_change_price": 5.16,
+                "year_low_date": "2017-01-31T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 201095747,
+                "eps": 1.03,
+                "change_in_percent": "0.469%",
+                "change_price": 0.07,
+                "deprecated_number_of_shares": 201095747,
+                "pe": 14.56,
+                "offer_price": 15.03,
+                "suspended": false,
+                "last_price": 15,
+                "deprecated_market_cap": 3016436000,
+                "day_low_price": 14.88,
+                "open_price": 15,
+                "year_high_date": "2017-07-11T00:00:00+1000",
+                "previous_day_percentage_change": "2.682%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 16.228,
+                "bid_price": 14.8,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 15.15,
+                "year_change_in_percentage": "52.439%",
+                "average_daily_volume": 974544,
+                "year_low_price": 10.754,
+                "annual_dividend_yield": 2.67
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.simsmm.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoffrey Brunsdon",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brunsdon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alistair Field",
+                    "first_name": "Alistair",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Field",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert J Bass",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bass",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr John T DiLacqua",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "DiLacqua",
+                    "middle_name": "T"
+                },
+                {
+                    "full_name": "Ms Georgia Nelson",
+                    "first_name": "Georgia",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Nelson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Deborah O'Toole",
+                    "first_name": "Deborah",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "O'Toole",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Heather Ridout",
+                    "first_name": "Heather",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Ridout",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tamotsu Sato",
+                    "first_name": "Tamotsu",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sato",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James T Thompson",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thompson",
+                    "middle_name": "T"
+                },
+                {
+                    "full_name": "Mr Amit Patel",
+                    "first_name": "Amit",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Patel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank Moratti",
+                    "first_name": "Frank",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moratti",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Todd Scott",
+                    "first_name": "Todd",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scott",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Scott Miller",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Miller",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank Moratti",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moratti",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

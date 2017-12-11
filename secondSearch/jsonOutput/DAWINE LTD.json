@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DW8",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "DAWINE LTD",
+    "ASXcode": "DW8",
+    "data": {
+        "summary": {
+            "name_short": "DAWINE",
+            "name_full": "DAWINE LTD",
+            "code": "DW8",
+            "primary_share_code": "DW8",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "DAWINE LTD",
+            "foreign_exempt": false,
+            "listing_date": "2001-04-04T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9324 8555",
+            "mailing_address": "First Floor, 44A Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Winemaking and Sales, Marketing and Distribution of premium wine brands.",
+            "fax_number": "+61 8 8377 7708",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T18:30:11+1000",
+                    "number_of_pages": 46,
+                    "id": "01901535",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T18:42:29+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr8nw9537470.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "DW8",
+                "indices": [],
+                "year_open_price": 0.007,
+                "previous_close_price": 0.014,
+                "year_change_price": 0.007,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 584726753,
+                "eps": -0.009,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 443623317,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.014,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-28T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-18T11:00:00+1100",
+                "year_high_price": 0.029,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "100%",
+                "average_daily_volume": 1109054,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "https://www.dawine.com/",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Piers Lewis",
+                    "first_name": "Piers",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lewis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Atkins",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Atkins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mike Edwards",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Arron Canicais",
+                    "first_name": "Arron",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Canicais",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

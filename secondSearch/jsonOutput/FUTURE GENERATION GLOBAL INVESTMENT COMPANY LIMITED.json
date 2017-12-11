@@ -1,0 +1,161 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FGG",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "FUTURE GENERATION GLOBAL INVESTMENT COMPANY LIMITED",
+    "ASXcode": "FGG",
+    "data": {
+        "summary": {
+            "name_short": "FUTURE GLB",
+            "name_full": "FUTURE GENERATION GLOBAL INVESTMENT COMPANY LIMITED",
+            "code": "FGG",
+            "primary_share_code": "FGG",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "FUTURE GLB INVEST CO",
+            "foreign_exempt": false,
+            "listing_date": "2015-09-10T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "1C FRANKED@27.5%; DR P NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-10-18T00:00:00+1100",
+                "payable_date": "2017-10-27T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.01,
+                "ex_date": "2017-10-17T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9247 6755",
+            "mailing_address": "Level 11, 139 Macquarie Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 206347,
+                "status": [],
+                "market_cap": 367179351,
+                "code": "FGG",
+                "indices": [],
+                "deprecated_number_of_shares": 296112380,
+                "previous_close_price": 1.24,
+                "year_low_date": "2017-02-27T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 296112380,
+                "eps": 0.0342,
+                "change_in_percent": "-0.403%",
+                "change_price": -0.005,
+                "pe": 36.11,
+                "offer_price": 1.24,
+                "suspended": false,
+                "last_price": 1.235,
+                "deprecated_market_cap": 365699000,
+                "day_low_price": 1.23,
+                "open_price": 1.23,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.275,
+                "bid_price": 1.235,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.245,
+                "average_daily_volume": 309511,
+                "year_low_price": 1.025,
+                "annual_dividend_yield": 1.62
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.futuregeninvest.com.au/global",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Belinda Hutchinson",
+                    "first_name": "Belinda",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hutchinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank Casarotti",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Casarotti",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Susan Cato",
+                    "first_name": "Susan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Cato",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sarah Morgan",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Karen Penrose",
+                    "first_name": "Karen",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Penrose",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Wilson",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kate Thorley",
+                    "first_name": "Kate",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Thorley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Licciardo",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Licciardo",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

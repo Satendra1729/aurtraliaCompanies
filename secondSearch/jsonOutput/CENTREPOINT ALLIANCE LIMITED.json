@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CAF",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "CENTREPOINT ALLIANCE LIMITED",
+    "ASXcode": "CAF",
+    "data": {
+        "summary": {
+            "name_short": "C ALLIANCE",
+            "name_full": "CENTREPOINT ALLIANCE LIMITED",
+            "code": "CAF",
+            "primary_share_code": "CAF",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "CENTREPOINT ALLIANCE",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CAF?image_size=L&v=1464739075000",
+            "foreign_exempt": false,
+            "listing_date": "2002-06-25T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "8.2C FRANKED@30%; 7C  SPECIAL;DRP SUSP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-25T00:00:00+1000",
+                "payable_date": "2017-10-09T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.082,
+                "ex_date": "2017-09-22T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9921 6900",
+            "mailing_address": "Level 9, 10 Bridge Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Financial Advice\nFinancial Products Solutions",
+            "fax_number": "(02) 9921 6999",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-24T09:42:25+1100",
+                    "number_of_pages": 47,
+                    "id": "01911571",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T09:51:07+1100",
+                    "size": "3.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43nhwdckvlg85k.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2999,
+                "status": [],
+                "market_cap": 80035814,
+                "code": "CAF",
+                "indices": [],
+                "year_open_price": 0.30563,
+                "previous_close_price": 0.51,
+                "year_change_price": 0.20937,
+                "year_low_date": "2017-12-04T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 156932969,
+                "eps": 0.0441,
+                "change_in_percent": "0.98%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 156932969,
+                "pe": 11.68,
+                "offer_price": 0.53,
+                "suspended": false,
+                "last_price": 0.515,
+                "deprecated_market_cap": 80820000,
+                "day_low_price": 0.51,
+                "open_price": 0.51,
+                "year_high_date": "2017-02-21T00:00:00+1100",
+                "previous_day_percentage_change": "2%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.685,
+                "bid_price": 0.51,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.515,
+                "year_change_in_percentage": "68.504%",
+                "average_daily_volume": 66586,
+                "year_low_price": 0.47,
+                "annual_dividend_yield": 6.7
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.centrepointalliance.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.centrepointalliance.com.au/investor-centre/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alan Fisher",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fisher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Georg Chmiel",
+                    "first_name": "Georg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chmiel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Pretty",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pretty",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hugh Robertson",
+                    "first_name": "Hugh",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robertson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Cowan",
+                    "first_name": "John",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cowan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Marty Carne",
+                    "first_name": "Marty",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Debra Kay Anderson",
+                    "first_name": "Debra",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Anderson",
+                    "middle_name": "Kay"
+                }
+            ]
+        }
+    }
+}

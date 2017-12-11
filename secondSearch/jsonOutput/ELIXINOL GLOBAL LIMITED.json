@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EXL",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "ELIXINOL GLOBAL LIMITED",
+    "ASXcode": "EXL",
+    "data": {
+        "summary": {
+            "name_short": "ELIXINOL",
+            "name_full": "ELIXINOL GLOBAL LIMITED",
+            "code": "EXL",
+            "primary_share_code": "EXL",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "ELIXINOL GLOBAL",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 240 444 585",
+            "mailing_address": "Level 12, 680 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Manufacture and distribution of industrial hemp products and early stage medical cannabis business  focusing on the importation, cultivation, manufacture and distribution of CBD and THC products",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "EXL",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://elixinolglobal.com/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ron Dufficy",
+                    "first_name": "Ron",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dufficy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

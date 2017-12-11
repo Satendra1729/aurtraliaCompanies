@@ -1,0 +1,164 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AJL",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "AJ LUCAS GROUP LIMITED",
+    "ASXcode": "AJL",
+    "data": {
+        "summary": {
+            "name_short": "AJ LUCAS",
+            "name_full": "AJ LUCAS GROUP LIMITED",
+            "code": "AJL",
+            "primary_share_code": "AJL",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "AJ LUCAS GROUP",
+            "foreign_exempt": false,
+            "listing_date": "1999-08-10T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9490 4000",
+            "mailing_address": "Suite 6.01, Level 6, 1 Elizabeth Plaza, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Specialist infrastructure and mining services.  Largest supplier of drilling services to Australia's coal and coal seam gas industries. One of Australia's largest builders of long distance gas pipelines.  Construction, civil and property services. developer of unconventional hydrocarbon properties.",
+            "fax_number": "02 9490 4200",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-13T15:15:45+1100",
+                    "number_of_pages": 82,
+                    "id": "01907760",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T15:20:06+1100",
+                    "size": "5.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6prqs7q2ttb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 129258,
+                "status": [],
+                "market_cap": 198964168,
+                "code": "AJL",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.01,
+                "previous_close_price": 0.34,
+                "year_change_price": -0.695,
+                "year_low_date": "2017-10-10T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 585188730,
+                "eps": -0.097,
+                "change_in_percent": "-7.353%",
+                "change_price": -0.025,
+                "deprecated_number_of_shares": 585188730,
+                "pe": 0,
+                "offer_price": 0.34,
+                "suspended": false,
+                "last_price": 0.315,
+                "deprecated_market_cap": 184334000,
+                "day_low_price": 0.3,
+                "open_price": 0.315,
+                "year_high_date": "2017-01-24T00:00:00+1100",
+                "previous_day_percentage_change": "-1.449%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.402,
+                "bid_price": 0.315,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.315,
+                "year_change_in_percentage": "-68.812%",
+                "average_daily_volume": 202928,
+                "year_low_price": 0.185,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.lucas.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Phil Arnall",
+                    "first_name": "Phil",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Arnall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Julian Ball",
+                    "first_name": "Julian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ball",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Meares",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Meares",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John O'Neill",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Neill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Purcell",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Purcell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Austen Perrin",
+                    "first_name": "Austen",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Perrin",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Marcin Swierkowski",
+                    "first_name": "Marcin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Swierkowski",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

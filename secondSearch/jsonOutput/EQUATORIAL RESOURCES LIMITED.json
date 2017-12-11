@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EQX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "EQUATORIAL RESOURCES LIMITED",
+    "ASXcode": "EQX",
+    "data": {
+        "summary": {
+            "name_short": "EQUATORIAL",
+            "name_full": "EQUATORIAL RESOURCES LIMITED",
+            "code": "EQX",
+            "primary_share_code": "EQX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "EQUATORIAL RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "1987-05-14T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 6322",
+            "mailing_address": "Level 9, 28 The Esplanade, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "(08) 9322 6558",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-08T14:43:41+1000",
+                    "number_of_pages": 47,
+                    "id": "01894252",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-08T14:46:10+1000",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170908/pdf/43m5vvh13bxchl.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 24106,
+                "status": [],
+                "market_cap": 47289234,
+                "code": "EQX",
+                "indices": [],
+                "year_open_price": 0.54,
+                "previous_close_price": 0.38,
+                "year_change_price": -0.16,
+                "year_low_date": "2017-09-13T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 124445353,
+                "eps": -0.0084,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 124445353,
+                "pe": 0,
+                "offer_price": 0.39,
+                "suspended": false,
+                "last_price": 0.38,
+                "deprecated_market_cap": 47289000,
+                "day_low_price": 0.38,
+                "open_price": 0.38,
+                "year_high_date": "2017-03-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.58,
+                "bid_price": 0.375,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.38,
+                "year_change_in_percentage": "-29.63%",
+                "average_daily_volume": 56824,
+                "year_low_price": 0.35,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.equatorialresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Middlemas",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Middlemas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Behets",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Behets",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Pearce",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pearce",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Welborn",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Welborn",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Greg Swan",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Swan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

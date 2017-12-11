@@ -1,0 +1,234 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OGC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "OCEANAGOLD CORPORATION",
+    "ASXcode": "OGC",
+    "data": {
+        "summary": {
+            "name_short": "OCEANAGOLD",
+            "name_full": "OCEANAGOLD CORPORATION",
+            "code": "OGC",
+            "primary_share_code": "OGC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "OCEANAGOLD CORP.",
+            "foreign_exempt": false,
+            "listing_date": "2007-06-19T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "US1C PER CDI;UNFR;NI L CFI;25%WTAX;EST $A",
+                "franked_percentage": "0%",
+                "created_date": "2017-10-30T00:00:00+1100",
+                "record_date": "2017-11-08T00:00:00+1100",
+                "payable_date": "2017-12-22T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.00981417,
+                "ex_date": "2017-11-07T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9656 5300",
+            "mailing_address": "Level 14, 357 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "OceanaGold is a leading Pacific Rim gold producer. The Company has three operating gold mines and a portfolio of assets located in New Zealand and the Philippines.",
+            "fax_number": "(03) 9656 5333",
+            "latest_annual_reports": [
+                {
+                    "header": "OGC Annual Information Form Dec 31, 2016",
+                    "document_date": "2017-03-31T17:39:20+1100",
+                    "number_of_pages": 120,
+                    "id": "01844085",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T18:12:25+1100",
+                    "size": "3.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6gy1h05x7bk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 373486,
+                "status": [
+                    "XD"
+                ],
+                "market_cap": 1956157710,
+                "code": "OGC",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    }
+                ],
+                "year_open_price": 2.76,
+                "previous_close_price": 3.18,
+                "year_change_price": 0.44,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 615143934,
+                "eps": 0.2647,
+                "change_in_percent": "0.629%",
+                "change_price": 0.02,
+                "deprecated_number_of_shares": 615143934,
+                "pe": 12.09,
+                "offer_price": 3.3,
+                "suspended": false,
+                "last_price": 3.2,
+                "deprecated_market_cap": 1968461000,
+                "day_low_price": 3.14,
+                "open_price": 3.14,
+                "year_high_date": "2017-06-07T00:00:00+1000",
+                "previous_day_percentage_change": "-1.242%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 4.88,
+                "bid_price": 3.18,
+                "desc_full": "Chess Depositary Interest 1:1",
+                "day_high_price": 3.21,
+                "year_change_in_percentage": "15.942%",
+                "average_daily_volume": 333133,
+                "year_low_price": 3.14,
+                "annual_dividend_yield": 0.61
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.oceanagold.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James Askew",
+                    "first_name": "James",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Askew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mick Wilkes",
+                    "first_name": "Mick",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilkes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Diane Garrett",
+                    "first_name": "Diane",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Garrett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joey P Leviste",
+                    "first_name": "Joey",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leviste",
+                    "middle_name": "P"
+                },
+                {
+                    "full_name": "Mr Bill Myckatyn",
+                    "first_name": "Bill",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Myckatyn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Sweeney",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sweeney",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Geoff Raby",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Raby",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Holmes",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Holmes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott McQueen",
+                    "first_name": "Scott",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McQueen",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Liang Tang",
+                    "first_name": "Liang",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tang",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

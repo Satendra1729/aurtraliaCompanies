@@ -1,0 +1,141 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SRO",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "SHAREROOT LTD",
+    "ASXcode": "SRO",
+    "data": {
+        "summary": {
+            "name_short": "SHAREROOT",
+            "name_full": "SHAREROOT LTD",
+            "code": "SRO",
+            "primary_share_code": "SRO",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "SHAREROOT LTD",
+            "foreign_exempt": false,
+            "listing_date": "1996-03-07T00:00:00+1100",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9299 9690",
+            "mailing_address": "Suite 2, Level 10, 70 Phillip Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Ownership and operation of a user-generated content marketing platform.",
+            "fax_number": "02 9299 9629",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-19T10:32:12+1100",
+                    "number_of_pages": 68,
+                    "id": "01909762",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-19T10:34:41+1100",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171019/pdf/43nck4l555l22s.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 522231,
+                "status": [
+                    "XE"
+                ],
+                "market_cap": 3339882,
+                "code": "SRO",
+                "indices": [],
+                "year_open_price": 0.005,
+                "previous_close_price": 0.005,
+                "year_change_price": 0.0,
+                "year_low_date": "2017-11-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 667976444,
+                "eps": -0.0081,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 559726015,
+                "pe": 0,
+                "offer_price": 0.006,
+                "suspended": false,
+                "last_price": 0.005,
+                "deprecated_market_cap": 3078000,
+                "day_low_price": 0.005,
+                "open_price": 0.005,
+                "year_high_date": "2017-07-26T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.014,
+                "bid_price": 0.005,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.005,
+                "year_change_in_percentage": "0%",
+                "average_daily_volume": 3124860,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.shareroot.co",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Lee Rodne",
+                    "first_name": "Lee",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rodne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Noah Abelson",
+                    "first_name": "Noah",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Abelson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Marc Angelone",
+                    "first_name": "Marc",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Angelone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter McLennan",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McLennan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Bursill",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bursill",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

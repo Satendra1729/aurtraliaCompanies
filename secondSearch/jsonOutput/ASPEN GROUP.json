@@ -1,0 +1,153 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/APZ",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "ASPEN GROUP",
+    "ASXcode": "APZ",
+    "data": {
+        "summary": {
+            "name_short": "ASPEN",
+            "name_full": "ASPEN GROUP",
+            "code": "APZ",
+            "primary_share_code": "APZ",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "ASPEN GROUP",
+            "foreign_exempt": false,
+            "listing_date": "1991-04-11T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "SPECIAL; DRP SUSPEND ED",
+                "franked_percentage": "0%",
+                "created_date": "2017-09-04T00:00:00+1000",
+                "record_date": "2017-10-05T00:00:00+1100",
+                "payable_date": "2017-10-20T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.05,
+                "ex_date": "2017-10-04T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9151 7500",
+            "mailing_address": "Suite 307, Level 3, 37 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Commercial property investment.",
+            "fax_number": "+61 2 9151 7599",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T13:47:53+1100",
+                    "number_of_pages": 86,
+                    "id": "01913776",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T13:50:16+1100",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nnl0tg4yc73s.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 7863,
+                "status": [],
+                "market_cap": 108010859,
+                "code": "APZ",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 1.27,
+                "previous_close_price": 1.06,
+                "year_change_price": -0.205,
+                "year_low_date": "2017-04-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 101897037,
+                "eps": 0.004,
+                "change_in_percent": "0.472%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 101897037,
+                "pe": 266.25,
+                "offer_price": 1.065,
+                "suspended": false,
+                "last_price": 1.065,
+                "deprecated_market_cap": 108520000,
+                "day_low_price": 1.065,
+                "open_price": 1.065,
+                "year_high_date": "2017-06-05T00:00:00+1000",
+                "previous_day_percentage_change": "0.474%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.126,
+                "bid_price": 1.055,
+                "desc_full": "Ordinary/units Fully Paid Stapled Securities",
+                "day_high_price": 1.065,
+                "year_change_in_percentage": "-16.142%",
+                "average_daily_volume": 69826,
+                "year_low_price": 0.954,
+                "annual_dividend_yield": 4.32
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.aspengroup.com.au/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Clive Appleton",
+                    "first_name": "Clive",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Appleton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joel Rohan Cann",
+                    "first_name": "Joel",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cann",
+                    "middle_name": "Rohan"
+                },
+                {
+                    "full_name": "Mr John Carter",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Guy Farrands",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Farrands",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Emmanuel Zammit",
+                    "first_name": "Emmanuel",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zammit",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": []
+        }
+    }
+}

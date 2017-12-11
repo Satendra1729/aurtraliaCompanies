@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KRL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KANGAROO RESOURCES LIMITED",
+    "ASXcode": "KRL",
+    "data": {
+        "summary": {
+            "name_short": "KANGAROO",
+            "name_full": "KANGAROO RESOURCES LIMITED",
+            "code": "KRL",
+            "primary_share_code": "KRL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KANGAROO RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-04-19T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 93814320",
+            "mailing_address": "C/- Corporate Consultants Pty Ltd, Level 2, Suite 9, 389 Oxford Street, MOUNT HAWTHORN, WA, AUSTRALIA, 6016",
+            "principal_activities": "Mineral Exploration",
+            "fax_number": "+61 8 93806761",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-18T13:20:03+1000",
+                    "number_of_pages": 92,
+                    "id": "01848440",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-18T13:22:02+1000",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170418/pdf/43hkw8m1x8kpxx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 58385310,
+                "code": "KRL",
+                "indices": [],
+                "year_open_price": 0.011,
+                "previous_close_price": 0.017,
+                "year_change_price": 0.006,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 3434430012,
+                "eps": -0.0014,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 3434430012,
+                "pe": 0,
+                "offer_price": 0.025,
+                "suspended": false,
+                "last_price": 0.017,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-05-09T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.041,
+                "bid_price": 0.017,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "54.545%",
+                "average_daily_volume": 147017,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.kangarooresources.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Damien Henderson",
+                    "first_name": "Damien",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Henderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Butcher",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Butcher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Yi Ngo Low",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Low",
+                    "middle_name": "Yi Ngo"
+                },
+                {
+                    "full_name": "Mr Susmit Shah",
+                    "first_name": "Susmit",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shah",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Darcy Wentworth",
+                    "first_name": "Darcy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wentworth",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Paul Jurman",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jurman",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

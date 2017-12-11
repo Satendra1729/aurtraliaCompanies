@@ -1,0 +1,188 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PAN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PANORAMIC RESOURCES LIMITED",
+    "ASXcode": "PAN",
+    "data": {
+        "summary": {
+            "name_full": "PANORAMIC RESOURCES LIMITED",
+            "code": "PAN",
+            "name_short": "PANORAMIC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PANORAMIC RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PAN?image_size=L&v=1383111060000",
+            "foreign_exempt": false,
+            "listing_date": "2001-09-14T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@panres.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6266 8600",
+            "mailing_address": "Level 9, 553 Hay Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Nickel Mining and Exploration",
+            "fax_number": "(08) 9421 1008",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-20T12:54:42+1100",
+                    "number_of_pages": 126,
+                    "id": "01910401",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T12:56:53+1100",
+                    "size": "6.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43ndygbtltkgl1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1576757,
+                "status": [],
+                "market_cap": 152700510,
+                "code": "PAN",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.41,
+                "previous_close_price": 0.355,
+                "year_change_price": -0.065,
+                "year_low_date": "2017-06-06T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 430142283,
+                "eps": -0.0099,
+                "change_in_percent": "-2.817%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 430142283,
+                "pe": 0,
+                "offer_price": 0.35,
+                "suspended": false,
+                "last_price": 0.345,
+                "deprecated_market_cap": 148399000,
+                "day_low_price": 0.345,
+                "open_price": 0.355,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "-4.054%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.515,
+                "bid_price": 0.345,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.36,
+                "year_change_in_percentage": "-15.854%",
+                "average_daily_volume": 1109108,
+                "year_low_price": 0.19,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "PAN",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.panoramicresources.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://panoramicresources.com/asx-announcements/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brian Phillips",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Phillips",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Harold",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harold",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Rowe",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Ross Sullivan",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sullivan",
+                    "middle_name": "Ross"
+                },
+                {
+                    "full_name": "Mr Terry Strong",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Strong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Eton",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Eton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Hicks",
+                    "first_name": "John",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hicks",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Evy Litopoulos",
+                    "first_name": "Evy",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Litopoulos",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Trevor Eton",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Eton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

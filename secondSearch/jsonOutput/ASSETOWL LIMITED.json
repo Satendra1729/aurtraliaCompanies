@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AO1",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "ASSETOWL LIMITED",
+    "ASXcode": "AO1",
+    "data": {
+        "summary": {
+            "name_short": "ASSETOWL",
+            "name_full": "ASSETOWL LIMITED",
+            "code": "AO1",
+            "primary_share_code": "AO1",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "ASSETOWL LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AO1?image_size=L&v=1428898260000",
+            "foreign_exempt": false,
+            "listing_date": "2011-05-30T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9424 9320",
+            "mailing_address": "Level 14, 191 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Uranium Exploration.",
+            "fax_number": "(08) 9321 5932",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T18:26:35+1000",
+                    "number_of_pages": 81,
+                    "id": "01902749",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T18:29:51+1000",
+                    "size": "963.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtq0cqz4lvx0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 8475896,
+                "code": "AO1",
+                "indices": [],
+                "year_open_price": 0.02,
+                "previous_close_price": 0.14,
+                "year_change_price": 0.12,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 60542116,
+                "eps": -0.0316,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 47030513,
+                "pe": 0,
+                "offer_price": 0.14,
+                "suspended": false,
+                "last_price": 0.14,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.3,
+                "bid_price": 0.05,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "600%",
+                "average_daily_volume": 25049,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "https://investors.assetowl.com/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Shane Stone",
+                    "first_name": "Shane",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Giuseppe Di Franco",
+                    "first_name": "Giuseppe",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Di Franco",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Lane",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce McCracken",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McCracken",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Murchison",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murchison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Trevisan",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trevisan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Fleur Hudson",
+                    "first_name": "Fleur",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hudson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

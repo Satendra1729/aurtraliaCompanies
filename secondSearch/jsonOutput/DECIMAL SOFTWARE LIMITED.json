@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DSX",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "DECIMAL SOFTWARE LIMITED",
+    "ASXcode": "DSX",
+    "data": {
+        "summary": {
+            "name_short": "DECIMAL",
+            "name_full": "DECIMAL SOFTWARE LIMITED",
+            "code": "DSX",
+            "primary_share_code": "DSX",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "DECIMAL SOFTWARE LTD",
+            "foreign_exempt": false,
+            "listing_date": "1994-04-21T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "finance@decimal.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 220 799",
+            "mailing_address": "Level 12, 680 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Technology focused provider of cloud-based solutions, predominantly to the financial services sector.",
+            "fax_number": "(08) 6389 1977",
+            "latest_annual_reports": [
+                {
+                    "header": "Decimal 2017 Annual Report to Shareholders",
+                    "document_date": "2017-09-21T14:58:37+1000",
+                    "number_of_pages": 83,
+                    "id": "01898536",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-21T15:01:25+1000",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170921/pdf/43mjbdfhz10nc8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 27000,
+                "status": [],
+                "market_cap": 5737463,
+                "code": "DSX",
+                "indices": [],
+                "year_open_price": 0.164,
+                "previous_close_price": 0.02,
+                "year_change_price": -0.144,
+                "year_low_date": "2017-11-29T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 286873155,
+                "eps": -0.0138,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 286873155,
+                "pe": 0,
+                "offer_price": 0.02,
+                "suspended": false,
+                "last_price": 0.02,
+                "deprecated_market_cap": 5737000,
+                "day_low_price": 0.02,
+                "open_price": 0.02,
+                "year_high_date": "2017-01-20T00:00:00+1100",
+                "previous_day_percentage_change": "5.263%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.059,
+                "bid_price": 0.019,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.02,
+                "year_change_in_percentage": "-87.805%",
+                "average_daily_volume": 265695,
+                "year_low_price": 0.018,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.decimal.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.decimal.com.au/investors/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Stephen Potts",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Potts",
+                    "middle_name": "Stephen"
+                },
+                {
+                    "full_name": "Mr Nicholas Patrick Pollock",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pollock",
+                    "middle_name": "Patrick"
+                },
+                {
+                    "full_name": "Mr Gary Neil Cox",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cox",
+                    "middle_name": "Neil"
+                },
+                {
+                    "full_name": "Mr Jan Ryszard Kolbusz",
+                    "first_name": "Jan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kolbusz",
+                    "middle_name": "Ryszard"
+                },
+                {
+                    "full_name": "Ms Pauline Bernadette Vamos",
+                    "first_name": "Pauline",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Vamos",
+                    "middle_name": "Bernadette"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Michael Gardner",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gardner",
+                    "middle_name": "Michael"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KAM",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "K2 ASSET MANAGEMENT HOLDINGS LTD",
+    "ASXcode": "KAM",
+    "data": {
+        "summary": {
+            "name_short": "KASSET MGT",
+            "name_full": "K2 ASSET MANAGEMENT HOLDINGS LTD",
+            "code": "KAM",
+            "primary_share_code": "KAM",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "K2 ASSET MGMT HLDGS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/KAM?image_size=L&v=1457474395000",
+            "foreign_exempt": false,
+            "listing_date": "2007-11-29T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "0.25C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-09T00:00:00+1000",
+                "record_date": "2017-08-15T00:00:00+1000",
+                "payable_date": "2017-08-22T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.0025,
+                "ex_date": "2017-08-14T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 3 9691 6111",
+            "mailing_address": "Level 32, 101 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Capital Markets",
+            "fax_number": "61 3 9691 6170",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 64913601,
+                "code": "KAM",
+                "indices": [],
+                "year_open_price": 0.77,
+                "previous_close_price": 0.27,
+                "year_change_price": -0.5,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 240420746,
+                "eps": 0.0259,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 240420746,
+                "pe": 10.42,
+                "offer_price": 0.275,
+                "suspended": false,
+                "last_price": 0.27,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-10T00:00:00+1100",
+                "previous_day_percentage_change": "8%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.45,
+                "bid_price": 0.255,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-64.935%",
+                "average_daily_volume": 241938,
+                "year_low_price": 0,
+                "annual_dividend_yield": 8.33
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.k2am.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Campbell Neal",
+                    "first_name": "Campbell",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Neal",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Newman",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Newman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Hollie Wight",
+                    "first_name": "Hollie",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wight",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Hand",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hand",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Lawler",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lawler",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Hollie Wight",
+                    "first_name": "Hollie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wight",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AYS",
+    "GICSindustrygroup": "Telecommunication Services",
+    "Companyname": "AMAYSIM AUSTRALIA LIMITED",
+    "ASXcode": "AYS",
+    "data": {
+        "summary": {
+            "name_short": "AMAYSIM",
+            "name_full": "AMAYSIM AUSTRALIA LIMITED",
+            "code": "AYS",
+            "primary_share_code": "AYS",
+            "industry_group_name": "Telecommunication Services",
+            "delisting_date": null,
+            "sector_name": "Telecommunication Services",
+            "name_abbrev": "AMAYSIM AUS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-07-15T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "5.1C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-19T00:00:00+1000",
+                "payable_date": "2017-10-25T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.051,
+                "ex_date": "2017-09-18T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8203 0100",
+            "mailing_address": "Level 6, 17-19 Bridge Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "Full year results - Appendix 4E and Annual Report",
+                    "document_date": "2017-08-27T19:07:55+1000",
+                    "number_of_pages": 111,
+                    "id": "01888563",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-28T08:10:38+1000",
+                    "size": "7.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170828/pdf/43ls5grx7tkz79.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 250682,
+                "status": [],
+                "market_cap": 421585620,
+                "code": "AYS",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 210792810,
+                "previous_close_price": 2,
+                "year_low_date": "2017-07-03T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 210792810,
+                "eps": 0.061,
+                "change_in_percent": "1%",
+                "change_price": 0.02,
+                "pe": 33.11,
+                "offer_price": 2.02,
+                "suspended": false,
+                "last_price": 2.02,
+                "deprecated_market_cap": 425801000,
+                "day_low_price": 1.995,
+                "open_price": 2.02,
+                "year_high_date": "2017-01-24T00:00:00+1100",
+                "previous_day_percentage_change": "0.756%",
+                "year_open_date": null,
+                "year_high_price": 2.145,
+                "bid_price": 2,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.02,
+                "average_daily_volume": 968264,
+                "year_low_price": 1.49,
+                "annual_dividend_yield": 4.5
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.amaysim.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Alexander Feldman",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Feldman",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

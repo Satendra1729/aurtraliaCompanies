@@ -1,0 +1,173 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ATM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ANEKA TAMBANG (PERSERO) TBK (PT)",
+    "ASXcode": "ATM",
+    "data": {
+        "summary": {
+            "name_short": "ANEKA TAMB",
+            "name_full": "ANEKA TAMBANG (PERSERO) TBK (PT)",
+            "code": "ATM",
+            "primary_share_code": "ATM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ANEKA TAMBANG",
+            "foreign_exempt": false,
+            "listing_date": "1999-08-09T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+62 21 789 1234",
+            "mailing_address": "c/- Eko Endriawan, Gedung Aneka Tambang 6th Floor, Lingkar Selatan, Tanjung Barat, AUSTRALIA,",
+            "principal_activities": "An Indonesian mining and minerals processing company.",
+            "fax_number": "+62 21 781 2822",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-10T19:01:35+1000",
+                    "number_of_pages": 712,
+                    "id": "01846884",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-10T19:06:04+1000",
+                    "size": "8.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170410/pdf/43hfjlp453jgq0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 1336295286,
+                "code": "ATM",
+                "indices": [],
+                "deprecated_number_of_shares": 1301315,
+                "previous_close_price": 0.7,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1908993265,
+                "eps": -0.8756,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.68,
+                "suspended": false,
+                "last_price": 0.7,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-02T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.1,
+                "bid_price": 0.45,
+                "desc_full": "Chess Depositary Interests 1:5",
+                "day_high_price": 0,
+                "average_daily_volume": 2887,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.antam.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tedy Badrujaman",
+                    "first_name": "Tedy",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Badrujaman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Agus Zamzam Jamaluddin",
+                    "first_name": "Agus",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jamaluddin",
+                    "middle_name": "Zamzam"
+                },
+                {
+                    "full_name": "Mr Johan Nababan",
+                    "first_name": "Johan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nababan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr I Made Surata",
+                    "first_name": "I Made",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Surata",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hari Widjajanto",
+                    "first_name": "Hari",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Widjajanto",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dimas Wikan Pramudhito",
+                    "first_name": "Dimas",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pramudhito",
+                    "middle_name": "Wikan"
+                },
+                {
+                    "full_name": "Mr Handaru Bimoasmoro",
+                    "first_name": "Handaru",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bimoasmoro",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Eko Endriawan",
+                    "first_name": "Eko",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Endriawan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tri Hartono",
+                    "first_name": "Tri",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hartono",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

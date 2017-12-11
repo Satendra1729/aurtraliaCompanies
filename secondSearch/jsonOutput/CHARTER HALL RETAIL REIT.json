@@ -1,0 +1,231 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CQR",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "CHARTER HALL RETAIL REIT",
+    "ASXcode": "CQR",
+    "data": {
+        "summary": {
+            "name_short": "CHRETAILRT",
+            "name_full": "CHARTER HALL RETAIL REIT",
+            "code": "CQR",
+            "primary_share_code": "CQR",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "CHARTER HALL RETAIL",
+            "foreign_exempt": false,
+            "listing_date": "1995-11-15T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "DRP SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-12-05T00:00:00+1100",
+                "record_date": "2017-12-29T00:00:00+1100",
+                "payable_date": "2018-02-28T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.14,
+                "ex_date": "2017-12-28T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8908 4000",
+            "mailing_address": "Charter Hall Retail Management Limited, Level 20, 1 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment in supermarkets and shopping centres in Australia, New Zealand and the United States.",
+            "fax_number": "(02) 8908 4040",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T10:37:52+1000",
+                    "number_of_pages": 76,
+                    "id": "01902040",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T10:39:44+1000",
+                    "size": "4.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msbkz83m0dzt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 855926,
+                "status": [
+                    "CD"
+                ],
+                "market_cap": 1763524608,
+                "code": "CQR",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Prop",
+                        "index_code": "XPJ",
+                        "name_abrev": "A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX200 A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 3.67,
+                "previous_close_price": 4.36,
+                "year_change_price": 0.64,
+                "year_low_date": "2017-08-29T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 404478121,
+                "eps": 0.6192,
+                "change_in_percent": "-1.147%",
+                "change_price": -0.05,
+                "deprecated_number_of_shares": 404478121,
+                "pe": 6.96,
+                "offer_price": 4.34,
+                "suspended": false,
+                "last_price": 4.31,
+                "deprecated_market_cap": 1743301000,
+                "day_low_price": 4.31,
+                "open_price": 4.37,
+                "year_high_date": "2017-04-21T00:00:00+1000",
+                "previous_day_percentage_change": "0.926%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 4.545,
+                "bid_price": 4.3,
+                "desc_full": "Units Fully Paid",
+                "day_high_price": 4.37,
+                "year_change_in_percentage": "17.439%",
+                "average_daily_volume": 898821,
+                "year_low_price": 3.85,
+                "annual_dividend_yield": 6.5
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.charterhall.com.au/cqr",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John B Harkness",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harkness",
+                    "middle_name": "B"
+                },
+                {
+                    "full_name": "Mr Greg Chubb",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chubb",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Harrison",
+                    "first_name": "David",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harrison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Gorman",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gorman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Susan Joy Palmer",
+                    "first_name": "Susan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Palmer",
+                    "middle_name": "Joy"
+                },
+                {
+                    "full_name": "Mr Alan G Rattray-Wood",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rattray-Wood",
+                    "middle_name": "G"
+                },
+                {
+                    "full_name": "Mr Scott Dundas",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dundas",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Charisse Mignon Nortje",
+                    "first_name": "Charisse",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Nortje",
+                    "middle_name": "Mignon"
+                },
+                {
+                    "full_name": "Mr Mark Bryant",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bryant",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

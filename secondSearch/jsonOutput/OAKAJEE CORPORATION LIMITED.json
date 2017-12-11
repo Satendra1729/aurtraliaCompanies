@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OKJ",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "OAKAJEE CORPORATION LIMITED",
+    "ASXcode": "OKJ",
+    "data": {
+        "summary": {
+            "name_short": "OAKAJEE",
+            "name_full": "OAKAJEE CORPORATION LIMITED",
+            "code": "OKJ",
+            "primary_share_code": "OKJ",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "OAKAJEE CORP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2008-06-11T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "krystel.kirou@nexiaperth.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9389 6032",
+            "mailing_address": "39 Clifton Street, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Currently evaluating potential new projects",
+            "fax_number": "+61 8 9389 8226",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report to Shareholders",
+                    "document_date": "2017-08-30T18:18:46+1000",
+                    "number_of_pages": 50,
+                    "id": "01890463",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-30T18:23:16+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lx4jfm3swhdq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "OKJ",
+                "indices": [],
+                "year_open_price": 0.035,
+                "previous_close_price": 0.08,
+                "year_change_price": 0.045,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 51000000,
+                "eps": -0.0046,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 51000000,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.08,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-09-08T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.08,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "128.571%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.oakajeecorp.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Jones",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Garry William Thomas",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thomas",
+                    "middle_name": "William"
+                },
+                {
+                    "full_name": "Mr Gary Watson",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Watson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Krystel Kirou",
+                    "first_name": "Krystel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Kirou",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

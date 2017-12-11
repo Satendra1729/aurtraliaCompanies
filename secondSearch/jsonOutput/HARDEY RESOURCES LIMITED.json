@@ -1,0 +1,117 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HDY",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "HARDEY RESOURCES LIMITED",
+    "ASXcode": "HDY",
+    "data": {
+        "summary": {
+            "name_short": "HARDEY RES",
+            "name_full": "HARDEY RESOURCES LIMITED",
+            "code": "HDY",
+            "primary_share_code": "HDY",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "HARDEY RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-10-18T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6381 0054",
+            "mailing_address": "Suite 2, Level 1, 1 Altona Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mining and Exploration",
+            "fax_number": "+61 8 9481 4950",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 7106061,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 12714863,
+                "code": "HDY",
+                "indices": [],
+                "year_open_price": 0.00857,
+                "previous_close_price": 0.014,
+                "year_change_price": 0.00543,
+                "year_low_date": "2017-09-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 908204519,
+                "eps": -0.0299,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 908204519,
+                "pe": 0,
+                "offer_price": 0.015,
+                "suspended": false,
+                "last_price": 0.014,
+                "deprecated_market_cap": 12715000,
+                "day_low_price": 0.014,
+                "open_price": 0.014,
+                "year_high_date": "2017-03-10T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.052,
+                "bid_price": 0.014,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.014,
+                "year_change_in_percentage": "63.361%",
+                "average_daily_volume": 31235395,
+                "year_low_price": 0.007,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.elysiumresources.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Terence Clee",
+                    "first_name": "Terence",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robin Armstrong",
+                    "first_name": "Robin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Armstrong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Ellingford",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ellingford",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sarah Jayne Smith",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Smith",
+                    "middle_name": "Jayne"
+                }
+            ]
+        }
+    }
+}

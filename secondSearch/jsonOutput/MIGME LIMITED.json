@@ -1,0 +1,168 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MIG",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "MIGME LIMITED",
+    "ASXcode": "MIG",
+    "data": {
+        "summary": {
+            "name_short": "MIGME LTD",
+            "name_full": "MIGME LIMITED",
+            "code": "MIG",
+            "primary_share_code": "MIG",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "MIGME LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MIG?image_size=L&v=1438559239000",
+            "foreign_exempt": false,
+            "listing_date": "2001-06-06T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9378 1188",
+            "mailing_address": "13/36 Johnson Street, GUILDFORD, WA, AUSTRALIA, 6055",
+            "principal_activities": "Owner and operator of online social entertainment platform.",
+            "fax_number": "(08) 9277 6818",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "MIG",
+                "indices": [],
+                "year_open_price": 0.039,
+                "previous_close_price": 0.044,
+                "year_change_price": 0.005,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 316152890,
+                "eps": -0.0825,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 316152890,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.044,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.19,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "12.821%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://company.mig.me",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andi Zain",
+                    "first_name": "Andi",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zain",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Goh",
+                    "first_name": "Steven",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yen-Chang (Charles) Pan",
+                    "first_name": "Yen-Chang",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pan",
+                    "middle_name": "(Charles)"
+                },
+                {
+                    "full_name": "Mr John Lee",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yichen Lee",
+                    "first_name": "Yichen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Llanwarne",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Llanwarne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Po-Hsiang Wang",
+                    "first_name": "Po-Hsiang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Benino",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Benino",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Michael Higginson",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Higginson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

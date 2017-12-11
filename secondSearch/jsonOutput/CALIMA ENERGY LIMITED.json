@@ -1,0 +1,119 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CE1",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "CALIMA ENERGY LIMITED",
+    "ASXcode": "CE1",
+    "data": {
+        "summary": {
+            "name_short": "CALIMA",
+            "name_full": "CALIMA ENERGY LIMITED",
+            "code": "CE1",
+            "primary_share_code": "CE1",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "CALIMA ENERGY",
+            "foreign_exempt": false,
+            "listing_date": "2006-07-28T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@calimaenergy.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6500 3270",
+            "mailing_address": "1A, 1 Alvan Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Oil & gas exploration.",
+            "fax_number": "+ 61 8 6500 3275",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 190948,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 26974236,
+                "code": "CE1",
+                "indices": [],
+                "year_open_price": 0.029,
+                "previous_close_price": 0.055,
+                "year_change_price": 0.026,
+                "year_low_date": "2017-05-10T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 490440656,
+                "eps": -0.0056,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 438597822,
+                "pe": 0,
+                "offer_price": 0.055,
+                "suspended": false,
+                "last_price": 0.055,
+                "deprecated_market_cap": 24123000,
+                "day_low_price": 0.054,
+                "open_price": 0.054,
+                "year_high_date": "2017-09-12T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.062,
+                "bid_price": 0.054,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.055,
+                "year_change_in_percentage": "89.655%",
+                "average_daily_volume": 690720,
+                "year_low_price": 0.007,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.calimaenergy.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Glenn Whiddon",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whiddon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rob Downey",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Downey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil Hackett",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hackett",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Unknown James Bahen",
+                    "first_name": "James",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Unknown",
+                    "last_name": "Bahen",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

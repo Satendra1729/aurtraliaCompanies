@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DEV",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "DEVEX RESOURCES LIMITED",
+    "ASXcode": "DEV",
+    "data": {
+        "summary": {
+            "name_short": "DEVEXRESOU",
+            "name_full": "DEVEX RESOURCES LIMITED",
+            "code": "DEV",
+            "primary_share_code": "DEV",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "DEVEX RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2000-10-03T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 3990",
+            "mailing_address": "Level 2, 1292 Hay Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Uranium exploration and development",
+            "fax_number": "(08) 9322 5800",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 78876,
+                "status": [],
+                "market_cap": 8526026,
+                "code": "DEV",
+                "indices": [],
+                "year_open_price": 0.01246,
+                "previous_close_price": 0.012,
+                "year_change_price": -0.00046,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 710502191,
+                "eps": -0.0019,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 710502191,
+                "pe": 0,
+                "offer_price": 0.012,
+                "suspended": false,
+                "last_price": 0.012,
+                "deprecated_market_cap": 8526000,
+                "day_low_price": 0.012,
+                "open_price": 0.012,
+                "year_high_date": "2017-02-14T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.02,
+                "bid_price": 0.011,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.012,
+                "year_change_in_percentage": "-3.692%",
+                "average_daily_volume": 4715771,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.uel.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tim Goyder",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goyder",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brendan John Bradley",
+                    "first_name": "Brendan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bradley",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Kevin Mark Frost",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Frost",
+                    "middle_name": "Mark"
+                },
+                {
+                    "full_name": "Mr Richard Hacker",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hacker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bryn Jones",
+                    "first_name": "Bryn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kym Verheyen",
+                    "first_name": "Kym",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Verheyen",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

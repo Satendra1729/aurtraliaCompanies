@@ -1,0 +1,267 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AGL",
+    "GICSindustrygroup": "Utilities",
+    "Companyname": "AGL ENERGY LIMITED.",
+    "ASXcode": "AGL",
+    "data": {
+        "summary": {
+            "name_short": "AGL ENERGY",
+            "name_full": "AGL ENERGY LIMITED.",
+            "code": "AGL",
+            "primary_share_code": "AGL",
+            "industry_group_name": "Utilities",
+            "delisting_date": null,
+            "sector_name": "Utilities",
+            "name_abbrev": "AGL ENERGY LIMITED.",
+            "foreign_exempt": false,
+            "listing_date": "2006-10-12T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "40C FRANKED@30%; 10C  CFI; DRP NIL DISC",
+                "franked_percentage": "80%",
+                "created_date": "2017-08-10T00:00:00+1000",
+                "record_date": "2017-08-24T00:00:00+1000",
+                "payable_date": "2017-09-22T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.5,
+                "ex_date": "2017-08-23T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "floating-rate-notes",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 9921 2999",
+            "mailing_address": "Level 24, 200 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The Company operates Australia's largest retail energy and dual fuel customer base and consist of a substantial portfolio of wholesale energy contracts and assets to support its retail customer base.",
+            "fax_number": "(02) 9921 2552",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-08-25T09:52:41+1000",
+                    "number_of_pages": 81,
+                    "id": "01888225",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-25T09:54:57+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170825/pdf/43lqz5s7mc9dn0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2377068,
+                "status": [],
+                "market_cap": 16690747344,
+                "code": "AGL",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Utilit",
+                        "index_code": "XUJ",
+                        "name_abrev": "Utilities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Utilities (Sector)"
+                    }
+                ],
+                "year_open_price": 15.31204,
+                "previous_close_price": 25.45,
+                "year_change_price": 10.50796,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 655825043,
+                "eps": 0.805,
+                "change_in_percent": "1.454%",
+                "change_price": 0.37,
+                "deprecated_number_of_shares": 655825043,
+                "pe": 32.07,
+                "offer_price": 25.9,
+                "suspended": false,
+                "last_price": 25.82,
+                "deprecated_market_cap": 16933403000,
+                "day_low_price": 25.81,
+                "open_price": 25.85,
+                "year_high_date": "2017-04-11T00:00:00+1000",
+                "previous_day_percentage_change": "1.516%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 28.47,
+                "bid_price": 25.8,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 26.52,
+                "year_change_in_percentage": "68.625%",
+                "average_daily_volume": 1751750,
+                "year_low_price": 20.65,
+                "annual_dividend_yield": 3.52
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.agl.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graeme Hunt",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hunt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andy Vesey",
+                    "first_name": "Andy",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vesey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Botten",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Botten",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jacqueline Hey",
+                    "first_name": "Jacqueline",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leslie Hosking",
+                    "first_name": "Leslie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hosking",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Belinda Hutchinson",
+                    "first_name": "Belinda",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hutchinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Diane Smith-Gander",
+                    "first_name": "Diane",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Smith-Gander",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Stanhope",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stanhope",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Redman",
+                    "first_name": "Brett",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Redman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Hall",
+                    "first_name": "James",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hall",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Fitzgerald",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzgerald",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

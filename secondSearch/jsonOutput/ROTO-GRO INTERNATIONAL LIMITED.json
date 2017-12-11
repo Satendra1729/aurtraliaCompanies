@@ -1,0 +1,131 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RGI",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "ROTO-GRO INTERNATIONAL LIMITED",
+    "ASXcode": "RGI",
+    "data": {
+        "summary": {
+            "name_full": "ROTO-GRO INTERNATIONAL LIMITED",
+            "primary_share_code": "RGI",
+            "phone_number": "08 9481 0389",
+            "mailing_address": "Level 11 London House, 216 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Distribution of automated rotary hydroponic garden system",
+            "name_short": "ROTOGRO",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "primary_share": {
+                "volume": 25529,
+                "status": [],
+                "market_cap": 32113428,
+                "code": "RGI",
+                "indices": [],
+                "deprecated_number_of_shares": 24586501,
+                "previous_close_price": 0.385,
+                "year_low_date": "2017-02-22T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 83411501,
+                "eps": 0,
+                "change_in_percent": "-2.597%",
+                "change_price": -0.01,
+                "pe": 0,
+                "offer_price": 0.385,
+                "suspended": false,
+                "last_price": 0.375,
+                "deprecated_market_cap": 9220000,
+                "day_low_price": 0.365,
+                "open_price": 0.385,
+                "year_high_date": "2017-03-27T00:00:00+1100",
+                "previous_day_percentage_change": "-4.938%",
+                "year_open_date": null,
+                "year_high_price": 0.565,
+                "bid_price": 0.355,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.39,
+                "average_daily_volume": 87531,
+                "year_low_price": 0.16,
+                "annual_dividend_yield": 0
+            },
+            "name_abbrev": "ROTO-GRO INTL LTD",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report to shareholders",
+                    "document_date": "2017-08-31T14:05:00+1000",
+                    "number_of_pages": 60,
+                    "id": "01891047",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-31T14:09:27+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lycv4g7sm7c7.pdf"
+                }
+            ],
+            "products": [
+                "shares"
+            ],
+            "foreign_exempt": false,
+            "code": "RGI",
+            "listing_date": "2017-02-10T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "web_address": "http://www.rotogro.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Carli",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carli",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Brockhurst",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brockhurst",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Lee Palumbo",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Palumbo",
+                    "middle_name": "Lee"
+                },
+                {
+                    "full_name": "Mr Michael Slater",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Slater",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Lee Palumbo",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Palumbo",
+                    "middle_name": "Lee"
+                }
+            ]
+        }
+    }
+}

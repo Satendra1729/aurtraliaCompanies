@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EAS",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "EASTON INVESTMENTS LIMITED",
+    "ASXcode": "EAS",
+    "data": {
+        "summary": {
+            "name_short": "EASTON",
+            "name_full": "EASTON INVESTMENTS LIMITED",
+            "code": "EAS",
+            "primary_share_code": "EAS",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "EASTON INVESTMENTS",
+            "foreign_exempt": false,
+            "listing_date": "2005-08-02T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 655 695",
+            "mailing_address": "Level 2, 115 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment in listed companies and unlisted wealth management businesses.",
+            "fax_number": "02 9221 6305",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and 2017 Annual Report",
+                    "document_date": "2017-08-23T16:48:30+1000",
+                    "number_of_pages": 94,
+                    "id": "01887105",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-23T16:52:05+1000",
+                    "size": "4.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lnky84p1dyqv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 39382722,
+                "code": "EAS",
+                "indices": [],
+                "year_open_price": 0.87,
+                "previous_close_price": 1.13,
+                "year_change_price": 0.26,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 34851966,
+                "eps": 0.0535,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 34851966,
+                "pe": 21.12,
+                "offer_price": 1.185,
+                "suspended": false,
+                "last_price": 1.13,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-13T00:00:00+1100",
+                "previous_day_percentage_change": "-5.833%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 1.605,
+                "bid_price": 1.15,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "29.885%",
+                "average_daily_volume": 8887,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.eastoninvestments.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kevin White",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "White",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rodney Green",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Deputy Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Green",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Hayes",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hayes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grahame Evans",
+                    "first_name": "Grahame",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Carl Scarcella",
+                    "first_name": "Carl",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scarcella",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Harris",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harris",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Licciardo",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Licciardo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Belinda Cleminson",
+                    "first_name": "Belinda",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Cleminson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

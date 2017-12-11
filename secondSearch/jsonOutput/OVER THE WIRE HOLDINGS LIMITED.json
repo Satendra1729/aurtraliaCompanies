@@ -1,0 +1,123 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OTW",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "OVER THE WIRE HOLDINGS LIMITED",
+    "ASXcode": "OTW",
+    "data": {
+        "summary": {
+            "name_short": "OTW HLDING",
+            "name_full": "OVER THE WIRE HOLDINGS LIMITED",
+            "code": "OTW",
+            "primary_share_code": "OTW",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "OVER THE WIRE LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/OTW?image_size=L&v=1472033533000",
+            "foreign_exempt": false,
+            "listing_date": "2015-12-03T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "1.25C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-19T00:00:00+1000",
+                "payable_date": "2017-10-10T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.0125,
+                "ex_date": "2017-09-18T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 689 689",
+            "mailing_address": "Level 21, 71 Eagle Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-27T14:46:40+1100",
+                    "number_of_pages": 94,
+                    "id": "01913836",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T14:50:16+1100",
+                    "size": "2.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nnpq0l6qq125.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 7160,
+                "status": [],
+                "market_cap": 137449321,
+                "code": "OTW",
+                "indices": [],
+                "deprecated_number_of_shares": 43913521,
+                "previous_close_price": 3.13,
+                "year_low_date": "2017-05-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 43913521,
+                "eps": 0.0827,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 37.85,
+                "offer_price": 3.15,
+                "suspended": false,
+                "last_price": 3.13,
+                "deprecated_market_cap": 137449000,
+                "day_low_price": 3.13,
+                "open_price": 3.15,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "9.825%",
+                "year_open_date": null,
+                "year_high_price": 3.15,
+                "bid_price": 3.03,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.15,
+                "average_daily_volume": 81154,
+                "year_low_price": 1.8,
+                "annual_dividend_yield": 0.64
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.overthewire.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Nictarios Omeros",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Omeros",
+                    "middle_name": "Nictarios"
+                },
+                {
+                    "full_name": "Mr Mike Stabb",
+                    "first_name": "Mike",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stabb",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mike Stabb",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stabb",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

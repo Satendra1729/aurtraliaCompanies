@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IOG",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "INCREMENTAL OIL AND GAS LIMITED",
+    "ASXcode": "IOG",
+    "data": {
+        "summary": {
+            "name_full": "INCREMENTAL OIL AND GAS LIMITED",
+            "code": "IOG",
+            "name_short": "INCRE OIL",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "INCREMENTAL OIL GAS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/IOG?image_size=L&v=1476242132000",
+            "foreign_exempt": false,
+            "listing_date": "2011-01-21T00:00:00+1100",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "sadams@i-og.net",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6144 0590",
+            "mailing_address": "Level 1, 20 Howard Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Oil production in Wyoming, Colorado and California, USA.",
+            "fax_number": "(08) 6144 0593",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report Summary and Variance from Preliminary Final",
+                    "document_date": "2017-04-03T08:44:42+1000",
+                    "number_of_pages": 2,
+                    "id": "01844288",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-04-03T08:49:06+1000",
+                    "size": "443.7KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170403/pdf/43h7cc2q3595vf.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders YE Dec 2016",
+                    "document_date": "2017-04-02T20:36:42+1000",
+                    "number_of_pages": 88,
+                    "id": "01844214",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-03T08:21:08+1000",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170403/pdf/43h7728z9xt5g9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2306000,
+                "status": [],
+                "market_cap": 4001008,
+                "code": "IOG",
+                "indices": [],
+                "year_open_price": 0.066,
+                "previous_close_price": 0.01,
+                "year_change_price": -0.057,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 400100786,
+                "eps": -0.0108,
+                "change_in_percent": "-10%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 400100786,
+                "pe": 0,
+                "offer_price": 0.009,
+                "suspended": false,
+                "last_price": 0.009,
+                "deprecated_market_cap": 3601000,
+                "day_low_price": 0.009,
+                "open_price": 0.009,
+                "year_high_date": "2016-12-09T00:00:00+1100",
+                "previous_day_percentage_change": "-9.091%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.041,
+                "bid_price": 0.008,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.009,
+                "year_change_in_percentage": "-86.364%",
+                "average_daily_volume": 525498,
+                "year_low_price": 0.009,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "IOG",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.incrementaloilandgas.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://www.incrementaloilandgas.com/irm/content/investor-fact-sheet.aspx?RID=184"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Stowell",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stowell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Whisler",
+                    "first_name": "John",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whisler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matt McCann",
+                    "first_name": "Matt",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McCann",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gerry McGann",
+                    "first_name": "Gerry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGann",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Simon Adams",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Adams",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

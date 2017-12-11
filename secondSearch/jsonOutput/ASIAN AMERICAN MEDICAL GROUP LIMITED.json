@@ -1,0 +1,176 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AJJ",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "ASIAN AMERICAN MEDICAL GROUP LIMITED",
+    "ASXcode": "AJJ",
+    "data": {
+        "summary": {
+            "name_short": "ASIAN AMER",
+            "name_full": "ASIAN AMERICAN MEDICAL GROUP LIMITED",
+            "code": "AJJ",
+            "primary_share_code": "AJJ",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "ASIAN AMER MEDICAL",
+            "foreign_exempt": false,
+            "listing_date": "2007-03-19T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 81100999",
+            "mailing_address": "25 Peel Street, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "Health Care Equipment & Services",
+            "fax_number": "08 81100900",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-11-06T19:43:39+1100",
+                    "number_of_pages": 84,
+                    "id": "01918563",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-06T19:47:03+1100",
+                    "size": "13.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171106/pdf/43p0ghft5cbwsp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 29775275,
+                "code": "AJJ",
+                "indices": [],
+                "year_open_price": 0.09,
+                "previous_close_price": 0.1,
+                "year_change_price": 0.01,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 297752754,
+                "eps": -0.0097,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 297752754,
+                "pe": 0,
+                "offer_price": 0.12,
+                "suspended": false,
+                "last_price": 0.1,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-04-27T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.125,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "11.111%",
+                "average_daily_volume": 313507,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.aamg.co",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr KC Tan",
+                    "first_name": "KC",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Tan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Heng Boo Fong",
+                    "first_name": "Heng Boo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Vui Yung Lee",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": "Vui Yung"
+                },
+                {
+                    "full_name": "Ms Jeslyn Jacques Wee Kian Leong",
+                    "first_name": "Jeslyn Jacques",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leong",
+                    "middle_name": "Wee Kian"
+                },
+                {
+                    "full_name": "Mr Wing Kwan Teh",
+                    "first_name": "Wing",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Teh",
+                    "middle_name": "Kwan"
+                },
+                {
+                    "full_name": "Mr Evgeny Tugolukov",
+                    "first_name": "Evgeny",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tugolukov",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cherinjit Kumar Shori",
+                    "first_name": "Cherinjit",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kumar Shori",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Meng Yau Yeoh",
+                    "first_name": "Meng Yau",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yeoh",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Dario Nazzari",
+                    "first_name": "Dario",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nazzari",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SRH",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "SAFEROADS HOLDINGS LIMITED",
+    "ASXcode": "SRH",
+    "data": {
+        "summary": {
+            "name_short": "SAFEROADS",
+            "name_full": "SAFEROADS HOLDINGS LIMITED",
+            "code": "SRH",
+            "primary_share_code": "SRH",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "SAFEROADS HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": "2005-12-15T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 5945 6600",
+            "mailing_address": "PO Box 2030, 22 Commercial Drive, PAKENHAM, VIC, AUSTRALIA, 3810",
+            "principal_activities": "Manufacture, import and distribution of road safety products.",
+            "fax_number": "(03) 5940 9420",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-05T14:16:20+1000",
+                    "number_of_pages": 52,
+                    "id": "01892869",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-05T14:18:08+1000",
+                    "size": "4.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170905/pdf/43m2qgbbwkb762.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 5096000,
+                "code": "SRH",
+                "indices": [],
+                "year_open_price": 0.13692,
+                "previous_close_price": 0.14,
+                "year_change_price": 0.00308,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 36400000,
+                "eps": 0.0033,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 36400000,
+                "pe": 42.42,
+                "offer_price": 0.14,
+                "suspended": false,
+                "last_price": 0.14,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-27T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-05T11:00:00+1100",
+                "year_high_price": 0.145,
+                "bid_price": 0.135,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "2.249%",
+                "average_daily_volume": 22836,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.saferoads.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Ashmore",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ashmore",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Darren Hotchkin",
+                    "first_name": "Darren",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hotchkin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Cleland",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cleland",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Fearns",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fearns",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

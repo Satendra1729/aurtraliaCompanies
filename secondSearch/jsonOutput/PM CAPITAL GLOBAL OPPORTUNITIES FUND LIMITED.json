@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PGF",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "PM CAPITAL GLOBAL OPPORTUNITIES FUND LIMITED",
+    "ASXcode": "PGF",
+    "data": {
+        "summary": {
+            "name_short": "PMGLOBAL",
+            "name_full": "PM CAPITAL GLOBAL OPPORTUNITIES FUND LIMITED",
+            "code": "PGF",
+            "primary_share_code": "PGF",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "PM CAPITAL FUND",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PGF?image_size=L&v=1486934364000",
+            "foreign_exempt": false,
+            "listing_date": "2013-12-12T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "1.8C FRANKED @ 30%;  DRP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-17T00:00:00+1000",
+                "record_date": "2017-09-07T00:00:00+1000",
+                "payable_date": "2017-09-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.018,
+                "ex_date": "2017-09-06T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8243 0888",
+            "mailing_address": "Level 27, 420 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment in predominantly listed domestic and global securities diversified across domestic and global equity markets.",
+            "fax_number": "(02) 8243 0880",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report 2017",
+                    "document_date": "2017-08-17T16:51:31+1000",
+                    "number_of_pages": 53,
+                    "id": "01884879",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-17T16:56:24+1000",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170817/pdf/43lh9f6txs8sml.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 365894,
+                "status": [],
+                "market_cap": 420230171,
+                "code": "PGF",
+                "indices": [],
+                "year_open_price": 1.005,
+                "previous_close_price": 1.2,
+                "year_change_price": 0.195,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 350191809,
+                "eps": 0.2326,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 350191809,
+                "pe": 5.16,
+                "offer_price": 1.21,
+                "suspended": false,
+                "last_price": 1.2,
+                "deprecated_market_cap": 420230000,
+                "day_low_price": 1.2,
+                "open_price": 1.205,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0.418%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.21,
+                "bid_price": 1.2,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.21,
+                "year_change_in_percentage": "19.403%",
+                "average_daily_volume": 347534,
+                "year_low_price": 0.94,
+                "annual_dividend_yield": 2.83
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.pmcapital.com.au/listed-investment-company/pgf",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Stuart McGill",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGill",
+                    "middle_name": "Stuart"
+                },
+                {
+                    "full_name": "Mr Ben Everard Skilbeck",
+                    "first_name": "Ben",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Skilbeck",
+                    "middle_name": "Everard"
+                },
+                {
+                    "full_name": "Mr Brett Spork",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spork",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Matthews",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Matthews",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Richard Matthews",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Matthews",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

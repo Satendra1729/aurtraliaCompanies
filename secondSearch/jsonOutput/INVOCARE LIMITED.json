@@ -1,0 +1,222 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IVC",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "INVOCARE LIMITED",
+    "ASXcode": "IVC",
+    "data": {
+        "summary": {
+            "name_short": "INVOCARE",
+            "name_full": "INVOCARE LIMITED",
+            "code": "IVC",
+            "primary_share_code": "IVC",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "INVOCARE LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/IVC?image_size=L&v=1382312071000",
+            "foreign_exempt": false,
+            "listing_date": "2003-12-04T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "18.5C FRANKED @ 30%;  DRP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-09-07T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.185,
+                "ex_date": "2017-09-06T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(02) 9978 5200",
+            "mailing_address": "Level 2, 40 Miller Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Provider of funerals, burials and cremations.",
+            "fax_number": "(02) 9978 5298",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-13T08:32:53+1000",
+                    "number_of_pages": 104,
+                    "id": "01847771",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-13T08:37:46+1000",
+                    "size": "6.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170413/pdf/43hhn403dzr3k4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 104145,
+                "status": [],
+                "market_cap": 1911226276,
+                "code": "IVC",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    }
+                ],
+                "year_open_price": 11.26,
+                "previous_close_price": 17.37,
+                "year_change_price": 6.0,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 110030298,
+                "eps": 0.773,
+                "change_in_percent": "-0.633%",
+                "change_price": -0.11,
+                "deprecated_number_of_shares": 110030298,
+                "pe": 22.33,
+                "offer_price": 17.29,
+                "suspended": false,
+                "last_price": 17.26,
+                "deprecated_market_cap": 1899123000,
+                "day_low_price": 17.23,
+                "open_price": 17.3,
+                "year_high_date": "2017-11-29T00:00:00+1100",
+                "previous_day_percentage_change": "0.93%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 18.15,
+                "bid_price": 17,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 17.4,
+                "year_change_in_percentage": "53.286%",
+                "average_daily_volume": 256168,
+                "year_low_price": 12.53,
+                "annual_dividend_yield": 2.06
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.invocare.com.au/",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Fisher",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fisher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Earp",
+                    "first_name": "Martin",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Earp",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Davis",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Joycelyn Morton",
+                    "first_name": "Joycelyn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Stead",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stead",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Robyn Stubbs",
+                    "first_name": "Robyn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stubbs",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Josee Lemoine",
+                    "first_name": "Josee",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lemoine",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Phillip Friery",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Friery",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

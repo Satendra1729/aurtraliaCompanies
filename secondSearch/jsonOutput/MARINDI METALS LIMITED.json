@@ -1,0 +1,130 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MZN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MARINDI METALS LIMITED",
+    "ASXcode": "MZN",
+    "data": {
+        "summary": {
+            "name_full": "MARINDI METALS LIMITED",
+            "code": "MZN",
+            "name_short": "MARINDI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MARINDI METALS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MZN?image_size=L&v=1439333214000",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-14T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "info@marindi.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9322 2338",
+            "mailing_address": "Level 3, 35-37 Havelock St, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Base Metal exploration in the Northern territory and Western Australia",
+            "fax_number": "+61 8 9322 2338",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T17:43:25+1000",
+                    "number_of_pages": 56,
+                    "id": "01902683",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T17:45:06+1000",
+                    "size": "3.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtl1tt5677h1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6170612,
+                "status": [],
+                "market_cap": 18421663,
+                "code": "MZN",
+                "indices": [],
+                "year_open_price": 0.015,
+                "previous_close_price": 0.013,
+                "year_change_price": -0.002,
+                "year_low_date": "2017-07-10T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1417050994,
+                "eps": -0.0032,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1417050994,
+                "pe": 0,
+                "offer_price": 0.015,
+                "suspended": false,
+                "last_price": 0.013,
+                "deprecated_market_cap": 18422000,
+                "day_low_price": 0.013,
+                "open_price": 0.013,
+                "year_high_date": "2017-01-17T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.033,
+                "bid_price": 0.013,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.014,
+                "year_change_in_percentage": "-13.333%",
+                "average_daily_volume": 12726646,
+                "year_low_price": 0.005,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "MZN",
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.marindi.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Hutton",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hutton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joseph Treacy",
+                    "first_name": "Joseph",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Treacy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoffrey Jones",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jeremy Robinson",
+                    "first_name": "Jeremy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robinson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OPN",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "OPENDNA LIMITED",
+    "ASXcode": "OPN",
+    "data": {
+        "summary": {
+            "name_short": "OPENDNA",
+            "name_full": "OPENDNA LIMITED",
+            "code": "OPN",
+            "primary_share_code": "OPN",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "OPENDNA LTD",
+            "foreign_exempt": false,
+            "listing_date": "2016-11-16T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9221 0033",
+            "mailing_address": "Suite 8, 7 The esplanade, MOUNT PLEASANT, WA, AUSTRALIA, 6153",
+            "principal_activities": "To further develop and commercialise the Company?s technology.",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts & Annual Report to Shareholders",
+                    "document_date": "2017-09-29T02:08:28+1000",
+                    "number_of_pages": 68,
+                    "id": "01901673",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:19:03+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrn32qbyyybk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 20184,
+                "status": [],
+                "market_cap": 13135443,
+                "code": "OPN",
+                "indices": [],
+                "deprecated_number_of_shares": 62600920,
+                "previous_close_price": 0.125,
+                "year_low_date": "2017-06-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 105083541,
+                "eps": -0.094,
+                "change_in_percent": "4%",
+                "change_price": 0.005,
+                "pe": 0,
+                "offer_price": 0.13,
+                "suspended": false,
+                "last_price": 0.13,
+                "deprecated_market_cap": 8138000,
+                "day_low_price": 0.13,
+                "open_price": 0.13,
+                "year_high_date": "2017-03-22T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.2,
+                "bid_price": 0.115,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.13,
+                "average_daily_volume": 110240,
+                "year_low_price": 0.09,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.opendna.ai",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Grant Pestell",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pestell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jay Shah",
+                    "first_name": "Jay",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shah",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Evan Cross",
+                    "first_name": "Evan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cross",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lonnie Sciambi",
+                    "first_name": "Lonnie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sciambi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Jarvis",
+                    "first_name": "Richard",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jarvis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Torre",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Torre",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

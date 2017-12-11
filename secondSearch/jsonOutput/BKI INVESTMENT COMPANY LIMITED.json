@@ -1,0 +1,177 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BKI",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "BKI INVESTMENT COMPANY LIMITED",
+    "ASXcode": "BKI",
+    "data": {
+        "summary": {
+            "name_short": "BKI INVEST",
+            "name_full": "BKI INVESTMENT COMPANY LIMITED",
+            "code": "BKI",
+            "primary_share_code": "BKI",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "BKI INVESTMENT LTD",
+            "foreign_exempt": false,
+            "listing_date": "2003-12-12T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "last_dividend": {
+                "comments": "3.7C FRANKED @ 30%;  DRP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-07-18T00:00:00+1000",
+                "record_date": "2017-08-07T00:00:00+1000",
+                "payable_date": "2017-08-23T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.037,
+                "ex_date": "2017-08-04T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(02) 9210 7000",
+            "mailing_address": "Level 2, 160 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The management of an investment portfolio.",
+            "fax_number": "(02) 9210 7099",
+            "latest_annual_reports": [
+                {
+                    "header": "BKI 2017 Annual Report & Notice of Meeting",
+                    "document_date": "2017-09-11T10:13:58+1000",
+                    "number_of_pages": 63,
+                    "id": "01894641",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-11T10:18:31+1000",
+                    "size": "4.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170911/pdf/43m74dz5g4bmgz.pdf"
+                },
+                {
+                    "header": "BKI 30 June 2017 Appendix 4E and Annual Report",
+                    "document_date": "2017-07-18T18:33:26+1000",
+                    "number_of_pages": 55,
+                    "id": "01875093",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-07-18T18:36:40+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170718/pdf/43kqfr4f1ff9pm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 257715,
+                "status": [],
+                "market_cap": 1033022570,
+                "code": "BKI",
+                "indices": [],
+                "year_open_price": 1.6,
+                "previous_close_price": 1.665,
+                "year_change_price": 0.07,
+                "year_low_date": "2017-03-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 620433976,
+                "eps": 0.0757,
+                "change_in_percent": "0.3%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 620433976,
+                "pe": 22.06,
+                "offer_price": 1.685,
+                "suspended": false,
+                "last_price": 1.67,
+                "deprecated_market_cap": 1036125000,
+                "day_low_price": 1.67,
+                "open_price": 1.67,
+                "year_high_date": "2017-08-02T00:00:00+1000",
+                "previous_day_percentage_change": "-0.299%",
+                "year_open_date": "2014-02-24T11:00:00+1100",
+                "year_high_price": 1.715,
+                "bid_price": 1.67,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.69,
+                "year_change_in_percentage": "4.375%",
+                "average_daily_volume": 149568,
+                "year_low_price": 1.575,
+                "annual_dividend_yield": 4.37
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.bkilimited.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Millner",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Millner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Thomas Millner",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Millner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Hall",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Huntley",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Huntley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alexander Payne",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Payne",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jaime Pinto",
+                    "first_name": "Jaime",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pinto",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Larina Tcherkezian",
+                    "first_name": "Larina",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tcherkezian",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

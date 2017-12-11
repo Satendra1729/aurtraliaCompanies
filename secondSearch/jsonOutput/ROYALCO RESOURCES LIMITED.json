@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RCO",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ROYALCO RESOURCES LIMITED",
+    "ASXcode": "RCO",
+    "data": {
+        "summary": {
+            "name_short": "ROYALCO",
+            "name_full": "ROYALCO RESOURCES LIMITED",
+            "last_dividend": {
+                "comments": "0.5C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2016-09-16T00:00:00+1000",
+                "record_date": "2016-09-23T00:00:00+1000",
+                "payable_date": "2016-09-27T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.005,
+                "ex_date": "2016-09-22T00:00:00+1000"
+            },
+            "code": "RCO",
+            "primary_share_code": "RCO",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ROYALCO RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2006-06-29T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "jclyne@clynecorporate.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9048 8856",
+            "mailing_address": "Suite 6.02 Level 6, 28 O'Connell Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The holding of royalty interests over mining projects and tenements and exploration activities in the Philippines.",
+            "fax_number": "(02) 9993 4444",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-07T16:56:58+1000",
+                    "number_of_pages": 45,
+                    "id": "01893868",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-07T17:00:49+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170907/pdf/43m4zd0wd44cgq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 11597120,
+                "code": "RCO",
+                "indices": [],
+                "year_open_price": 0.265,
+                "previous_close_price": 0.22,
+                "year_change_price": -0.045,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 52714183,
+                "eps": -0.0156,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 52714183,
+                "pe": 0,
+                "offer_price": 0.31,
+                "suspended": false,
+                "last_price": 0.22,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-10T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.23,
+                "bid_price": 0.195,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-16.981%",
+                "average_daily_volume": 9000,
+                "year_low_price": 0,
+                "annual_dividend_yield": 2.27
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.royalco.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Susan Patrcia Thomas",
+                    "first_name": "Susan",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Thomas",
+                    "middle_name": "Patrcia"
+                },
+                {
+                    "full_name": "Mr Malcolm McComas",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McComas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoffrey Joel Parker",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Parker",
+                    "middle_name": "Joel"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justin Bradley Clyne",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clyne",
+                    "middle_name": "Bradley"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AHF",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "AUSTRALIAN DAIRY FARMS GROUP",
+    "ASXcode": "AHF",
+    "data": {
+        "summary": {
+            "name_short": "AUSDAIRY",
+            "name_full": "AUSTRALIAN DAIRY FARMS GROUP",
+            "code": "AHF",
+            "primary_share_code": "AHF",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "AUS DAIRY FARMS",
+            "foreign_exempt": false,
+            "listing_date": "2006-06-30T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "shareholders@adfl.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 3020 3020",
+            "mailing_address": "Level 3, 140 Ann Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Dairy farm ownership and operation",
+            "fax_number": "+61 7 3020 3080",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-31T16:41:24+1000",
+                    "number_of_pages": 66,
+                    "id": "01891285",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T16:43:23+1000",
+                    "size": "2.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lyv1ch0cv1gt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 78650,
+                "status": [],
+                "market_cap": 27001085,
+                "code": "AHF",
+                "indices": [],
+                "year_open_price": 0.06,
+                "previous_close_price": 0.115,
+                "year_change_price": 0.055,
+                "year_low_date": "2017-06-08T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 234792046,
+                "eps": -0.0114,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 234792046,
+                "pe": 0,
+                "offer_price": 0.12,
+                "suspended": false,
+                "last_price": 0.115,
+                "deprecated_market_cap": 27001000,
+                "day_low_price": 0.115,
+                "open_price": 0.12,
+                "year_high_date": "2016-12-22T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-07T11:00:00+1100",
+                "year_high_price": 0.185,
+                "bid_price": 0.115,
+                "desc_full": "Stapled Securities Fully Paid",
+                "day_high_price": 0.12,
+                "year_change_in_percentage": "91.667%",
+                "average_daily_volume": 383067,
+                "year_low_price": 0.095,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.adfl.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Hackett",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hackett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Skene",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Skene",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adrian Rowley",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jerome Jones",
+                    "first_name": "Jerome",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jerome Jones",
+                    "first_name": "Jerome",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

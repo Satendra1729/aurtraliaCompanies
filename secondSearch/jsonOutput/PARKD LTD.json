@@ -1,0 +1,80 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PKD",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "PARKD LTD",
+    "ASXcode": "PKD",
+    "data": {
+        "summary": {
+            "name_short": "PARKD LTD",
+            "name_full": "PARKD LTD",
+            "code": "PKD",
+            "primary_share_code": "PKD",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "PARKD LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-12-06T00:00:00+1100",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9429 8863",
+            "mailing_address": "Suite 2, 29 The Avenue, NEDLANDS, WA, AUSTRALIA, 6009",
+            "principal_activities": "Commercialisation of an innovative lightweight concrete \u00bfmodular\u00bf\ncar parking system.",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 682939,
+                "status": [],
+                "market_cap": 18411750,
+                "code": "PKD",
+                "indices": [],
+                "deprecated_number_of_shares": 39000000,
+                "previous_close_price": 0.245,
+                "year_low_date": "2017-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 75150000,
+                "eps": 0,
+                "change_in_percent": "6.122%",
+                "change_price": 0.015,
+                "pe": 0,
+                "offer_price": 0.26,
+                "suspended": false,
+                "last_price": 0.26,
+                "deprecated_market_cap": 10140000,
+                "day_low_price": 0.235,
+                "open_price": 0.24,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-2%",
+                "year_open_date": null,
+                "year_high_price": 0.28,
+                "bid_price": 0.25,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.28,
+                "average_daily_volume": 1371917,
+                "year_low_price": 0.22,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://https//www.parkdgroup.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Emma Waldon",
+                    "first_name": "Emma",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Waldon",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

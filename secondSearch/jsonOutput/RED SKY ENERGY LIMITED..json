@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ROG",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "RED SKY ENERGY LIMITED.",
+    "ASXcode": "ROG",
+    "data": {
+        "summary": {
+            "name_short": "RED SKY.",
+            "name_full": "RED SKY ENERGY LIMITED.",
+            "code": "ROG",
+            "primary_share_code": "ROG",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "RED SKY ENERGY.",
+            "foreign_exempt": false,
+            "listing_date": "2007-05-23T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9614 0600",
+            "mailing_address": "Level 17, 500 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "The Company is an Australian-based energy company established to acquire, explore, assess and exploit oil and gas deposits and solar opportunities",
+            "fax_number": "+61 3 9614 0550",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-03-30T17:17:55+1100",
+                    "number_of_pages": 52,
+                    "id": "01843517",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T17:20:07+1100",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h57njnkqtvc7.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 199388,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 2434912,
+                "code": "ROG",
+                "indices": [],
+                "year_open_price": 0.002,
+                "previous_close_price": 0.004,
+                "year_change_price": 0.003,
+                "year_low_date": "2017-07-18T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 608727909,
+                "eps": -1.2075,
+                "change_in_percent": "25%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 608727909,
+                "pe": 0,
+                "offer_price": 0.005,
+                "suspended": false,
+                "last_price": 0.005,
+                "deprecated_market_cap": 3044000,
+                "day_low_price": 0.005,
+                "open_price": 0.005,
+                "year_high_date": "2017-03-10T00:00:00+1100",
+                "previous_day_percentage_change": "-20%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.05,
+                "bid_price": 0.004,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.005,
+                "year_change_in_percentage": "150%",
+                "average_daily_volume": 711351,
+                "year_low_price": 0.003,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.redskyenergy.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Clinton Carey",
+                    "first_name": "Clinton",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Guy Touzeau Le Page",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Le Page",
+                    "middle_name": "Touzeau"
+                },
+                {
+                    "full_name": "Mr Adrien Michele Wing",
+                    "first_name": "Adrien",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wing",
+                    "middle_name": "Michele"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Adrien Wing",
+                    "first_name": "Adrien",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wing",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RDM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RED METAL LIMITED",
+    "ASXcode": "RDM",
+    "data": {
+        "summary": {
+            "name_short": "RED METAL",
+            "name_full": "RED METAL LIMITED",
+            "code": "RDM",
+            "primary_share_code": "RDM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RED METAL LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2003-10-27T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9281 1805",
+            "mailing_address": "Level 15, 323 Castlereagh Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Copper and gold explorer",
+            "fax_number": "(02) 9281 5747",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-20T17:23:18+1000",
+                    "number_of_pages": 52,
+                    "id": "01898148",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-20T17:27:10+1000",
+                    "size": "4.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170920/pdf/43mhfqk11g9xwc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 90795,
+                "status": [],
+                "market_cap": 30483844,
+                "code": "RDM",
+                "indices": [],
+                "year_open_price": 0.2,
+                "previous_close_price": 0.145,
+                "year_change_price": -0.055,
+                "year_low_date": "2016-12-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 210233409,
+                "eps": -0.011,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 210233409,
+                "pe": 0,
+                "offer_price": 0.145,
+                "suspended": false,
+                "last_price": 0.145,
+                "deprecated_market_cap": 30484000,
+                "day_low_price": 0.145,
+                "open_price": 0.145,
+                "year_high_date": "2017-09-19T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.245,
+                "bid_price": 0.14,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.145,
+                "year_change_in_percentage": "-27.5%",
+                "average_daily_volume": 423459,
+                "year_low_price": 0.097,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.redmetal.com.au/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Russell C Barwick",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barwick",
+                    "middle_name": "C"
+                },
+                {
+                    "full_name": "Mr Robert A Rutherford",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rutherford",
+                    "middle_name": "A"
+                },
+                {
+                    "full_name": "Mr Joshua N Pitt",
+                    "first_name": "Joshua",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pitt",
+                    "middle_name": "N"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Patrick J Flint",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Flint",
+                    "middle_name": "J"
+                }
+            ]
+        }
+    }
+}

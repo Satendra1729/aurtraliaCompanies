@@ -1,0 +1,200 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SSM",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "SERVICE STREAM LIMITED",
+    "ASXcode": "SSM",
+    "data": {
+        "summary": {
+            "name_short": "SRVSTREAM",
+            "name_full": "SERVICE STREAM LIMITED",
+            "code": "SSM",
+            "primary_share_code": "SSM",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "SERVICE STREAM",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SSM?image_size=L&v=1453957395000",
+            "foreign_exempt": false,
+            "listing_date": "2004-12-09T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "3C FRANKED @ 30%; DR P SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-09-14T00:00:00+1000",
+                "payable_date": "2017-09-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.03,
+                "ex_date": "2017-09-13T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9677 8888",
+            "mailing_address": "Level 4, 357 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "The Service Stream Group provides services to infrastructure based industries predominantly in the  telecommunications and utilities sectors  providing specialist end-to-end services including fixed line & wireless infrastructure design, maintenance, deployment and management; contact centre activities and logistics.",
+            "fax_number": "(03) 9677 8877",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-09-15T10:37:11+1000",
+                    "number_of_pages": 75,
+                    "id": "01896510",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-15T10:38:56+1000",
+                    "size": "8.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170915/pdf/43mccpbw9bhbdq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 854942,
+                "status": [],
+                "market_cap": 478398185,
+                "code": "SSM",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.23393,
+                "previous_close_price": 1.31,
+                "year_change_price": 1.02107,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 365189454,
+                "eps": 0.0778,
+                "change_in_percent": "-4.198%",
+                "change_price": -0.055,
+                "deprecated_number_of_shares": 365189454,
+                "pe": 16.13,
+                "offer_price": 1.29,
+                "suspended": false,
+                "last_price": 1.255,
+                "deprecated_market_cap": 458313000,
+                "day_low_price": 1.255,
+                "open_price": 1.31,
+                "year_high_date": "2017-09-14T00:00:00+1000",
+                "previous_day_percentage_change": "-1.504%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.51,
+                "bid_price": 1.25,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.33,
+                "year_change_in_percentage": "436.485%",
+                "average_daily_volume": 670197,
+                "year_low_price": 0.9,
+                "annual_dividend_yield": 3.59
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.servicestream.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brett Gallagher",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gallagher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leigh Mackender",
+                    "first_name": "Leigh",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackender",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Adcock",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Adcock",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Dempsey",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dempsey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Raelene Murphy",
+                    "first_name": "Raelene",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Murphy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Deborah Page",
+                    "first_name": "Deborah",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Page",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Nicole Goding",
+                    "first_name": "Nicole",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Goding",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Vicki Letcher on Maternity Leave",
+                    "first_name": "Vicki",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Letcher on Maternity Leave",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

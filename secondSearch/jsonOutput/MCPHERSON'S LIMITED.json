@@ -1,0 +1,196 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MCP",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "MCPHERSON'S LIMITED",
+    "ASXcode": "MCP",
+    "data": {
+        "summary": {
+            "name_short": "MCPHERSON",
+            "name_full": "MCPHERSON'S LIMITED",
+            "code": "MCP",
+            "primary_share_code": "MCP",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "MCPHERSON'S LTD",
+            "foreign_exempt": false,
+            "listing_date": "1962-06-30T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "2C FRANKED @ 30%; DR P NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-10-03T00:00:00+1100",
+                "payable_date": "2017-10-20T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.02,
+                "ex_date": "2017-10-02T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9370 8000",
+            "mailing_address": "105 Vanessa Street, KINGSGROVE, NSW, AUSTRALIA, 2280",
+            "principal_activities": "McPherson'\u00bf\u00bfs is a leading supplier of health & beauty, consumer durable and household consumable products in Australasia, with operations in Australia, New Zealand and Asia. The company owns a diversified portfolio of market-leading brands, including M",
+            "fax_number": "(02) 9370 8090",
+            "latest_annual_reports": [
+                {
+                    "header": "FY2017 Annual Report",
+                    "document_date": "2017-09-29T16:16:34+1000",
+                    "number_of_pages": 101,
+                    "id": "01902485",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:19:31+1000",
+                    "size": "8.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt6dkrrh6nb1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 117619,
+                "status": [],
+                "market_cap": 110363635,
+                "code": "MCP",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 1.2,
+                "previous_close_price": 1.06,
+                "year_change_price": -0.09,
+                "year_low_date": "2017-11-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 104116637,
+                "eps": -0.088,
+                "change_in_percent": "4.717%",
+                "change_price": 0.05,
+                "deprecated_number_of_shares": 104116637,
+                "pe": 0,
+                "offer_price": 1.11,
+                "suspended": false,
+                "last_price": 1.11,
+                "deprecated_market_cap": 115569000,
+                "day_low_price": 1.06,
+                "open_price": 1.06,
+                "year_high_date": "2017-09-04T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.59,
+                "bid_price": 1.085,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.115,
+                "year_change_in_percentage": "-7.5%",
+                "average_daily_volume": 192083,
+                "year_low_price": 0.88,
+                "annual_dividend_yield": 7.21
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.mcphersons.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graham Cubbin",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cubbin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul J. Maguire",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Maguire",
+                    "middle_name": "J."
+                },
+                {
+                    "full_name": "Mr Laurence McAllister",
+                    "first_name": "Laurence",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McAllister",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Amanda M. Lacaze",
+                    "first_name": "Amanda",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lacaze",
+                    "middle_name": "M."
+                },
+                {
+                    "full_name": "Ms Jane McKellar",
+                    "first_name": "Jane",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McKellar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Margaret Payn",
+                    "first_name": "Margaret",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Payn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Witheridge",
+                    "first_name": "Paul",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Witheridge",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Philip Bennett",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bennett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Witheridge",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Witheridge",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

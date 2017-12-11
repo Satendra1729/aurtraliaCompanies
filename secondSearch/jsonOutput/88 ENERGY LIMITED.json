@@ -1,0 +1,152 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/88E",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "88 ENERGY LIMITED",
+    "ASXcode": "88E",
+    "data": {
+        "summary": {
+            "name_short": "88 ENERGY",
+            "name_full": "88 ENERGY LIMITED",
+            "code": "88E",
+            "primary_share_code": "88E",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "88 ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2000-01-20T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9485 0990",
+            "mailing_address": "Level 2,, 5 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Oil and Gas Exploration.",
+            "fax_number": "+61 8 9321 8990",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-02-16T15:31:53+1100",
+                    "number_of_pages": 71,
+                    "id": "01829062",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-02-16T15:34:15+1100",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170216/pdf/43g1v3f8fnrpk0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3775528,
+                "status": [],
+                "market_cap": 92995279,
+                "code": "88E",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.23,
+                "previous_close_price": 0.02,
+                "year_change_price": -0.21,
+                "year_low_date": "2017-11-02T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 4649763932,
+                "eps": -0.0018,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 4649763932,
+                "pe": 0,
+                "offer_price": 0.021,
+                "suspended": false,
+                "last_price": 0.02,
+                "deprecated_market_cap": 92995000,
+                "day_low_price": 0.02,
+                "open_price": 0.021,
+                "year_high_date": "2017-06-13T00:00:00+1000",
+                "previous_day_percentage_change": "5.263%",
+                "year_open_date": "2014-02-03T11:00:00+1100",
+                "year_high_price": 0.068,
+                "bid_price": 0.02,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.021,
+                "year_change_in_percentage": "-91.304%",
+                "average_daily_volume": 11495523,
+                "year_low_price": 0.016,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.88energy.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Evans",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Wall",
+                    "first_name": "David",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Stephen Staley",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Staley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brent Villemarette",
+                    "first_name": "Brent",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Villemarette",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sarah Smith",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

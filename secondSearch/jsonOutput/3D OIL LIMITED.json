@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/TDO",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "3D OIL LIMITED",
+    "ASXcode": "TDO",
+    "data": {
+        "summary": {
+            "name_short": "3D OIL",
+            "name_full": "3D OIL LIMITED",
+            "code": "TDO",
+            "primary_share_code": "TDO",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "3D OIL LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2007-05-22T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "info@3doil.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9650 9866",
+            "mailing_address": "Level 18, 41 Exhibition Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Oil and gas exploration",
+            "fax_number": "(03) 9639 1960",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-02T16:32:18+1100",
+                    "number_of_pages": 62,
+                    "id": "01903344",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T16:33:56+1100",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mwctccbxnm17.pdf"
+                },
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-08-17T09:37:25+1000",
+                    "number_of_pages": 64,
+                    "id": "01884699",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-17T09:38:58+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170817/pdf/43lgxb0ld2wns1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 70000,
+                "status": [],
+                "market_cap": 16626610,
+                "code": "TDO",
+                "indices": [],
+                "year_open_price": 0.1,
+                "previous_close_price": 0.07,
+                "year_change_price": -0.022,
+                "year_low_date": "2017-03-14T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 237523000,
+                "eps": -0.0077,
+                "change_in_percent": "11.429%",
+                "change_price": 0.008,
+                "deprecated_number_of_shares": 237523000,
+                "pe": 0,
+                "offer_price": 0.078,
+                "suspended": false,
+                "last_price": 0.078,
+                "deprecated_market_cap": 18527000,
+                "day_low_price": 0.078,
+                "open_price": 0.078,
+                "year_high_date": "2017-11-07T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.085,
+                "bid_price": 0.061,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.078,
+                "year_change_in_percentage": "-22%",
+                "average_daily_volume": 139354,
+                "year_low_price": 0.035,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.3doil.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Noel Newell",
+                    "first_name": "Noel",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Newell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leo De Maria",
+                    "first_name": "Leo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "De Maria",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Tchacos",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tchacos",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Melanie Leydin",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leydin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

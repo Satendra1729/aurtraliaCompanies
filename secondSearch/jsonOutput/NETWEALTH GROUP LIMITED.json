@@ -1,0 +1,152 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NWL",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "NETWEALTH GROUP LIMITED",
+    "ASXcode": "NWL",
+    "data": {
+        "summary": {
+            "name_short": "NETWEALTH",
+            "name_full": "NETWEALTH GROUP LIMITED",
+            "code": "NWL",
+            "primary_share_code": "NWL",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "NETWEALTH GROUP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/NWL?image_size=L&v=1510898943000",
+            "foreign_exempt": false,
+            "listing_date": "2017-11-20T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9655 1300",
+            "mailing_address": "Level 8, 52 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Provider of superannuation and non-superannuation platform products to financial intermediaries and clients",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 119278,
+                "status": [],
+                "market_cap": 1354774957,
+                "code": "NWL",
+                "indices": [],
+                "deprecated_number_of_shares": 237679817,
+                "previous_close_price": 5.7,
+                "year_low_date": "2017-11-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 237679817,
+                "eps": 0,
+                "change_in_percent": "-2.281%",
+                "change_price": -0.13,
+                "pe": 0,
+                "offer_price": 5.7,
+                "suspended": false,
+                "last_price": 5.57,
+                "deprecated_market_cap": 1323877000,
+                "day_low_price": 5.525,
+                "open_price": 5.64,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "3.825%",
+                "year_open_date": null,
+                "year_high_price": 5.7,
+                "bid_price": 5.55,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.7,
+                "average_daily_volume": 2322485,
+                "year_low_price": 4.87,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://https//www.netwealth.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mrs Jane Anne Tongs",
+                    "first_name": "Jane",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Tongs",
+                    "middle_name": "Anne"
+                },
+                {
+                    "full_name": "Mr Michael Max Heine",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Heine",
+                    "middle_name": "Max"
+                },
+                {
+                    "full_name": "Mr Matthew Alexander Max Heine",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Heine",
+                    "middle_name": "Alexander Max"
+                },
+                {
+                    "full_name": "Mr Timothy Michael Antonie",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Antonie",
+                    "middle_name": "Michael"
+                },
+                {
+                    "full_name": "Mr Davyd Charles Lewis Lewis",
+                    "first_name": "Davyd",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lewis",
+                    "middle_name": "Charles Lewis"
+                },
+                {
+                    "full_name": "Mr Grant Andrew Boyle",
+                    "first_name": "Grant",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boyle",
+                    "middle_name": "Andrew"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Grant Andrew Boyle",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boyle",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Ms Rachel Elizabeth Axton",
+                    "first_name": "Rachel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Axton",
+                    "middle_name": "Elizabeth"
+                }
+            ]
+        }
+    }
+}

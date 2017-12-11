@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BSR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BASSARI RESOURCES LIMITED",
+    "ASXcode": "BSR",
+    "data": {
+        "summary": {
+            "name_short": "BASSARI",
+            "name_full": "BASSARI RESOURCES LIMITED",
+            "code": "BSR",
+            "primary_share_code": "BSR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BASSARI RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2008-01-07T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@bassari.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 3 9614 0600",
+            "mailing_address": "Level 17, 500 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "West African gold explorer",
+            "fax_number": "61 3 9614 0550",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-03-30T18:06:05+1100",
+                    "number_of_pages": 58,
+                    "id": "01843541",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T18:08:14+1100",
+                    "size": "3.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h596r4l9tkvm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "XE"
+                ],
+                "market_cap": 30006284,
+                "code": "BSR",
+                "indices": [],
+                "year_open_price": 0.009,
+                "previous_close_price": 0.015,
+                "year_change_price": 0.006,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2000418908,
+                "eps": -0.0023,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 2000418908,
+                "pe": 0,
+                "offer_price": 0.015,
+                "suspended": false,
+                "last_price": 0.015,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-15T00:00:00+1100",
+                "previous_day_percentage_change": "-6.25%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.039,
+                "bid_price": 0.014,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "66.667%",
+                "average_daily_volume": 1993525,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.BassariResources.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alexander Seaforth Mackenzie",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackenzie",
+                    "middle_name": "Seaforth"
+                },
+                {
+                    "full_name": "Mr Peter John Spivey",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spivey",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Philip Francis Bruce",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bruce",
+                    "middle_name": "Francis"
+                },
+                {
+                    "full_name": "Mr Ian Riley",
+                    "first_name": "Ian",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Riley",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Riley",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Riley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

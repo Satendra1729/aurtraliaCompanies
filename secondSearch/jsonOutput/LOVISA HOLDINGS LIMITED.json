@@ -1,0 +1,163 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LOV",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "LOVISA HOLDINGS LIMITED",
+    "ASXcode": "LOV",
+    "data": {
+        "summary": {
+            "name_short": "LOVISA",
+            "name_full": "LOVISA HOLDINGS LIMITED",
+            "code": "LOV",
+            "primary_share_code": "LOV",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "LOVISA HOLDINGS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2014-12-18T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "7.6C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-14T00:00:00+1000",
+                "payable_date": "2017-10-26T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.076,
+                "ex_date": "2017-09-13T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9831 1800",
+            "mailing_address": "Level 1, 818 Glenferrie Rd, HAWTHORN, VIC, AUSTRALIA, 3122",
+            "principal_activities": "International specialist fast fashion jewellery retailer.",
+            "fax_number": "(03) 9804 0060",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T11:24:05+1000",
+                    "number_of_pages": 84,
+                    "id": "01901106",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T11:26:41+1000",
+                    "size": "6.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqfbsb14qvn0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 50338,
+                "status": [],
+                "market_cap": 675252880,
+                "code": "LOV",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 105016000,
+                "previous_close_price": 6.43,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 105016000,
+                "eps": 0.2766,
+                "change_in_percent": "2.955%",
+                "change_price": 0.19,
+                "pe": 23.93,
+                "offer_price": 6.62,
+                "suspended": false,
+                "last_price": 6.62,
+                "deprecated_market_cap": 695206000,
+                "day_low_price": 6.4,
+                "open_price": 6.45,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "0.784%",
+                "year_open_date": null,
+                "year_high_price": 6.82,
+                "bid_price": 6.61,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 6.68,
+                "average_daily_volume": 123074,
+                "year_low_price": 3.11,
+                "annual_dividend_yield": 2.66
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.lovisa.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Kay",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kay",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Shane Fallscheer",
+                    "first_name": "Shane",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fallscheer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Tracy Blundy",
+                    "first_name": "Tracy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Blundy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James King",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "King",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Lauder",
+                    "first_name": "Chris",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lauder",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Chris Lauder",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lauder",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

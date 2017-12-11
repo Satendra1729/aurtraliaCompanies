@@ -1,0 +1,117 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KMT",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KOPORE METALS LIMITED",
+    "ASXcode": "KMT",
+    "data": {
+        "summary": {
+            "name_short": "KOPOREMT",
+            "name_full": "KOPORE METALS LIMITED",
+            "code": "KMT",
+            "primary_share_code": "KMT",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KOPORE METALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-07-01T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "andrew@koporemetals.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 4328",
+            "mailing_address": "Suite 5, 62 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration for gold and base metals.",
+            "fax_number": "(08) 9322 5230",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 26921,
+                "status": [],
+                "market_cap": 13458693,
+                "code": "KMT",
+                "indices": [],
+                "year_open_price": 0.028,
+                "previous_close_price": 0.031,
+                "year_change_price": 0.003,
+                "year_low_date": "2017-04-24T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 434151400,
+                "eps": -0.0046,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 434151400,
+                "pe": 0,
+                "offer_price": 0.032,
+                "suspended": false,
+                "last_price": 0.031,
+                "deprecated_market_cap": 13459000,
+                "day_low_price": 0.031,
+                "open_price": 0.031,
+                "year_high_date": "2017-10-16T00:00:00+1100",
+                "previous_day_percentage_change": "3.333%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.045,
+                "bid_price": 0.031,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.031,
+                "year_change_in_percentage": "10.714%",
+                "average_daily_volume": 861166,
+                "year_low_price": 0.018,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.koporemetals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Winton Willesee",
+                    "first_name": "Winton",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Willesee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Shannon Louise Coates",
+                    "first_name": "Shannon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Coates",
+                    "middle_name": "Louise"
+                },
+                {
+                    "full_name": "Miss Erlyn Dale",
+                    "first_name": "Erlyn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Miss",
+                    "last_name": "Dale",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Metcalfe",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Metcalfe",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CVT",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "COVATA LIMITED",
+    "ASXcode": "CVT",
+    "data": {
+        "summary": {
+            "name_short": "COVATA",
+            "name_full": "COVATA LIMITED",
+            "code": "CVT",
+            "primary_share_code": "CVT",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "COVATA LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CVT?image_size=L&v=1505092890000",
+            "foreign_exempt": false,
+            "listing_date": "2007-01-03T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8412 8200",
+            "mailing_address": "Suite 1, Level 6, 50 Queen Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Information technology security",
+            "fax_number": "+61 2 8412 8202",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and 2017 Annual Report",
+                    "document_date": "2017-08-29T09:57:10+1000",
+                    "number_of_pages": 89,
+                    "id": "01889481",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T10:04:46+1000",
+                    "size": "701.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lv2c0glk2vj0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 73350,
+                "status": [],
+                "market_cap": 31852502,
+                "code": "CVT",
+                "indices": [],
+                "year_open_price": 0.01,
+                "previous_close_price": 0.05,
+                "year_change_price": 0.037,
+                "year_low_date": "2017-06-01T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 637050034,
+                "eps": -0.0195,
+                "change_in_percent": "-6%",
+                "change_price": -0.003,
+                "deprecated_number_of_shares": 579958545,
+                "pe": 0,
+                "offer_price": 0.049,
+                "suspended": false,
+                "last_price": 0.047,
+                "deprecated_market_cap": 27258000,
+                "day_low_price": 0.047,
+                "open_price": 0.047,
+                "year_high_date": "2017-01-11T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.142,
+                "bid_price": 0.047,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.047,
+                "year_change_in_percentage": "370%",
+                "average_daily_volume": 523985,
+                "year_low_price": 0.025,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.covata.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bill McCluggage",
+                    "first_name": "Bill",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McCluggage",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ted Pretty",
+                    "first_name": "Ted",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pretty",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Irvine",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Irvine",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lindsay James Tanner",
+                    "first_name": "Lindsay",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tanner",
+                    "middle_name": "James"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Steven Bliim",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bliim",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Gowans",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gowans",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

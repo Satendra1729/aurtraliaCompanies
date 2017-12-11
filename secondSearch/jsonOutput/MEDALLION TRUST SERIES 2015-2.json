@@ -1,0 +1,88 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MZC",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "MEDALLION TRUST SERIES 2015-2",
+    "ASXcode": "MZC",
+    "data": {
+        "summary": {
+            "name_full": "MEDALLION TRUST SERIES 2015-2",
+            "code": "MZC",
+            "name_short": "MED 2015-2",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "MEDALLION 2015-2",
+            "foreign_exempt": false,
+            "listing_date": "2015-10-26T00:00:00+1100",
+            "registry_address": "LEVEL 12, ANGEL PLACE, 123 PITT STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "registeredoffice@cba.com.au",
+            "products": [],
+            "phone_number": "0",
+            "mailing_address": "Securitisation Advisory Services Pty Ltd, Ground Floor, Darling Park Tower 1, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": ".",
+            "fax_number": "02 9118 7192",
+            "latest_annual_reports": [],
+            "web_address": "http://www.perpetual.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "PERPETUAL TRUSTEES CONSOLIDATED LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr SIMON MAIDMENT",
+                    "first_name": "SIMON",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "MAIDMENT",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Tracy Harvey",
+                    "first_name": "Tracy",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Harvey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Pierre Katerdjian",
+                    "first_name": "Pierre",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Katerdjian",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr JEAN OLIVIER",
+                    "first_name": "JEAN",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "OLIVIER",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms ANGELA CLARKE",
+                    "first_name": "ANGELA",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "CLARKE",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

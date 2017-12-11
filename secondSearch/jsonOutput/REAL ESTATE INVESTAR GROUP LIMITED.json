@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/REV",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "REAL ESTATE INVESTAR GROUP LIMITED",
+    "ASXcode": "REV",
+    "data": {
+        "summary": {
+            "name_full": "REAL ESTATE INVESTAR GROUP LIMITED",
+            "code": "REV",
+            "name_short": "REI GROUP",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "REAL ESTATE INVESTAR",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/REV?image_size=L&v=1473294796000",
+            "foreign_exempt": false,
+            "listing_date": "2015-12-10T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "lmitchell@convergencelegal.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8530 3404",
+            "mailing_address": "LEVEL 6, 330 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Provision of online and offline tools and services to Australian and New Zealand residential property investors",
+            "fax_number": "85303411",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-23T11:28:48+1100",
+                    "number_of_pages": 68,
+                    "id": "01911022",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T11:31:08+1100",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43ngp7wpzfxcwv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 47500,
+                "status": [],
+                "market_cap": 4664102,
+                "code": "REV",
+                "indices": [],
+                "deprecated_number_of_shares": 87376362,
+                "previous_close_price": 0.04,
+                "year_low_date": "2017-06-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 116602554,
+                "eps": -0.0263,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.044,
+                "suspended": false,
+                "last_price": 0.04,
+                "deprecated_market_cap": 3495000,
+                "day_low_price": 0.04,
+                "open_price": 0.04,
+                "year_high_date": "2016-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.05,
+                "bid_price": 0.04,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.04,
+                "average_daily_volume": 150550,
+                "year_low_price": 0.025,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "REV",
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.realestateinvestar.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Simon Baker",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Clinton Greaves",
+                    "first_name": "Clinton",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Greaves",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joe Hanna",
+                    "first_name": "Joe",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hanna",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Penman",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Penman",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Lee Mitchell",
+                    "first_name": "Lee",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitchell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

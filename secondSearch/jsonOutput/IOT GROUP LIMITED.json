@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IOT",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "IOT GROUP LIMITED",
+    "ASXcode": "IOT",
+    "data": {
+        "summary": {
+            "name_short": "IOTGROUP",
+            "name_full": "IOT GROUP LIMITED",
+            "code": "IOT",
+            "primary_share_code": "IOT",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "IOT GROUP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2011-01-28T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "ron@theiotgroup.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300662580",
+            "mailing_address": "Suite 902, Level 9, 100 William Street, EAST SYDNEY, NSW, AUSTRALIA, 2011",
+            "principal_activities": "Innovative proprietary technology in the \"Internet of Things\" industry",
+            "fax_number": "03 91115652",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 19411024,
+                "status": [],
+                "market_cap": 7640323,
+                "code": "IOT",
+                "indices": [],
+                "year_open_price": 0.01,
+                "previous_close_price": 0.009,
+                "year_change_price": -0.001,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 848924823,
+                "eps": -0.0255,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 698941511,
+                "pe": 0,
+                "offer_price": 0.009,
+                "suspended": false,
+                "last_price": 0.009,
+                "deprecated_market_cap": 6290000,
+                "day_low_price": 0.008,
+                "open_price": 0.009,
+                "year_high_date": "2017-02-14T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-13T11:00:00+1100",
+                "year_high_price": 0.053,
+                "bid_price": 0.008,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.009,
+                "year_change_in_percentage": "-10%",
+                "average_daily_volume": 5113279,
+                "year_low_price": 0.008,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.theiotgroup.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Sean Neylon",
+                    "first_name": "Sean",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Neylon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Kayalicos",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kayalicos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Forder",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Forder",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nigel Julian Braund",
+                    "first_name": "Nigel",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Braund",
+                    "middle_name": "Julian"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr ron ernest hollands",
+                    "first_name": "ron",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "hollands",
+                    "middle_name": "ernest"
+                }
+            ]
+        }
+    }
+}

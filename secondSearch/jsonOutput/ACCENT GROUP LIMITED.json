@@ -1,0 +1,217 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AX1",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "ACCENT GROUP LIMITED",
+    "ASXcode": "AX1",
+    "data": {
+        "summary": {
+            "name_short": "ACCENT GL",
+            "name_full": "ACCENT GROUP LIMITED",
+            "code": "AX1",
+            "primary_share_code": "AX1",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "ACCENT GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-07-07T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "3C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-11T00:00:00+1000",
+                "payable_date": "2017-09-25T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.03,
+                "ex_date": "2017-09-08T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8310-0000",
+            "mailing_address": "719 Elizabeth Street, WATERLOO, NSW, AUSTRALIA, 2017",
+            "principal_activities": "RCG and its subsidiaries, including Accent Group which it acquired in May 2015, own and operate a number of footwear and apparel businesses in the performance and active lifestyle sectors. The group is a regional leader in the retail and distribution of b",
+            "fax_number": "+61 2 8310-0066",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 1018523,
+                "status": [],
+                "market_cap": 501619382,
+                "code": "AX1",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.735,
+                "previous_close_price": 0.925,
+                "year_change_price": 0.185,
+                "year_low_date": "2017-06-02T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 542291224,
+                "eps": 0.0554,
+                "change_in_percent": "-0.541%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 542291224,
+                "pe": 16.61,
+                "offer_price": 0.92,
+                "suspended": false,
+                "last_price": 0.92,
+                "deprecated_market_cap": 498908000,
+                "day_low_price": 0.915,
+                "open_price": 0.925,
+                "year_high_date": "2017-01-10T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.532,
+                "bid_price": 0.915,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.93,
+                "year_change_in_percentage": "25.17%",
+                "average_daily_volume": 870246,
+                "year_low_price": 0.575,
+                "annual_dividend_yield": 6.52
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.rcgcorp.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Hilton Brett",
+                    "first_name": "Hilton",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Agostinelli",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Agostinelli",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Gilbert",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gilbert",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Blundy",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Blundy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Goddard",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goddard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Gordon",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gordon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Hapgood",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hapgood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Kulmar",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kulmar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Thompson",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thompson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Hirschowitz",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Finance Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hirschowitz",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Leanne Ralph",
+                    "first_name": "Leanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ralph",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

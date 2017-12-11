@@ -1,0 +1,123 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SI6",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "SIX SIGMA METALS LIMITED",
+    "ASXcode": "SI6",
+    "data": {
+        "summary": {
+            "name_short": "SIXSIG MET",
+            "name_full": "SIX SIGMA METALS LIMITED",
+            "code": "SI6",
+            "primary_share_code": "SI6",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "SIX SIGMA METALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2008-01-18T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 3 9855 1885",
+            "mailing_address": "Suite 506, Level 1, 1 Princess Street, KEW, VIC, AUSTRALIA, 3101",
+            "principal_activities": "Mining Exploration.",
+            "fax_number": "61 3 9855 2885",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 213334,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 0,
+                "indices": [],
+                "year_open_price": 0.005,
+                "year_change_price": 0.011,
+                "year_low_date": "2017-11-28T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 0,
+                "eps": -0.0014,
+                "code": "SI6",
+                "deprecated_number_of_shares": 350836487,
+                "pe": 0,
+                "offer_price": 0.017,
+                "suspended": false,
+                "last_price": 0.016,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0.015,
+                "open_price": 0.016,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.017,
+                "bid_price": 0.016,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.017,
+                "year_change_in_percentage": "220%",
+                "average_daily_volume": 12104066,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.botswanametals.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Pat Volpe",
+                    "first_name": "Pat",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Volpe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ed Bulseco",
+                    "first_name": "Ed",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bulseco",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steve Groves",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Groves",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Josh Letcher",
+                    "first_name": "Josh",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Letcher",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ramon Jimenez",
+                    "first_name": "Ramon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jimenez",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

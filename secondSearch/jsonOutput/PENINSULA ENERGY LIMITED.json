@@ -1,0 +1,187 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PEN",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "PENINSULA ENERGY LIMITED",
+    "ASXcode": "PEN",
+    "data": {
+        "summary": {
+            "name_short": "PENINSULA",
+            "name_full": "PENINSULA ENERGY LIMITED",
+            "code": "PEN",
+            "primary_share_code": "PEN",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "PENINSULA ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "1994-05-26T00:00:00+1000",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9380 9920",
+            "mailing_address": "Unit 17, Level 2, Spectrum Building, 100 Railway Road, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Acquisition and exploration of mineral tenements.",
+            "fax_number": "(08) 9381 5064",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T17:08:05+1100",
+                    "number_of_pages": 88,
+                    "id": "01916120",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T17:10:23+1100",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43ntqqn791fc1j.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 945138,
+                "status": [],
+                "market_cap": 107700534,
+                "code": "PEN",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.023,
+                "previous_close_price": 0.465,
+                "year_change_price": 0.432,
+                "year_low_date": "2017-10-27T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 231614051,
+                "eps": -0.4931,
+                "change_in_percent": "-2.151%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 231614051,
+                "pe": 0,
+                "offer_price": 0.46,
+                "suspended": false,
+                "last_price": 0.455,
+                "deprecated_market_cap": 105384000,
+                "day_low_price": 0.45,
+                "open_price": 0.47,
+                "year_high_date": "2017-01-12T00:00:00+1100",
+                "previous_day_percentage_change": "4.494%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.91,
+                "bid_price": 0.455,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.475,
+                "year_change_in_percentage": "1,878.261%",
+                "average_daily_volume": 315756,
+                "year_low_price": 0.265,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.pel.net.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Harrison",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harrison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Simpson",
+                    "first_name": "John",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Simpson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Harrison Barker",
+                    "first_name": "Harrison",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warwick Grigor",
+                    "first_name": "Warwick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grigor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Evgenij Iorich",
+                    "first_name": "Evgenij",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Iorich",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Lockwood",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lockwood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Glenn Black",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Black",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Coyne",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coyne",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jonathan Whyte",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whyte",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

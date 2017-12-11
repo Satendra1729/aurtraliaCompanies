@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EHX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "EHR RESOURCES LIMITED",
+    "ASXcode": "EHX",
+    "data": {
+        "summary": {
+            "name_short": "EHRRES",
+            "name_full": "EHR RESOURCES LIMITED",
+            "code": "EHX",
+            "primary_share_code": "EHX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "EHR RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2013-01-04T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6559 1792",
+            "mailing_address": "Suite 2, Level 1, 1 Altona Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mineral Resources Exploration.",
+            "fax_number": "(08) 9481 4950",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-22T17:12:44+1000",
+                    "number_of_pages": 53,
+                    "id": "01899169",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T17:15:43+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mkq7jsfbyc0p.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 86671,
+                "status": [],
+                "market_cap": 13722264,
+                "code": "EHX",
+                "indices": [],
+                "year_open_price": 0.12,
+                "previous_close_price": 0.13,
+                "year_change_price": 0.01,
+                "year_low_date": "2016-12-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 105555875,
+                "eps": -0.019,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 105555875,
+                "pe": 0,
+                "offer_price": 0.135,
+                "suspended": false,
+                "last_price": 0.13,
+                "deprecated_market_cap": 13722000,
+                "day_low_price": 0.13,
+                "open_price": 0.13,
+                "year_high_date": "2017-10-16T00:00:00+1100",
+                "previous_day_percentage_change": "-10.345%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.195,
+                "bid_price": 0.125,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.13,
+                "year_change_in_percentage": "8.333%",
+                "average_daily_volume": 568669,
+                "year_low_price": 0.04,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.ehrresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stephen Dennis",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dennis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Bradley",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bradley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeremy Philip King",
+                    "first_name": "Jeremy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "King",
+                    "middle_name": "Philip"
+                },
+                {
+                    "full_name": "Mr Michael O'Keeffe",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Keeffe",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sarah Smith",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

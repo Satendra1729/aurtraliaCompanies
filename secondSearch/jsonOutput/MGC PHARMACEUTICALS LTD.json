@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MXC",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "MGC PHARMACEUTICALS LTD",
+    "ASXcode": "MXC",
+    "data": {
+        "summary": {
+            "name_full": "MGC PHARMACEUTICALS LTD",
+            "code": "MXC",
+            "name_short": "MGC PHARMA",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "MGC PHARMACEUTICALS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MXC?image_size=L&v=1461738267000",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-21T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@mgcpharma.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9389 2000",
+            "mailing_address": "Level 7, 1008 Hay Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "MGC Pharmaceuticals Ltd (ASX: MXC) is a European based specialist medical cannabis biopharma company.",
+            "fax_number": "(08) 9389 2099",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 6030270,
+                "status": [],
+                "market_cap": 92115131,
+                "code": "MXC",
+                "indices": [],
+                "year_open_price": 0.012,
+                "previous_close_price": 0.084,
+                "year_change_price": 0.075,
+                "year_low_date": "2016-12-19T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1096608703,
+                "eps": -0.0084,
+                "change_in_percent": "3.571%",
+                "change_price": 0.003,
+                "deprecated_number_of_shares": 1033262003,
+                "pe": 0,
+                "offer_price": 0.087,
+                "suspended": false,
+                "last_price": 0.087,
+                "deprecated_market_cap": 89894000,
+                "day_low_price": 0.085,
+                "open_price": 0.085,
+                "year_high_date": "2017-03-14T00:00:00+1100",
+                "previous_day_percentage_change": "1.205%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.12,
+                "bid_price": 0.086,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.088,
+                "year_change_in_percentage": "625%",
+                "average_daily_volume": 20271801,
+                "year_low_price": 0.036,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "MXC",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.mgcpharma.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brett Mitchell",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitchell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nativ Segev",
+                    "first_name": "Nativ",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Segev",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Roby Zomer",
+                    "first_name": "Roby",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zomer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Ross Walker",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Walker",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Rachel Kerr",
+                    "first_name": "Rachel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Kerr",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

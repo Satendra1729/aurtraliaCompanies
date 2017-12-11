@@ -1,0 +1,257 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MFG",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "MAGELLAN FINANCIAL GROUP LIMITED",
+    "ASXcode": "MFG",
+    "data": {
+        "summary": {
+            "name_short": "MAG FINC",
+            "name_full": "MAGELLAN FINANCIAL GROUP LIMITED",
+            "code": "MFG",
+            "primary_share_code": "MFG",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "MAGELLAN FIN GRP LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MFG?image_size=L&v=1496820120000",
+            "foreign_exempt": false,
+            "listing_date": "2004-07-01T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "47.2C FRANKED @ 30%;  DRP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-10T00:00:00+1000",
+                "record_date": "2017-08-16T00:00:00+1000",
+                "payable_date": "2017-08-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.472,
+                "ex_date": "2017-08-15T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+61292354888",
+            "mailing_address": "Level 36, 19 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The principal activity of the Group is funds management with the objective of offering international investment funds to high net worth and retail investors in Australia and New Zealand, and institutional investors globally.",
+            "fax_number": "+6192354800",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E, Annual Report and Financial Statements",
+                    "document_date": "2017-08-10T08:55:45+1000",
+                    "number_of_pages": 98,
+                    "id": "01882495",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-10T09:01:05+1000",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170810/pdf/43l9gt9gz4shmp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 275691,
+                "status": [],
+                "market_cap": 4627123812,
+                "code": "MFG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 13.43,
+                "previous_close_price": 26.85,
+                "year_change_price": 13.27,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 172332358,
+                "eps": 1.169,
+                "change_in_percent": "-0.559%",
+                "change_price": -0.15,
+                "deprecated_number_of_shares": 172332358,
+                "pe": 22.84,
+                "offer_price": 26.91,
+                "suspended": false,
+                "last_price": 26.7,
+                "deprecated_market_cap": 4601274000,
+                "day_low_price": 26.645,
+                "open_price": 26.92,
+                "year_high_date": "2017-06-29T00:00:00+1000",
+                "previous_day_percentage_change": "-0.739%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 29.5,
+                "bid_price": 26.6,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 27.09,
+                "year_change_in_percentage": "98.809%",
+                "average_daily_volume": 384477,
+                "year_low_price": 21.99,
+                "annual_dividend_yield": 3.21
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.magellangroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Brett Cairns",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Cairns",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hamish Douglass",
+                    "first_name": "Hamish",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Douglass",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Eales",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Eales",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Fraser",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fraser",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Lewis",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lewis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hamish McLennan",
+                    "first_name": "Hamish",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McLennan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Karen Phin",
+                    "first_name": "Karen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Phin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kirsten Morton",
+                    "first_name": "Kirsten",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Wright",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wright",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Geoffrey Stirton",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stirton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

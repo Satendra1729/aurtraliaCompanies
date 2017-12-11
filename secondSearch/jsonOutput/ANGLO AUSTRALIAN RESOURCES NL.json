@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AAR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ANGLO AUSTRALIAN RESOURCES NL",
+    "ASXcode": "AAR",
+    "data": {
+        "summary": {
+            "name_short": "ANGLO",
+            "name_full": "ANGLO AUSTRALIAN RESOURCES NL",
+            "code": "AAR",
+            "primary_share_code": "AAR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ANGLO AUSTRALIAN",
+            "foreign_exempt": false,
+            "listing_date": "1986-11-13T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "info@anglo.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9382 8822",
+            "mailing_address": "Ground Floor, 63 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Gold and Base Metals (Copper, Lead, Zinc) Exploration and Mining in Australia.",
+            "fax_number": "555 555 555",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T19:00:10+1000",
+                    "number_of_pages": 63,
+                    "id": "01902802",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T19:07:06+1000",
+                    "size": "3.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtt5zcv3580j.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 413861,
+                "status": [],
+                "market_cap": 22752408,
+                "code": "AAR",
+                "indices": [],
+                "year_open_price": 0.025,
+                "previous_close_price": 0.081,
+                "year_change_price": 0.055,
+                "year_low_date": "2016-12-29T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 280893922,
+                "eps": -0.0022,
+                "change_in_percent": "-1.235%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 280893922,
+                "pe": 0,
+                "offer_price": 0.08,
+                "suspended": false,
+                "last_price": 0.08,
+                "deprecated_market_cap": 22472000,
+                "day_low_price": 0.079,
+                "open_price": 0.079,
+                "year_high_date": "2017-10-23T00:00:00+1100",
+                "previous_day_percentage_change": "1.25%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.089,
+                "bid_price": 0.078,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.08,
+                "year_change_in_percentage": "220%",
+                "average_daily_volume": 706453,
+                "year_low_price": 0.015,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.anglo.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John L Jones",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": "L"
+                },
+                {
+                    "full_name": "Mr Graeme Smith",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Stern",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stern",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Graeme Smith",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

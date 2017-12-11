@@ -1,0 +1,293 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FMG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FORTESCUE METALS GROUP LTD",
+    "ASXcode": "FMG",
+    "data": {
+        "summary": {
+            "name_short": "FORTESCUE",
+            "name_full": "FORTESCUE METALS GROUP LTD",
+            "code": "FMG",
+            "primary_share_code": "FMG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "FORTESCUE METALS GRP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/FMG?image_size=L&v=1418609953000",
+            "foreign_exempt": false,
+            "listing_date": "1987-03-19T00:00:00+1000",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "25C FRANKED @ 30%; D RP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-21T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-10-03T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.25,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "+61 8 6218 8888",
+            "mailing_address": "Level 2, 87 Adelaide Terrace, EAST PERTH, WA, AUSTRALIA, 6004",
+            "principal_activities": "Mining, processing and transporting of iron ore for export from the Company's deposits within the Pilbara region of Western Australia",
+            "fax_number": "+61 8 6218 8880",
+            "latest_annual_reports": [
+                {
+                    "header": "FY2017 Annual Report including Appendix 4E",
+                    "document_date": "2017-08-21T08:33:09+1000",
+                    "number_of_pages": 145,
+                    "id": "01885565",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-21T08:37:08+1000",
+                    "size": "8.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170821/pdf/43lk8yq7n6mrvq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 13856712,
+                "status": [],
+                "market_cap": 14230057550,
+                "code": "FMG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 5.84,
+                "previous_close_price": 4.57,
+                "year_change_price": -1.28,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 3113798151,
+                "eps": 0.8749,
+                "change_in_percent": "-0.219%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 3113798151,
+                "pe": 5.21,
+                "offer_price": 4.57,
+                "suspended": false,
+                "last_price": 4.56,
+                "deprecated_market_cap": 14198920000,
+                "day_low_price": 4.52,
+                "open_price": 4.55,
+                "year_high_date": "2017-02-22T00:00:00+1100",
+                "previous_day_percentage_change": "-0.436%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 7.27,
+                "bid_price": 4.55,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 4.56,
+                "year_change_in_percentage": "-21.918%",
+                "average_daily_volume": 16758852,
+                "year_low_price": 4.52,
+                "annual_dividend_yield": 9.87
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.fmgl.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Forrest",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Forrest",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neville Power",
+                    "first_name": "Neville",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Power",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Elizabeth Anne Gaines",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gaines",
+                    "middle_name": "Anne"
+                },
+                {
+                    "full_name": "Dr Jean Baderschneider",
+                    "first_name": "Jean",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Baderschneider",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Barnaba",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barnaba",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Penelope Bingham-Hall",
+                    "first_name": "Penelope",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Bingham-Hall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cao Huiquan",
+                    "first_name": "Cao",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Huiquan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jennifer Morris",
+                    "first_name": "Jennifer",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sharon Warburton",
+                    "first_name": "Sharon",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Warburton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Gale",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gale",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Alison Terry",
+                    "first_name": "Alison",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Terry",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GXY",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GALAXY RESOURCES LIMITED",
+    "ASXcode": "GXY",
+    "data": {
+        "summary": {
+            "name_short": "GALAXY RES",
+            "name_full": "GALAXY RESOURCES LIMITED",
+            "code": "GXY",
+            "primary_share_code": "GXY",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GALAXY RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2007-02-06T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@galaxylithium.com",
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "08 9215 1700",
+            "mailing_address": "Level 4, 21 Kintail Road, APPLECROSS, WA, AUSTRALIA, 6153",
+            "principal_activities": "Production of lithium concentrate and exploration for minerals in Australia, Canada and Argentina",
+            "fax_number": "08 9215 1799",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-21T17:33:51+1000",
+                    "number_of_pages": 102,
+                    "id": "01849707",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-21T17:41:48+1000",
+                    "size": "4.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170421/pdf/43hnt0p4klr4sl.pdf"
+                },
+                {
+                    "header": "Annual Report 2016",
+                    "document_date": "2017-03-31T19:45:12+1100",
+                    "number_of_pages": 107,
+                    "id": "01844139",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T19:50:54+1100",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6ld5dbxrcvn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3468243,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 1359195480,
+                "code": "GXY",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 0.067,
+                "previous_close_price": 3.37,
+                "year_change_price": 3.403,
+                "year_low_date": "2017-06-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 403322101,
+                "eps": 0.1153,
+                "change_in_percent": "2.967%",
+                "change_price": 0.1,
+                "deprecated_number_of_shares": 403322101,
+                "pe": 30.1,
+                "offer_price": 3.48,
+                "suspended": false,
+                "last_price": 3.47,
+                "deprecated_market_cap": 1399528000,
+                "day_low_price": 3.41,
+                "open_price": 3.43,
+                "year_high_date": "2017-11-14T00:00:00+1100",
+                "previous_day_percentage_change": "-2.035%",
+                "year_open_date": "2014-01-31T11:00:00+1100",
+                "year_high_price": 4.08,
+                "bid_price": 3.47,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.55,
+                "year_change_in_percentage": "5,079.104%",
+                "average_daily_volume": 5470300,
+                "year_low_price": 1.52,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.galaxylithium.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Martin Ronald Rowley",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowley",
+                    "middle_name": "Ronald"
+                },
+                {
+                    "full_name": "Mr Anthony Peter Tse",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tse",
+                    "middle_name": "Peter"
+                },
+                {
+                    "full_name": "Mr Peter J Bacchus",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bacchus",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr John Turner",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Turner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jian-Nan Zhang",
+                    "first_name": "Jian-Nan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Rowley",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowley",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Sanders",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sanders",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

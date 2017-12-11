@@ -1,0 +1,163 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/QVE",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "QV EQUITIES LIMITED",
+    "ASXcode": "QVE",
+    "data": {
+        "summary": {
+            "name_short": "QVEQUITIES",
+            "name_full": "QV EQUITIES LIMITED",
+            "code": "QVE",
+            "primary_share_code": "QVE",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "QV EQUITIES LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2014-08-22T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2C FRANKED @27.5%; D RP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-10-03T00:00:00+1100",
+                "payable_date": "2017-10-31T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.02,
+                "ex_date": "2017-10-02T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 552 895",
+            "mailing_address": "Level 24, 25 Bligh Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment in predominately ASX listed entities outside the S&P/ASX 20 Index.",
+            "fax_number": "(02) 9232 7511",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 30 June 2017 to Shareholders",
+                    "document_date": "2017-09-29T10:47:30+1000",
+                    "number_of_pages": 56,
+                    "id": "01902049",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T10:49:44+1000",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msc47g37293y.pdf"
+                },
+                {
+                    "header": "Appendix 4E & Annual report 2017",
+                    "document_date": "2017-08-16T14:50:09+1000",
+                    "number_of_pages": 58,
+                    "id": "01884403",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-16T14:55:28+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170816/pdf/43lg6phf29yfhq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 123871,
+                "status": [],
+                "market_cap": 353739516,
+                "code": "QVE",
+                "indices": [],
+                "deprecated_number_of_shares": 275283670,
+                "previous_close_price": 1.285,
+                "year_low_date": "2017-03-22T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 275283670,
+                "eps": 0.0361,
+                "change_in_percent": "1.167%",
+                "change_price": 0.015,
+                "pe": 36.01,
+                "offer_price": 1.3,
+                "suspended": false,
+                "last_price": 1.3,
+                "deprecated_market_cap": 357869000,
+                "day_low_price": 1.285,
+                "open_price": 1.285,
+                "year_high_date": "2017-06-20T00:00:00+1000",
+                "previous_day_percentage_change": "-2.652%",
+                "year_open_date": null,
+                "year_high_price": 1.4,
+                "bid_price": 1.285,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.315,
+                "average_daily_volume": 181667,
+                "year_low_price": 1.22,
+                "annual_dividend_yield": 3.08
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.qvequities.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter McKillop",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKillop",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Bradford Conn",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Conn",
+                    "middle_name": "Bradford"
+                },
+                {
+                    "full_name": "Mr Anton Tagliaferro",
+                    "first_name": "Anton",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tagliaferro",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jennifer Anne Horrigan",
+                    "first_name": "Jennifer",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Horrigan",
+                    "middle_name": "Anne"
+                },
+                {
+                    "full_name": "Mr John McBain",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McBain",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Zac Azzi",
+                    "first_name": "Zac",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Azzi",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

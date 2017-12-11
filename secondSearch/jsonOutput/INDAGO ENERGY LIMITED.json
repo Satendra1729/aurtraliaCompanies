@@ -1,0 +1,156 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/INK",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "INDAGO ENERGY LIMITED",
+    "ASXcode": "INK",
+    "data": {
+        "summary": {
+            "name_short": "INDAGO",
+            "name_full": "INDAGO ENERGY LIMITED",
+            "code": "INK",
+            "primary_share_code": "INK",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "INDAGO ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-04-21T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9642 2899",
+            "mailing_address": "Level 6, 412 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Oil and Gas exploration",
+            "fax_number": "(03) 9642 5177",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-03-30T13:30:21+1100",
+                    "number_of_pages": 65,
+                    "id": "01843417",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T13:32:17+1100",
+                    "size": "951.3KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h51255137wdk.pdf"
+                },
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-03-30T13:25:24+1100",
+                    "number_of_pages": 65,
+                    "id": "01843413",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T13:26:46+1100",
+                    "size": "951.3KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h50tg6sxkvgp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 240869,
+                "status": [],
+                "market_cap": 20918114,
+                "code": "INK",
+                "indices": [],
+                "year_open_price": 0.02441,
+                "previous_close_price": 0.12,
+                "year_change_price": 0.10559,
+                "year_low_date": "2017-08-04T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 174317619,
+                "eps": -0.0255,
+                "change_in_percent": "8.333%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 174317619,
+                "pe": 0,
+                "offer_price": 0.135,
+                "suspended": false,
+                "last_price": 0.13,
+                "deprecated_market_cap": 22661000,
+                "day_low_price": 0.12,
+                "open_price": 0.13,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.13,
+                "bid_price": 0.12,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.13,
+                "year_change_in_percentage": "432.569%",
+                "average_daily_volume": 339640,
+                "year_low_price": 0.068,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.pryme-energy.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stephen Mitchell",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitchell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Castellano",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Castellano",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Allan Ritchie",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ritchie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Donald Beard",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ray Shorrocks",
+                    "first_name": "Ray",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shorrocks",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Julie Edwards",
+                    "first_name": "Julie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

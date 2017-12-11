@@ -1,0 +1,79 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ROO",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "ROOTS SUSTAINABLE AGRICULTURAL TECHNOLOGIES LTD",
+    "ASXcode": "ROO",
+    "data": {
+        "summary": {
+            "name_short": "ROOTS",
+            "name_full": "ROOTS SUSTAINABLE AGRICULTURAL TECHNOLOGIES LTD",
+            "code": "ROO",
+            "primary_share_code": "ROO",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "ROOTS SUSTAINABLE",
+            "foreign_exempt": false,
+            "listing_date": "2017-12-07T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6381 0035",
+            "mailing_address": "C/\u00bf\u00bf\u00bf\u00bf\u00bf\u00bf Mirador Corporate Pty Ltd, Suite 2, Level 1, 1 Altona Street,, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Agricultural technology company focused on developing, producing\nand commercialising precision agriculture technologies.\nThe Company\u00bfs key business is the sale of root zone heating and\ncooling systems to greenhouse farmers and the development and\ncommercialisation of irrigation systems with combined fertilisation\nand heating/cooling roots zone management.",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 1784375,
+                "status": [],
+                "market_cap": 20435000,
+                "code": "ROO",
+                "indices": [],
+                "deprecated_number_of_shares": 31335066,
+                "previous_close_price": 0.335,
+                "year_low_date": "2017-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 61000000,
+                "eps": 0,
+                "change_in_percent": "19.403%",
+                "change_price": 0.065,
+                "pe": 0,
+                "offer_price": 0.4,
+                "suspended": false,
+                "last_price": 0.4,
+                "deprecated_market_cap": 12534000,
+                "day_low_price": 0.32,
+                "open_price": 0.335,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "year_open_date": null,
+                "year_high_price": 0.43,
+                "bid_price": 0.38,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0.43,
+                "average_daily_volume": 2501440,
+                "year_low_price": 0.3,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.rootssat.com",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sarah Smith",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

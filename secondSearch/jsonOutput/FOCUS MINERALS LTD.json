@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FML",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FOCUS MINERALS LTD",
+    "ASXcode": "FML",
+    "data": {
+        "summary": {
+            "name_short": "FOCUS MIN",
+            "name_full": "FOCUS MINERALS LTD",
+            "code": "FML",
+            "primary_share_code": "FML",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "FOCUS MINERALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2000-09-13T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9215 7888",
+            "mailing_address": "Level 2, 159 Adelaide Terrace, EAST PERTH, WA, AUSTRALIA, 6004",
+            "principal_activities": "Gold production and exploration in the Coolgardie Gold Belt of Western Australia",
+            "fax_number": "08 9215 7889",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-06T15:28:41+1000",
+                    "number_of_pages": 73,
+                    "id": "01845903",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-06T15:32:17+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170406/pdf/43hby70zzx8vmy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 18000,
+                "status": [],
+                "market_cap": 63048255,
+                "code": "FML",
+                "indices": [],
+                "year_open_price": 0.015,
+                "previous_close_price": 0.345,
+                "year_change_price": 0.33,
+                "year_low_date": "2017-11-29T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 182748565,
+                "eps": -0.0204,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 182748565,
+                "pe": 0,
+                "offer_price": 0.36,
+                "suspended": false,
+                "last_price": 0.345,
+                "deprecated_market_cap": 63048000,
+                "day_low_price": 0.345,
+                "open_price": 0.345,
+                "year_high_date": "2017-01-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.56,
+                "bid_price": 0.345,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.345,
+                "year_change_in_percentage": "2,200%",
+                "average_daily_volume": 30684,
+                "year_low_price": 0.33,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.focusminerals.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jisheng Lu",
+                    "first_name": "Jisheng",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wanghong Yang",
+                    "first_name": "Wanghong",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gerry Fahey",
+                    "first_name": "Gerry",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fahey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yuhuan Ge",
+                    "first_name": "Yuhuan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ge",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Dr Dane Etheridge",
+                    "first_name": "Dane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Etheridge",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

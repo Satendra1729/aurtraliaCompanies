@@ -1,0 +1,178 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/COE",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "COOPER ENERGY LIMITED",
+    "ASXcode": "COE",
+    "data": {
+        "summary": {
+            "name_short": "COOPER",
+            "name_full": "COOPER ENERGY LIMITED",
+            "code": "COE",
+            "primary_share_code": "COE",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "COOPER ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2002-03-13T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 8100 4900",
+            "mailing_address": "Level 10, 60  Waymouth Street, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": ".",
+            "fax_number": "08 8100 4997",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-16T14:32:29+1100",
+                    "number_of_pages": 129,
+                    "id": "01908338",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-16T14:34:12+1100",
+                    "size": "8.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171016/pdf/43n8c7cv65nnk8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 7481822,
+                "status": [],
+                "market_cap": 456213226,
+                "code": "COE",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.575,
+                "previous_close_price": 0.285,
+                "year_change_price": -0.28,
+                "year_low_date": "2017-10-17T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1600748163,
+                "eps": -0.018,
+                "change_in_percent": "3.509%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 1600748163,
+                "pe": 0,
+                "offer_price": 0.295,
+                "suspended": false,
+                "last_price": 0.295,
+                "deprecated_market_cap": 472221000,
+                "day_low_price": 0.285,
+                "open_price": 0.287,
+                "year_high_date": "2017-03-02T00:00:00+1100",
+                "previous_day_percentage_change": "-3.39%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.395,
+                "bid_price": 0.29,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.295,
+                "year_change_in_percentage": "-48.696%",
+                "average_daily_volume": 6136248,
+                "year_low_price": 0.255,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.cooperenergy.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Conde",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Conde",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Maxwell",
+                    "first_name": "David",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Maxwell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hector Gordon",
+                    "first_name": "Hector",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gordon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeffrey Schneider",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schneider",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Alice Williams",
+                    "first_name": "Alice",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jason de Ross",
+                    "first_name": "Jason",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "de Ross",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Alison Evans",
+                    "first_name": "Alison",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

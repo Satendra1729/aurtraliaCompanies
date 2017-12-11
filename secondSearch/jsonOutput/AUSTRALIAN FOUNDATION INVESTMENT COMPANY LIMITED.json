@@ -1,0 +1,219 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AFI",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "AUSTRALIAN FOUNDATION INVESTMENT COMPANY LIMITED",
+    "ASXcode": "AFI",
+    "data": {
+        "summary": {
+            "name_short": "AUS.FOUND.",
+            "name_full": "AUSTRALIAN FOUNDATION INVESTMENT COMPANY LIMITED",
+            "code": "AFI",
+            "primary_share_code": "AFI",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "AUSTRALIAN FOUNDAT.",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AFI?image_size=L&v=1408673336000",
+            "foreign_exempt": false,
+            "listing_date": "1962-06-30T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "14C FRANKED @ 30%; D RP & DSSP NIL DISC",
+                "franked_percentage": "100%",
+                "created_date": "2017-07-24T00:00:00+1000",
+                "record_date": "2017-08-09T00:00:00+1000",
+                "payable_date": "2017-08-30T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.14,
+                "ex_date": "2017-08-08T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(03) 9650 9911",
+            "mailing_address": "Level 21, 101 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Investment in shares.",
+            "fax_number": "(03) 9650 9100",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Reports, Notice of AGM and Proxy Form",
+                    "document_date": "2017-08-30T09:01:53+1000",
+                    "number_of_pages": 115,
+                    "id": "01889989",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-30T09:05:58+1000",
+                    "size": "4.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lw65gck1hdwt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 282116,
+                "status": [],
+                "market_cap": 7245548538,
+                "code": "AFI",
+                "indices": [],
+                "year_open_price": 6.04,
+                "previous_close_price": 6.13,
+                "year_change_price": 0.04,
+                "year_low_date": "2017-06-09T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1181981817,
+                "eps": 0.2132,
+                "change_in_percent": "-0.816%",
+                "change_price": -0.05,
+                "deprecated_number_of_shares": 1181981817,
+                "pe": 28.52,
+                "offer_price": 6.08,
+                "suspended": false,
+                "last_price": 6.08,
+                "deprecated_market_cap": 7186449000,
+                "day_low_price": 6.08,
+                "open_price": 6.13,
+                "year_high_date": "2017-08-02T00:00:00+1000",
+                "previous_day_percentage_change": "0.822%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 6.15,
+                "bid_price": 6.07,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 6.13,
+                "year_change_in_percentage": "0.662%",
+                "average_daily_volume": 318640,
+                "year_low_price": 5.64,
+                "annual_dividend_yield": 3.95
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.afi.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Terrence Campbell",
+                    "first_name": "Terrence",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Campbell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross Barker",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jacqueline Hey",
+                    "first_name": "Jacqueline",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme Liebelt",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liebelt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Paterson",
+                    "first_name": "John",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paterson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Peever",
+                    "first_name": "David",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Peever",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Catherine Walter",
+                    "first_name": "Catherine",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Walter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Williams",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Porter",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Porter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Driver",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Driver",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Matthew Rowe",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Porter",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Porter",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

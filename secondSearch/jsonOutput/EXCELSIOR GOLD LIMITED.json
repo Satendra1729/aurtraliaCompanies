@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EXG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "EXCELSIOR GOLD LIMITED",
+    "ASXcode": "EXG",
+    "data": {
+        "summary": {
+            "name_short": "EXCELSIOR",
+            "name_full": "EXCELSIOR GOLD LIMITED",
+            "code": "EXG",
+            "primary_share_code": "EXG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "EXCELSIOR GOLD LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/EXG?image_size=L&v=1450670775000",
+            "foreign_exempt": false,
+            "listing_date": "2007-06-26T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9335 7770",
+            "mailing_address": "Unit 2, 124 Stirling Highway, NORTH FREMANTLE, WA, AUSTRALIA, 6159",
+            "principal_activities": "Gold Exploration & Development In Kalgoorlie, Western Australia",
+            "fax_number": "08 9335 6231",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report - June 2017",
+                    "document_date": "2017-09-14T17:50:11+1000",
+                    "number_of_pages": 79,
+                    "id": "01896265",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-14T17:57:51+1000",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170914/pdf/43mbsfcrdyldq4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 560000,
+                "status": [],
+                "market_cap": 38181107,
+                "code": "EXG",
+                "indices": [],
+                "year_open_price": 0.1,
+                "previous_close_price": 0.047,
+                "year_change_price": -0.048,
+                "year_low_date": "2017-02-03T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 812363974,
+                "eps": -0.0001,
+                "change_in_percent": "10.638%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 812363974,
+                "pe": 0,
+                "offer_price": 0.052,
+                "suspended": false,
+                "last_price": 0.052,
+                "deprecated_market_cap": 42243000,
+                "day_low_price": 0.048,
+                "open_price": 0.048,
+                "year_high_date": "2017-11-21T00:00:00+1100",
+                "previous_day_percentage_change": "-4.082%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.062,
+                "bid_price": 0.048,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.052,
+                "year_change_in_percentage": "-48%",
+                "average_daily_volume": 873887,
+                "year_low_price": 0.02,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.excelsiorgold.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Hatch",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hatch",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rowan Johnston",
+                    "first_name": "Rowan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jimmy Lee",
+                    "first_name": "Jimmy",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Randazzo",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Randazzo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Jonathan West",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "West",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Amanda Sparks",
+                    "first_name": "Amanda",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Sparks",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

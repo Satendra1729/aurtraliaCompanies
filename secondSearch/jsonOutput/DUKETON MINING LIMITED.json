@@ -1,0 +1,123 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DKM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "DUKETON MINING LIMITED",
+    "ASXcode": "DKM",
+    "data": {
+        "summary": {
+            "name_short": "DUKETON",
+            "name_full": "DUKETON MINING LIMITED",
+            "code": "DKM",
+            "primary_share_code": "DKM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "DUKETON MINING",
+            "foreign_exempt": false,
+            "listing_date": "2014-08-04T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9389 2111",
+            "mailing_address": "DWCorporate Pty Ltd, Ground Floor, 20 Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mining exploration.",
+            "fax_number": "(08) 9389 2199",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-27T17:52:00+1000",
+                    "number_of_pages": 54,
+                    "id": "01900761",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T17:54:16+1000",
+                    "size": "4.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mpn4lrsb8m3v.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 105994,
+                "status": [],
+                "market_cap": 17045186,
+                "code": "DKM",
+                "indices": [],
+                "deprecated_number_of_shares": 103304160,
+                "previous_close_price": 0.165,
+                "year_low_date": "2017-09-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 103304160,
+                "eps": -0.045,
+                "change_in_percent": "-6.061%",
+                "change_price": -0.01,
+                "pe": 0,
+                "offer_price": 0.16,
+                "suspended": false,
+                "last_price": 0.155,
+                "deprecated_market_cap": 16012000,
+                "day_low_price": 0.155,
+                "open_price": 0.155,
+                "year_high_date": "2017-05-26T00:00:00+1000",
+                "previous_day_percentage_change": "3.125%",
+                "year_open_date": null,
+                "year_high_price": 0.22,
+                "bid_price": 0.155,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.155,
+                "average_daily_volume": 129516,
+                "year_low_price": 0.1,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.duketonmining.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Seamus Cornelius",
+                    "first_name": "Seamus",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cornelius",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Fogarty",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fogarty",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dennis Wilkins",
+                    "first_name": "Dennis",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilkins",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Dennis Wilkins",
+                    "first_name": "Dennis",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilkins",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FXJ",
+    "GICSindustrygroup": "Media",
+    "Companyname": "FAIRFAX MEDIA LIMITED",
+    "ASXcode": "FXJ",
+    "data": {
+        "summary": {
+            "name_short": "FAIRFAX",
+            "name_full": "FAIRFAX MEDIA LIMITED",
+            "code": "FXJ",
+            "primary_share_code": "FXJ",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "FAIRFAX MEDIA LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/FXJ?image_size=L&v=1382999874000",
+            "foreign_exempt": false,
+            "listing_date": "1992-05-08T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-08-28T00:00:00+1000",
+                "payable_date": "2017-09-12T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.02,
+                "ex_date": "2017-08-25T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 9282 2833",
+            "mailing_address": "1 Darling Island Road, PYRMONT, NSW, AUSTRALIA, 2009",
+            "principal_activities": "Information and entertainment publishing in newspaper, magazine and electronic formats.",
+            "fax_number": "(02) 9282 1633",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-08-16T09:07:38+1000",
+                    "number_of_pages": 148,
+                    "id": "01884193",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-16T09:12:07+1000",
+                    "size": "7.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170816/pdf/43lfs8yb0wt7xd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 14174806,
+                "status": [],
+                "market_cap": 1621130260,
+                "code": "FXJ",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    }
+                ],
+                "year_open_price": 0.94,
+                "previous_close_price": 0.705,
+                "year_change_price": -0.195,
+                "year_low_date": "2016-12-19T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2299475546,
+                "eps": 0.036,
+                "change_in_percent": "5.674%",
+                "change_price": 0.04,
+                "deprecated_number_of_shares": 2299475546,
+                "pe": 20.69,
+                "offer_price": 0.75,
+                "suspended": false,
+                "last_price": 0.745,
+                "deprecated_market_cap": 1713109000,
+                "day_low_price": 0.705,
+                "open_price": 0.705,
+                "year_high_date": "2017-05-29T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.817,
+                "bid_price": 0.74,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.745,
+                "year_change_in_percentage": "-20.745%",
+                "average_daily_volume": 9348329,
+                "year_low_price": 0.531,
+                "annual_dividend_yield": 5.37
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.fxj.com.au/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Nick Falloon",
+                    "first_name": "Nick",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Falloon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gregory Hywood",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hywood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Anderson",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jack Cowin",
+                    "first_name": "Jack",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cowin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Sandra McPhee",
+                    "first_name": "Sandra",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "McPhee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Millar",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Millar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Linda Nicholls AO",
+                    "first_name": "Linda",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Nicholls AO",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Todd Sampson",
+                    "first_name": "Todd",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sampson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Young AM",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Young AM",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Housego",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Housego",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Gail Hambly",
+                    "first_name": "Gail",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hambly",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Gail Hambly",
+                    "first_name": "Gail",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hambly",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

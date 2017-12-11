@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FNT",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FRONTIER RESOURCES LIMITED",
+    "ASXcode": "FNT",
+    "data": {
+        "summary": {
+            "name_short": "FRONTIER",
+            "name_full": "FRONTIER RESOURCES LIMITED",
+            "code": "FNT",
+            "primary_share_code": "FNT",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "FRONTIER RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2003-04-09T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9295 0388",
+            "mailing_address": "Office J, Level 2,, 1139 Hay Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold and copper exploration.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-29T16:22:47+1000",
+                    "number_of_pages": 65,
+                    "id": "01902502",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:26:48+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt7dlm18x4fw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 1876983,
+                "code": "FNT",
+                "indices": [],
+                "year_open_price": 0.01,
+                "previous_close_price": 0.018,
+                "year_change_price": 0.008,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 104276813,
+                "eps": -0.0292,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 104276813,
+                "pe": 0,
+                "offer_price": 0.019,
+                "suspended": false,
+                "last_price": 0.018,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-16T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.055,
+                "bid_price": 0.017,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "80%",
+                "average_daily_volume": 415589,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.frontierresources.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter McNeil",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McNeil",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Paige McNeil",
+                    "first_name": "Paige",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "McNeil",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Swiridiuk",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Swiridiuk",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Matthew Foy",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Foy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

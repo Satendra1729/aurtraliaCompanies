@@ -1,0 +1,164 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/APD",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "APN PROPERTY GROUP LIMITED",
+    "ASXcode": "APD",
+    "data": {
+        "summary": {
+            "name_short": "APN PROP",
+            "name_full": "APN PROPERTY GROUP LIMITED",
+            "code": "APD",
+            "primary_share_code": "APD",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "APN PROPERTY GROUP",
+            "foreign_exempt": false,
+            "listing_date": "2005-06-23T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "0.75C FRANKED @ 30%;  DRP SUSP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-11T00:00:00+1000",
+                "payable_date": "2017-09-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.0075,
+                "ex_date": "2017-09-08T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8656 1000",
+            "mailing_address": "Level 30, 101 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Integrated property business that specialises in the management of property funds.",
+            "fax_number": "(03) 8656 1010",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-09-28T08:57:01+1000",
+                    "number_of_pages": 96,
+                    "id": "01900936",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T08:59:20+1000",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mq30qq0pdy7z.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 71955,
+                "status": [],
+                "market_cap": 142752979,
+                "code": "APD",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.28,
+                "previous_close_price": 0.455,
+                "year_change_price": 0.17,
+                "year_low_date": "2017-05-16T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 313742812,
+                "eps": 0.0364,
+                "change_in_percent": "-1.099%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 313742812,
+                "pe": 12.36,
+                "offer_price": 0.455,
+                "suspended": false,
+                "last_price": 0.45,
+                "deprecated_market_cap": 141184000,
+                "day_low_price": 0.45,
+                "open_price": 0.45,
+                "year_high_date": "2017-11-28T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.47,
+                "bid_price": 0.45,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.455,
+                "year_change_in_percentage": "60.714%",
+                "average_daily_volume": 88861,
+                "year_low_price": 0.36,
+                "annual_dividend_yield": 4.44
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.apngroup.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Chris Aylward",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Aylward",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tim Slattery",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Slattery",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Howard Brenchley",
+                    "first_name": "Howard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brenchley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Clive Appleton",
+                    "first_name": "Clive",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Appleton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Young",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Young",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Chantal Churchill",
+                    "first_name": "Chantal",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Churchill",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AVH",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "AVITA MEDICAL LTD",
+    "ASXcode": "AVH",
+    "data": {
+        "summary": {
+            "name_short": "AVITA MED",
+            "name_full": "AVITA MEDICAL LTD",
+            "code": "AVH",
+            "primary_share_code": "AVH",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "AVITA MEDICAL LTD",
+            "foreign_exempt": false,
+            "listing_date": "1993-08-09T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9327 1707",
+            "mailing_address": "Level 9, The Quadrant, 1 William Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Avita Medical Ltd (ASX:AVH) is a medical technology company which develops, manufactures and distributes innovative products for the regenerative medicine and respiratory markets, addressing both medical and aesthetic indications. Avita Medical has a clinical pipeline of high value products and an established platform capable of delivering further regenerative medicine products in the future.",
+            "fax_number": "+61 8 9327 1778",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T14:54:12+1100",
+                    "number_of_pages": 44,
+                    "id": "01915834",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T14:55:36+1100",
+                    "size": "2.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nt5t8g06wcvj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 82112,
+                "status": [],
+                "market_cap": 69346575,
+                "code": "AVH",
+                "indices": [],
+                "year_open_price": 0.125,
+                "previous_close_price": 0.066,
+                "year_change_price": -0.06,
+                "year_low_date": "2017-11-16T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1050705685,
+                "eps": -0.0174,
+                "change_in_percent": "-1.515%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 1017705685,
+                "pe": 0,
+                "offer_price": 0.066,
+                "suspended": false,
+                "last_price": 0.065,
+                "deprecated_market_cap": 66151000,
+                "day_low_price": 0.064,
+                "open_price": 0.065,
+                "year_high_date": "2016-12-28T00:00:00+1100",
+                "previous_day_percentage_change": "-4.348%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.116,
+                "bid_price": 0.064,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.066,
+                "year_change_in_percentage": "-48%",
+                "average_daily_volume": 2096128,
+                "year_low_price": 0.046,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.avitamedical.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Lou Panaccio",
+                    "first_name": "Lou",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Panaccio",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Michael S Perry",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Perry",
+                    "middle_name": "S"
+                },
+                {
+                    "full_name": "Mr Jeremy Curnock Cook",
+                    "first_name": "Jeremy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cook",
+                    "middle_name": "Curnock"
+                },
+                {
+                    "full_name": "Prof. Suzanne Crowe",
+                    "first_name": "Suzanne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Crowe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Louis Drapeau",
+                    "first_name": "Louis",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Drapeau",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Damien McDonald",
+                    "first_name": "Damien",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDonald",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gabriel Chiappini",
+                    "first_name": "Gabriel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chiappini",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

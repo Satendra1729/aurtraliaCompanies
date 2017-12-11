@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PGI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PANTERRA GOLD LIMITED",
+    "ASXcode": "PGI",
+    "data": {
+        "summary": {
+            "name_short": "PANTERRA G",
+            "name_full": "PANTERRA GOLD LIMITED",
+            "code": "PGI",
+            "primary_share_code": "PGI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PANTERRA GOLD LTD",
+            "foreign_exempt": false,
+            "listing_date": "1993-11-25T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 4861 1740",
+            "mailing_address": "55 Kirkham Road, BOWRAL, NSW, AUSTRALIA, 2576",
+            "principal_activities": "Gold exploration",
+            "fax_number": "(02) 48617665",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and 2016 Annual Report",
+                    "document_date": "2017-02-28T20:14:26+1100",
+                    "number_of_pages": 72,
+                    "id": "01834402",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-28T20:16:21+1100",
+                    "size": "2.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170228/pdf/43gfwlcmylcxhx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1053696,
+                "status": [],
+                "market_cap": 3864870,
+                "code": "PGI",
+                "indices": [],
+                "year_open_price": 0.47,
+                "previous_close_price": 0.03,
+                "year_change_price": -0.442,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 128829011,
+                "eps": -0.0605,
+                "change_in_percent": "-6.667%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 128829011,
+                "pe": 0,
+                "offer_price": 0.03,
+                "suspended": false,
+                "last_price": 0.028,
+                "deprecated_market_cap": 3607000,
+                "day_low_price": 0.027,
+                "open_price": 0.03,
+                "year_high_date": "2017-02-01T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.085,
+                "bid_price": 0.028,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.03,
+                "year_change_in_percentage": "-94.043%",
+                "average_daily_volume": 94415,
+                "year_low_price": 0.027,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.panterragold.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brian Johnson",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Tyers",
+                    "first_name": "James",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tyers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ugo Cario",
+                    "first_name": "Ugo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cario",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Angela Mary Pankhurst",
+                    "first_name": "Angela",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Pankhurst",
+                    "middle_name": "Mary"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Pamela Bardsley",
+                    "first_name": "Pamela",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bardsley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

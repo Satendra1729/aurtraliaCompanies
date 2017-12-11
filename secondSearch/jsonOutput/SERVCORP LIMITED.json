@@ -1,0 +1,196 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SRV",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "SERVCORP LIMITED",
+    "ASXcode": "SRV",
+    "data": {
+        "summary": {
+            "name_short": "SERVCORP",
+            "name_full": "SERVCORP LIMITED",
+            "code": "SRV",
+            "primary_share_code": "SRV",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "SERVCORP LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SRV?image_size=L&v=1421195742000",
+            "foreign_exempt": false,
+            "listing_date": "1999-12-06T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "6.5C FRANKED @ 30%;  NIL CFI",
+                "franked_percentage": "50%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-09-06T00:00:00+1000",
+                "payable_date": "2017-10-05T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.13,
+                "ex_date": "2017-09-05T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9231 7500",
+            "mailing_address": "Level 63, MLC Centre, 19 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provides serviced and virtual office facilities to companies and individuals in Australia and overseas.",
+            "fax_number": "(02) 9231 7665",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-05T15:11:10+1100",
+                    "number_of_pages": 54,
+                    "id": "01904769",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-05T15:13:48+1100",
+                    "size": "6.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171005/pdf/43mzlc84xtw4t8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 27046,
+                "status": [],
+                "market_cap": 569922872,
+                "code": "SRV",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 4.49,
+                "previous_close_price": 5.79,
+                "year_change_price": 1.26,
+                "year_low_date": "2017-09-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 98432275,
+                "eps": 0.41,
+                "change_in_percent": "-0.691%",
+                "change_price": -0.04,
+                "deprecated_number_of_shares": 98432275,
+                "pe": 14.02,
+                "offer_price": 5.91,
+                "suspended": false,
+                "last_price": 5.75,
+                "deprecated_market_cap": 565986000,
+                "day_low_price": 5.7,
+                "open_price": 5.87,
+                "year_high_date": "2016-12-30T00:00:00+1100",
+                "previous_day_percentage_change": "-1.195%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 7.92,
+                "bid_price": 5.75,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.87,
+                "year_change_in_percentage": "28.062%",
+                "average_daily_volume": 130286,
+                "year_low_price": 5.19,
+                "annual_dividend_yield": 4.52
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.servcorp.net",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bruce Corlett",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Corlett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alfred George Moufarrige",
+                    "first_name": "Alfred",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moufarrige",
+                    "middle_name": "George"
+                },
+                {
+                    "full_name": "Mr Taine Moufarrige",
+                    "first_name": "Taine",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moufarrige",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Wallis Graham",
+                    "first_name": "Wallis",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Graham",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rick Holliday-Smith",
+                    "first_name": "Rick",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Holliday-Smith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "The Hon Mark Anthony James Vaile",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "Vaile",
+                    "middle_name": "Anthony James"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Greg Pearce",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pearce",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

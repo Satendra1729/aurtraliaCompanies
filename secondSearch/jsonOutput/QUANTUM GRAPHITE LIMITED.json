@@ -1,0 +1,115 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/QGL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "QUANTUM GRAPHITE LIMITED",
+    "ASXcode": "QGL",
+    "data": {
+        "summary": {
+            "name_short": "QNTMGRPHTE",
+            "name_full": "QUANTUM GRAPHITE LIMITED",
+            "code": "QGL",
+            "primary_share_code": "QGL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "QUANTUM GRAPHITE",
+            "foreign_exempt": false,
+            "listing_date": "2014-01-06T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 8215 6400",
+            "mailing_address": "C/- Grant Thornton, Level 1, 67 Greenhill Road, WAYVILLE, SA, AUSTRALIA, 5034",
+            "principal_activities": "Exploration, production, processing and sale of graphite.",
+            "fax_number": "0",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "QGL",
+                "indices": [],
+                "year_open_price": 0.325,
+                "previous_close_price": 0.115,
+                "year_change_price": -0.21,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 228868614,
+                "eps": -0.0563,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 196051972,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.115,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2015-11-09T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.15,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-64.615%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.valenceindustries.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graham Spurling",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spurling",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Glenister Lamont",
+                    "first_name": "Glenister",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lamont",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Pattison",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pattison",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jaroslaw Kopias",
+                    "first_name": "Jaroslaw",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kopias",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

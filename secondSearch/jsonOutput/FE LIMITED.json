@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FEL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FE LIMITED",
+    "ASXcode": "FEL",
+    "data": {
+        "summary": {
+            "name_short": "FE LIMITED",
+            "name_full": "FE LIMITED",
+            "code": "FEL",
+            "primary_share_code": "FEL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "FE LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/FEL?image_size=L&v=1502265954000",
+            "foreign_exempt": false,
+            "listing_date": "2005-10-13T00:00:00+1000",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@felimited.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6181 9793",
+            "mailing_address": "32 Harrogate Street, WEST LEEDERVILLE, WA, AUSTRALIA, 6007",
+            "principal_activities": "Mineral exploration and development.",
+            "fax_number": "+61 8 9380 9666",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-08-25T17:56:25+1000",
+                    "number_of_pages": 57,
+                    "id": "01888502",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-25T18:09:55+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170825/pdf/43lrk1vw6dw374.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "FEL",
+                "indices": [],
+                "year_open_price": 0.016,
+                "previous_close_price": 0.028,
+                "year_change_price": 0.012,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 257214630,
+                "eps": -0.0011,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 257214630,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.028,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-04-04T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-03T11:00:00+1100",
+                "year_high_price": 0.038,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "75%",
+                "average_daily_volume": 309170,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.felimited.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tony Sage",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sage",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kenneth Keogh",
+                    "first_name": "Kenneth",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keogh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Sage",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sage",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Eloise von Puttkammer",
+                    "first_name": "Eloise",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "von Puttkammer",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

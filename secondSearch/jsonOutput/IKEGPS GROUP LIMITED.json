@@ -1,0 +1,91 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IKE",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "IKEGPS GROUP LIMITED",
+    "ASXcode": "IKE",
+    "data": {
+        "summary": {
+            "name_short": "IKE GPS",
+            "name_full": "IKEGPS GROUP LIMITED",
+            "code": "IKE",
+            "primary_share_code": "IKE",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "IKEGPS GROUP LTD",
+            "foreign_exempt": true,
+            "listing_date": "2016-11-21T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "64 4 382 8064",
+            "mailing_address": "Level 1, 42 Adelaide Road, Mount Cook, WELLINGTON, ., NEW ZEALAND, 6021",
+            "principal_activities": "Developing, marketing and selling measurement solutions for different industries.",
+            "latest_annual_reports": [
+                {
+                    "header": "ikeGPS Group Limited releases its FY2017 Annual Report",
+                    "document_date": "2017-06-30T06:16:25+1000",
+                    "number_of_pages": 63,
+                    "id": "01869907",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-06-30T07:41:22+1000",
+                    "size": "2.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170630/pdf/43k99pbbzmmrvp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 27457589,
+                "code": "IKE",
+                "indices": [],
+                "deprecated_number_of_shares": 78450255,
+                "previous_close_price": 0.35,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 78450255,
+                "eps": -0.0552,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 0.35,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.43,
+                "bid_price": 0.21,
+                "desc_full": "Ordinary Fully Paid Foreign Exempt Nzx",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://ikegps.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Chris Birkett",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Birkett",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

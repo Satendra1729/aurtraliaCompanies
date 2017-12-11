@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MFF",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "MFF CAPITAL INVESTMENTS LIMITED",
+    "ASXcode": "MFF",
+    "data": {
+        "summary": {
+            "name_short": "MFFCAPITAL",
+            "name_full": "MFF CAPITAL INVESTMENTS LIMITED",
+            "code": "MFF",
+            "primary_share_code": "MFF",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "MFF CAPITAL INV LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MFF?image_size=L&v=1477876272000",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-19T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "1C FRANKED@30%; DRP  NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-07-28T00:00:00+1000",
+                "record_date": "2017-10-13T00:00:00+1100",
+                "payable_date": "2017-11-10T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.01,
+                "ex_date": "2017-10-12T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+61292354888",
+            "mailing_address": "MLC Centre, Level 36 19 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Invests in a portfolio of  exchange listed international and Australian companies with attractive business characteristics.",
+            "fax_number": "+61292354800",
+            "latest_annual_reports": [
+                {
+                    "header": "Notice of 2017 AGM",
+                    "document_date": "2017-09-22T07:37:19+1000",
+                    "number_of_pages": 62,
+                    "id": "01898732",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T08:22:31+1000",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mjv2ggl4tln9.pdf"
+                },
+                {
+                    "header": "Appendix 4E 2017 Full Year Results & Dividend",
+                    "document_date": "2017-07-28T12:54:11+1000",
+                    "number_of_pages": 59,
+                    "id": "01877995",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-07-28T12:59:10+1000",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170728/pdf/43kypc2p0816hj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 258537,
+                "status": [],
+                "market_cap": 1221201712,
+                "code": "MFF",
+                "indices": [],
+                "year_open_price": 1.58,
+                "previous_close_price": 2.26,
+                "year_change_price": 0.69,
+                "year_low_date": "2017-02-03T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 540354740,
+                "eps": 0.3357,
+                "change_in_percent": "0.442%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 540354740,
+                "pe": 6.76,
+                "offer_price": 2.29,
+                "suspended": false,
+                "last_price": 2.27,
+                "deprecated_market_cap": 1226605000,
+                "day_low_price": 2.26,
+                "open_price": 2.27,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-0.877%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.29,
+                "bid_price": 2.27,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.29,
+                "year_change_in_percentage": "43.671%",
+                "average_daily_volume": 539042,
+                "year_low_price": 1.8,
+                "annual_dividend_yield": 0.88
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "https://www.mffcapital.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Warburton",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warburton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Mackay",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackay",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Ballard",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ballard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andy Hogendijk",
+                    "first_name": "Andy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hogendijk",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Geoffrey Stirton",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stirton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DSE",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "DROPSUITE LIMITED",
+    "ASXcode": "DSE",
+    "data": {
+        "summary": {
+            "name_short": "DROPSUITE",
+            "name_full": "DROPSUITE LIMITED",
+            "code": "DSE",
+            "primary_share_code": "DSE",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "DROPSUITE LTD",
+            "foreign_exempt": false,
+            "listing_date": "1985-12-12T00:00:00+1100",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "investor_relations_email": "secretary@dropsuite.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9429 2929",
+            "mailing_address": "Ground Floor, 14 Outram Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "The Company\u00bf\u00bf\u00bfs business is providing online cloud-based backup software that enables small and medium sized enterprises worldwide to backup, recover and protect their digital assets.",
+            "fax_number": "(08) 9486 1011",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-04-02T23:17:00+1000",
+                    "number_of_pages": 85,
+                    "id": "01844239",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-03T08:23:12+1000",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170403/pdf/43h78hqj5k5std.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 600000,
+                "status": [],
+                "market_cap": 28814832,
+                "code": "DSE",
+                "indices": [],
+                "year_open_price": 0.01371,
+                "previous_close_price": 0.06,
+                "year_change_price": 0.04229,
+                "year_low_date": "2017-05-02T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 480247200,
+                "eps": 0.0151,
+                "change_in_percent": "-6.667%",
+                "change_price": -0.004,
+                "deprecated_number_of_shares": 194538136,
+                "pe": 3.71,
+                "offer_price": 0.063,
+                "suspended": false,
+                "last_price": 0.056,
+                "deprecated_market_cap": 10894000,
+                "day_low_price": 0.056,
+                "open_price": 0.06,
+                "year_high_date": "2017-01-20T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.099,
+                "bid_price": 0.057,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.06,
+                "year_change_in_percentage": "308.461%",
+                "average_daily_volume": 351535,
+                "year_low_price": 0.05,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.dropsuite.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Theodore James Hnarakis",
+                    "first_name": "Theodore",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hnarakis",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Charif El Ansari",
+                    "first_name": "Charif",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "El Ansari",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Bruce Tonkin",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Tonkin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zoran Grujic",
+                    "first_name": "Zoran",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grujic",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Zoran Grujic",
+                    "first_name": "Zoran",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grujic",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

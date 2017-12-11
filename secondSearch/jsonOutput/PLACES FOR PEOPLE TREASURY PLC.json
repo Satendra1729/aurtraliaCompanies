@@ -1,0 +1,44 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PPZ",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "PLACES FOR PEOPLE TREASURY PLC",
+    "ASXcode": "PPZ",
+    "data": {
+        "summary": {
+            "name_full": "PLACES FOR PEOPLE TREASURY PLC",
+            "products": [],
+            "phone_number": "(07) 3246 4126",
+            "mailing_address": "tba, ., QLD, AUSTRALIA, .",
+            "principal_activities": ".",
+            "name_short": "PLACESPPL",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "PLACES FOR PEOPLE",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "PPZ",
+            "listing_date": "2017-08-24T00:00:00+1000",
+            "registry_address": "LEVEL 2, 35 CLARENCE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "BTA INSTITUTIONAL SERVICES AUSTRALIA LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Matt Cooper",
+                    "first_name": "Matt",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooper",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

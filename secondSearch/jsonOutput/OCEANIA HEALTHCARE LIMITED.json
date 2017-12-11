@@ -1,0 +1,102 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OCA",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "OCEANIA HEALTHCARE LIMITED",
+    "ASXcode": "OCA",
+    "data": {
+        "summary": {
+            "name_short": "OCEA HEALT",
+            "name_full": "OCEANIA HEALTHCARE LIMITED",
+            "code": "OCA",
+            "primary_share_code": "OCA",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "OCEANIA HEALTHC LTD",
+            "foreign_exempt": true,
+            "listing_date": "2017-05-05T00:00:00+1000",
+            "registry_address": "LEVEL 2, 159 HURSTMERE ROAD, TAKAPUNA   AUCKLAND, NEW ZEALAND, 1039",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+64 9 361 0483",
+            "mailing_address": "C/o Allens Corporate Services Pty Ltd, Level 5, Deutsche Bank Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Aged care services \u00bf ownership and operation of retirement villages",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-07-27T06:14:29+1000",
+                    "number_of_pages": 96,
+                    "id": "01877159",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-07-27T07:34:50+1000",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170727/pdf/43kwxcmh1pyyjv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1400,
+                "status": [],
+                "market_cap": 537023991,
+                "code": "OCA",
+                "indices": [],
+                "deprecated_number_of_shares": 610254535,
+                "previous_close_price": 0.88,
+                "year_low_date": "2017-05-08T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 610254535,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.93,
+                "suspended": false,
+                "last_price": 0.88,
+                "deprecated_market_cap": 537024000,
+                "day_low_price": 0.88,
+                "open_price": 0.88,
+                "year_high_date": "2017-08-10T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.02,
+                "bid_price": 0.8,
+                "desc_full": "Ordinary Fully Paid Foreign Exempt Nzx",
+                "day_high_price": 0.88,
+                "average_daily_volume": 23199,
+                "year_low_price": 0.72,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(64) 9 488 8700",
+            "web_address": "http://www.oceaniahealthcare.co.nz/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Matthew Ward",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ward",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Anna Thorburn",
+                    "first_name": "Anna",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Thorburn",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

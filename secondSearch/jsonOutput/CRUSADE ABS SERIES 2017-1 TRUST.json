@@ -1,0 +1,95 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CU2",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "CRUSADE ABS SERIES 2017-1 TRUST",
+    "ASXcode": "CU2",
+    "data": {
+        "summary": {
+            "name_full": "CRUSADE ABS SERIES 2017-1 TRUST",
+            "products": [],
+            "phone_number": "(02) 8253 3589",
+            "mailing_address": "Westpac Banking Corporation, ., ., ., NSW, AUSTRALIA, .",
+            "principal_activities": "",
+            "name_short": "CRUS17-01",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "CRUSADE 2017-1 TRUST",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "CU2",
+            "listing_date": "2017-03-31T00:00:00+1100",
+            "registry_address": "123 PITT STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "PERPETUAL CORPORATE TRUST LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Neil Burton",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burton",
+                    "middle_name": "Neil"
+                },
+                {
+                    "full_name": "Mr David Anthony Lees",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lees",
+                    "middle_name": "Anthony"
+                },
+                {
+                    "full_name": "Mr Gaetano Francesco Volpicella",
+                    "first_name": "Gaetano Francesco",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Volpicella",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Curt Alan Zuber",
+                    "first_name": "Curt",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zuber",
+                    "middle_name": "Alan"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Stephanie Jane Gow",
+                    "first_name": "Stephanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gow",
+                    "middle_name": "Jane"
+                },
+                {
+                    "full_name": "Ms Linda Renay La Hood",
+                    "first_name": "Linda",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "La Hood",
+                    "middle_name": "Renay"
+                }
+            ]
+        }
+    }
+}

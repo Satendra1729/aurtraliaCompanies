@@ -1,0 +1,150 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CAI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CALIDUS RESOURCES LIMITED",
+    "ASXcode": "CAI",
+    "data": {
+        "summary": {
+            "name_short": "CALIDUSRES",
+            "name_full": "CALIDUS RESOURCES LIMITED",
+            "code": "CAI",
+            "primary_share_code": "CAI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CALIDUS RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "1987-03-13T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": " info@calidus.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 8 6245 2050",
+            "mailing_address": "Suite 12, 11 Ventnor Avenue, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold Exploration",
+            "fax_number": "61 8 6245 2050",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-25T14:14:29+1000",
+                    "number_of_pages": 90,
+                    "id": "01899567",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-25T14:18:54+1000",
+                    "size": "5.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170925/pdf/43mm0s06xnzbrm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2542811,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 39203403,
+                "code": "CAI",
+                "indices": [],
+                "year_open_price": 0.001,
+                "previous_close_price": 0.038,
+                "year_change_price": 0.036,
+                "year_low_date": "2017-06-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1031668495,
+                "eps": -0.0194,
+                "change_in_percent": "-2.632%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 704108495,
+                "pe": 0,
+                "offer_price": 0.038,
+                "suspended": false,
+                "last_price": 0.037,
+                "deprecated_market_cap": 26052000,
+                "day_low_price": 0.037,
+                "open_price": 0.039,
+                "year_high_date": "2017-09-28T00:00:00+1000",
+                "previous_day_percentage_change": "5.556%",
+                "year_open_date": "2014-03-04T11:00:00+1100",
+                "year_high_price": 0.065,
+                "bid_price": 0.037,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.039,
+                "year_change_in_percentage": "3,600%",
+                "average_daily_volume": 6778737,
+                "year_low_price": 0.019,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "https://www.calidus.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Keith Coughlan",
+                    "first_name": "Keith",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coughlan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Reeves",
+                    "first_name": "David",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reeves",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Hepburn-Brown",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hepburn-Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adam Miethke",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Miethke",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr James Carter",
+                    "first_name": "James",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kyla Garic",
+                    "first_name": "Kyla",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Garic",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MHH",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "MAJESTIC HORIZON HOLDINGS LTD",
+    "ASXcode": "MHH",
+    "data": {
+        "summary": {
+            "name_short": "MAJESTIC",
+            "name_full": "MAJESTIC HORIZON HOLDINGS LTD",
+            "code": "MHH",
+            "primary_share_code": "MHH",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "MAJESTIC HORIZON LTD",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9028 4480",
+            "mailing_address": "Level 7, 564 St Kilda Road, MELBOURNE, VIC, AUSTRALIA, 3004",
+            "principal_activities": "",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "MHH",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.majestichh.com.au",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Lee David Mitchell",
+                    "first_name": "Lee",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mitchell",
+                    "middle_name": "David"
+                }
+            ]
+        }
+    }
+}

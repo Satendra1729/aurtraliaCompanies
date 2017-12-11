@@ -1,0 +1,163 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AJD",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "ASIA PACIFIC DATA CENTRE GROUP",
+    "ASXcode": "AJD",
+    "data": {
+        "summary": {
+            "name_short": "APDCDATA",
+            "name_full": "ASIA PACIFIC DATA CENTRE GROUP",
+            "last_dividend": {
+                "comments": "EST 2.43C",
+                "franked_percentage": "0%",
+                "created_date": "2017-06-26T00:00:00+1000",
+                "record_date": "2017-06-30T00:00:00+1000",
+                "payable_date": "2017-08-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.0243,
+                "ex_date": "2017-06-29T00:00:00+1000"
+            },
+            "code": "AJD",
+            "primary_share_code": "AJD",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "ASIA PACIFIC DATA",
+            "foreign_exempt": false,
+            "listing_date": "2013-01-09T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@asiapacificdc.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8405 8860",
+            "mailing_address": "Level 8, 56 Pitt Street, c/- 360 Capital Group, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Data centre real estate investment trust.",
+            "fax_number": "+61 2 9238 0354",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-13T12:23:52+1100",
+                    "number_of_pages": 60,
+                    "id": "01907658",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T12:25:31+1100",
+                    "size": "685.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6h5xdc5gjvt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 38810,
+                "status": [],
+                "market_cap": 214475187,
+                "code": "AJD",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 1.06,
+                "previous_close_price": 1.865,
+                "year_change_price": 0.89,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 115000100,
+                "eps": 0.3209,
+                "change_in_percent": "4.558%",
+                "change_price": 0.085,
+                "deprecated_number_of_shares": 115000100,
+                "pe": 6.08,
+                "offer_price": 1.945,
+                "suspended": false,
+                "last_price": 1.95,
+                "deprecated_market_cap": 224250000,
+                "day_low_price": 1.86,
+                "open_price": 1.86,
+                "year_high_date": "2017-09-13T00:00:00+1000",
+                "previous_day_percentage_change": "3.324%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.99,
+                "bid_price": 1.89,
+                "desc_full": "Ordinary Fully Paid Stapled Securities",
+                "day_high_price": 1.95,
+                "year_change_in_percentage": "83.962%",
+                "average_daily_volume": 424739,
+                "year_low_price": 1.45,
+                "annual_dividend_yield": 4.98
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://asiapacificdc.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David van Aanholt",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "van Aanholt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lawrence Gibbs",
+                    "first_name": "Lawrence",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gibbs",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tony Pitt",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pitt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Wilson",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jennifer Vercoe",
+                    "first_name": "Jennifer",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Vercoe",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

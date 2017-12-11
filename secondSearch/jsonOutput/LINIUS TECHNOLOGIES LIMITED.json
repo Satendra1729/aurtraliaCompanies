@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LNU",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "LINIUS TECHNOLOGIES LIMITED",
+    "ASXcode": "LNU",
+    "data": {
+        "summary": {
+            "name_short": "LINIUSTECH",
+            "name_full": "LINIUS TECHNOLOGIES LIMITED",
+            "code": "LNU",
+            "primary_share_code": "LNU",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "LINIUS TECH LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2011-07-26T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "info@linius.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 8680 2317",
+            "mailing_address": "Level 18, 101 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Development and commercialisation of video file technology.",
+            "fax_number": "+61 3 8680 2380",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report & Full Year Statutory Accounts",
+                    "document_date": "2017-09-28T20:48:40+1000",
+                    "number_of_pages": 68,
+                    "id": "01901657",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:18:16+1000",
+                    "size": "678.8KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrm5btkyyq0r.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1604940,
+                "status": [],
+                "market_cap": 48445644,
+                "code": "LNU",
+                "indices": [],
+                "year_open_price": 0.02333,
+                "previous_close_price": 0.061,
+                "year_change_price": 0.03067,
+                "year_low_date": "2017-05-03T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 794190880,
+                "eps": -0.007,
+                "change_in_percent": "-11.475%",
+                "change_price": -0.007,
+                "deprecated_number_of_shares": 408988611,
+                "pe": 0,
+                "offer_price": 0.056,
+                "suspended": false,
+                "last_price": 0.054,
+                "deprecated_market_cap": 22085000,
+                "day_low_price": 0.054,
+                "open_price": 0.062,
+                "year_high_date": "2017-02-27T00:00:00+1100",
+                "previous_day_percentage_change": "12.963%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.073,
+                "bid_price": 0.054,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.062,
+                "year_change_in_percentage": "131.462%",
+                "average_daily_volume": 859746,
+                "year_low_price": 0.035,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.linius.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gerard Bongiorno",
+                    "first_name": "Gerard",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bongiorno",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Richardson",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richardson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen McGovern",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGovern",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Kerr",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kerr",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Stephen Kerr",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kerr",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

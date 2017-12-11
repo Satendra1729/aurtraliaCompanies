@@ -1,0 +1,155 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PL8",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "PLATO INCOME MAXIMISER LIMITED.",
+    "ASXcode": "PL8",
+    "data": {
+        "summary": {
+            "name_short": "PLATO INMX",
+            "name_full": "PLATO INCOME MAXIMISER LIMITED.",
+            "code": "PL8",
+            "primary_share_code": "PL8",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "PLATO INC MAX LTD.",
+            "foreign_exempt": false,
+            "listing_date": "2017-05-05T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "0.45C FRANKED@27.5%",
+                "franked_percentage": "100%",
+                "created_date": "2017-12-04T00:00:00+1100",
+                "record_date": "2017-12-14T00:00:00+1100",
+                "payable_date": "2017-12-29T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.0045,
+                "ex_date": "2017-12-13T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 010 311",
+            "mailing_address": "Level 35, 60 Margaret Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Listed Investment Company",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-27T10:33:33+1000",
+                    "number_of_pages": 52,
+                    "id": "01900431",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T10:38:13+1000",
+                    "size": "957.0KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mnzgfsgcc8zt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 592402,
+                "status": [
+                    "CD"
+                ],
+                "market_cap": 323081895,
+                "code": "PL8",
+                "indices": [],
+                "deprecated_number_of_shares": 296405408,
+                "previous_close_price": 1.09,
+                "year_low_date": "2017-08-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 296405408,
+                "eps": 0,
+                "change_in_percent": "-0.459%",
+                "change_price": -0.005,
+                "pe": 0,
+                "offer_price": 1.1,
+                "suspended": false,
+                "last_price": 1.085,
+                "deprecated_market_cap": 0,
+                "day_low_price": 1.085,
+                "open_price": 1.1,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-1.357%",
+                "year_open_date": null,
+                "year_high_price": 1.105,
+                "bid_price": 1.085,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.105,
+                "average_daily_volume": 287934,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.plato.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jonathan Trollip",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trollip",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Donald Frank Hamson",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hamson",
+                    "middle_name": "Frank"
+                },
+                {
+                    "full_name": "Mr Alexander Ihlenfeldt",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ihlenfeldt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lorraine Helen Berends",
+                    "first_name": "Lorraine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Berends",
+                    "middle_name": "Helen"
+                },
+                {
+                    "full_name": "Ms Katrina Maree Onishi",
+                    "first_name": "Katrina",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Onishi",
+                    "middle_name": "Maree"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Calvin Kwok",
+                    "first_name": "Calvin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kwok",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

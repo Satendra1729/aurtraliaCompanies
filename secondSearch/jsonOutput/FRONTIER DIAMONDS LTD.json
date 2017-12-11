@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FDX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "FRONTIER DIAMONDS LTD",
+    "ASXcode": "FDX",
+    "data": {
+        "summary": {
+            "name_short": "FDIAMONDS",
+            "name_full": "FRONTIER DIAMONDS LTD",
+            "code": "FDX",
+            "primary_share_code": "FDX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "FRONTIER DIAMONDS",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9347 2409",
+            "mailing_address": "Level 1, 566 Elizabeth Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Mineral mining and development",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "FDX",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.frontierdiamonds.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Chris Ritchie",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ritchie",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

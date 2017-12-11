@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CYQ",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "CYCLIQ GROUP LTD",
+    "ASXcode": "CYQ",
+    "data": {
+        "summary": {
+            "name_short": "CYCLIQ",
+            "name_full": "CYCLIQ GROUP LTD",
+            "code": "CYQ",
+            "primary_share_code": "CYQ",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "CYCLIQ GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-11-21T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6555 2950",
+            "mailing_address": "Suite 6, 295 Rokeby Road, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "The Company\u00bfs business is the design and manufacture of high definition camera/light combination accessories for cyclists.",
+            "fax_number": "+61 8 6166 0261",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-31T15:22:53+1000",
+                    "number_of_pages": 67,
+                    "id": "01891142",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T15:24:42+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lykknh7lht8d.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 612829,
+                "status": [],
+                "market_cap": 19277277,
+                "code": "CYQ",
+                "indices": [],
+                "year_open_price": 0.05,
+                "previous_close_price": 0.026,
+                "year_change_price": -0.024,
+                "year_low_date": "2017-11-22T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 741433730,
+                "eps": -0.0128,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 568157392,
+                "pe": 0,
+                "offer_price": 0.026,
+                "suspended": false,
+                "last_price": 0.026,
+                "deprecated_market_cap": 14772000,
+                "day_low_price": 0.024,
+                "open_price": 0.026,
+                "year_high_date": "2017-01-16T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.051,
+                "bid_price": 0.024,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.026,
+                "year_change_in_percentage": "-48%",
+                "average_daily_volume": 1201538,
+                "year_low_price": 0.016,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.cycliq.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Chris Singleton",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Singleton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kingsley Fiegert",
+                    "first_name": "Kingsley",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fiegert",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Hagen",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hagen",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Piers Lewis",
+                    "first_name": "Piers",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lewis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

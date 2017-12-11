@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CRB",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CARBINE RESOURCES LIMITED",
+    "ASXcode": "CRB",
+    "data": {
+        "summary": {
+            "name_full": "CARBINE RESOURCES LIMITED",
+            "code": "CRB",
+            "name_short": "CARBINE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CARBINE RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CRB?image_size=L&v=1508210152000",
+            "foreign_exempt": false,
+            "listing_date": "2007-03-16T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@carbineresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6142 0986",
+            "mailing_address": "Suite 23, 513 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "",
+            "fax_number": "+61 8 9388 8824",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-28T17:47:49+1000",
+                    "number_of_pages": 94,
+                    "id": "01852495",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-28T17:53:43+1000",
+                    "size": "4.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170428/pdf/43hw7vhb5j7whq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 200000,
+                "status": [],
+                "market_cap": 13582778,
+                "code": "CRB",
+                "indices": [],
+                "year_open_price": 0.03,
+                "previous_close_price": 0.068,
+                "year_change_price": 0.04,
+                "year_low_date": "2017-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 199746729,
+                "eps": -0.0181,
+                "change_in_percent": "2.941%",
+                "change_price": 0.002,
+                "deprecated_number_of_shares": 199746729,
+                "pe": 0,
+                "offer_price": 0.069,
+                "suspended": false,
+                "last_price": 0.07,
+                "deprecated_market_cap": 13982000,
+                "day_low_price": 0.069,
+                "open_price": 0.069,
+                "year_high_date": "2016-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-2.857%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.14,
+                "bid_price": 0.068,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.07,
+                "year_change_in_percentage": "133.333%",
+                "average_daily_volume": 271434,
+                "year_low_price": 0.068,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "CRB",
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.carbineresources.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": "http://www.carbineresources.com.au/news-archive/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Fitzgerald",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzgerald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony James",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "James",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Brock",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brock",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Evan Cranston",
+                    "first_name": "Evan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cranston",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Oonagh Jane Malone",
+                    "first_name": "Oonagh",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Malone",
+                    "middle_name": "Jane"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KPG",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "KELLY PARTNERS GROUP HOLDINGS LIMITED",
+    "ASXcode": "KPG",
+    "data": {
+        "summary": {
+            "name_short": "KELLYPRTNR",
+            "name_full": "KELLY PARTNERS GROUP HOLDINGS LIMITED",
+            "last_dividend": {
+                "comments": "1C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-11-02T00:00:00+1100",
+                "record_date": "2017-11-09T00:00:00+1100",
+                "payable_date": "2017-11-16T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.01,
+                "ex_date": "2017-11-08T00:00:00+1100"
+            },
+            "code": "KPG",
+            "primary_share_code": "KPG",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "KELLY PARTNERS GROUP",
+            "foreign_exempt": false,
+            "listing_date": "2017-06-21T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@kellypartners.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9923 0800",
+            "mailing_address": "Level 8, 32 Walker Street, ., NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "The provision of accounting and taxation services to private small and medium enterprises.",
+            "fax_number": "+61 2 9923 0888",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-06T08:45:04+1100",
+                    "number_of_pages": 118,
+                    "id": "01904956",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-06T08:49:14+1100",
+                    "size": "11.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171006/pdf/43n02l57cr2gps.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 20550,
+                "status": [],
+                "market_cap": 70975602,
+                "code": "KPG",
+                "indices": [],
+                "deprecated_number_of_shares": 45497181,
+                "previous_close_price": 1.56,
+                "year_low_date": "2017-06-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 45497181,
+                "eps": 0,
+                "change_in_percent": "5.449%",
+                "change_price": 0.085,
+                "pe": 0,
+                "offer_price": 1.63,
+                "suspended": false,
+                "last_price": 1.645,
+                "deprecated_market_cap": 74843000,
+                "day_low_price": 1.56,
+                "open_price": 1.565,
+                "year_high_date": "2017-10-19T00:00:00+1100",
+                "previous_day_percentage_change": "0.645%",
+                "year_open_date": null,
+                "year_high_price": 1.75,
+                "bid_price": 1.565,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.645,
+                "average_daily_volume": 19710,
+                "year_low_price": 1.27,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.kellypartnersgroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brett Kelly",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Executive Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Rouvray",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rouvray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Kuchta",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kuchta",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Pauline Michelakis",
+                    "first_name": "Pauline",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Michelakis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ryan Macnamee",
+                    "first_name": "Ryan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Macnamee",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David James Franks",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Franks",
+                    "middle_name": "James"
+                }
+            ]
+        }
+    }
+}

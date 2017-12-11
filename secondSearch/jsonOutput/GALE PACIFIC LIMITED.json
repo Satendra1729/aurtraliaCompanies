@@ -1,0 +1,177 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GAP",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "GALE PACIFIC LIMITED",
+    "ASXcode": "GAP",
+    "data": {
+        "summary": {
+            "name_short": "GALE PAC",
+            "name_full": "GALE PACIFIC LIMITED",
+            "code": "GAP",
+            "primary_share_code": "GAP",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "GALE PACIFIC LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2000-12-14T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI;  DRP SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-25T00:00:00+1000",
+                "record_date": "2017-09-25T00:00:00+1000",
+                "payable_date": "2017-10-02T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.01,
+                "ex_date": "2017-09-22T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 3 9518 3333",
+            "mailing_address": "145 Woodlands Drive, BRAESIDE, VIC, AUSTRALIA, 3195",
+            "principal_activities": "Design and manufacture of advanced polymer products.",
+            "fax_number": "61 3 9518 3325",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-08-25T08:24:33+1000",
+                    "number_of_pages": 72,
+                    "id": "01888098",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-25T08:30:02+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170825/pdf/43lqqm4dmn6hwr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 305560,
+                "status": [],
+                "market_cap": 101240503,
+                "code": "GAP",
+                "indices": [],
+                "year_open_price": 0.285,
+                "previous_close_price": 0.342,
+                "year_change_price": 0.06,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 296024864,
+                "eps": -0.0271,
+                "change_in_percent": "0.877%",
+                "change_price": 0.003,
+                "deprecated_number_of_shares": 296024864,
+                "pe": 0,
+                "offer_price": 0.345,
+                "suspended": false,
+                "last_price": 0.345,
+                "deprecated_market_cap": 102129000,
+                "day_low_price": 0.34,
+                "open_price": 0.345,
+                "year_high_date": "2017-07-05T00:00:00+1000",
+                "previous_day_percentage_change": "-1.441%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.43,
+                "bid_price": 0.34,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.35,
+                "year_change_in_percentage": "21.053%",
+                "average_daily_volume": 187578,
+                "year_low_price": 0.34,
+                "annual_dividend_yield": 5.8
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.galepacific.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David J Allman",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Allman",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Nick Pritchard",
+                    "first_name": "Nick",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pritchard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Landos",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Landos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Murphy",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murphy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tom Stianos",
+                    "first_name": "Tom",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stianos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Parker",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Parker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sophie Karzis",
+                    "first_name": "Sophie",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Karzis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sophie Karzis",
+                    "first_name": "Sophie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Karzis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LSX",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "LION SELECTION GROUP LIMITED.",
+    "ASXcode": "LSX",
+    "data": {
+        "summary": {
+            "name_short": "LION SELCT",
+            "name_full": "LION SELECTION GROUP LIMITED.",
+            "code": "LSX",
+            "primary_share_code": "LSX",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "LION SELECTION GRP",
+            "foreign_exempt": false,
+            "listing_date": "2013-03-13T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9614 8008",
+            "mailing_address": "Level 4, 15-17 Queen Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Investment in mining and exploration companies.",
+            "fax_number": "(03) 9614 8009",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-11-06T11:25:49+1100",
+                    "number_of_pages": 68,
+                    "id": "01918315",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-06T11:28:39+1100",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171106/pdf/43nzy52nxb006w.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 47085,
+                "status": [],
+                "market_cap": 40497101,
+                "code": "LSX",
+                "indices": [],
+                "year_open_price": 0.51,
+                "previous_close_price": 0.32,
+                "year_change_price": -0.18,
+                "year_low_date": "2017-12-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 126553441,
+                "eps": -0.008,
+                "change_in_percent": "3.125%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 126553441,
+                "pe": 0,
+                "offer_price": 0.35,
+                "suspended": false,
+                "last_price": 0.33,
+                "deprecated_market_cap": 41763000,
+                "day_low_price": 0.33,
+                "open_price": 0.33,
+                "year_high_date": "2017-02-24T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.47,
+                "bid_price": 0.33,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.33,
+                "year_change_in_percentage": "-35.294%",
+                "average_daily_volume": 35068,
+                "year_low_price": 0.31,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.lionselection.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter J Maloney",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Maloney",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Craig Smyth",
+                    "first_name": "Craig",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smyth",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robin Widdup",
+                    "first_name": "Robin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Widdup",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Melloy",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Melloy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Barry Sullivan",
+                    "first_name": "Barry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sullivan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jane Rose",
+                    "first_name": "Jane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Rose",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

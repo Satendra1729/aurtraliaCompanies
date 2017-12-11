@@ -1,0 +1,141 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PKO",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "PEAKO LIMITED",
+    "ASXcode": "PKO",
+    "data": {
+        "summary": {
+            "name_full": "PEAKO LIMITED",
+            "code": "PKO",
+            "name_short": "PEAKO LTD",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "PEAKO LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PKO?image_size=L&v=1458009068000",
+            "foreign_exempt": false,
+            "listing_date": "2009-12-02T00:00:00+1100",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "investor_relations_email": "info@peako.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8610 4702",
+            "mailing_address": "Level 21, 500 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Oil & gas and uranium exploration and production",
+            "fax_number": "(03) 8610 4799",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-28T11:27:53+1000",
+                    "number_of_pages": 43,
+                    "id": "01901115",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T11:31:26+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqfw923x6fg6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 27000,
+                "status": [
+                    "XE"
+                ],
+                "market_cap": 918344,
+                "code": "PKO",
+                "indices": [],
+                "year_open_price": 0.006,
+                "previous_close_price": 0.018,
+                "year_change_price": 0.007,
+                "year_low_date": "2016-12-30T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 51019137,
+                "eps": -0.0035,
+                "change_in_percent": "-27.778%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 51019137,
+                "pe": 0,
+                "offer_price": 0.015,
+                "suspended": false,
+                "last_price": 0.013,
+                "deprecated_market_cap": 663000,
+                "day_low_price": 0.013,
+                "open_price": 0.013,
+                "year_high_date": "2017-02-03T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.028,
+                "bid_price": 0.01,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.013,
+                "year_change_in_percentage": "116.667%",
+                "average_daily_volume": 139139,
+                "year_low_price": 0.006,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "PKO",
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.peako.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoffrey Albers",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Albers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Raewyn Clark",
+                    "first_name": "Raewyn",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Clark",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Armitage",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Armitage",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rob Wright",
+                    "first_name": "Rob",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wright",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Rob Wright",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wright",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

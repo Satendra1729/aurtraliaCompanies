@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SGC",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "SACGASCO LIMITED",
+    "ASXcode": "SGC",
+    "data": {
+        "summary": {
+            "name_short": "SACGASCO",
+            "name_full": "SACGASCO LIMITED",
+            "code": "SGC",
+            "primary_share_code": "SGC",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "SACGASCO LTD",
+            "foreign_exempt": false,
+            "listing_date": "2005-10-11T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9388 2654",
+            "mailing_address": "Level 1, 31 Cliff Street, FREMANTLE, WA, AUSTRALIA, 6160",
+            "principal_activities": "Oil and gas exploration, in Australia and US",
+            "fax_number": "(08) 6444 7408",
+            "latest_annual_reports": [
+                {
+                    "header": "Dispatch of 2016 Annual Report & Notice of AGM",
+                    "document_date": "2017-04-28T13:51:43+1000",
+                    "number_of_pages": 121,
+                    "id": "01852010",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-28T13:56:18+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170428/pdf/43hvbgcgbvtnzj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2163787,
+                "status": [],
+                "market_cap": 23902189,
+                "code": "SGC",
+                "indices": [],
+                "year_open_price": 0.145,
+                "previous_close_price": 0.098,
+                "year_change_price": -0.05,
+                "year_low_date": "2017-05-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 243899884,
+                "eps": -0.0345,
+                "change_in_percent": "-3.061%",
+                "change_price": -0.003,
+                "deprecated_number_of_shares": 243899884,
+                "pe": 0,
+                "offer_price": 0.099,
+                "suspended": false,
+                "last_price": 0.095,
+                "deprecated_market_cap": 23170000,
+                "day_low_price": 0.086,
+                "open_price": 0.097,
+                "year_high_date": "2017-09-13T00:00:00+1000",
+                "previous_day_percentage_change": "-6.667%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.23,
+                "bid_price": 0.094,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.099,
+                "year_change_in_percentage": "-34.483%",
+                "average_daily_volume": 2216181,
+                "year_low_price": 0.063,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.sacgasco.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Childs",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Childs",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Jeffery",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jeffery",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Haydn-Slater",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haydn-Slater",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David McArthur",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McArthur",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

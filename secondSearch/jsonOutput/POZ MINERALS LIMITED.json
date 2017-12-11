@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/POZ",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "POZ MINERALS LIMITED",
+    "ASXcode": "POZ",
+    "data": {
+        "summary": {
+            "name_short": "POZMINLTD",
+            "name_full": "POZ MINERALS LIMITED",
+            "code": "POZ",
+            "primary_share_code": "POZ",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "POZ MINERALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2008-07-01T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9422 9555",
+            "mailing_address": "Suite 4, 6 Richardson Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "A Multi Commodity Resources Company",
+            "fax_number": "+61 8 9422 9599",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-20T18:43:20+1000",
+                    "number_of_pages": 55,
+                    "id": "01898188",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-20T18:47:45+1000",
+                    "size": "6.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170920/pdf/43mhjbxnm57g97.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 9389427,
+                "code": "POZ",
+                "indices": [],
+                "year_open_price": 0.012,
+                "previous_close_price": 0.056,
+                "year_change_price": 0.044,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 167668333,
+                "eps": -0.021,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 167668333,
+                "pe": 0,
+                "offer_price": 0.055,
+                "suspended": false,
+                "last_price": 0.056,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-27T00:00:00+1100",
+                "previous_day_percentage_change": "3.704%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.064,
+                "bid_price": 0.045,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "366.667%",
+                "average_daily_volume": 244742,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.phosphateaustralia.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jim Richards",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richards",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Mooney",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mooney",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Thompson",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thompson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Grant Mooney",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mooney",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

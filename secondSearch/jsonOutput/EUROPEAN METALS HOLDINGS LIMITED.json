@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EMH",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "EUROPEAN METALS HOLDINGS LIMITED",
+    "ASXcode": "EMH",
+    "data": {
+        "summary": {
+            "name_short": "EUROMETALS",
+            "name_full": "EUROPEAN METALS HOLDINGS LIMITED",
+            "code": "EMH",
+            "primary_share_code": "EMH",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "EUROPEAN METALS HLDG",
+            "foreign_exempt": false,
+            "listing_date": "2012-07-19T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6141 3500",
+            "mailing_address": "C/- Wolfstar Group Limited, Suite 12, Level 1, 11 Ventnor Avenue, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Lithium Developer",
+            "fax_number": "+61 8 6141 3599",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T18:52:16+1000",
+                    "number_of_pages": 74,
+                    "id": "01902781",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T18:55:51+1000",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtrydbx069mg.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 36934,
+                "status": [],
+                "market_cap": 97530213,
+                "code": "EMH",
+                "indices": [],
+                "year_open_price": 0.15758,
+                "previous_close_price": 0.74,
+                "year_change_price": 0.59242,
+                "year_low_date": "2016-12-29T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 131797585,
+                "eps": -0.0328,
+                "change_in_percent": "1.351%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 131797585,
+                "pe": 0,
+                "offer_price": 0.75,
+                "suspended": false,
+                "last_price": 0.75,
+                "deprecated_market_cap": 98848000,
+                "day_low_price": 0.715,
+                "open_price": 0.73,
+                "year_high_date": "2017-04-04T00:00:00+1000",
+                "previous_day_percentage_change": "-1.333%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.39,
+                "bid_price": 0.71,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0.75,
+                "year_change_in_percentage": "375.949%",
+                "average_daily_volume": 79404,
+                "year_low_price": 0.555,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.europeanmet.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Reeves",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reeves",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Keith Coughlan",
+                    "first_name": "Keith",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Coughlan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Pavlik",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pavlik",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kiran Morzaria",
+                    "first_name": "Kiran",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morzaria",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Julia Beckett",
+                    "first_name": "Julia",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Beckett",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

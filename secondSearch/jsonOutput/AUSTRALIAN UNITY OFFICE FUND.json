@@ -1,0 +1,109 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AOF",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "AUSTRALIAN UNITY OFFICE FUND",
+    "ASXcode": "AOF",
+    "data": {
+        "summary": {
+            "name_short": "AU OFFICE",
+            "name_full": "AUSTRALIAN UNITY OFFICE FUND",
+            "code": "AOF",
+            "primary_share_code": "AOF",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "AUSTRALIAN UNITY OFF",
+            "foreign_exempt": false,
+            "listing_date": "2016-06-20T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2.1078C TAX DEFERRED ; DRP SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-09-25T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-13T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.039,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "132939",
+            "mailing_address": "114 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Investment in real estate",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Reprt",
+                    "document_date": "2017-09-28T17:47:19+1000",
+                    "number_of_pages": 61,
+                    "id": "01901489",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T18:04:08+1000",
+                    "size": "3.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr5wgg240tw1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 36529,
+                "status": [],
+                "market_cap": 377770129,
+                "code": "AOF",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 162831952,
+                "previous_close_price": 2.32,
+                "year_low_date": "2016-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 162831952,
+                "eps": 0.432,
+                "change_in_percent": "-0.431%",
+                "change_price": -0.01,
+                "pe": 5.35,
+                "offer_price": 2.33,
+                "suspended": false,
+                "last_price": 2.31,
+                "deprecated_market_cap": 376142000,
+                "day_low_price": 2.31,
+                "open_price": 2.32,
+                "year_high_date": "2017-10-11T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 2.4,
+                "bid_price": 2.3,
+                "desc_full": "Ordinary Units Fully Paid",
+                "day_high_price": 2.32,
+                "average_daily_volume": 106879,
+                "year_low_price": 1.99,
+                "annual_dividend_yield": 6.58
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.australianunityofficefund.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Emma Louise Rodgers",
+                    "first_name": "Emma",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Rodgers",
+                    "middle_name": "Louise"
+                }
+            ]
+        }
+    }
+}

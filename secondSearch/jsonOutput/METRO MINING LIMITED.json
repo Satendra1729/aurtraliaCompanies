@@ -1,0 +1,229 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MMI",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "METRO MINING LIMITED",
+    "ASXcode": "MMI",
+    "data": {
+        "summary": {
+            "name_full": "METRO MINING LIMITED",
+            "code": "MMI",
+            "name_short": "METROMININ",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "METRO MINING LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MMI?image_size=L&v=1505439226000",
+            "foreign_exempt": false,
+            "listing_date": "2009-12-04T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@metromining.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 3009 8000",
+            "mailing_address": "Level 2, 247 Adelaide St, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Project and mine development",
+            "fax_number": "07 3221 4811",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-12T10:24:51+1100",
+                    "number_of_pages": 64,
+                    "id": "01907136",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-12T10:27:40+1100",
+                    "size": "4.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171012/pdf/43n59p2vmly556.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 608343,
+                "status": [],
+                "market_cap": 289800823,
+                "code": "MMI",
+                "indices": [],
+                "year_open_price": 0.028,
+                "previous_close_price": 0.225,
+                "year_change_price": 0.207,
+                "year_low_date": "2017-06-14T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1288003657,
+                "eps": -0.0033,
+                "change_in_percent": "4.444%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 1288003657,
+                "pe": 0,
+                "offer_price": 0.24,
+                "suspended": false,
+                "last_price": 0.235,
+                "deprecated_market_cap": 302681000,
+                "day_low_price": 0.22,
+                "open_price": 0.23,
+                "year_high_date": "2017-10-20T00:00:00+1100",
+                "previous_day_percentage_change": "-6.25%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.27,
+                "bid_price": 0.23,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.235,
+                "year_change_in_percentage": "739.286%",
+                "average_daily_volume": 1122823,
+                "year_low_price": 0.125,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "MMI",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.metromining.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stephen Everett",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Everett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Finnis",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Finnis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jijun Liu",
+                    "first_name": "Jijun",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Sawyer",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sawyer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dong Ping Wang",
+                    "first_name": "Dong",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": "Ping"
+                },
+                {
+                    "full_name": "Mr Philip Hennessy",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hennessy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr George Lloyd",
+                    "first_name": "George",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lloyd",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lindsay Ward",
+                    "first_name": "Lindsay",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ward",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mike Haworth",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haworth",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ken Xiao",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Xiao",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Xiaoming Aaron Yuan",
+                    "first_name": "Xiaoming",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yuan",
+                    "middle_name": "Aaron"
+                },
+                {
+                    "full_name": "Mr Mike O'Brien",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Brien",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Waddell",
+                    "first_name": "Scott",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Waddell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Scott Waddell",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Waddell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,795 @@
+[
+    [
+        {},
+        {
+            "Type": "Entity Name",
+            "Location": "3101         VIC",
+            "ABN": "56 620 965 031Active,/SearchByAbn.aspx?abn=56620965031",
+            "Name": "ACF PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "49 001 832 551Active,/SearchByAbn.aspx?abn=49001832551",
+            "Name": "A C F INVESTMENTS LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2216         NSW",
+            "ABN": "43 002 879 503Active,/SearchByAbn.aspx?abn=43002879503",
+            "Name": "A C F MA PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6064         WA",
+            "ABN": "43 557 057 835Active,/SearchByAbn.aspx?abn=43557057835",
+            "Name": "A C F TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6065         WA",
+            "ABN": "70 938 971 995Active,/SearchByAbn.aspx?abn=70938971995",
+            "Name": "A C F Trust & THE TRUSTEE FOR L N F TRUST"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3121         VIC",
+            "ABN": "11 748 976 381Active,/SearchByAbn.aspx?abn=11748976381",
+            "Name": "A.C.F DESIGNS"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2000         NSW",
+            "ABN": "27 164 197 497Active,/SearchByAbn.aspx?abn=27164197497",
+            "Name": "ACF - WINGHAM"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2207         NSW",
+            "ABN": "69 617 799 701Active,/SearchByAbn.aspx?abn=69617799701",
+            "Name": "ACF AIR & MECHANICAL PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3809         VIC",
+            "ABN": "53 132 292 427Active,/SearchByAbn.aspx?abn=53132292427",
+            "Name": "ACF AIR CHARTER PTY LIMITED"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3000         VIC",
+            "ABN": "89 009 658 600Active,/SearchByAbn.aspx?abn=89009658600",
+            "Name": "ACF AND SHIRLEYS PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2020         NSW",
+            "ABN": "97 108 616 762Active,/SearchByAbn.aspx?abn=97108616762",
+            "Name": "ACF Australia Pty Ltd"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3037         VIC",
+            "ABN": "20 565 855 126Active,/SearchByAbn.aspx?abn=20565855126",
+            "Name": "ACF CONCRETING"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2072         NSW",
+            "ABN": "20 205 461 944Active,/SearchByAbn.aspx?abn=20205461944",
+            "Name": "ACF Contracting"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2161         NSW",
+            "ABN": "83 096 230 563Active,/SearchByAbn.aspx?abn=83096230563",
+            "Name": "ACF DEVELOPMENTS PTY LIMITED"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "6101         WA",
+            "ABN": "40 814 487 621Active,/SearchByAbn.aspx?abn=40814487621",
+            "Name": "ACF FINANCE"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4703         QLD",
+            "ABN": "85 615 251 842Active,/SearchByAbn.aspx?abn=85615251842",
+            "Name": "ACF GLOBAL PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "68 160 099 427Active,/SearchByAbn.aspx?abn=68160099427",
+            "Name": "ACF GROUP PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2221         NSW",
+            "ABN": "58 095 392 117Active,/SearchByAbn.aspx?abn=58095392117",
+            "Name": "ACF HOLDINGS PTY LIMITED"
+        },
+        {
+            "Type": "Other Name",
+            "Location": "3030         VIC",
+            "ABN": "55 651 779 014Active,/SearchByAbn.aspx?abn=55651779014",
+            "Name": "ACF INSTALLATIONS"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "34 617 558 595Active,/SearchByAbn.aspx?abn=34617558595",
+            "Name": "ACF INTERNATIONAL PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4740         QLD",
+            "ABN": "15 052 348 955Active,/SearchByAbn.aspx?abn=15052348955",
+            "Name": "ACF MKY PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2745         NSW",
+            "ABN": "61 147 544 849Active,/SearchByAbn.aspx?abn=61147544849",
+            "Name": "ACF PENRITH PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4740         QLD",
+            "ABN": "70 154 714 119Active,/SearchByAbn.aspx?abn=70154714119",
+            "Name": "ACF PLANNING PTY LTD"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3579         VIC",
+            "ABN": "26 214 066 509Active,/SearchByAbn.aspx?abn=26214066509",
+            "Name": "ACF PLUMBING"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3095         VIC",
+            "ABN": "67 049 684 494Active,/SearchByAbn.aspx?abn=67049684494",
+            "Name": "ACF Photogrpahy"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3400         VIC",
+            "ABN": "27 289 099 886Active,/SearchByAbn.aspx?abn=27289099886",
+            "Name": "ACF Plumbers Pty Ltd"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3141         VIC",
+            "ABN": "68 518 171 408Active,/SearchByAbn.aspx?abn=68518171408",
+            "Name": "ACF Services"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2020         NSW",
+            "ABN": "34 160 443 087Active,/SearchByAbn.aspx?abn=34160443087",
+            "Name": "ACF TRADING COMPANY PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3352         VIC",
+            "ABN": "47 161 683 709Active,/SearchByAbn.aspx?abn=47161683709",
+            "Name": "ACF TRANSPORT PTY LTD"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4650         QLD",
+            "ABN": "81 733 433 832Active,/SearchByAbn.aspx?abn=81733433832",
+            "Name": "ACF WELDING"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3220         VIC",
+            "ABN": "68 144 892 946Active,/SearchByAbn.aspx?abn=68144892946",
+            "Name": "BANNOCKBURN ACF"
+        },
+        {
+            "Type": "Other Name",
+            "Location": "3220         VIC",
+            "ABN": "94 052 047 579Active,/SearchByAbn.aspx?abn=94052047579",
+            "Name": "BANNOCKBURN ACF"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3143         VIC",
+            "ABN": "91 088 682 295Active,/SearchByAbn.aspx?abn=91088682295",
+            "Name": "LAKESIDE ACF PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5033         SA",
+            "ABN": "57 117 168 573Active,/SearchByAbn.aspx?abn=57117168573",
+            "Name": "MARTINDALE ACF PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3143         VIC",
+            "ABN": "16 614 377 196Active,/SearchByAbn.aspx?abn=16614377196",
+            "Name": "REGIS ACF PTY LTD"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "4022         QLD",
+            "ABN": "61 570 539 739Active,/SearchByAbn.aspx?abn=61570539739",
+            "Name": "Seabrae ACF"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5044         SA",
+            "ABN": "54 361 646 632Active,/SearchByAbn.aspx?abn=54361646632",
+            "Name": "THE ACF FAMILY TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4207         QLD",
+            "ABN": "32 835 494 460Active,/SearchByAbn.aspx?abn=32835494460",
+            "Name": "The Trustee for ACF FAMILY TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2068         NSW",
+            "ABN": "18 710 088 689Active,/SearchByAbn.aspx?abn=18710088689",
+            "Name": "The Trustee for ACF Family Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3043         VIC",
+            "ABN": "76 766 554 526Active,/SearchByAbn.aspx?abn=76766554526",
+            "Name": "The Trustee for ACF Trust"
+        }
+    ],
+    [
+        {},
+        {
+            "Type": "Entity Name",
+            "Location": "6530         WA",
+            "ABN": "48 455 979 383Active,/SearchByAbn.aspx?abn=48455979383",
+            "Name": "The Trustee for ACF Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6035         WA",
+            "ABN": "21 721 215 797Active,/SearchByAbn.aspx?abn=21721215797",
+            "Name": "The Trustee for The ACF Family Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4174         QLD",
+            "ABN": "47 848 395 548Active,/SearchByAbn.aspx?abn=47848395548",
+            "Name": "The trustee for ACF TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "47 281 519 078Active,/SearchByAbn.aspx?abn=47281519078",
+            "Name": "The trustee for The ACF Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4217         QLD",
+            "ABN": "56 261 047 567Active,/SearchByAbn.aspx?abn=56261047567",
+            "Name": "The trustee for the ACF Family Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2336         NSW",
+            "ABN": "76 002 933 084Active,/SearchByAbn.aspx?abn=76002933084",
+            "Name": "A C & F A BERRY PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2031         NSW",
+            "ABN": "27 610 596 597Active,/SearchByAbn.aspx?abn=27610596597",
+            "Name": "ACF BLOODSTOCK SERVICES PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2110         NSW",
+            "ABN": "92 183 407 479Active,/SearchByAbn.aspx?abn=92183407479",
+            "Name": "ACF Business Services"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3002         VIC",
+            "ABN": "65 136 525 552Active,/SearchByAbn.aspx?abn=65136525552",
+            "Name": "ACF CARBON +"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3030         VIC",
+            "ABN": "43 106 596 563Active,/SearchByAbn.aspx?abn=43106596563",
+            "Name": "ACF ELECTRICAL CONTRACTOR"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "5221         SA",
+            "ABN": "14 972 304 033Active,/SearchByAbn.aspx?abn=14972304033",
+            "Name": "ACF Electrical Services"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3754         VIC",
+            "ABN": "87 244 074 281Active,/SearchByAbn.aspx?abn=87244074281",
+            "Name": "ACF Electrical Solutions"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4207         QLD",
+            "ABN": "50 147 134 049Active,/SearchByAbn.aspx?abn=50147134049",
+            "Name": "ACF FAMILY HOLDINGS PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2603         ACT",
+            "ABN": "23 109 299 729Active,/SearchByAbn.aspx?abn=23109299729",
+            "Name": "ACF LYONS INVESTMENTS PTY LIMITED"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "4209         QLD",
+            "ABN": "22 131 911 156Active,/SearchByAbn.aspx?abn=22131911156",
+            "Name": "ACF PROPERTY GROUP"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "4207         QLD",
+            "ABN": "52 638 074 362Active,/SearchByAbn.aspx?abn=52638074362",
+            "Name": "ACF Painting Services"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5000         SA",
+            "ABN": "82 172 360 671Active,/SearchByAbn.aspx?abn=82172360671",
+            "Name": "ACF RETIREMENT FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3809         VIC",
+            "ABN": "15 170 945 020Active,/SearchByAbn.aspx?abn=15170945020",
+            "Name": "ACF SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3131         VIC",
+            "ABN": "95 125 287 363Active,/SearchByAbn.aspx?abn=95125287363",
+            "Name": "ACF Specialist Services Pty Ltd"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2575         NSW",
+            "ABN": "88 071 782 026Active,/SearchByAbn.aspx?abn=88071782026",
+            "Name": "ACF Weed Control"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2575         NSW",
+            "ABN": "32 131 971 152Active,/SearchByAbn.aspx?abn=32131971152",
+            "Name": "ACF Weed Control Pty Ltd"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "5085         SA",
+            "ABN": "77 143 170 095Active,/SearchByAbn.aspx?abn=77143170095",
+            "Name": "ACF Welding & Engineering"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3142         VIC",
+            "ABN": "14 116 758 952Active,/SearchByAbn.aspx?abn=14116758952",
+            "Name": "BORONIA ACF TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3730         VIC",
+            "ABN": "96 607 957 933Active,/SearchByAbn.aspx?abn=96607957933",
+            "Name": "BRIGHT ACF OPERATIONS PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3737         VIC",
+            "ABN": "82 123 074 368Active,/SearchByAbn.aspx?abn=82123074368",
+            "Name": "MYRTLEFORD ACF OPERATIONS PTY. LTD."
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5085         SA",
+            "ABN": "53 129 358 256Active,/SearchByAbn.aspx?abn=53129358256",
+            "Name": "Mannum ACF Property Pty Ltd"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2540         NSW",
+            "ABN": "35 779 739 754Active,/SearchByAbn.aspx?abn=35779739754",
+            "Name": "THE A C F SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2020         NSW",
+            "ABN": "84 966 360 551Active,/SearchByAbn.aspx?abn=84966360551",
+            "Name": "The Trustee for ACF Asset Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2745         NSW",
+            "ABN": "13 460 944 607Active,/SearchByAbn.aspx?abn=13460944607",
+            "Name": "The Trustee for ACF Superannuation Fund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3207         VIC",
+            "ABN": "37 386 286 815Active,/SearchByAbn.aspx?abn=37386286815",
+            "Name": "The Trustee for THE ACF UNIT TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4078         QLD",
+            "ABN": "76 713 483 018Active,/SearchByAbn.aspx?abn=76713483018",
+            "Name": "The trustee for ACF Business Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2110         NSW",
+            "ABN": "20 124 212 329Active,/SearchByAbn.aspx?abn=20124212329",
+            "Name": "The trustee for ACF INGHAM FAMILY TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2066         NSW",
+            "ABN": "61 502 099 513Active,/SearchByAbn.aspx?abn=61502099513",
+            "Name": "The trustee for ACF SMITH FAMILY TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4022         QLD",
+            "ABN": "61 570 539 739Active,/SearchByAbn.aspx?abn=61570539739",
+            "Name": "The trustee for Seabrae ACF Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3067         VIC",
+            "ABN": "69 118 361 309Active,/SearchByAbn.aspx?abn=69118361309",
+            "Name": "WAGGA ACF OPERATIONS PTY. LTD."
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3730         VIC",
+            "ABN": "90 110 338 326Active,/SearchByAbn.aspx?abn=90110338326",
+            "Name": "YARRAWONGA ACF OPERATIONS PTY. LTD."
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2207         NSW",
+            "ABN": "27 897 947 452Active,/SearchByAbn.aspx?abn=27897947452",
+            "Name": "ACF AIR CONDITIONING AND MECHANICAL SERVICES"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3175         VIC",
+            "ABN": "27 443 776 185Active,/SearchByAbn.aspx?abn=27443776185",
+            "Name": "ACF Automotive Crash Supplies"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2586         NSW",
+            "ABN": "31 761 266 412Active,/SearchByAbn.aspx?abn=31761266412",
+            "Name": "ACF BLOODSTOCK SERVICES PTY LTD & Others"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3030         VIC",
+            "ABN": "43 106 596 563Active,/SearchByAbn.aspx?abn=43106596563",
+            "Name": "ACF Electrical / Data Services"
+        }
+    ],
+    [
+        {},
+        {
+            "Type": "Entity Name",
+            "Location": "2216         NSW",
+            "ABN": "40 938 260 076Active,/SearchByAbn.aspx?abn=40938260076",
+            "Name": "The Trustee for ACF MA SUPERANNUATION FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5061         SA",
+            "ABN": "40 157 949 281Active,/SearchByAbn.aspx?abn=40157949281",
+            "Name": "The trustee for MEM ACF Trust Fund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5085         SA",
+            "ABN": "85 166 097 845Active,/SearchByAbn.aspx?abn=85166097845",
+            "Name": "The trustee for Mannum ACF Property Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5087         SA",
+            "ABN": "76 657 112 910Active,/SearchByAbn.aspx?abn=76657112910",
+            "Name": "A C F HOUTERMANS & M D HORNER"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2107         NSW",
+            "ABN": "51 729 717 531Active,/SearchByAbn.aspx?abn=51729717531",
+            "Name": "A.C.F BATEUP & E.J BATEUP"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3142         VIC",
+            "ABN": "14 116 758 952Active,/SearchByAbn.aspx?abn=14116758952",
+            "Name": "BORONIA ACF TRUST CLOVELLY COTTAGE"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2995         NSW",
+            "ABN": "19 798 745 279Active,/SearchByAbn.aspx?abn=19798745279",
+            "Name": "H & P Kartheritsas & A & C & F Vekiarellis"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3730         VIC",
+            "ABN": "88 447 478 979Active,/SearchByAbn.aspx?abn=88447478979",
+            "Name": "The Trustee for Bright ACF Assets Unit Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3737         VIC",
+            "ABN": "87 758 237 490Active,/SearchByAbn.aspx?abn=87758237490",
+            "Name": "The Trustee for Wagga ACF Assets Unit Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3757         VIC",
+            "ABN": "99 070 855 219Active,/SearchByAbn.aspx?abn=99070855219",
+            "Name": "The Trustee for Yarrawonga ACF Assets Unit Trust"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2903         ACT",
+            "ABN": "31 137 872 014Active,/SearchByAbn.aspx?abn=31137872014",
+            "Name": "ACHIEVE COMMERCIAL FITOUTS"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "6064         WA",
+            "ABN": "93 290 019 290Active,/SearchByAbn.aspx?abn=93290019290",
+            "Name": "THE ACF TRUST & THE LNF TRUST & THE JCM TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3831         VIC",
+            "ABN": "46 169 745 694Active,/SearchByAbn.aspx?abn=46169745694",
+            "Name": "THE TRUSTEE FOR A CAFE FAMILY TRUST"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2135         NSW",
+            "ABN": "97 371 343 097Active,/SearchByAbn.aspx?abn=97371343097",
+            "Name": "ACF AUSTRALIA CHENG FENG EDUCATION EXCHANGE CENTRE"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "2205         NSW",
+            "ABN": "76 534 472 208Active,/SearchByAbn.aspx?abn=76534472208",
+            "Name": "ACFA"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3008         VIC",
+            "ABN": "83 684 394 097Active,/SearchByAbn.aspx?abn=83684394097",
+            "Name": "The Trustee for SANDHURST TRUSTEES ACF SANDHURST FUTURER LEADERS FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "14 947 322 461Active,/SearchByAbn.aspx?abn=14947322461",
+            "Name": "The Trustee for Trust Company (Australia) ACF Heathley Medical Fund No. 1"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2146         NSW",
+            "ABN": "66 617 313 649Active,/SearchByAbn.aspx?abn=66617313649",
+            "Name": "ACCF CONSTRUCTIONS PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "5063         SA",
+            "ABN": "36 083 962 605Active,/SearchByAbn.aspx?abn=36083962605",
+            "Name": "ACFI Assist"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3934         VIC",
+            "ABN": "58 610 764 326Active,/SearchByAbn.aspx?abn=58610764326",
+            "Name": "ACFI CONNECT PTY LTD"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3934         VIC",
+            "ABN": "50 644 602 375Active,/SearchByAbn.aspx?abn=50644602375",
+            "Name": "ACFI Connect"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3000         VIC",
+            "ABN": "46 785 089 001Active,/SearchByAbn.aspx?abn=46785089001",
+            "Name": "BOND STREET CUSTODIANS LIMITED ACF WESTERN PACIFIC INCOME FUND"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3910         VIC",
+            "ABN": "44 931 522 136Active,/SearchByAbn.aspx?abn=44931522136",
+            "Name": "NOGAPS ACFI"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4109         QLD",
+            "ABN": "30 257 452 590Active,/SearchByAbn.aspx?abn=30257452590",
+            "Name": "The Trustee for AHCF Family Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4217         QLD",
+            "ABN": "17 169 041 868Active,/SearchByAbn.aspx?abn=17169041868",
+            "Name": "The Trustee for PTAL acf the LM Currency Protected Australian Income Fund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "25 693 473 813Active,/SearchByAbn.aspx?abn=25693473813",
+            "Name": "The Trustee for Trust Company (Australia) ACF Heathley Keystone Property Fund No. 33"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "68 535 152 734Active,/SearchByAbn.aspx?abn=68535152734",
+            "Name": "The Trustee for Trust Company (Australia) ACF Heathley Keystone Property Fund No.31"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "28 384 492 263Active,/SearchByAbn.aspx?abn=28384492263",
+            "Name": "The Trustee for Trust Company (Australia) ACF Heathley Keystone Property Fund No.32"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "77 848 522 394Active,/SearchByAbn.aspx?abn=77848522394",
+            "Name": "The trustee for Trust Company (Australia) Limited ACF Heathley Keystone Property Fund No. 30"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "2146         NSW",
+            "ABN": "39 134 188 790Active,/SearchByAbn.aspx?abn=39134188790",
+            "Name": "accf contracting"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2036         NSW",
+            "ABN": "18 606 588 256Active,/SearchByAbn.aspx?abn=18606588256",
+            "Name": "ACFS INVESTMENTS 1 PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2000         NSW",
+            "ABN": "95 603 120 047Active,/SearchByAbn.aspx?abn=95603120047",
+            "Name": "ACFS PORT LOGISTICS PTY LIMITED"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3672         VIC",
+            "ABN": "97 828 902 022Active,/SearchByAbn.aspx?abn=97828902022",
+            "Name": "HUME ACFE COUNCIL"
+        },
+        {
+            "Type": "Trading Name",
+            "Location": "3550         VIC",
+            "ABN": "81 100 735 174Active,/SearchByAbn.aspx?abn=81100735174",
+            "Name": "LCM ACFE COUNCIL"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2060         NSW",
+            "ABN": "42 424 773 037Active,/SearchByAbn.aspx?abn=42424773037",
+            "Name": "NRMA TREASURY LIMITED & TRUST COMPANY OF AUSTRALIA LIMITED ACF TUCKER BOX HOTEL TRUST"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3158         VIC",
+            "ABN": "18 162 540 408Active,/SearchByAbn.aspx?abn=18162540408",
+            "Name": "STAFF ACFI TRAINING"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2036         NSW",
+            "ABN": "19 606 583 282Active,/SearchByAbn.aspx?abn=19606583282",
+            "Name": "THE TRUSTEE FOR TYNE ACFS TRUST"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3550         VIC",
+            "ABN": "91 202 974 639Active,/SearchByAbn.aspx?abn=91202974639",
+            "Name": "The Trustee for ACCF Unit Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2036         NSW",
+            "ABN": "79 754 184 397Active,/SearchByAbn.aspx?abn=79754184397",
+            "Name": "The Trustee for ACFS Investment Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3008         VIC",
+            "ABN": "32 232 430 856Active,/SearchByAbn.aspx?abn=32232430856",
+            "Name": "The Trustee for Sandhurst Trustees Limited ACF Sandhurst Professional GVI Global Industrial Fund"
+        }
+    ],
+    [
+        {},
+        {
+            "Type": "Entity Name",
+            "Location": "3008         VIC",
+            "ABN": "45 319 199 308Active,/SearchByAbn.aspx?abn=45319199308",
+            "Name": "The Trustee for Sandhurst Trustees Limited ACF Sandhurst Professional IML Australian Share Fund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3008         VIC",
+            "ABN": "84 659 491 386Active,/SearchByAbn.aspx?abn=84659491386",
+            "Name": "The Trustee for Sandhurst Trustees Limited ACF Sandhurst Professional IML Future Leaders Fund"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3008         VIC",
+            "ABN": "26 491 062 005Active,/SearchByAbn.aspx?abn=26491062005",
+            "Name": "The Trustee for Sandhurst Trustees Limited ACF Sandhurst Professional IML Industrial Share Fund"
+        },
+        {
+            "Type": "Business Name",
+            "Location": "3551         VIC",
+            "ABN": "26 695 832 575Active,/SearchByAbn.aspx?abn=26695832575",
+            "Name": "Tom Galloway AWCF"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "4401         QLD",
+            "ABN": "78 168 538 074Active,/SearchByAbn.aspx?abn=78168538074",
+            "Name": "ACOF PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3000         VIC",
+            "ABN": "54 619 264 907Active,/SearchByAbn.aspx?abn=54619264907",
+            "Name": "AACF (388 LONSDALE STREET) PTY LTD"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "2609         ACT",
+            "ABN": "36 910 406 005Active,/SearchByAbn.aspx?abn=36910406005",
+            "Name": "ACF Lyons Investments Pty Limited & Diamond Property Investment Group Pty Limited & Nikias Property Group Pty Limited"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "5481         SA",
+            "ABN": "59 212 626 440Active,/SearchByAbn.aspx?abn=59212626440",
+            "Name": "ACFH ASCENDER SUPER FUND"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3141         VIC",
+            "ABN": "68 518 171 408Active,/SearchByAbn.aspx?abn=68518171408",
+            "Name": "The Trustee for ACFS (International) Unit Trust"
+        },
+        {
+            "Type": "Entity Name",
+            "Location": "3083         VIC",
+            "ABN": "19 187 166 092Active,/SearchByAbn.aspx?abn=19187166092",
+            "Name": "NORTHERN METROPOLITAN REGIONAL COUNCIL OF ACFE"
+        }
+    ],
+    "\r\n   Your search for ACF found 130 matches. Current names with active ABNs are listed below sorted by relevance. Use All ABNs tab to list cancelled ABNs/names. Click on an ABN or refine your search.\r\n"
+]

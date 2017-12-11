@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BXN",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "BIOXYNE LIMITED",
+    "ASXcode": "BXN",
+    "data": {
+        "summary": {
+            "name_short": "BIOXYNE",
+            "name_full": "BIOXYNE LIMITED",
+            "code": "BXN",
+            "primary_share_code": "BXN",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "BIOXYNE LTD",
+            "foreign_exempt": false,
+            "listing_date": "2000-12-14T00:00:00+1100",
+            "registry_address": "PO Box 52, Collins Street West, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9078 8180",
+            "mailing_address": "Suite 2508, Level 25, 31 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Biotechnology.",
+            "fax_number": "(02) 9078 7661",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-25T17:19:01+1000",
+                    "number_of_pages": 59,
+                    "id": "01899672",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-25T17:21:55+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170925/pdf/43mm7jv439hrc7.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 44041351,
+                "status": [],
+                "market_cap": 51043785,
+                "code": "BXN",
+                "indices": [],
+                "year_open_price": 0.01,
+                "previous_close_price": 0.086,
+                "year_change_price": 0.11,
+                "year_low_date": "2017-05-18T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 593532380,
+                "eps": -0.0033,
+                "change_in_percent": "39.535%",
+                "change_price": 0.034,
+                "deprecated_number_of_shares": 593532380,
+                "pe": 0,
+                "offer_price": 0.125,
+                "suspended": false,
+                "last_price": 0.12,
+                "deprecated_market_cap": 71224000,
+                "day_low_price": 0.089,
+                "open_price": 0.089,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "82.979%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.14,
+                "bid_price": 0.12,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.14,
+                "year_change_in_percentage": "1,100%",
+                "average_daily_volume": 1620154,
+                "year_low_price": 0.012,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 992 916",
+            "web_address": "http://www.bioxyne.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Anthony Peng Ho",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ho",
+                    "middle_name": "Peng"
+                },
+                {
+                    "full_name": "Mr N H Chua",
+                    "first_name": "N H",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chua",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Peter French",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "French",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Maxwell Frederick Parkin",
+                    "first_name": "Maxwell",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Parkin",
+                    "middle_name": "Frederick"
+                },
+                {
+                    "full_name": "Mr Patrick Ford",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ford",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Guy Adrian Robertson",
+                    "first_name": "Guy",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robertson",
+                    "middle_name": "Adrian"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Guy Adrian Robertson",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robertson",
+                    "middle_name": "Adrian"
+                }
+            ]
+        }
+    }
+}

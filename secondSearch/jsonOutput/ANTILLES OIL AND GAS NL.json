@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AVD",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "ANTILLES OIL AND GAS NL",
+    "ASXcode": "AVD",
+    "data": {
+        "summary": {
+            "name_short": "ANTILLES",
+            "name_full": "ANTILLES OIL AND GAS NL",
+            "code": "AVD",
+            "primary_share_code": "AVD",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "ANTILLES OIL AND GAS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AVD?image_size=L&v=1489633651000",
+            "foreign_exempt": false,
+            "listing_date": "2006-06-02T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6188 8181",
+            "mailing_address": "London House, Level 3, 216 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Oil and gas exploration, development and production.",
+            "fax_number": "+61 8 6188 8181",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-31T17:57:57+1100",
+                    "number_of_pages": 47,
+                    "id": "01844074",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T18:04:51+1100",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6g8tl20gmbs.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 500000,
+                "status": [],
+                "market_cap": 2932176,
+                "code": "AVD",
+                "indices": [],
+                "year_open_price": 4.8,
+                "previous_close_price": 0.018,
+                "year_change_price": -4.782,
+                "year_low_date": "2017-10-25T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 162898654,
+                "eps": -0.0105,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 162898654,
+                "pe": 0,
+                "offer_price": 0.02,
+                "suspended": false,
+                "last_price": 0.018,
+                "deprecated_market_cap": 2932000,
+                "day_low_price": 0.018,
+                "open_price": 0.019,
+                "year_high_date": "2017-04-11T00:00:00+1000",
+                "previous_day_percentage_change": "-10%",
+                "year_open_date": "2013-12-18T11:00:00+1100",
+                "year_high_price": 0.029,
+                "bid_price": 0.018,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.019,
+                "year_change_in_percentage": "-99.625%",
+                "average_daily_volume": 364311,
+                "year_low_price": 0.013,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.antillesoilandgas.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Damian Black",
+                    "first_name": "Damian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Black",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ranko Matic",
+                    "first_name": "Ranko",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Matic",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Wheeler",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wheeler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Melanie Ross",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ross",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Melanie Ross",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ross",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EAI",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "ELLERSTON ASIAN INVESTMENTS LIMITED",
+    "ASXcode": "EAI",
+    "data": {
+        "summary": {
+            "name_short": "ELL ASIAN",
+            "name_full": "ELLERSTON ASIAN INVESTMENTS LIMITED",
+            "code": "EAI",
+            "primary_share_code": "EAI",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "ELLERSTON ASIAN",
+            "foreign_exempt": false,
+            "listing_date": "2015-09-15T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9021 7797",
+            "mailing_address": "Level 11, 179 Elizabeth Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E - 2017 Full Year Results",
+                    "document_date": "2017-08-31T15:57:54+1000",
+                    "number_of_pages": 118,
+                    "id": "01891207",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-31T16:03:13+1000",
+                    "size": "778.2KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lypffylzc54f.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 182223,
+                "status": [],
+                "market_cap": 117784968,
+                "code": "EAI",
+                "indices": [],
+                "deprecated_number_of_shares": 107077244,
+                "previous_close_price": 1.1,
+                "year_low_date": "2017-02-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 107077244,
+                "eps": 0.0777,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 14.16,
+                "offer_price": 1.1,
+                "suspended": false,
+                "last_price": 1.1,
+                "deprecated_market_cap": 117785000,
+                "day_low_price": 1.1,
+                "open_price": 1.1,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "-0.452%",
+                "year_open_date": null,
+                "year_high_price": 1.125,
+                "bid_price": 1.09,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.105,
+                "average_daily_volume": 223087,
+                "year_low_price": 0.825,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.ellerstoncapital.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Kelly",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

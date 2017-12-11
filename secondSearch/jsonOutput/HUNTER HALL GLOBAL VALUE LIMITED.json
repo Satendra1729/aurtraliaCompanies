@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HHV",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "HUNTER HALL GLOBAL VALUE LIMITED",
+    "ASXcode": "HHV",
+    "data": {
+        "summary": {
+            "name_short": "HHGLOVALUE",
+            "name_full": "HUNTER HALL GLOBAL VALUE LIMITED",
+            "last_dividend": {
+                "comments": "3.5C FRANKED @ 30%;  DRP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-07-25T00:00:00+1000",
+                "record_date": "2017-09-22T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.035,
+                "ex_date": "2017-09-21T00:00:00+1000"
+            },
+            "code": "HHV",
+            "primary_share_code": "HHV",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "HUNTER HALL GLOBAL",
+            "foreign_exempt": false,
+            "listing_date": "2004-03-19T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "clientservice@pengana.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02)  8524 9900",
+            "mailing_address": "Level 12, 167 Macquarie Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Hunter Hall Global Value Limited is a listed investment company that was incorporated on 22 December 2003 to invest in a\nportfolio of permitted investments.The investment objective is to generate positive absolute returns in excess of the investment port",
+            "fax_number": "(02) 8524 9901",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-29T16:44:30+1000",
+                    "number_of_pages": 47,
+                    "id": "01889730",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T16:50:13+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lvl7zb9vwdr1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 152735,
+                "status": [
+                    "XB"
+                ],
+                "market_cap": 286505828,
+                "code": "HHV",
+                "indices": [],
+                "year_open_price": 1.08,
+                "previous_close_price": 1.17,
+                "year_change_price": 0.08,
+                "year_low_date": "2017-05-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 244876776,
+                "eps": -0.094,
+                "change_in_percent": "-0.855%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 244876776,
+                "pe": 0,
+                "offer_price": 1.17,
+                "suspended": false,
+                "last_price": 1.16,
+                "deprecated_market_cap": 284057000,
+                "day_low_price": 1.16,
+                "open_price": 1.165,
+                "year_high_date": "2016-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "1.299%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.35,
+                "bid_price": 1.16,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.165,
+                "year_change_in_percentage": "7.407%",
+                "average_daily_volume": 234050,
+                "year_low_price": 1.045,
+                "annual_dividend_yield": 6.03
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.pengana.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Julian Constable",
+                    "first_name": "Julian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Constable",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Groves",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Groves",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert D Millner",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Millner",
+                    "middle_name": "D"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Paula Christina Ferrao",
+                    "first_name": "Paula",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ferrao",
+                    "middle_name": "Christina"
+                }
+            ]
+        }
+    }
+}

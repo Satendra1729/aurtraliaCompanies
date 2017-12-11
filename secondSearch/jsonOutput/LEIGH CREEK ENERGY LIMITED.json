@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LCK",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "LEIGH CREEK ENERGY LIMITED",
+    "ASXcode": "LCK",
+    "data": {
+        "summary": {
+            "name_short": "LEIGHCREEK",
+            "name_full": "LEIGH CREEK ENERGY LIMITED",
+            "code": "LCK",
+            "primary_share_code": "LCK",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "LEIGH CRK ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2005-03-17T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "investor_relations_email": "contactus@lcke.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 8132 9100",
+            "mailing_address": "Level 11, 19 Grenfell Street, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "Energy and Minerals Explorer and Developer.",
+            "fax_number": "+61 8 8231 7574",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-17T18:02:07+1000",
+                    "number_of_pages": 64,
+                    "id": "01884911",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-17T18:08:45+1000",
+                    "size": "5.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170817/pdf/43lhck60v6fcjy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 65405,
+                "status": [],
+                "market_cap": 41591296,
+                "code": "LCK",
+                "indices": [],
+                "year_open_price": 0.03,
+                "previous_close_price": 0.1,
+                "year_change_price": 0.068,
+                "year_low_date": "2017-07-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 415912956,
+                "eps": -0.0206,
+                "change_in_percent": "-2%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 415912956,
+                "pe": 0,
+                "offer_price": 0.1,
+                "suspended": false,
+                "last_price": 0.098,
+                "deprecated_market_cap": 40759000,
+                "day_low_price": 0.098,
+                "open_price": 0.1,
+                "year_high_date": "2017-02-14T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.25,
+                "bid_price": 0.097,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.1,
+                "year_change_in_percentage": "226.667%",
+                "average_daily_volume": 108741,
+                "year_low_price": 0.088,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.lcke.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Justyn Peters",
+                    "first_name": "Justyn",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Peters",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phillip Staveley",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Staveley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Murray Chatfield",
+                    "first_name": "Murray",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chatfield",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg English",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "English",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jordan Mehrtens",
+                    "first_name": "Jordan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Mehrtens",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

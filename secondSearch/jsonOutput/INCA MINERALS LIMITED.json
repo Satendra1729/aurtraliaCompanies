@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ICG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "INCA MINERALS LIMITED",
+    "ASXcode": "ICG",
+    "data": {
+        "summary": {
+            "name_full": "INCA MINERALS LIMITED",
+            "code": "ICG",
+            "name_short": "INCA MINLS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "INCA MINERALS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ICG?image_size=L&v=1422500501000",
+            "foreign_exempt": false,
+            "listing_date": "2008-06-19T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "info@incaminerals.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6145 0300",
+            "mailing_address": "Suite 1, 16 Nicholson Road, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Exploration for gold, copper, nickel and other metals in Peru and Western Australia.",
+            "fax_number": "+61 8 6145 0301",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-25T17:29:39+1100",
+                    "number_of_pages": 68,
+                    "id": "01912595",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-25T17:34:36+1100",
+                    "size": "4.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171025/pdf/43nl12vrhptc1m.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3440000,
+                "status": [],
+                "market_cap": 11673523,
+                "code": "ICG",
+                "indices": [],
+                "year_open_price": 0.032,
+                "previous_close_price": 0.005,
+                "year_change_price": -0.026,
+                "year_low_date": "2017-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2334704572,
+                "eps": -0.0006,
+                "change_in_percent": "20%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 2334704572,
+                "pe": 0,
+                "offer_price": 0.006,
+                "suspended": false,
+                "last_price": 0.006,
+                "deprecated_market_cap": 14008000,
+                "day_low_price": 0.006,
+                "open_price": 0.006,
+                "year_high_date": "2017-03-28T00:00:00+1100",
+                "previous_day_percentage_change": "-16.667%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.028,
+                "bid_price": 0.005,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.006,
+                "year_change_in_percentage": "-81.25%",
+                "average_daily_volume": 8034178,
+                "year_low_price": 0.005,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "ICG",
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.incaminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ross Brown",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Justin Walawski",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Walawski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gareth Lloyd",
+                    "first_name": "Gareth",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lloyd",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Dr Justin Walawski",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Walawski",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

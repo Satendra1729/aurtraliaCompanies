@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SFC",
+    "GICSindustrygroup": "Automobiles & Components",
+    "Companyname": "SCHAFFER CORPORATION LIMITED",
+    "ASXcode": "SFC",
+    "data": {
+        "summary": {
+            "name_short": "SCHAFFER",
+            "name_full": "SCHAFFER CORPORATION LIMITED",
+            "code": "SFC",
+            "primary_share_code": "SFC",
+            "industry_group_name": "Automobiles & Components",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "SCHAFFER CORP. LTD.",
+            "foreign_exempt": false,
+            "listing_date": "1974-01-01T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "14C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-09-01T00:00:00+1000",
+                "payable_date": "2017-09-15T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.14,
+                "ex_date": "2017-08-31T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9483 1222",
+            "mailing_address": "1305 Hay Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Industrial corporation with interests in the manufacture of automotive leather and building materials.",
+            "fax_number": "(08) 9481 0439",
+            "latest_annual_reports": [
+                {
+                    "header": "Relodgement of 2017 Annual Report",
+                    "document_date": "2017-11-27T15:12:32+1100",
+                    "number_of_pages": 70,
+                    "id": "01926513",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-27T15:15:15+1100",
+                    "size": "3.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171127/pdf/43pmbjn9rq6cgp.pdf"
+                },
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-09-19T13:13:16+1000",
+                    "number_of_pages": 68,
+                    "id": "01897494",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-19T13:14:51+1000",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170919/pdf/43mg05wkyq3c8j.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 146356148,
+                "code": "SFC",
+                "indices": [],
+                "year_open_price": 5.95,
+                "previous_close_price": 10.45,
+                "year_change_price": 4.5,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 14005373,
+                "eps": 0.418,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 14005373,
+                "pe": 25,
+                "offer_price": 10.45,
+                "suspended": false,
+                "last_price": 10.45,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-30T00:00:00+1100",
+                "previous_day_percentage_change": "0.384%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 10.8,
+                "bid_price": 10.35,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "75.63%",
+                "average_daily_volume": 8757,
+                "year_low_price": 0,
+                "annual_dividend_yield": 2.49
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.schaffer.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John M Schaffer",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schaffer",
+                    "middle_name": "M"
+                },
+                {
+                    "full_name": "Mr Anton K Mayer",
+                    "first_name": "Anton",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mayer",
+                    "middle_name": "K"
+                },
+                {
+                    "full_name": "Ms Danielle E Blain",
+                    "first_name": "Danielle",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Blain",
+                    "middle_name": "E"
+                },
+                {
+                    "full_name": "Mr Michael D Perrott",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Perrott",
+                    "middle_name": "D"
+                },
+                {
+                    "full_name": "Mr David J Schwartz",
+                    "first_name": "David",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schwartz",
+                    "middle_name": "J"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jason Cantwell",
+                    "first_name": "Jason",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cantwell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

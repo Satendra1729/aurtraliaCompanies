@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BAT",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BATTERY MINERALS LIMITED",
+    "ASXcode": "BAT",
+    "data": {
+        "summary": {
+            "name_short": "BATTMIN",
+            "name_full": "BATTERY MINERALS LIMITED",
+            "code": "BAT",
+            "primary_share_code": "BAT",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BATTERY MINERALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2012-10-29T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 7600",
+            "mailing_address": "945 Wellington Street, WEST PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Graphite Project Development",
+            "fax_number": "(08) 9322 7602",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-31T20:07:57+1100",
+                    "number_of_pages": 74,
+                    "id": "01844147",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T20:10:13+1100",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6lxpnzrt81v.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4268545,
+                "status": [],
+                "market_cap": 32985743,
+                "code": "BAT",
+                "indices": [],
+                "year_open_price": 0.08,
+                "previous_close_price": 0.062,
+                "year_change_price": -0.012,
+                "year_low_date": "2017-11-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 532028113,
+                "eps": -0.0147,
+                "change_in_percent": "9.677%",
+                "change_price": 0.006,
+                "deprecated_number_of_shares": 532028113,
+                "pe": 0,
+                "offer_price": 0.068,
+                "suspended": false,
+                "last_price": 0.068,
+                "deprecated_market_cap": 36178000,
+                "day_low_price": 0.063,
+                "open_price": 0.063,
+                "year_high_date": "2016-12-09T00:00:00+1100",
+                "previous_day_percentage_change": "1.639%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.14,
+                "bid_price": 0.066,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.068,
+                "year_change_in_percentage": "-15%",
+                "average_daily_volume": 1789553,
+                "year_low_price": 0.056,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.batteryminerals.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Flanagan",
+                    "first_name": "David",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Flanagan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Cherie Leeden",
+                    "first_name": "Cherie",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leeden",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gilbert George",
+                    "first_name": "Gilbert",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "George",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Glasson",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Glasson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Smith",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tony Walsh",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walsh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Wood",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wood",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

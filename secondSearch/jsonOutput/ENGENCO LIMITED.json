@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EGN",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "ENGENCO LIMITED",
+    "ASXcode": "EGN",
+    "data": {
+        "summary": {
+            "name_short": "ENGENCO",
+            "name_full": "ENGENCO LIMITED",
+            "code": "EGN",
+            "primary_share_code": "EGN",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "ENGENCO LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-14T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "last_dividend": {
+                "comments": "0.5C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-07T00:00:00+1000",
+                "payable_date": "2017-09-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.005,
+                "ex_date": "2017-09-06T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 8620 8900",
+            "mailing_address": "Level 22, 535 Bourke Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Engenco is a unique Australian company operating within Australasia, Europe and USA, and providing broad-based technical services to customers who rely upon heavy / complex plant and machinery or specialised rolling-stock to meet their power, propulsion a",
+            "fax_number": "+61 3 8620 8999",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-08-24T16:51:51+1000",
+                    "number_of_pages": 82,
+                    "id": "01887898",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-24T16:54:32+1000",
+                    "size": "6.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lq76s5m25vyx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 59420,
+                "status": [],
+                "market_cap": 130053091,
+                "code": "EGN",
+                "indices": [],
+                "year_open_price": 0.16,
+                "previous_close_price": 0.415,
+                "year_change_price": 0.26,
+                "year_low_date": "2017-01-11T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 313380943,
+                "eps": 0.0267,
+                "change_in_percent": "1.205%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 313380943,
+                "pe": 15.73,
+                "offer_price": 0.435,
+                "suspended": false,
+                "last_price": 0.42,
+                "deprecated_market_cap": 131620000,
+                "day_low_price": 0.42,
+                "open_price": 0.42,
+                "year_high_date": "2017-11-23T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.445,
+                "bid_price": 0.42,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.43,
+                "year_change_in_percentage": "162.5%",
+                "average_daily_volume": 75556,
+                "year_low_price": 0.135,
+                "annual_dividend_yield": 1.19
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.engenco.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": "http://www.engenco.com.au/investor-centre.html"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Vincent DeSantis",
+                    "first_name": "Vincent",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "DeSantis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Pallas",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pallas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross Dunning",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dunning",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dale Elphinstone",
+                    "first_name": "Dale",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Elphinstone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Alison von Bibra",
+                    "first_name": "Alison",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "von Bibra",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme Campbell",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Campbell",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Graeme Campbell",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Campbell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

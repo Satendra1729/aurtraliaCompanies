@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SPZ",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "SMART PARKING LIMITED",
+    "ASXcode": "SPZ",
+    "data": {
+        "summary": {
+            "name_short": "SMART PARK",
+            "name_full": "SMART PARKING LIMITED",
+            "code": "SPZ",
+            "primary_share_code": "SPZ",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "SMART PARKING LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-01-09T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "investorinfo@smartparking.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 8644 4021",
+            "mailing_address": "854 Lorimer Street, PORT MELBOURNE, VIC, AUSTRALIA, 3207",
+            "principal_activities": "Car parking technology.",
+            "fax_number": "+61 3 8644 4021",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-29T16:10:47+1000",
+                    "number_of_pages": 92,
+                    "id": "01902469",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:13:41+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt5glbh8lr9n.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 122056,
+                "status": [],
+                "market_cap": 86211687,
+                "code": "SPZ",
+                "indices": [],
+                "year_open_price": 0.15,
+                "previous_close_price": 0.24,
+                "year_change_price": 0.09,
+                "year_low_date": "2017-10-16T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 359215361,
+                "eps": -0.0042,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 359215361,
+                "pe": 0,
+                "offer_price": 0.25,
+                "suspended": false,
+                "last_price": 0.24,
+                "deprecated_market_cap": 86212000,
+                "day_low_price": 0.24,
+                "open_price": 0.24,
+                "year_high_date": "2017-01-05T00:00:00+1100",
+                "previous_day_percentage_change": "-2.041%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.335,
+                "bid_price": 0.24,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.245,
+                "year_change_in_percentage": "60%",
+                "average_daily_volume": 208751,
+                "year_low_price": 0.205,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.smartparking.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "https://www.smartparking.com/investors"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Chris Morris",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Gillespie",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gillespie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Tiffany Fuller",
+                    "first_name": "Tiffany",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Fuller",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeremy King",
+                    "first_name": "Jeremy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "King",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Penelope Maclagan",
+                    "first_name": "Penelope",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Maclagan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Richard Ludbrook",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ludbrook",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

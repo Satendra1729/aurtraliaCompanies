@@ -1,0 +1,252 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MYR",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "MYER HOLDINGS LIMITED",
+    "ASXcode": "MYR",
+    "data": {
+        "summary": {
+            "name_short": "MYER",
+            "name_full": "MYER HOLDINGS LIMITED",
+            "code": "MYR",
+            "primary_share_code": "MYR",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "MYER HOLDINGS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MYR?image_size=L&v=1383197991000",
+            "foreign_exempt": false,
+            "listing_date": "2009-11-02T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "2C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-09-14T00:00:00+1000",
+                "record_date": "2017-09-28T00:00:00+1000",
+                "payable_date": "2017-11-09T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.02,
+                "ex_date": "2017-09-27T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(03) 8667 6800",
+            "mailing_address": "Level 7, 800 Collins Street, DOCKLANDS, VIC, AUSTRALIA, 3008",
+            "principal_activities": "The operation of a portfolio of 66 department stores across Australia.",
+            "fax_number": "(03) 8667 6074",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-23T08:47:24+1100",
+                    "number_of_pages": 121,
+                    "id": "01910821",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T08:53:07+1100",
+                    "size": "3.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43ng935bt967dq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4847867,
+                "status": [],
+                "market_cap": 632384688,
+                "code": "MYR",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    }
+                ],
+                "year_open_price": 2.55,
+                "previous_close_price": 0.77,
+                "year_change_price": -1.78,
+                "year_low_date": "2017-09-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 821278815,
+                "eps": 0.014,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 821278815,
+                "pe": 55,
+                "offer_price": 0.785,
+                "suspended": false,
+                "last_price": 0.77,
+                "deprecated_market_cap": 632385000,
+                "day_low_price": 0.767,
+                "open_price": 0.77,
+                "year_high_date": "2016-12-23T00:00:00+1100",
+                "previous_day_percentage_change": "-1.282%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.39,
+                "bid_price": 0.765,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.782,
+                "year_change_in_percentage": "-69.804%",
+                "average_daily_volume": 4015840,
+                "year_low_price": 0.68,
+                "annual_dividend_yield": 6.49
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.myer.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Paul McClintock",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McClintock",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Garry Hounsell",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Deputy Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hounsell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Umbers",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Umbers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Whittle",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whittle",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Anne Brennan",
+                    "first_name": "Anne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Brennan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Cornell",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cornell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Chris Froggatt",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Froggatt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Julie Ann Morrison",
+                    "first_name": "Julie Ann",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morrison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Thorn",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thorn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Davina Gunn",
+                    "first_name": "Davina",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gunn",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Richard Amos",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Amos",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

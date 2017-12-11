@@ -1,0 +1,98 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RMH",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "RAMS MORTGAGE SECURITIES TRUST SERIES 2007-2H",
+    "ASXcode": "RMH",
+    "data": {
+        "summary": {
+            "name_full": "RAMS MORTGAGE SECURITIES TRUST SERIES 2007-2H",
+            "products": [],
+            "phone_number": "02 8218 7000",
+            "mailing_address": "RAMS Treasury Services Pty Limited, Level 22, 1 York Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "name_short": "RAMS2007-2",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "RAMS MSTS 2007-2H",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "RMH",
+            "registry_address": "LEVEL 4, 35 CLARENCE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2007-12-27T00:00:00+1100",
+            "fax_number": "02 8218 7070",
+            "web_address": null,
+            "registry_name": "JP MORGAN TRUST AUSTRALIA LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gregory Kolvios",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kolvios",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Glenn Goddard",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goddard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Martha Ryan",
+                    "first_name": "Martha",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ryan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warren Williams",
+                    "first_name": "Warren",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Martha Ryan",
+                    "first_name": "Martha",
+                    "roles": [
+                        "Company Secretary",
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ryan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warren Williams",
+                    "first_name": "Warren",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

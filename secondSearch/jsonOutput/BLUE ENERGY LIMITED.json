@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BUL",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "BLUE ENERGY LIMITED",
+    "ASXcode": "BUL",
+    "data": {
+        "summary": {
+            "name_short": "BLUEENERGY",
+            "name_full": "BLUE ENERGY LIMITED",
+            "code": "BUL",
+            "primary_share_code": "BUL",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "BLUE ENERGY LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1994-10-13T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 3270 8800",
+            "mailing_address": "Level 3, 410 Queen Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "CBM Exploration & Development",
+            "fax_number": "+61 7 3270 8899",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-09-19T16:52:14+1000",
+                    "number_of_pages": 39,
+                    "id": "01897615",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-19T16:54:26+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170919/pdf/43mg80wdg80gzc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1310121,
+                "status": [],
+                "market_cap": 205540539,
+                "code": "BUL",
+                "indices": [],
+                "year_open_price": 0.061,
+                "previous_close_price": 0.18,
+                "year_change_price": 0.109,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1141891882,
+                "eps": -0.0013,
+                "change_in_percent": "-5.556%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 1141891882,
+                "pe": 0,
+                "offer_price": 0.17,
+                "suspended": false,
+                "last_price": 0.17,
+                "deprecated_market_cap": 194122000,
+                "day_low_price": 0.165,
+                "open_price": 0.175,
+                "year_high_date": "2017-11-21T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.2,
+                "bid_price": 0.165,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.175,
+                "year_change_in_percentage": "178.689%",
+                "average_daily_volume": 2868021,
+                "year_low_price": 0.033,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.blueenergy.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Ellice-Flint",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ellice-Flint",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rodney Cameron",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Deputy Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cameron",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Phillips",
+                    "first_name": "John",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Phillips",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Choongho Je",
+                    "first_name": "Choongho",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Je",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Karen Johnson",
+                    "first_name": "Karen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Johnson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Damien Cronin",
+                    "first_name": "Damien",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cronin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

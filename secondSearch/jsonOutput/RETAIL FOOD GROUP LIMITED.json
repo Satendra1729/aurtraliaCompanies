@@ -1,0 +1,229 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RFG",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "RETAIL FOOD GROUP LIMITED",
+    "ASXcode": "RFG",
+    "data": {
+        "summary": {
+            "name_short": "RTL FOOD",
+            "name_full": "RETAIL FOOD GROUP LIMITED",
+            "code": "RFG",
+            "primary_share_code": "RFG",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "RETAIL FOOD GROUP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RFG?image_size=L&v=1383082819000",
+            "foreign_exempt": false,
+            "listing_date": "2006-06-22T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "15C FRANKED@30%; DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-09-12T00:00:00+1000",
+                "payable_date": "2017-10-17T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.15,
+                "ex_date": "2017-09-11T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(07) 5591 3242",
+            "mailing_address": "1 Olympic Circuit, SOUTHPORT, QLD, AUSTRALIA, 4215",
+            "principal_activities": "RFG owns the Donut King, Brumby's Bakery, Michel's Patisserie, bb's Cafe, Esquires, Gloria Jean's Coffees, It's A Grind, The Coffee Guy, Cafe2U, Pizza Capers & Crust Gourmet franchise systems. In addition, RFG is a significant wholesale coffee roaster sup",
+            "fax_number": "(07) 5591 9021",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T09:50:56+1100",
+                    "number_of_pages": 57,
+                    "id": "01913514",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T09:53:04+1100",
+                    "size": "13.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nn219q8nyq2b.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 497046,
+                "status": [],
+                "market_cap": 804080244,
+                "code": "RFG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    }
+                ],
+                "year_open_price": 4.4,
+                "previous_close_price": 4.4,
+                "year_change_price": 0.0,
+                "year_low_date": "2017-07-20T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 182745510,
+                "eps": 0.357,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 182745510,
+                "pe": 12.32,
+                "offer_price": 4.42,
+                "suspended": false,
+                "last_price": 4.4,
+                "deprecated_market_cap": 804080000,
+                "day_low_price": 4.4,
+                "open_price": 4.42,
+                "year_high_date": "2017-01-04T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 7.18,
+                "bid_price": 4.4,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 4.44,
+                "year_change_in_percentage": "0%",
+                "average_daily_volume": 493104,
+                "year_low_price": 4.14,
+                "annual_dividend_yield": 6.76
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.rfg.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Colin Archer",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Archer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andre Nell",
+                    "first_name": "Andre",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Jessica Buchanan",
+                    "first_name": "Jessica",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Buchanan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Edward Lonie",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lonie",
+                    "middle_name": "Edward"
+                },
+                {
+                    "full_name": "Ms Kerry Ryan",
+                    "first_name": "Kerry",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ryan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Russell Shields",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shields",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter McGettigan",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGettigan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Connors",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Connors",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

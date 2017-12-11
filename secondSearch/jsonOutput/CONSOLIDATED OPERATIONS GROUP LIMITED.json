@@ -1,0 +1,181 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/COG",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "CONSOLIDATED OPERATIONS GROUP LIMITED",
+    "ASXcode": "COG",
+    "data": {
+        "summary": {
+            "name_short": "CONOPERGRP",
+            "name_full": "CONSOLIDATED OPERATIONS GROUP LIMITED",
+            "code": "COG",
+            "primary_share_code": "COG",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "CONSOLIDATED OPS GP",
+            "foreign_exempt": false,
+            "listing_date": "2003-01-28T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9299 9690",
+            "mailing_address": "Suite 2, Level 10, 70 Phillip Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "COG is focused on the asset and equipment finance sectors. The investment objective of COG is to grow EPS from investing in complementary and growing existing businesses that specialise in finance broking and aggregation and commercial leases.",
+            "fax_number": "(02) 9251 7455",
+            "latest_annual_reports": [
+                {
+                    "header": "App 4E and Audited Financial Statements and Annual Report",
+                    "document_date": "2017-08-29T08:35:27+1000",
+                    "number_of_pages": 79,
+                    "id": "01889311",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T08:39:40+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43ltr9wz6909mn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 141243,
+                "status": [],
+                "market_cap": 150363764,
+                "code": "COG",
+                "indices": [],
+                "year_open_price": 0.094,
+                "previous_close_price": 0.115,
+                "year_change_price": 0.021,
+                "year_low_date": "2017-08-23T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1307510993,
+                "eps": 0.004,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1307510993,
+                "pe": 28.75,
+                "offer_price": 0.12,
+                "suspended": false,
+                "last_price": 0.115,
+                "deprecated_market_cap": 150364000,
+                "day_low_price": 0.115,
+                "open_price": 0.115,
+                "year_high_date": "2017-01-30T00:00:00+1100",
+                "previous_day_percentage_change": "-4.167%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.187,
+                "bid_price": 0.115,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.115,
+                "year_change_in_percentage": "22.34%",
+                "average_daily_volume": 1309470,
+                "year_low_price": 0.098,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://coglimited.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bruce Hatchman",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hatchman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cameron McCullagh",
+                    "first_name": "Cameron",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McCullagh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rohan Ford",
+                    "first_name": "Rohan",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ford",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew John Grant",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grant",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr David Gray",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen White",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "White",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Raylee Carruthers",
+                    "first_name": "Raylee",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Carruthers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nathan Thomas",
+                    "first_name": "Nathan",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thomas",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David James Franks",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Franks",
+                    "middle_name": "James"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MGP",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "MANAGED ACCOUNTS HOLDINGS LIMITED",
+    "ASXcode": "MGP",
+    "data": {
+        "summary": {
+            "name_short": "MANACCHOLD",
+            "name_full": "MANAGED ACCOUNTS HOLDINGS LIMITED",
+            "code": "MGP",
+            "primary_share_code": "MGP",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "MANAGED ACCOUNTS",
+            "foreign_exempt": false,
+            "listing_date": "2014-06-25T00:00:00+1000",
+            "registry_address": "LEVEL 6, 2 RUSSELL STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-07-27T00:00:00+1000",
+                "record_date": "2017-08-14T00:00:00+1000",
+                "payable_date": "2017-08-22T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.002,
+                "ex_date": "2017-08-11T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1800 446 971",
+            "mailing_address": "Suite 1, Level 5, 28 Margaret Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Development and distribution of Managed Accounts to licensees and their clients.",
+            "fax_number": "+61 2 8221 9849",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-08-28T09:49:32+1000",
+                    "number_of_pages": 64,
+                    "id": "01888863",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-28T09:54:39+1000",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170828/pdf/43lsqzjy1bc52s.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 810907,
+                "status": [],
+                "market_cap": 76660897,
+                "code": "MGP",
+                "indices": [],
+                "deprecated_number_of_shares": 300630967,
+                "previous_close_price": 0.255,
+                "year_low_date": "2017-05-10T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 300630967,
+                "eps": 0.005,
+                "change_in_percent": "-1.961%",
+                "change_price": -0.005,
+                "pe": 50,
+                "offer_price": 0.275,
+                "suspended": false,
+                "last_price": 0.25,
+                "deprecated_market_cap": 75158000,
+                "day_low_price": 0.235,
+                "open_price": 0.255,
+                "year_high_date": "2017-06-01T00:00:00+1000",
+                "previous_day_percentage_change": "2%",
+                "year_open_date": null,
+                "year_high_price": 0.4,
+                "bid_price": 0.24,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.255,
+                "average_daily_volume": 420567,
+                "year_low_price": 0.23,
+                "annual_dividend_yield": 3.2
+            },
+            "registry_phone_number": "1300 556 635",
+            "web_address": "http://www.managedaccounts.com.au",
+            "registry_name": "REGISTRY DIRECT",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Don Sharp",
+                    "first_name": "Don",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sharp",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Heather",
+                    "first_name": "David",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Heather",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Brook",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brook",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alexander Hutchison",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hutchison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colin Peterson",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Peterson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Reed",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reed",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jillian McGregor",
+                    "first_name": "Jillian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McGregor",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

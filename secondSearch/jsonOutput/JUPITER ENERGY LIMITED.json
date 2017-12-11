@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/JPR",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "JUPITER ENERGY LIMITED",
+    "ASXcode": "JPR",
+    "data": {
+        "summary": {
+            "name_short": "JUPITERENG",
+            "name_full": "JUPITER ENERGY LIMITED",
+            "code": "JPR",
+            "primary_share_code": "JPR",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "JUPITER ENERGY",
+            "foreign_exempt": false,
+            "listing_date": "2003-11-12T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9322 8222",
+            "mailing_address": "Ground Floor, 10 Outram Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Oil and Gas Exploration in Australia and Kazakhstan.",
+            "fax_number": "08 9322 8244",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T19:46:23+1000",
+                    "number_of_pages": 77,
+                    "id": "01902861",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T07:55:07+1100",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvf1mwkg71cj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 15337769,
+                "code": "JPR",
+                "indices": [],
+                "year_open_price": 0.4,
+                "previous_close_price": 0.1,
+                "year_change_price": -0.3,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 153377693,
+                "eps": -0.0527,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 153377693,
+                "pe": 0,
+                "offer_price": 0.15,
+                "suspended": false,
+                "last_price": 0.1,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-28T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.29,
+                "bid_price": 0.1,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-75%",
+                "average_daily_volume": 35097,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.jupiterenergy.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoff Gander",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gander",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alastair Beardsall",
+                    "first_name": "Alastair",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beardsall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Baltabek Kuandykov",
+                    "first_name": "Baltabek",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kuandykov",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Mison",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mison",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Scott Mison",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mison",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

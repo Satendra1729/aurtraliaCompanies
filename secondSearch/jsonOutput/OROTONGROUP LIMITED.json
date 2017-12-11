@@ -1,0 +1,168 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ORL",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "OROTONGROUP LIMITED",
+    "ASXcode": "ORL",
+    "data": {
+        "summary": {
+            "name_short": "OROTON",
+            "name_full": "OROTONGROUP LIMITED",
+            "code": "ORL",
+            "primary_share_code": "ORL",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "OROTONGROUP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1987-06-18T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "3C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2016-09-22T00:00:00+1000",
+                "record_date": "2016-10-12T00:00:00+1100",
+                "payable_date": "2016-10-26T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.03,
+                "ex_date": "2016-10-11T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8275 5500",
+            "mailing_address": "Suite 15, Level 2, 409 George Street, WATERLOO, NSW, AUSTRALIA, 2017",
+            "principal_activities": "International retailer of premium brands including own brand Oroton and franchisee of Gap Inc. with stores in Australia, New Zealand and Malaysia.",
+            "fax_number": "(02) 8275 5555",
+            "latest_annual_reports": [
+                {
+                    "header": "ORL 2017 Annual Report",
+                    "document_date": "2017-10-27T14:27:12+1100",
+                    "number_of_pages": 100,
+                    "id": "01913809",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T14:30:11+1100",
+                    "size": "4.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nnn2jbjmms85.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "ORL",
+                "indices": [],
+                "year_open_price": 3.93,
+                "previous_close_price": 0.435,
+                "year_change_price": -3.495,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 41975077,
+                "eps": -0.3468,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 41975077,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.435,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-21T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.35,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-88.931%",
+                "average_daily_volume": 96768,
+                "year_low_price": 0,
+                "annual_dividend_yield": 6.9
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.orotongroup.com",
+            "fiscal_year_end": "31/07",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Schmoll",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schmoll",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Newman",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Newman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross B Lane",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lane",
+                    "middle_name": "B"
+                },
+                {
+                    "full_name": "Ms Maria Martin",
+                    "first_name": "Maria",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Martin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Will Vicars",
+                    "first_name": "Will",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vicars",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Vanessa De Bono",
+                    "first_name": "Vanessa",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "De Bono",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Vanessa De Bono",
+                    "first_name": "Vanessa",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "De Bono",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

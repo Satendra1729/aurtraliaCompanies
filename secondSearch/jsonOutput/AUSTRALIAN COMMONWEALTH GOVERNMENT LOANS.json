@@ -1,0 +1,43 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/XCL",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "AUSTRALIAN COMMONWEALTH GOVERNMENT LOANS",
+    "ASXcode": "XCL",
+    "data": {
+        "summary": {
+            "name_full": "AUSTRALIAN COMMONWEALTH GOVERNMENT LOANS",
+            "products": [],
+            "phone_number": "(02) 9551 8111",
+            "mailing_address": "Australian Office of Financial Managment, Level 1 Treasury Building, Langton Crescent, PARKES, ACT, AUSTRALIA, 2600",
+            "principal_activities": "",
+            "name_short": "COMM.LOAN",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "AUSTRALIAN COMM.LOAN",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "XCL",
+            "listing_date": "1971-02-26T00:00:00+1000",
+            "fax_number": "(02) 9551 8000",
+            "web_address": "http://www.rba.gov.au",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Pat Raccost",
+                    "first_name": "Pat",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Raccost",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

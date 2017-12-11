@@ -1,0 +1,281 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EVN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "EVOLUTION MINING LIMITED",
+    "ASXcode": "EVN",
+    "data": {
+        "summary": {
+            "name_short": "EVOLUTION",
+            "name_full": "EVOLUTION MINING LIMITED",
+            "code": "EVN",
+            "primary_share_code": "EVN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "EVOLUTION MINING LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/EVN?image_size=L&v=1420676157000",
+            "foreign_exempt": false,
+            "listing_date": "2002-08-20T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "3C FRANKED@30%;DRP S USPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-17T00:00:00+1000",
+                "record_date": "2017-08-28T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.03,
+                "ex_date": "2017-08-25T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "02-96962900",
+            "mailing_address": "Level 30, 175 Liverpool Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "fax_number": "02-96962901",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-20T08:16:38+1100",
+                    "number_of_pages": 172,
+                    "id": "01910133",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T08:24:22+1100",
+                    "size": "7.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43ndf0z2smd8z7.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 7470693,
+                "status": [],
+                "market_cap": 4129973400,
+                "code": "EVN",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 0.95,
+                "previous_close_price": 2.44,
+                "year_change_price": 1.43,
+                "year_low_date": "2016-12-19T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1692612049,
+                "eps": 0.1328,
+                "change_in_percent": "-2.459%",
+                "change_price": -0.06,
+                "deprecated_number_of_shares": 1692612049,
+                "pe": 17.92,
+                "offer_price": 2.39,
+                "suspended": false,
+                "last_price": 2.38,
+                "deprecated_market_cap": 4028417000,
+                "day_low_price": 2.37,
+                "open_price": 2.4,
+                "year_high_date": "2017-09-08T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.67,
+                "bid_price": 2.37,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.44,
+                "year_change_in_percentage": "150.526%",
+                "average_daily_volume": 7600735,
+                "year_low_price": 1.61,
+                "annual_dividend_yield": 2.1
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.evolutionmining.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jacob Klein",
+                    "first_name": "Jacob",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Klein",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Askew",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Askew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Freestone",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Freestone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colin Johnstone",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnstone",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Thomas McKeith",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKeith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Naguib Sawiris",
+                    "first_name": "Naguib",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sawiris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sebastien de Montessus",
+                    "first_name": "Sebastien",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "de Montessus",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Vincent Benoit",
+                    "first_name": "Vincent",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Benoit",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lawrie Conway",
+                    "first_name": "Lawrie",
+                    "roles": [
+                        "Finance Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Conway",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Amr El Adawy",
+                    "first_name": "Amr",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "El Adawy",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Evan Elstein",
+                    "first_name": "Evan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Elstein",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GCY",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GASCOYNE RESOURCES LIMITED",
+    "ASXcode": "GCY",
+    "data": {
+        "summary": {
+            "name_short": "GASCOYNE",
+            "name_full": "GASCOYNE RESOURCES LIMITED",
+            "code": "GCY",
+            "primary_share_code": "GCY",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GASCOYNE RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2009-12-11T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9481 3434",
+            "mailing_address": "Level 1, 41-47 Colin Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold exploration.",
+            "fax_number": "(08) 9481 0411",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-19T23:17:01+1100",
+                    "number_of_pages": 84,
+                    "id": "01910080",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T08:20:17+1100",
+                    "size": "5.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43nd9yf66fjm5m.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 475462,
+                "status": [],
+                "market_cap": 186513372,
+                "code": "GCY",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    }
+                ],
+                "year_open_price": 0.175,
+                "previous_close_price": 0.43,
+                "year_change_price": 0.245,
+                "year_low_date": "2016-12-16T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 433752028,
+                "eps": -0.005,
+                "change_in_percent": "-2.326%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 433752028,
+                "pe": 0,
+                "offer_price": 0.425,
+                "suspended": false,
+                "last_price": 0.42,
+                "deprecated_market_cap": 182176000,
+                "day_low_price": 0.405,
+                "open_price": 0.42,
+                "year_high_date": "2017-02-20T00:00:00+1100",
+                "previous_day_percentage_change": "6.173%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.66,
+                "bid_price": 0.415,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.425,
+                "year_change_in_percentage": "140%",
+                "average_daily_volume": 525848,
+                "year_low_price": 0.36,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.gascoyneresources.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Rodney Michael Joyce",
+                    "first_name": "Rodney",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Joyce",
+                    "middle_name": "Michael"
+                },
+                {
+                    "full_name": "Mr Michael Dunbar",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dunbar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gordon Dunbar",
+                    "first_name": "Gordon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dunbar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Sally-Anne Layman",
+                    "first_name": "Sally-Anne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Layman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stanley Macdonald",
+                    "first_name": "Stanley",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Macdonald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Riley",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Riley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John den Dryver",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "den Dryver",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Julian Goldsworthy",
+                    "first_name": "Julian",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goldsworthy",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Lim",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lim",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Eva O'Malley",
+                    "first_name": "Eva",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "O'Malley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

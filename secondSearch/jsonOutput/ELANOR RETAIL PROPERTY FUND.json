@@ -1,0 +1,153 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ERF",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "ELANOR RETAIL PROPERTY FUND",
+    "ASXcode": "ERF",
+    "data": {
+        "summary": {
+            "name_short": "ELANORETL",
+            "name_full": "ELANOR RETAIL PROPERTY FUND",
+            "last_dividend": {
+                "comments": "DRP SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-06-26T00:00:00+1000",
+                "record_date": "2017-06-30T00:00:00+1000",
+                "payable_date": "2017-09-01T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.05000837,
+                "ex_date": "2017-06-29T00:00:00+1000"
+            },
+            "code": "ERF",
+            "primary_share_code": "ERF",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "ELANORETL PROPERTY",
+            "foreign_exempt": false,
+            "listing_date": "2016-11-09T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@leanorinvestors.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9239 8400",
+            "mailing_address": "Suite 3, Level 38, 259 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "fax_number": "02 9239 8411",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-15T07:22:08+1000",
+                    "number_of_pages": 58,
+                    "id": "01896353",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-15T08:23:10+1000",
+                    "size": "3.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170915/pdf/43mc25jvl2k5dc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6000,
+                "status": [],
+                "market_cap": 176359764,
+                "code": "ERF",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 128729755,
+                "previous_close_price": 1.37,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 128729755,
+                "eps": 0.1242,
+                "change_in_percent": "-0.73%",
+                "change_price": -0.01,
+                "pe": 10.95,
+                "offer_price": 1.37,
+                "suspended": false,
+                "last_price": 1.36,
+                "deprecated_market_cap": 175072000,
+                "day_low_price": 1.36,
+                "open_price": 1.36,
+                "year_high_date": "2017-10-09T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.385,
+                "bid_price": 1.36,
+                "desc_full": "Stapled Securities",
+                "day_high_price": 1.36,
+                "average_daily_volume": 107739,
+                "year_low_price": 1.25,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.elanorinvestors.com/ERF",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Paul Bedbrook",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bedbrook",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Glenn Willis",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Willis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nigel Ampherlaw",
+                    "first_name": "Nigel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ampherlaw",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr William Moss",
+                    "first_name": "William",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moss",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Symon Simmons",
+                    "first_name": "Symon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Simmons",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

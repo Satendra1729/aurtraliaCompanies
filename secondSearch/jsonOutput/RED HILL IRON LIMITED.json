@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RHI",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RED HILL IRON LIMITED",
+    "ASXcode": "RHI",
+    "data": {
+        "summary": {
+            "name_short": "REDHILL IR",
+            "name_full": "RED HILL IRON LIMITED",
+            "code": "RHI",
+            "primary_share_code": "RHI",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RED HILL IRON",
+            "foreign_exempt": false,
+            "listing_date": "2006-02-14T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9481 8627",
+            "mailing_address": "Level 2, 9 Havelock Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Iron ore exploration",
+            "fax_number": "08 9481 8445",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-16T12:03:16+1100",
+                    "number_of_pages": 46,
+                    "id": "01908236",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-16T12:07:06+1100",
+                    "size": "9.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171016/pdf/43n84s9d7r54t0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 35478908,
+                "code": "RHI",
+                "indices": [],
+                "year_open_price": 0.8,
+                "previous_close_price": 0.65,
+                "year_change_price": -0.15,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 54582936,
+                "eps": -0.0115,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 54582936,
+                "pe": 0,
+                "offer_price": 0.7,
+                "suspended": false,
+                "last_price": 0.65,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-19T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-11T11:00:00+1100",
+                "year_high_price": 0.7,
+                "bid_price": 0.6,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-18.75%",
+                "average_daily_volume": 12101,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.redhilliron.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Neil Tomkinson",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tomkinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Garry Strong",
+                    "first_name": "Garry",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Strong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joshua Pitt",
+                    "first_name": "Joshua",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pitt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Okeby",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Okeby",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Ruttledge",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ruttledge",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FID",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "FIDUCIAN GROUP LIMITED",
+    "ASXcode": "FID",
+    "data": {
+        "summary": {
+            "name_short": "FIDUCIANGP",
+            "name_full": "FIDUCIAN GROUP LIMITED",
+            "code": "FID",
+            "primary_share_code": "FID",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "FIDUCIAN GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-02-09T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "8.9C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-17T00:00:00+1000",
+                "record_date": "2017-08-30T00:00:00+1000",
+                "payable_date": "2017-09-13T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.089,
+                "ex_date": "2017-08-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 8298 4600",
+            "mailing_address": "Level 4, 1 York Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provider of specialist financial services to both financial advisers and retail and wholesale clients throughout Australia.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-17T18:50:49+1000",
+                    "number_of_pages": 82,
+                    "id": "01884930",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-17T18:54:50+1000",
+                    "size": "17.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170817/pdf/43lhdtvfvh8jt8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2000,
+                "status": [],
+                "market_cap": 168827587,
+                "code": "FID",
+                "indices": [],
+                "deprecated_number_of_shares": 31264368,
+                "previous_close_price": 5.4,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 31264368,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 5.4,
+                "suspended": false,
+                "last_price": 5.4,
+                "deprecated_market_cap": 168828000,
+                "day_low_price": 5.4,
+                "open_price": 5.4,
+                "year_high_date": "2017-11-02T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 5.59,
+                "bid_price": 5.3,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.4,
+                "average_daily_volume": 19248,
+                "year_low_price": 3.45,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.fiducian.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Indy Singh",
+                    "first_name": "Indy",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Singh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Bucknell",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bucknell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Hallab",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hallab",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank Khouri",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Khouri",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rahul Guha",
+                    "first_name": "Rahul",
+                    "roles": [
+                        "CFO",
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Guha",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Gubecka",
+                    "first_name": "Paul",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gubecka",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Indy Singh",
+                    "first_name": "Indy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Singh",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FFG",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "FATFISH INTERNET GROUP LTD",
+    "ASXcode": "FFG",
+    "data": {
+        "summary": {
+            "name_short": "FATFISH",
+            "name_full": "FATFISH INTERNET GROUP LTD",
+            "code": "FFG",
+            "primary_share_code": "FFG",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "FATFISH INTERNET GRP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/FFG?image_size=L&v=1406098488000",
+            "foreign_exempt": false,
+            "listing_date": "1995-11-23T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 8611 5353",
+            "mailing_address": "C/- DW Accounting & Advisory Pty Ltd, Level 4, 91 William Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Internet Incubator and Direct Internet Venture.",
+            "fax_number": "+61 3 9833 7063",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-28T16:14:59+1000",
+                    "number_of_pages": 66,
+                    "id": "01852255",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-28T16:16:51+1000",
+                    "size": "1.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170428/pdf/43hvswnxc75fdm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6456614,
+                "status": [],
+                "market_cap": 20444386,
+                "code": "FFG",
+                "indices": [],
+                "deprecated_number_of_shares": 352489408,
+                "previous_close_price": 0.058,
+                "year_low_date": "2017-06-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 352489408,
+                "eps": 0.0692,
+                "change_in_percent": "10.345%",
+                "change_price": 0.006,
+                "pe": 0.92,
+                "offer_price": 0.064,
+                "suspended": false,
+                "last_price": 0.064,
+                "deprecated_market_cap": 22559000,
+                "day_low_price": 0.054,
+                "open_price": 0.062,
+                "year_high_date": "2017-11-28T00:00:00+1100",
+                "previous_day_percentage_change": "-4.918%",
+                "year_open_date": null,
+                "year_high_price": 0.077,
+                "bid_price": 0.062,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.064,
+                "average_daily_volume": 3852545,
+                "year_low_price": 0.007,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.fatfish.co",
+            "fiscal_year_end": "31/12",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Larry Nyap Liou Gan",
+                    "first_name": "Larry",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gan",
+                    "middle_name": "Nyap Liou"
+                },
+                {
+                    "full_name": "Mr Kin Wai Lau",
+                    "first_name": "Kin",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lau",
+                    "middle_name": "Wai"
+                },
+                {
+                    "full_name": "Mr Donald Han Low",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Low",
+                    "middle_name": "Han"
+                },
+                {
+                    "full_name": "Mr Jeffrey Hua Yuen Tan",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tan",
+                    "middle_name": "Hua Yuen"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Donald Han Low",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Low",
+                    "middle_name": "Han"
+                }
+            ]
+        }
+    }
+}

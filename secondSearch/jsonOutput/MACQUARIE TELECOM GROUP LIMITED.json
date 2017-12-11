@@ -1,0 +1,164 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MAQ",
+    "GICSindustrygroup": "Telecommunication Services",
+    "Companyname": "MACQUARIE TELECOM GROUP LIMITED",
+    "ASXcode": "MAQ",
+    "data": {
+        "summary": {
+            "name_short": "MA TELECOM",
+            "name_full": "MACQUARIE TELECOM GROUP LIMITED",
+            "code": "MAQ",
+            "primary_share_code": "MAQ",
+            "industry_group_name": "Telecommunication Services",
+            "delisting_date": null,
+            "sector_name": "Telecommunication Services",
+            "name_abbrev": "MACQUARIE TELECOM GP",
+            "foreign_exempt": false,
+            "listing_date": "1999-09-27T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "25C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-30T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-18T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.25,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "mailing_address": "Level 15, 2 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Managed Hosting and Telecommunications",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-24T08:33:11+1100",
+                    "number_of_pages": 76,
+                    "id": "01911434",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T08:36:22+1100",
+                    "size": "3.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43nhm7tt0mhvnb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1778,
+                "status": [],
+                "market_cap": 301926542,
+                "code": "MAQ",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 8.22,
+                "previous_close_price": 14.4,
+                "year_change_price": 6.18,
+                "year_low_date": "2017-02-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 20967121,
+                "eps": 0.678,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 20967121,
+                "pe": 21.24,
+                "offer_price": 14.4,
+                "suspended": false,
+                "last_price": 14.4,
+                "deprecated_market_cap": 301927000,
+                "day_low_price": 14.35,
+                "open_price": 14.35,
+                "year_high_date": "2017-08-30T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 15,
+                "bid_price": 14.36,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 14.4,
+                "year_change_in_percentage": "75.182%",
+                "average_daily_volume": 4481,
+                "year_low_price": 10.79,
+                "annual_dividend_yield": 3.47
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": null,
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter James",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "James",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Tudehope",
+                    "first_name": "David",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tudehope",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Aidan Tudehope",
+                    "first_name": "Aidan",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tudehope",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Anouk Darling",
+                    "first_name": "Anouk",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Darling",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bart Vogel",
+                    "first_name": "Bart",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vogel",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nathan Shepherd",
+                    "first_name": "Nathan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shepherd",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

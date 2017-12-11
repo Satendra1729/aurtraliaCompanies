@@ -1,0 +1,199 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DJW",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "DJERRIWARRH INVESTMENTS LIMITED",
+    "ASXcode": "DJW",
+    "data": {
+        "summary": {
+            "name_short": "DJW INVEST",
+            "name_full": "DJERRIWARRH INVESTMENTS LIMITED",
+            "code": "DJW",
+            "primary_share_code": "DJW",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "DJERRIWARRH",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/DJW?image_size=L&v=1408661179000",
+            "foreign_exempt": false,
+            "listing_date": "1995-06-28T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "10C FRANKED @30%; 7. 14C LIC CG; DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-07-17T00:00:00+1000",
+                "record_date": "2017-08-07T00:00:00+1000",
+                "payable_date": "2017-08-25T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.1,
+                "ex_date": "2017-08-04T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(03) 9650 9911",
+            "mailing_address": "Level 21, 101 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Investment of funds in securities listed on ASX and money market securities, dealing in exchange traded options and sub-underwriting of issues of securities.",
+            "fax_number": "(03) 9650 9100",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Reports, Notice of AGM and Proxy Form",
+                    "document_date": "2017-08-25T09:17:35+1000",
+                    "number_of_pages": 95,
+                    "id": "01888183",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-25T09:30:47+1000",
+                    "size": "4.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170825/pdf/43lqwpk387rsx8.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 29653,
+                "status": [],
+                "market_cap": 783626577,
+                "code": "DJW",
+                "indices": [],
+                "year_open_price": 4.58,
+                "previous_close_price": 3.56,
+                "year_change_price": -0.98,
+                "year_low_date": "2017-10-10T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 220119825,
+                "eps": 0.1539,
+                "change_in_percent": "1.124%",
+                "change_price": 0.04,
+                "deprecated_number_of_shares": 220119825,
+                "pe": 23.39,
+                "offer_price": 3.6,
+                "suspended": false,
+                "last_price": 3.6,
+                "deprecated_market_cap": 792431000,
+                "day_low_price": 3.57,
+                "open_price": 3.59,
+                "year_high_date": "2017-01-12T00:00:00+1100",
+                "previous_day_percentage_change": "-0.559%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 3.98,
+                "bid_price": 3.57,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.6,
+                "year_change_in_percentage": "-21.397%",
+                "average_daily_volume": 99406,
+                "year_low_price": 3.4,
+                "annual_dividend_yield": 5.56
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.djerri.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Paterson",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paterson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross Barker",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathryn Fagg",
+                    "first_name": "Kathryn",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Fagg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Goldsmith",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goldsmith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Guy",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Guy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Alice Williams",
+                    "first_name": "Alice",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Porter",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Porter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Driver",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Driver",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Matthew Rowe",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Porter",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Porter",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

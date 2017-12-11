@@ -1,0 +1,219 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FXL",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "FLEXIGROUP LIMITED",
+    "ASXcode": "FXL",
+    "data": {
+        "summary": {
+            "name_short": "FLEXIGROUP",
+            "name_full": "FLEXIGROUP LIMITED",
+            "last_dividend": {
+                "comments": "3.85C FRANKED @30%;  DRP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-15T00:00:00+1000",
+                "record_date": "2017-09-08T00:00:00+1000",
+                "payable_date": "2017-10-13T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.0385,
+                "ex_date": "2017-09-07T00:00:00+1000"
+            },
+            "code": "FXL",
+            "primary_share_code": "FXL",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "FLEXIGROUP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-12T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "melissa.robinson@flexigroup.com.au",
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(02) 8905 2000",
+            "mailing_address": "Level 7, 179 Elizabeth Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Point of sale lease and rental finance for the IT equipment, electrical appliance and other retail markets.",
+            "fax_number": "(02) 8905 2424",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to shareholders",
+                    "document_date": "2017-09-29T15:02:44+1000",
+                    "number_of_pages": 137,
+                    "id": "01902308",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T15:08:05+1000",
+                    "size": "5.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msw09jw9rx3x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1408289,
+                "status": [],
+                "market_cap": 595762640,
+                "code": "FXL",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 4.06,
+                "previous_close_price": 1.6,
+                "year_change_price": -2.43,
+                "year_low_date": "2017-11-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 372351650,
+                "eps": 0.234,
+                "change_in_percent": "1.875%",
+                "change_price": 0.03,
+                "deprecated_number_of_shares": 372351650,
+                "pe": 6.97,
+                "offer_price": 1.64,
+                "suspended": false,
+                "last_price": 1.63,
+                "deprecated_market_cap": 606933000,
+                "day_low_price": 1.6,
+                "open_price": 1.61,
+                "year_high_date": "2016-12-13T00:00:00+1100",
+                "previous_day_percentage_change": "-3.323%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.48,
+                "bid_price": 1.62,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.64,
+                "year_change_in_percentage": "-59.852%",
+                "average_daily_volume": 1068842,
+                "year_low_price": 1.44,
+                "annual_dividend_yield": 4.72
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.flexigroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "https://www.flexigroup.com.au/investor-center"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Abercrombie",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Abercrombie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Symon Brewis-Weston",
+                    "first_name": "Symon",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brewis-Weston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Christine Christian",
+                    "first_name": "Christine",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Christian",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rajeev Dhawan",
+                    "first_name": "Rajeev",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dhawan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jodie Leonard",
+                    "first_name": "Jodie",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leonard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross Aucutt",
+                    "first_name": "Ross",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Aucutt",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Miss Melissa Robinson",
+                    "first_name": "Melissa",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Miss",
+                    "last_name": "Robinson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

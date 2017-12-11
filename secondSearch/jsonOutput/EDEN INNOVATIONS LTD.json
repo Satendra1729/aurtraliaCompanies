@@ -1,0 +1,151 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EDE",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "EDEN INNOVATIONS LTD",
+    "ASXcode": "EDE",
+    "data": {
+        "summary": {
+            "name_short": "EDEN INNOV",
+            "name_full": "EDEN INNOVATIONS LTD",
+            "code": "EDE",
+            "primary_share_code": "EDE",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "EDEN INV LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-06-06T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9282 5889",
+            "mailing_address": "Level 15, 197 St George's Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "alternate energy exploration",
+            "fax_number": "(08) 9282 5866",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T11:14:30+1000",
+                    "number_of_pages": 45,
+                    "id": "01902070",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T11:18:09+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msdg5c04c007.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1532716,
+                "status": [],
+                "market_cap": 151924614,
+                "code": "EDE",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.013,
+                "previous_close_price": 0.12,
+                "year_change_price": 0.107,
+                "year_low_date": "2017-11-10T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1266038449,
+                "eps": -0.0091,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1266038449,
+                "pe": 0,
+                "offer_price": 0.125,
+                "suspended": false,
+                "last_price": 0.12,
+                "deprecated_market_cap": 151925000,
+                "day_low_price": 0.12,
+                "open_price": 0.125,
+                "year_high_date": "2017-02-21T00:00:00+1100",
+                "previous_day_percentage_change": "-4%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.36,
+                "bid_price": 0.12,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.125,
+                "year_change_in_percentage": "823.077%",
+                "average_daily_volume": 1680054,
+                "year_low_price": 0.115,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.edenenergy.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gregory H Solomon",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Solomon",
+                    "middle_name": "H"
+                },
+                {
+                    "full_name": "Mr Richard Beresford",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beresford",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Guy T LePage",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "LePage",
+                    "middle_name": "T"
+                },
+                {
+                    "full_name": "Mr Douglas H Solomon",
+                    "first_name": "Douglas",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Solomon",
+                    "middle_name": "H"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Aaron Gates",
+                    "first_name": "Aaron",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gates",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

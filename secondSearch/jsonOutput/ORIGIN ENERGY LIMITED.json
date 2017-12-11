@@ -1,0 +1,264 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ORG",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "ORIGIN ENERGY LIMITED",
+    "ASXcode": "ORG",
+    "data": {
+        "summary": {
+            "name_short": "ORIGIN ENE",
+            "name_full": "ORIGIN ENERGY LIMITED",
+            "code": "ORG",
+            "primary_share_code": "ORG",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "ORIGIN ENERGY",
+            "foreign_exempt": false,
+            "listing_date": "1961-07-13T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 8345 5000",
+            "mailing_address": "Level 45, Australia Square, 264-278 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Operating energy businesses",
+            "fax_number": "(02) 9252 9244",
+            "latest_annual_reports": [
+                {
+                    "header": "Origin Energy 2017 Annual Report",
+                    "document_date": "2017-09-14T09:22:59+1000",
+                    "number_of_pages": 166,
+                    "id": "01895939",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-14T09:25:28+1000",
+                    "size": "6.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170914/pdf/43mb3nq5sdxgz4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4816081,
+                "status": [],
+                "market_cap": 15838708679,
+                "code": "ORG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Energy",
+                        "index_code": "XEJ",
+                        "name_abrev": "Energy",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Energy (Sector)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 14.38,
+                "previous_close_price": 9.01,
+                "year_change_price": -5.25,
+                "year_low_date": "2017-03-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1757903294,
+                "eps": -1.269,
+                "change_in_percent": "1.332%",
+                "change_price": 0.12,
+                "deprecated_number_of_shares": 1757903294,
+                "pe": 0,
+                "offer_price": 9.15,
+                "suspended": false,
+                "last_price": 9.13,
+                "deprecated_market_cap": 16049657000,
+                "day_low_price": 9.13,
+                "open_price": 9.16,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "1.122%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 9.39,
+                "bid_price": 9.11,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 9.39,
+                "year_change_in_percentage": "-36.509%",
+                "average_daily_volume": 4783863,
+                "year_low_price": 6.21,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.originenergy.com.au/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gordon Cairns",
+                    "first_name": "Gordon",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cairns",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank Gerard Calabria",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Calabria",
+                    "middle_name": "Gerard"
+                },
+                {
+                    "full_name": "Mr John Akehurst",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Akehurst",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Maxine Brenner",
+                    "first_name": "Maxine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Brenner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Teresa Engelhard",
+                    "first_name": "Teresa",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Engelhard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Morgan",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Perkins",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Perkins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steve Sargent",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sargent",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Chau Le",
+                    "first_name": "Chau",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Le",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Clarke",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clarke",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Helen Hardy",
+                    "first_name": "Helen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Hardy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

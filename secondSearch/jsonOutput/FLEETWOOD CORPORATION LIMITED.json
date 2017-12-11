@@ -1,0 +1,156 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FWD",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "FLEETWOOD CORPORATION LIMITED",
+    "ASXcode": "FWD",
+    "data": {
+        "summary": {
+            "name_short": "FLEETWOOD",
+            "name_full": "FLEETWOOD CORPORATION LIMITED",
+            "code": "FWD",
+            "primary_share_code": "FWD",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "FLEETWOOD CORP",
+            "foreign_exempt": false,
+            "listing_date": "1987-04-15T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "5C FRANKED @ 30%; DR P",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-05T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.05,
+                "ex_date": "2017-09-04T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08-9323 3300",
+            "mailing_address": "21 Regal Place, EAST PERTH, WA, AUSTRALIA, 6004",
+            "principal_activities": "Manufacture of caravans and vehicle parts and accessories.\r\nDesign, manufacture, sale and rental of manufactured accommodation",
+            "fax_number": "08-9202 1106",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T15:50:48+1000",
+                    "number_of_pages": 72,
+                    "id": "01902426",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T15:52:45+1000",
+                    "size": "2.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt2xs624sc4b.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 29905,
+                "status": [],
+                "market_cap": 159193011,
+                "code": "FWD",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 2.59,
+                "previous_close_price": 2.6,
+                "year_change_price": 0.04,
+                "year_low_date": "2017-01-19T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 61228081,
+                "eps": 0.1474,
+                "change_in_percent": "1.154%",
+                "change_price": 0.03,
+                "deprecated_number_of_shares": 61228081,
+                "pe": 17.84,
+                "offer_price": 2.65,
+                "suspended": false,
+                "last_price": 2.63,
+                "deprecated_market_cap": 161030000,
+                "day_low_price": 2.6,
+                "open_price": 2.64,
+                "year_high_date": "2017-09-01T00:00:00+1000",
+                "previous_day_percentage_change": "-1.515%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 3.3,
+                "bid_price": 2.6,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.65,
+                "year_change_in_percentage": "1.544%",
+                "average_daily_volume": 96419,
+                "year_low_price": 1.85,
+                "annual_dividend_yield": 1.9
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.fleetwoodcorporation.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Phillip Campbell",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Campbell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Hardy",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hardy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bradley Denison",
+                    "first_name": "Bradley",
+                    "roles": [
+                        "Managing Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Denison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Tate",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tate",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Yanya O'Hara",
+                    "first_name": "Yanya",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "O'Hara",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

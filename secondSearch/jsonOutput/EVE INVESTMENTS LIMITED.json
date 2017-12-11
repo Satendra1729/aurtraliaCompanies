@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EVE",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "EVE INVESTMENTS LIMITED",
+    "ASXcode": "EVE",
+    "data": {
+        "summary": {
+            "name_full": "EVE INVESTMENTS LIMITED",
+            "code": "EVE",
+            "name_short": "EVE INVEST",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "EVE INVESTMENTS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/EVE?image_size=L&v=1449190930000",
+            "foreign_exempt": false,
+            "listing_date": "2004-04-08T00:00:00+1000",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@eveinvestments.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6465 5500",
+            "mailing_address": "Suite 1, 245 Churchill Avenue, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Investment in a broad cross section of technology sectors.",
+            "fax_number": "+61 8 6465 5599",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-20T16:49:17+1100",
+                    "number_of_pages": 48,
+                    "id": "01910599",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T16:50:49+1100",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43nfbrym42nb15.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 190203663,
+                "status": [],
+                "market_cap": 40216690,
+                "code": "EVE",
+                "indices": [],
+                "year_open_price": 0.004,
+                "previous_close_price": 0.022,
+                "year_change_price": 0.017,
+                "year_low_date": "2017-08-10T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1828031384,
+                "eps": -0.0011,
+                "change_in_percent": "-4.545%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 1828031384,
+                "pe": 0,
+                "offer_price": 0.022,
+                "suspended": false,
+                "last_price": 0.021,
+                "deprecated_market_cap": 38389000,
+                "day_low_price": 0.021,
+                "open_price": 0.023,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "29.412%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.032,
+                "bid_price": 0.021,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.025,
+                "year_change_in_percentage": "425%",
+                "average_daily_volume": 52579802,
+                "year_low_price": 0.003,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "EVE",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.eveinvestments.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alasdair Cooke",
+                    "first_name": "Alasdair",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooke",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gregory William Fry",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fry",
+                    "middle_name": "William"
+                },
+                {
+                    "full_name": "Mr George Cameron-Dow",
+                    "first_name": "George",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cameron-Dow",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Pixley",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pixley",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Steven Luke Jackson",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jackson",
+                    "middle_name": "Luke"
+                }
+            ]
+        }
+    }
+}

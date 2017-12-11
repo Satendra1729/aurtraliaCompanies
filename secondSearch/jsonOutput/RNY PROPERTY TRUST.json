@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RNY",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "RNY PROPERTY TRUST",
+    "ASXcode": "RNY",
+    "data": {
+        "summary": {
+            "name_short": "RNY P T",
+            "name_full": "RNY PROPERTY TRUST",
+            "code": "RNY",
+            "primary_share_code": "RNY",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "RNY PROPERTY TRUST",
+            "foreign_exempt": false,
+            "listing_date": "2005-09-26T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9293 2911",
+            "mailing_address": "Reckson Australia Management Limited, Level 56, MLC Centre, 19 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The Trust has a primary strategy of investing into the real estate markets of the New York Tri-State area in the United States.  Its portfolio consists of a 75% indirect interest in 21 office properties located in the New York Tri-State area.",
+            "fax_number": "(02) 9293 2912",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-30T06:42:30+1100",
+                    "number_of_pages": 91,
+                    "id": "01843183",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T08:24:04+1100",
+                    "size": "690.3KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h4klcm3s41b2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 4214622,
+                "code": "RNY",
+                "indices": [],
+                "year_open_price": 0.345,
+                "previous_close_price": 0.016,
+                "year_change_price": -0.329,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 263413889,
+                "eps": -0.211,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 263413889,
+                "pe": 0,
+                "offer_price": 0.016,
+                "suspended": false,
+                "last_price": 0.016,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-24T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.06,
+                "bid_price": 0.014,
+                "desc_full": "Units Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-95.362%",
+                "average_daily_volume": 1992504,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.rnypt.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Scott Rechler",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rechler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jason Barnett",
+                    "first_name": "Jason",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barnett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Maturo",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Maturo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Meagher",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Meagher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mervyn Peacock",
+                    "first_name": "Mervyn",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Peacock",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr William Robinson",
+                    "first_name": "William",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robinson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Francis Sheehan",
+                    "first_name": "Francis",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sheehan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

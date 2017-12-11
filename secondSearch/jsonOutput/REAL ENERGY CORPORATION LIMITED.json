@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RLE",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "REAL ENERGY CORPORATION LIMITED",
+    "ASXcode": "RLE",
+    "data": {
+        "summary": {
+            "name_short": "REALENERGY",
+            "name_full": "REAL ENERGY CORPORATION LIMITED",
+            "code": "RLE",
+            "primary_share_code": "RLE",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "REAL ENERGY CORP",
+            "foreign_exempt": false,
+            "listing_date": "2013-12-12T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9955 4008",
+            "mailing_address": "Level 3, Suite 2, 32 Walker Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Oil and Gas exploration.",
+            "fax_number": "TBA",
+            "latest_annual_reports": [
+                {
+                    "header": "Financial Report",
+                    "document_date": "2017-09-28T19:38:10+1000",
+                    "number_of_pages": 44,
+                    "id": "01901624",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:16:03+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrk81vdzdtkc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 674736,
+                "status": [],
+                "market_cap": 20939523,
+                "code": "RLE",
+                "indices": [],
+                "year_open_price": 0.2,
+                "previous_close_price": 0.082,
+                "year_change_price": -0.121,
+                "year_low_date": "2017-04-04T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 255360036,
+                "eps": -0.0039,
+                "change_in_percent": "-3.659%",
+                "change_price": -0.003,
+                "deprecated_number_of_shares": 255360036,
+                "pe": 0,
+                "offer_price": 0.08,
+                "suspended": false,
+                "last_price": 0.079,
+                "deprecated_market_cap": 20173000,
+                "day_low_price": 0.079,
+                "open_price": 0.082,
+                "year_high_date": "2017-09-01T00:00:00+1000",
+                "previous_day_percentage_change": "1.235%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.145,
+                "bid_price": 0.079,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.082,
+                "year_change_in_percentage": "-60.5%",
+                "average_daily_volume": 1499972,
+                "year_low_price": 0.041,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.realenergy.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Scott Brown",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lan Nguyen",
+                    "first_name": "Lan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nguyen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Norm Zillman",
+                    "first_name": "Norm",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zillman",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ron Hollands",
+                    "first_name": "Ron",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hollands",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

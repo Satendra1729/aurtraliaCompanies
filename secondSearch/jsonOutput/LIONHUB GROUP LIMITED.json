@@ -1,0 +1,153 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LHB",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "LIONHUB GROUP LIMITED",
+    "ASXcode": "LHB",
+    "data": {
+        "summary": {
+            "name_short": "LIONHUB",
+            "name_full": "LIONHUB GROUP LIMITED",
+            "code": "LHB",
+            "primary_share_code": "LHB",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "LIONHUB GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-10-25T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8281 3000",
+            "mailing_address": "Level 3A Hyde Park Tower, 148 Elizabeth Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Property development in China.",
+            "fax_number": "(02) 8281 3030",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders - Year Ended 31 Dec 2016",
+                    "document_date": "2017-04-21T10:20:53+1000",
+                    "number_of_pages": 45,
+                    "id": "01849484",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-21T10:23:58+1000",
+                    "size": "5.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170421/pdf/43hnblf1jgsdh1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 60323530,
+                "code": "LHB",
+                "indices": [],
+                "deprecated_number_of_shares": 826349731,
+                "previous_close_price": 0.073,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 826349731,
+                "eps": -0.005,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.075,
+                "suspended": false,
+                "last_price": 0.073,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-07T00:00:00+1100",
+                "previous_day_percentage_change": "7.353%",
+                "year_open_date": null,
+                "year_high_price": 0.13,
+                "bid_price": 0.073,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 19056,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.lionhub.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Choon Keng KHO",
+                    "first_name": "Choon",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "KHO",
+                    "middle_name": "Keng"
+                },
+                {
+                    "full_name": "Mr Charles LIM",
+                    "first_name": "Charles",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "LIM",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Chuan Thye KHO",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "KHO",
+                    "middle_name": "Chuan Thye"
+                },
+                {
+                    "full_name": "Ms Jamie KHOO",
+                    "first_name": "Jamie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "KHOO",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kim Huat KOH",
+                    "first_name": "Kim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "KOH",
+                    "middle_name": "Huat"
+                },
+                {
+                    "full_name": "Ms Kwee Jee LEE",
+                    "first_name": "Kwee",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "LEE",
+                    "middle_name": "Jee"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew John Cooke",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cooke",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

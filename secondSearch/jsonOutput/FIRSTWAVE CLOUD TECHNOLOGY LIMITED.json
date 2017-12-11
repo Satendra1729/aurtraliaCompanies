@@ -1,0 +1,168 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FCT",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "FIRSTWAVE CLOUD TECHNOLOGY LIMITED",
+    "ASXcode": "FCT",
+    "data": {
+        "summary": {
+            "name_short": "FIRSTWAVE",
+            "name_full": "FIRSTWAVE CLOUD TECHNOLOGY LIMITED",
+            "code": "FCT",
+            "primary_share_code": "FCT",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "FIRSTWAVE CLOUD TECH",
+            "foreign_exempt": false,
+            "listing_date": "2011-05-11T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "investor_relations_email": "investor@firstwave.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9409 7000",
+            "mailing_address": "Level 10, 132 Arthur Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Technology and cloud service provider",
+            "fax_number": "02 9409 7099",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T09:55:55+1100",
+                    "number_of_pages": 62,
+                    "id": "01913529",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T09:58:11+1100",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nn2xj9lyykr2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 8565,
+                "status": [],
+                "market_cap": 48892008,
+                "code": "FCT",
+                "indices": [],
+                "year_open_price": 0.0497,
+                "previous_close_price": 0.245,
+                "year_change_price": 0.1953,
+                "year_low_date": "2017-10-12T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 199559217,
+                "eps": -0.0282,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 145296279,
+                "pe": 0,
+                "offer_price": 0.26,
+                "suspended": false,
+                "last_price": 0.245,
+                "deprecated_market_cap": 35598000,
+                "day_low_price": 0.245,
+                "open_price": 0.245,
+                "year_high_date": "2017-02-14T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.6,
+                "bid_price": 0.23,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.245,
+                "year_change_in_percentage": "392.958%",
+                "average_daily_volume": 150568,
+                "year_low_price": 0.21,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.firstwave.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.firstwave.com.au/connect/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alexander Andrew Kelton",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelton",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Mr Edward Timothy Keating",
+                    "first_name": "Edward",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keating",
+                    "middle_name": "Timothy"
+                },
+                {
+                    "full_name": "Mr Scott Kelvin Lidgett",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lidgett",
+                    "middle_name": "Kelvin"
+                },
+                {
+                    "full_name": "Mr Paul Gordon Macrae",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Macrae",
+                    "middle_name": "Gordon"
+                },
+                {
+                    "full_name": "Mr Simon Moore",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moore",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Saba",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Saba",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Gai Stephens",
+                    "first_name": "Gai",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stephens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Justin Bradley Clyne",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clyne",
+                    "middle_name": "Bradley"
+                }
+            ]
+        }
+    }
+}

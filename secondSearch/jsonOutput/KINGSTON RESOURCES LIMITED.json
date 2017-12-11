@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KSN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KINGSTON RESOURCES LIMITED",
+    "ASXcode": "KSN",
+    "data": {
+        "summary": {
+            "name_short": "KINGSTON",
+            "name_full": "KINGSTON RESOURCES LIMITED",
+            "code": "KSN",
+            "primary_share_code": "KSN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KINGSTON RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/KSN?image_size=L&v=1458531748000",
+            "foreign_exempt": false,
+            "listing_date": "1987-03-05T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 80217492",
+            "mailing_address": "Suite 205, 283 Alfred Street North, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Gold, copper and uranium exploration.",
+            "fax_number": "(02) 82494968",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-08-30T09:17:27+1000",
+                    "number_of_pages": 55,
+                    "id": "01890018",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-30T09:19:28+1000",
+                    "size": "715.2KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lw7wfh2rm7hq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 248105,
+                "status": [],
+                "market_cap": 20852099,
+                "code": "KSN",
+                "indices": [],
+                "year_open_price": 0.03413,
+                "previous_close_price": 0.021,
+                "year_change_price": -0.01413,
+                "year_low_date": "2017-07-24T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 992957093,
+                "eps": -0.0018,
+                "change_in_percent": "-4.762%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 992957093,
+                "pe": 0,
+                "offer_price": 0.021,
+                "suspended": false,
+                "last_price": 0.02,
+                "deprecated_market_cap": 19859000,
+                "day_low_price": 0.02,
+                "open_price": 0.02,
+                "year_high_date": "2017-01-25T00:00:00+1100",
+                "previous_day_percentage_change": "5%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.044,
+                "bid_price": 0.019,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.02,
+                "year_change_in_percentage": "-41.401%",
+                "average_daily_volume": 2498652,
+                "year_low_price": 0.012,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.kingstonresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Anthony Wehby",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wehby",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Corbett",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Corbett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Paterson",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paterson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Rechner",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rechner",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Rozanna Lee",
+                    "first_name": "Rozanna",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

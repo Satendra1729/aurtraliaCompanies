@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CIN",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "CARLTON INVESTMENTS LIMITED",
+    "ASXcode": "CIN",
+    "data": {
+        "summary": {
+            "name_short": "CARLT.INV.",
+            "name_full": "CARLTON INVESTMENTS LIMITED",
+            "code": "CIN",
+            "primary_share_code": "CIN",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "CARLTON INVESTMENTS",
+            "foreign_exempt": false,
+            "listing_date": "1970-06-30T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "68C FRANKED @30%; DR P SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-22T00:00:00+1000",
+                "record_date": "2017-09-01T00:00:00+1000",
+                "payable_date": "2017-09-25T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.68,
+                "ex_date": "2017-08-31T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9373 6732",
+            "mailing_address": "Level 15, 478 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Acquisition and long term holding of shares in corporations listed on the Australian Stock Exchange.",
+            "fax_number": "(02) 9373 6539",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to shareholders",
+                    "document_date": "2017-09-06T09:57:23+1000",
+                    "number_of_pages": 42,
+                    "id": "01893236",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-06T10:04:44+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170906/pdf/43m3kfsx8k01fn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 10000,
+                "status": [],
+                "market_cap": 880018197,
+                "code": "CIN",
+                "indices": [],
+                "year_open_price": 26.45,
+                "previous_close_price": 33.24,
+                "year_change_price": 6.55,
+                "year_low_date": "2017-09-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 26474675,
+                "eps": 1.498,
+                "change_in_percent": "-0.722%",
+                "change_price": -0.24,
+                "deprecated_number_of_shares": 26474675,
+                "pe": 22.03,
+                "offer_price": 33.25,
+                "suspended": false,
+                "last_price": 33,
+                "deprecated_market_cap": 873664000,
+                "day_low_price": 33,
+                "open_price": 33.15,
+                "year_high_date": "2017-02-02T00:00:00+1100",
+                "previous_day_percentage_change": "0.697%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 33.5,
+                "bid_price": 33,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 33.15,
+                "year_change_in_percentage": "24.764%",
+                "average_daily_volume": 2544,
+                "year_low_price": 30.51,
+                "annual_dividend_yield": 3.52
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.carltoninvestments.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alan Graham Rydge",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Chairman",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rydge",
+                    "middle_name": "Graham"
+                },
+                {
+                    "full_name": "Mr Murray Edward Bleach",
+                    "first_name": "Murray",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bleach",
+                    "middle_name": "Edward"
+                },
+                {
+                    "full_name": "Mr Anthony James Clark",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clark",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Peter William Horton",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Horton",
+                    "middle_name": "William"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter William Horton",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Horton",
+                    "middle_name": "William"
+                }
+            ]
+        }
+    }
+}

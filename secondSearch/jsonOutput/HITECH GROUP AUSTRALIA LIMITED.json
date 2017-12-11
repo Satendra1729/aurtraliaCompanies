@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HIT",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "HITECH GROUP AUSTRALIA LIMITED",
+    "ASXcode": "HIT",
+    "data": {
+        "summary": {
+            "name_short": "HITECH GRP",
+            "name_full": "HITECH GROUP AUSTRALIA LIMITED",
+            "code": "HIT",
+            "primary_share_code": "HIT",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "HITECH GROUP AUST.",
+            "foreign_exempt": false,
+            "listing_date": "2000-04-17T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "3C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-08-31T00:00:00+1000",
+                "payable_date": "2017-09-14T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.03,
+                "ex_date": "2017-08-30T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9241 1919",
+            "mailing_address": "Level 7, 9-13 Young Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Supplying information technology & telecommunications recruitment services for permanent and contract staff",
+            "fax_number": "(02) 9241 1731",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 HiTech Annual Report",
+                    "document_date": "2017-10-03T17:14:11+1100",
+                    "number_of_pages": 48,
+                    "id": "01903860",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-03T17:15:21+1100",
+                    "size": "451.2KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171003/pdf/43mxjmgg44pln0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 9900,
+                "status": [],
+                "market_cap": 29174500,
+                "code": "HIT",
+                "indices": [],
+                "year_open_price": 0.08,
+                "previous_close_price": 0.83,
+                "year_change_price": 0.76,
+                "year_low_date": "2017-05-02T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 35150000,
+                "eps": 0.0655,
+                "change_in_percent": "1.205%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 35150000,
+                "pe": 12.82,
+                "offer_price": 0.84,
+                "suspended": false,
+                "last_price": 0.84,
+                "deprecated_market_cap": 29526000,
+                "day_low_price": 0.835,
+                "open_price": 0.835,
+                "year_high_date": "2017-11-28T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-10T11:00:00+1100",
+                "year_high_price": 0.895,
+                "bid_price": 0.83,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.84,
+                "year_change_in_percentage": "950%",
+                "average_daily_volume": 22088,
+                "year_low_price": 0.515,
+                "annual_dividend_yield": 7.14
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.hitechaust.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Raymond Hazouri",
+                    "first_name": "Raymond",
+                    "roles": [
+                        "Chairman",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hazouri",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Elias Hazouri",
+                    "first_name": "Elias",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hazouri",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr George Shad",
+                    "first_name": "George",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shad",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Raymond Hazouri",
+                    "first_name": "Raymond",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hazouri",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Raymond Hazouri",
+                    "first_name": "Raymond",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hazouri",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Elias Hazouri",
+                    "first_name": "Elias",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hazouri",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

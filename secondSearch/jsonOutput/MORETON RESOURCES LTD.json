@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MRV",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "MORETON RESOURCES LTD",
+    "ASXcode": "MRV",
+    "data": {
+        "summary": {
+            "name_short": "MORETON",
+            "name_full": "MORETON RESOURCES LTD",
+            "code": "MRV",
+            "primary_share_code": "MRV",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "MORETON RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "1994-02-08T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "enquiries@moretonresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 3831 6088",
+            "mailing_address": "29 High Street, TEXAS, QLD, AUSTRALIA, 4385",
+            "principal_activities": "Carbon Materials, Base Metals and Energy",
+            "fax_number": "07 3831 6088",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-30T05:48:08+1000",
+                    "number_of_pages": 76,
+                    "id": "01889864",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-30T08:18:03+1000",
+                    "size": "6.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lvyw54bm03f9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 500000,
+                "status": [],
+                "market_cap": 31135703,
+                "code": "MRV",
+                "indices": [],
+                "year_open_price": 0.004,
+                "previous_close_price": 0.012,
+                "year_change_price": 0.008,
+                "year_low_date": "2017-03-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2594641954,
+                "eps": -0.0009,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 2594641954,
+                "pe": 0,
+                "offer_price": 0.012,
+                "suspended": false,
+                "last_price": 0.012,
+                "deprecated_market_cap": 31136000,
+                "day_low_price": 0.012,
+                "open_price": 0.012,
+                "year_high_date": "2017-10-10T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.018,
+                "bid_price": 0.011,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.012,
+                "year_change_in_percentage": "200%",
+                "average_daily_volume": 1499542,
+                "year_low_price": 0.003,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.moretonresources.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alexander Jason Elks",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Elks",
+                    "middle_name": "Jason"
+                },
+                {
+                    "full_name": "Mr Valeri Melik",
+                    "first_name": "Valeri",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Melik",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tony Feitelson",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Feitelson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lee Horobin",
+                    "first_name": "Lee",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Horobin",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Lee Horobin",
+                    "first_name": "Lee",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Horobin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

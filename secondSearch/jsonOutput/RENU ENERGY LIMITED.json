@@ -1,0 +1,153 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RNE",
+    "GICSindustrygroup": "Utilities",
+    "Companyname": "RENU ENERGY LIMITED",
+    "ASXcode": "RNE",
+    "data": {
+        "summary": {
+            "name_full": "RENU ENERGY LIMITED",
+            "code": "RNE",
+            "name_short": "RENUENERGY",
+            "industry_group_name": "Utilities",
+            "delisting_date": null,
+            "sector_name": "Utilities",
+            "name_abbrev": "RENU ENERGY LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RNE?image_size=L&v=1481588496000",
+            "foreign_exempt": false,
+            "listing_date": "2002-09-12T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "cosec@renuenergy.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3721 7500",
+            "mailing_address": "Level 1, 9 Gardner Close, MILTON, QLD, AUSTRALIA, 4064",
+            "principal_activities": "Supplier of clean energy products and services, delivering independent power solutions through the development of, build, own, operate and maintain solar PV and bioenergy,  projects in Australia.",
+            "fax_number": "(07) 3721 7599",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-09T11:03:04+1100",
+                    "number_of_pages": 72,
+                    "id": "01905696",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-09T11:06:41+1100",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171009/pdf/43n221fm6mn5s4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1276178,
+                "status": [],
+                "market_cap": 13681783,
+                "code": "RNE",
+                "indices": [],
+                "year_open_price": 0.079,
+                "previous_close_price": 0.018,
+                "year_change_price": -0.06,
+                "year_low_date": "2017-05-16T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 760099058,
+                "eps": -0.0112,
+                "change_in_percent": "5.556%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 760099058,
+                "pe": 0,
+                "offer_price": 0.019,
+                "suspended": false,
+                "last_price": 0.019,
+                "deprecated_market_cap": 14442000,
+                "day_low_price": 0.018,
+                "open_price": 0.018,
+                "year_high_date": "2017-07-24T00:00:00+1000",
+                "previous_day_percentage_change": "-5.263%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.021,
+                "bid_price": 0.018,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.019,
+                "year_change_in_percentage": "-75.949%",
+                "average_daily_volume": 1146570,
+                "year_low_price": 0.009,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "RNE",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.renuenergy.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Steve McLean",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McLean",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Murray",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Managing Director",
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Brimblecombe",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brimblecombe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anton Rohner",
+                    "first_name": "Anton",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rohner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Damian Galvin",
+                    "first_name": "Damian",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Galvin",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Damian Galvin",
+                    "first_name": "Damian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Galvin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ABL",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "ABILENE OIL AND GAS LIMITED",
+    "ASXcode": "ABL",
+    "data": {
+        "summary": {
+            "name_short": "ABILENEOIL",
+            "name_full": "ABILENE OIL AND GAS LIMITED",
+            "code": "ABL",
+            "primary_share_code": "ABL",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "ABILENE OIL & GAS",
+            "foreign_exempt": false,
+            "listing_date": "1974-01-01T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9692 7222",
+            "mailing_address": "Level 4, 100 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Resource exploration & investment in Australia & resource exploration in USA with a focus on oil and gas.",
+            "fax_number": "+61 3 9077 9233",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-09-29T16:07:07+1000",
+                    "number_of_pages": 58,
+                    "id": "01902458",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:11:36+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt4tvfrd7xh4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 3180915,
+                "code": "ABL",
+                "indices": [],
+                "year_open_price": 0.072,
+                "previous_close_price": 0.008,
+                "year_change_price": -0.064,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 397614352,
+                "eps": -0.0081,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 397614352,
+                "pe": 0,
+                "offer_price": 0.015,
+                "suspended": false,
+                "last_price": 0.008,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-20T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.014,
+                "bid_price": 0.008,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-88.889%",
+                "average_daily_volume": 140781,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.abilene.com.au/",
+            "fiscal_year_end": "30/6",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Paul Salter",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Salter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mordechai Benedikt",
+                    "first_name": "Mordechai",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Benedikt",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Mathieson",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mathieson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Melanie Leydin",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leydin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Justin Mouchacca",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mouchacca",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

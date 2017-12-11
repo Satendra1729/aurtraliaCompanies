@@ -1,0 +1,116 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SAN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "SAGALIO ENERGY LIMITED",
+    "ASXcode": "SAN",
+    "data": {
+        "summary": {
+            "name_short": "SAGALIO EN",
+            "name_full": "SAGALIO ENERGY LIMITED",
+            "code": "SAN",
+            "primary_share_code": "SAN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "SAGALIO ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-12-15T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+852 3960 6518",
+            "mailing_address": "Clarendon House, 2 Church Street, AUSTRALIA,",
+            "principal_activities": "Iron ore exploration and mine development in Mongolia.",
+            "fax_number": "+852 3965 3222",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-02T01:22:09+1100",
+                    "number_of_pages": 55,
+                    "id": "01902994",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:07:13+1100",
+                    "size": "9.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvnrwcxys4l6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 2251261,
+                "code": "SAN",
+                "indices": [],
+                "year_open_price": 0.047,
+                "previous_close_price": 0.011,
+                "year_change_price": -0.036,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 204660130,
+                "eps": -0.1355,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 204660130,
+                "pe": 0,
+                "offer_price": 0.015,
+                "suspended": false,
+                "last_price": 0.011,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-02T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.015,
+                "bid_price": 0.005,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-76.596%",
+                "average_daily_volume": 704074,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.feore.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Louis Yang",
+                    "first_name": "Louis",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Yang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Baoliang Zhang",
+                    "first_name": "Baoliang",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nicholas Ong",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ong",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

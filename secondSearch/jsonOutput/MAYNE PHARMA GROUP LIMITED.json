@@ -1,0 +1,242 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MYX",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "MAYNE PHARMA GROUP LIMITED",
+    "ASXcode": "MYX",
+    "data": {
+        "summary": {
+            "name_short": "M PHARMA",
+            "name_full": "MAYNE PHARMA GROUP LIMITED",
+            "code": "MYX",
+            "primary_share_code": "MYX",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "MAYNE PHARMA LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MYX?image_size=L&v=1434936027000",
+            "foreign_exempt": false,
+            "listing_date": "2007-06-29T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(03) 8614 7777",
+            "mailing_address": "1538 Main North Road, SALISBURY SOUTH, SA, AUSTRALIA, 5106",
+            "principal_activities": "Develops, manufactures and markets branded and generic pharmaceutical products globally",
+            "fax_number": "(03) 9614 7022",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-19T11:11:20+1100",
+                    "number_of_pages": 96,
+                    "id": "01909790",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-19T11:12:56+1100",
+                    "size": "4.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171019/pdf/43nclx6yx7g9dt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3302045,
+                "status": [],
+                "market_cap": 959310781,
+                "code": "MYX",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Health",
+                        "index_code": "XHJ",
+                        "name_abrev": "Health Care",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Health Care (Sector)"
+                    }
+                ],
+                "year_open_price": 0.89342,
+                "previous_close_price": 0.625,
+                "year_change_price": -0.25842,
+                "year_low_date": "2017-11-28T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1534897250,
+                "eps": 0.0618,
+                "change_in_percent": "1.6%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 1534897250,
+                "pe": 10.28,
+                "offer_price": 0.64,
+                "suspended": false,
+                "last_price": 0.635,
+                "deprecated_market_cap": 974660000,
+                "day_low_price": 0.625,
+                "open_price": 0.63,
+                "year_high_date": "2017-02-24T00:00:00+1100",
+                "previous_day_percentage_change": "-0.794%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.59,
+                "bid_price": 0.635,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.64,
+                "year_change_in_percentage": "-28.925%",
+                "average_daily_volume": 7849873,
+                "year_low_price": 0.59,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.maynepharma.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.maynepharma.com/investor-relations/investors/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Roger Corbett",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Corbett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Richards",
+                    "first_name": "Scott",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richards",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "The Hon Ron Best",
+                    "first_name": "Ron",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "Best",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Nancy Dolan",
+                    "first_name": "Nancy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Dolan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phil Hodges",
+                    "first_name": "Phil",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hodges",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Mathieson",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mathieson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Prof. Bruce G Robinson",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Robinson",
+                    "middle_name": "G"
+                },
+                {
+                    "full_name": "Mr Ian Scholes",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scholes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nick Freeman",
+                    "first_name": "Nick",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Freeman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lisa Pendlebury",
+                    "first_name": "Lisa",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Pendlebury",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nick Freeman",
+                    "first_name": "Nick",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Freeman",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

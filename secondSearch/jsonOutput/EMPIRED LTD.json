@@ -1,0 +1,178 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EPD",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "EMPIRED LTD",
+    "ASXcode": "EPD",
+    "data": {
+        "summary": {
+            "name_short": "EMPIREDLTD",
+            "name_full": "EMPIRED LTD",
+            "code": "EPD",
+            "primary_share_code": "EPD",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "EMPIRED LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/EPD?image_size=L&v=1432015600000",
+            "foreign_exempt": false,
+            "listing_date": "2007-10-19T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6333 2200",
+            "mailing_address": "Level 7, The Quadrant, 1 William Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Diversified IT services",
+            "fax_number": "NA",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report sent to Shareholders",
+                    "document_date": "2017-10-09T20:26:28+1100",
+                    "number_of_pages": 96,
+                    "id": "01906016",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-09T20:28:39+1100",
+                    "size": "6.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171009/pdf/43n2qqf118zw4w.pdf"
+                },
+                {
+                    "header": "FY17 Annual Report and Appendix 4E",
+                    "document_date": "2017-08-23T22:27:10+1000",
+                    "number_of_pages": 80,
+                    "id": "01887247",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-24T08:14:15+1000",
+                    "size": "908.7KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lnyz46b10j30.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 420030,
+                "status": [],
+                "market_cap": 78438180,
+                "code": "EPD",
+                "indices": [],
+                "year_open_price": 0.66,
+                "previous_close_price": 0.49,
+                "year_change_price": -0.175,
+                "year_low_date": "2017-02-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 160077919,
+                "eps": 0.0242,
+                "change_in_percent": "-1.02%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 160077919,
+                "pe": 20.04,
+                "offer_price": 0.49,
+                "suspended": false,
+                "last_price": 0.485,
+                "deprecated_market_cap": 77638000,
+                "day_low_price": 0.485,
+                "open_price": 0.51,
+                "year_high_date": "2017-10-16T00:00:00+1100",
+                "previous_day_percentage_change": "-4.854%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.695,
+                "bid_price": 0.485,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.51,
+                "year_change_in_percentage": "-26.515%",
+                "average_daily_volume": 251001,
+                "year_low_price": 0.42,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.empired.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Bevan",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bevan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Russell Baskerville",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baskerville",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Bardwell",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bardwell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris John Ryan",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ryan",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Thomas Stianos",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stianos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Bright",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bright",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Hinton",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hinton",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Hinton",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hinton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

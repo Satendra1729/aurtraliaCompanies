@@ -1,0 +1,213 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GBT",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "GBST HOLDINGS LIMITED",
+    "ASXcode": "GBT",
+    "data": {
+        "summary": {
+            "name_short": "GBST HLDGS",
+            "name_full": "GBST HOLDINGS LIMITED",
+            "last_dividend": {
+                "comments": "2.5C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-13T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.025,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "code": "GBT",
+            "primary_share_code": "GBT",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "GBST HOLDINGS..",
+            "foreign_exempt": false,
+            "listing_date": "2005-06-28T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "companysecretary@gbst.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3331 5555",
+            "mailing_address": "Level 4, 410 Ann Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Provider of specialist market access and transaction processing solutions for the global financial services industry.",
+            "fax_number": "(07) 3839 7783",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-22T08:29:31+1000",
+                    "number_of_pages": 86,
+                    "id": "01898749",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T08:32:38+1000",
+                    "size": "2.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mjw22vwnlm40.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 29565,
+                "status": [],
+                "market_cap": 149407518,
+                "code": "GBT",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 3.24,
+                "previous_close_price": 2.2,
+                "year_change_price": -0.93,
+                "year_low_date": "2017-08-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 67912508,
+                "eps": 0.1031,
+                "change_in_percent": "5%",
+                "change_price": 0.11,
+                "deprecated_number_of_shares": 67912508,
+                "pe": 22.41,
+                "offer_price": 2.31,
+                "suspended": false,
+                "last_price": 2.31,
+                "deprecated_market_cap": 156878000,
+                "day_low_price": 2.27,
+                "open_price": 2.34,
+                "year_high_date": "2017-01-13T00:00:00+1100",
+                "previous_day_percentage_change": "-3.509%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 4.09,
+                "bid_price": 2.27,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.39,
+                "year_change_in_percentage": "-28.704%",
+                "average_daily_volume": 146923,
+                "year_low_price": 1.6,
+                "annual_dividend_yield": 2.68
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.gbst.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Allan Brackin",
+                    "first_name": "Allan",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brackin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert DeDominicis",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "DeDominicis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Adams",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Adams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Christine Bartlett",
+                    "first_name": "Christine",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bartlett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Deborah Page",
+                    "first_name": "Deborah",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Page",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tam Vu",
+                    "first_name": "Tam",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jillian Bannan",
+                    "first_name": "Jillian",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bannan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jillian Bannan",
+                    "first_name": "Jillian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bannan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

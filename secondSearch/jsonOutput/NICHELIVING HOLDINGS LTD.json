@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NLH",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "NICHELIVING HOLDINGS LTD",
+    "ASXcode": "NLH",
+    "data": {
+        "summary": {
+            "name_short": "NICHE",
+            "name_full": "NICHELIVING HOLDINGS LTD",
+            "code": "NLH",
+            "primary_share_code": "NLH",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "NICHELIVING HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9483 0000",
+            "mailing_address": "180 Newcastle Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Property development, construction, real estate sales and property\nmanagement",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "NLH",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.nicheliving.com.au",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Elizabeth Hunt",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hunt",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

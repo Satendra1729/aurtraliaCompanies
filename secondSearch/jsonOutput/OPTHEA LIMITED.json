@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OPT",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "OPTHEA LIMITED",
+    "ASXcode": "OPT",
+    "data": {
+        "summary": {
+            "name_short": "OPTHEA",
+            "name_full": "OPTHEA LIMITED",
+            "code": "OPT",
+            "primary_share_code": "OPT",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "OPTHEA LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1991-04-18T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9826 0399",
+            "mailing_address": "Suite 0403, Level 4, 650 Chapel Street, SOUTH YARRA, VIC, AUSTRALIA, 3141",
+            "principal_activities": "Opthea is a drug development company developing innovative, biologics-based therapies for the treatment of eye disease.",
+            "fax_number": "(03) 9824 0083",
+            "latest_annual_reports": [
+                {
+                    "header": "Opthea Appendix 4E and Annual Report 2017",
+                    "document_date": "2017-08-30T09:03:01+1000",
+                    "number_of_pages": 89,
+                    "id": "01889986",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-30T09:05:13+1000",
+                    "size": "7.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lw6017f41yvf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 60344,
+                "status": [],
+                "market_cap": 148462182,
+                "code": "OPT",
+                "indices": [],
+                "year_open_price": 0.19548,
+                "previous_close_price": 0.74,
+                "year_change_price": 0.54452,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 200624570,
+                "eps": -0.0384,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 200624570,
+                "pe": 0,
+                "offer_price": 0.75,
+                "suspended": false,
+                "last_price": 0.74,
+                "deprecated_market_cap": 148462000,
+                "day_low_price": 0.735,
+                "open_price": 0.735,
+                "year_high_date": "2017-04-07T00:00:00+1000",
+                "previous_day_percentage_change": "-0.671%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.2,
+                "bid_price": 0.725,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.745,
+                "year_change_in_percentage": "278.555%",
+                "average_daily_volume": 49073,
+                "year_low_price": 0.67,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.opthea.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoffrey Kempler",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kempler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Megan Baldwin",
+                    "first_name": "Megan",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Baldwin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Sistenich",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sistenich",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mike Tonroe",
+                    "first_name": "Mike",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tonroe",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mike Tonroe",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tonroe",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

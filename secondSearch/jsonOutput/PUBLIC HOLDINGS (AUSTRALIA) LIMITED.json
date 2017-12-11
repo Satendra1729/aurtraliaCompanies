@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PHA",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "PUBLIC HOLDINGS (AUSTRALIA) LIMITED",
+    "ASXcode": "PHA",
+    "data": {
+        "summary": {
+            "name_short": "PUBLIC",
+            "name_full": "PUBLIC HOLDINGS (AUSTRALIA) LIMITED",
+            "code": "PHA",
+            "primary_share_code": "PHA",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "PUBLIC HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": "1970-01-01T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9817 0700",
+            "mailing_address": "Level 1, 123 Whitehorse Road, BALWYN, VIC, AUSTRALIA, 3103",
+            "principal_activities": "The investment of funds in the medium and short-term money markets and in listed securities.",
+            "fax_number": "(03) 9817 0799",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-31T14:22:51+1100",
+                    "number_of_pages": 30,
+                    "id": "01843875",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T14:48:17+1100",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h627dy0flkw1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "PHA",
+                "indices": [],
+                "year_open_price": 0.045,
+                "previous_close_price": 0.06,
+                "year_change_price": 0.015,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 38958000,
+                "eps": -0.0033,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 37958000,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.06,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-04-21T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2013-12-31T11:00:00+1100",
+                "year_high_price": 0.06,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "33.333%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": null,
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bryan Frost",
+                    "first_name": "Bryan",
+                    "roles": [
+                        "Executive Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Frost",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Oreste A Biziak",
+                    "first_name": "Oreste",
+                    "roles": [
+                        "Deputy Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Biziak",
+                    "middle_name": "A"
+                },
+                {
+                    "full_name": "Mr Peter Chapman",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chapman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Clayton Dodd",
+                    "first_name": "Clayton",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dodd",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David McBain",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McBain",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

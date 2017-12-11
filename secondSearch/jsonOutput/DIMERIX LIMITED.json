@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DXB",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "DIMERIX LIMITED",
+    "ASXcode": "DXB",
+    "data": {
+        "summary": {
+            "name_short": "DIMERIX",
+            "name_full": "DIMERIX LIMITED",
+            "code": "DXB",
+            "primary_share_code": "DXB",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "DIMERIX LTD",
+            "foreign_exempt": false,
+            "listing_date": "1993-02-04T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9388 8290",
+            "mailing_address": "Suite 5, 95 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "A Clinical stage (Phase II) biotechnology business commercialising new therapies for under-served and unmet medical needs globally",
+            "fax_number": "+61 8 9388 8256",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-30T14:27:54+1000",
+                    "number_of_pages": 61,
+                    "id": "01890296",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-30T14:34:24+1000",
+                    "size": "4.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lwt1ggqqwvwj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 26242,
+                "status": [
+                    "RE",
+                    "XE"
+                ],
+                "market_cap": 12891446,
+                "code": "DXB",
+                "indices": [],
+                "year_open_price": 0.01,
+                "previous_close_price": 0.14,
+                "year_change_price": 0.115,
+                "year_low_date": "2017-03-24T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 92081760,
+                "eps": -0.022,
+                "change_in_percent": "-10.714%",
+                "change_price": -0.015,
+                "deprecated_number_of_shares": 92081760,
+                "pe": 0,
+                "offer_price": 0.13,
+                "suspended": false,
+                "last_price": 0.125,
+                "deprecated_market_cap": 11510000,
+                "day_low_price": 0.125,
+                "open_price": 0.125,
+                "year_high_date": "2017-07-18T00:00:00+1000",
+                "previous_day_percentage_change": "16.667%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.324,
+                "bid_price": 0.125,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.125,
+                "year_change_in_percentage": "1,150%",
+                "average_daily_volume": 1763878,
+                "year_low_price": 0.095,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.dimerix.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr James Williams",
+                    "first_name": "James",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hugh Alsop",
+                    "first_name": "Hugh",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Alsop",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Franklyn",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Franklyn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Sonia Poli",
+                    "first_name": "Sonia",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Poli",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Hobson",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hobson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

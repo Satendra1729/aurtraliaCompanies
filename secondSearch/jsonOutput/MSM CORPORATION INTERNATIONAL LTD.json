@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MSM",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "MSM CORPORATION INTERNATIONAL LTD",
+    "ASXcode": "MSM",
+    "data": {
+        "summary": {
+            "name_short": "MSM CORP",
+            "name_full": "MSM CORPORATION INTERNATIONAL LTD",
+            "code": "MSM",
+            "primary_share_code": "MSM",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "MSM CORPORATION INTL",
+            "foreign_exempt": false,
+            "listing_date": "1996-11-20T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9015 4036",
+            "mailing_address": "Level 8, 90 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Development and commercialisation of an online talent contest.",
+            "fax_number": "+61 3 9666 3301",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T16:25:58+1000",
+                    "number_of_pages": 64,
+                    "id": "01902506",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:28:11+1000",
+                    "size": "922.9KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt7mvsckj8n9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 466423,
+                "status": [],
+                "market_cap": 52070843,
+                "code": "MSM",
+                "indices": [],
+                "year_open_price": 0.00323,
+                "previous_close_price": 0.135,
+                "year_change_price": 0.12677,
+                "year_low_date": "2017-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 385709948,
+                "eps": -0.043,
+                "change_in_percent": "-3.704%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 296474112,
+                "pe": 0,
+                "offer_price": 0.135,
+                "suspended": false,
+                "last_price": 0.13,
+                "deprecated_market_cap": 38542000,
+                "day_low_price": 0.13,
+                "open_price": 0.135,
+                "year_high_date": "2017-10-09T00:00:00+1100",
+                "previous_day_percentage_change": "17.391%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.34,
+                "bid_price": 0.125,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.135,
+                "year_change_in_percentage": "3,924.768%",
+                "average_daily_volume": 1131217,
+                "year_low_price": 0.105,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.msmci.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Adam Wellisch",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wellisch",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dion Sullivan",
+                    "first_name": "Dion",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sullivan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sophie McGill",
+                    "first_name": "Sophie",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McGill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Clements",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clements",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Clements",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clements",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

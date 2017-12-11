@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NSC",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "NAOS SMALL CAP OPPORTUNITIES COMPANY LIMITED",
+    "ASXcode": "NSC",
+    "data": {
+        "summary": {
+            "name_short": "NAO SMLCAP",
+            "name_full": "NAOS SMALL CAP OPPORTUNITIES COMPANY LIMITED",
+            "last_dividend": {
+                "comments": "1.95C FRANKED @30%;  NIL CFI; DRP",
+                "franked_percentage": "50%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-10-04T00:00:00+1100",
+                "payable_date": "2017-10-13T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.039,
+                "ex_date": "2017-10-03T00:00:00+1100"
+            },
+            "code": "NSC",
+            "primary_share_code": "NSC",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "NAOS SMLCAP COM LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-03-25T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "enquiries@naos.com.au",
+            "products": [
+                "shares",
+                "convertible-notes"
+            ],
+            "phone_number": "(02) 9002 1576",
+            "mailing_address": "Level 34, MLC Centre, 19 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "NAOS Small Cap Opportunities Company Limited (ASX:NSC) is a listed investment company that seeks to provide investors with exposure to high quality, undervalued small cap companies (market capitalisation generally >$20 million to <$1 billion) with an indu",
+            "fax_number": "(02) 8215 0037",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 169407,
+                "status": [],
+                "market_cap": 154631162,
+                "code": "NSC",
+                "indices": [],
+                "year_open_price": 1.07,
+                "previous_close_price": 0.915,
+                "year_change_price": -0.155,
+                "year_low_date": "2017-05-31T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 168995806,
+                "eps": -0.084,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 168995806,
+                "pe": 0,
+                "offer_price": 0.915,
+                "suspended": false,
+                "last_price": 0.915,
+                "deprecated_market_cap": 154631000,
+                "day_low_price": 0.915,
+                "open_price": 0.915,
+                "year_high_date": "2017-01-03T00:00:00+1100",
+                "previous_day_percentage_change": "-0.543%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.13,
+                "bid_price": 0.91,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.925,
+                "year_change_in_percentage": "-14.486%",
+                "average_daily_volume": 258357,
+                "year_low_price": 0.88,
+                "annual_dividend_yield": 7.21
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://naos.com.au/naos-small-cap-opportunities-company-limi",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Trevor Carroll",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carroll",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warwick Evans",
+                    "first_name": "Warwick",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sebastian Evans",
+                    "first_name": "Sebastian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adrian Fitzpatrick",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzpatrick",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ken Poutakidis",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Poutakidis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Rajiv Sharma",
+                    "first_name": "Rajiv",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sharma",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

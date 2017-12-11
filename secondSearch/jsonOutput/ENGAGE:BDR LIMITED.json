@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EN1",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "ENGAGE:BDR LIMITED",
+    "ASXcode": "EN1",
+    "data": {
+        "summary": {
+            "name_short": "ENGAGE BDR",
+            "name_full": "ENGAGE:BDR LIMITED",
+            "code": "EN1",
+            "primary_share_code": "EN1",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "ENGAGE:BDR LIMITED",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "AXA ASIA PACIFIC HOLDINGS LIMITED, LEVEL 12, 565 BOURKE STREET, MELBOURNE, VIC, AUSTRALIA, 3001",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "tba",
+            "mailing_address": "Level 4, 90 William Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Digital Media and Advertising",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "EN1",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 367 373",
+            "web_address": "http://tba",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Unknown Cary Stynes",
+                    "first_name": "Cary",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Unknown",
+                    "last_name": "Stynes",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

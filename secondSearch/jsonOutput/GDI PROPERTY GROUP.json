@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GDI",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "GDI PROPERTY GROUP",
+    "ASXcode": "GDI",
+    "data": {
+        "summary": {
+            "name_short": "GDI PROP",
+            "name_full": "GDI PROPERTY GROUP",
+            "code": "GDI",
+            "primary_share_code": "GDI",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "GDI PROPERTY GRP",
+            "foreign_exempt": false,
+            "listing_date": "2013-12-17T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "",
+                "franked_percentage": "0%",
+                "created_date": "2017-06-15T00:00:00+1000",
+                "record_date": "2017-06-30T00:00:00+1000",
+                "payable_date": "2017-08-31T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.03875,
+                "ex_date": "2017-06-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9223 4222",
+            "mailing_address": "Level 23, 56 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Owning, managing and developing real estate assets and managing real estate funds on behalf of third party investors.",
+            "fax_number": "TBA",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T08:50:15+1000",
+                    "number_of_pages": 104,
+                    "id": "01901773",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:51:58+1000",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrtwydvth9dr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3184468,
+                "status": [],
+                "market_cap": 692298361,
+                "code": "GDI",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.875,
+                "previous_close_price": 1.29,
+                "year_change_price": 0.42,
+                "year_low_date": "2016-12-29T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 536665396,
+                "eps": 0.1834,
+                "change_in_percent": "0.388%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 536665396,
+                "pe": 7.06,
+                "offer_price": 1.295,
+                "suspended": false,
+                "last_price": 1.295,
+                "deprecated_market_cap": 694982000,
+                "day_low_price": 1.28,
+                "open_price": 1.29,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0.781%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.3,
+                "bid_price": 1.285,
+                "desc_full": "Stapled Securities Fully Paid",
+                "day_high_price": 1.3,
+                "year_change_in_percentage": "48%",
+                "average_daily_volume": 1180921,
+                "year_low_price": 0.96,
+                "annual_dividend_yield": 5.98
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.gdi.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr David John Williams",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

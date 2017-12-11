@@ -1,0 +1,168 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BWF",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "BLACKWALL LIMITED",
+    "ASXcode": "BWF",
+    "data": {
+        "summary": {
+            "name_short": "BLACKWALL",
+            "name_full": "BLACKWALL LIMITED",
+            "code": "BWF",
+            "primary_share_code": "BWF",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "BLACKWALL LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2011-10-21T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "1.8C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-18T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-20T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.018,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9033 8622",
+            "mailing_address": "Level 1, 50 Yeo Street, NEUTRAL BAY, NSW, AUSTRALIA, 2089",
+            "principal_activities": "The Company conducts a vertically integrated property funds management business.",
+            "fax_number": "(02) 9033 8600",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-18T10:12:18+1000",
+                    "number_of_pages": 32,
+                    "id": "01885146",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-18T10:14:58+1000",
+                    "size": "5.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170818/pdf/43lhy1ffvlp9dg.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5868,
+                "status": [],
+                "market_cap": 54309814,
+                "code": "BWF",
+                "indices": [],
+                "year_open_price": 0.285,
+                "previous_close_price": 0.91,
+                "year_change_price": 0.64,
+                "year_low_date": "2016-12-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 59681114,
+                "eps": 0.062,
+                "change_in_percent": "1.648%",
+                "change_price": 0.015,
+                "deprecated_number_of_shares": 59681114,
+                "pe": 14.92,
+                "offer_price": 0.93,
+                "suspended": false,
+                "last_price": 0.925,
+                "deprecated_market_cap": 55205000,
+                "day_low_price": 0.925,
+                "open_price": 0.93,
+                "year_high_date": "2017-03-29T00:00:00+1100",
+                "previous_day_percentage_change": "1.676%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.05,
+                "bid_price": 0.925,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.93,
+                "year_change_in_percentage": "224.561%",
+                "average_daily_volume": 20422,
+                "year_low_price": 0.65,
+                "annual_dividend_yield": 3.89
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.blackwall.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Hill",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Brown",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joseph Glew",
+                    "first_name": "Joseph",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Glew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robin Tedder",
+                    "first_name": "Robin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tedder",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Brown",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sophie Gowland",
+                    "first_name": "Sophie",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gowland",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sophie Gowland",
+                    "first_name": "Sophie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Gowland",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

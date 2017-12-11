@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IMA",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "IMAGE RESOURCES NL",
+    "ASXcode": "IMA",
+    "data": {
+        "summary": {
+            "name_short": "IMAGE RES",
+            "name_full": "IMAGE RESOURCES NL",
+            "code": "IMA",
+            "primary_share_code": "IMA",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "IMAGE RESOURCES NL",
+            "foreign_exempt": false,
+            "listing_date": "2002-07-04T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 8 9485 2410",
+            "mailing_address": "Ground Floor, 23 Ventnor Avenue, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mining Exploration.",
+            "fax_number": "61 8 9240 7845",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders, Corp Gov Stmt and App 4G",
+                    "document_date": "2017-03-12T22:28:35+1100",
+                    "number_of_pages": 80,
+                    "id": "01838006",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-13T08:23:20+1100",
+                    "size": "4.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170313/pdf/43gqvksxy2lcdg.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 193471,
+                "status": [],
+                "market_cap": 77124148,
+                "code": "IMA",
+                "indices": [],
+                "year_open_price": 0.145,
+                "previous_close_price": 0.135,
+                "year_change_price": -0.02,
+                "year_low_date": "2017-03-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 571289987,
+                "eps": -0.016,
+                "change_in_percent": "-7.407%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 571289987,
+                "pe": 0,
+                "offer_price": 0.14,
+                "suspended": false,
+                "last_price": 0.125,
+                "deprecated_market_cap": 71411000,
+                "day_low_price": 0.125,
+                "open_price": 0.135,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "3.846%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.17,
+                "bid_price": 0.12,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.135,
+                "year_change_in_percentage": "-13.793%",
+                "average_daily_volume": 188555,
+                "year_low_price": 0.039,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.imageres.com.au/",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Jones",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr George Sakalidis",
+                    "first_name": "George",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sakalidis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Thomas",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thomas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Collis Thorpe",
+                    "first_name": "Collis",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Thorpe",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Dennis Wilkins",
+                    "first_name": "Dennis",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilkins",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

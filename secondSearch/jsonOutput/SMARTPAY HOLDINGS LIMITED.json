@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SMP",
+    "GICSindustrygroup": "Telecommunication Services",
+    "Companyname": "SMARTPAY HOLDINGS LIMITED",
+    "ASXcode": "SMP",
+    "data": {
+        "summary": {
+            "name_short": "SMARTPAY",
+            "name_full": "SMARTPAY HOLDINGS LIMITED",
+            "code": "SMP",
+            "primary_share_code": "SMP",
+            "industry_group_name": "Telecommunication Services",
+            "delisting_date": null,
+            "sector_name": "Telecommunication Services",
+            "name_abbrev": "SMARTPAY HOLDINGS",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SMP?image_size=L&v=1385431531000",
+            "foreign_exempt": true,
+            "listing_date": "2013-09-04T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+64 9442 2700",
+            "mailing_address": "182-190 Wairau Road, ., ., GLENFIELD, ., NEW ZEALAND, 0627",
+            "principal_activities": "Design, develops and implements payment solutions and advanced payment and data management solutions.",
+            "fax_number": "+64 9442 2722",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-06-30T10:06:45+1000",
+                    "number_of_pages": 80,
+                    "id": "01870051",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-06-30T10:09:53+1000",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170630/pdf/43k9lgwjrk6btt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 32632933,
+                "code": "SMP",
+                "indices": [],
+                "year_open_price": 0.285,
+                "previous_close_price": 0.19,
+                "year_change_price": -0.095,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 171752278,
+                "eps": 0.0136,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 171752278,
+                "pe": 13.97,
+                "offer_price": 0.195,
+                "suspended": false,
+                "last_price": 0.19,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-04T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.225,
+                "bid_price": 0.185,
+                "desc_full": "Ordinary Fully Paid Foreign Exempt Nzx",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-33.333%",
+                "average_daily_volume": 236425,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1800 501 366",
+            "web_address": "http://www.smartpay.com.au",
+            "fiscal_year_end": "31/03",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY. LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gregor John Barclay",
+                    "first_name": "Gregor",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barclay",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Bradley Gerdis",
+                    "first_name": "Bradley",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gerdis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Marty Pomeroy",
+                    "first_name": "Marty",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pomeroy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew George Turnbull",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Turnbull",
+                    "middle_name": "George"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Rowena Bowman",
+                    "first_name": "Rowena",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bowman",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

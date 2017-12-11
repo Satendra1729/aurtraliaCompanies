@@ -1,0 +1,44 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DAM",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "DRIVER AUSTRALIA MASTER TRUST",
+    "ASXcode": "DAM",
+    "data": {
+        "summary": {
+            "name_full": "DRIVER AUSTRALIA MASTER TRUST",
+            "products": [],
+            "phone_number": ".",
+            "mailing_address": "., ., NSW, AUSTRALIA, 2000",
+            "principal_activities": ".",
+            "name_short": "DRIVER M",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "DRIVER AUST MASTER",
+            "latest_annual_reports": [],
+            "foreign_exempt": true,
+            "code": "DAM",
+            "listing_date": "2016-08-17T00:00:00+1000",
+            "registry_address": "123 PITT STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "PERPETUAL CORPORATE TRUST LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sharon Vella",
+                    "first_name": "Sharon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Vella",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

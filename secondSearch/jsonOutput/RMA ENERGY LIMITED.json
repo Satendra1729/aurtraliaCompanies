@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RMT",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RMA ENERGY LIMITED",
+    "ASXcode": "RMT",
+    "data": {
+        "summary": {
+            "name_short": "RMA ENERGY",
+            "name_full": "RMA ENERGY LIMITED",
+            "code": "RMT",
+            "primary_share_code": "RMT",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RMA ENERGY LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2007-06-07T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9463 2463",
+            "mailing_address": "Level 3, 88 Willam Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Exploration for base metals, coal and uranium.",
+            "fax_number": "+61 8 9463 2499",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-30T20:15:45+1100",
+                    "number_of_pages": 45,
+                    "id": "01843577",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T20:18:51+1100",
+                    "size": "2.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h5csl4sk3kgc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 8400943,
+                "code": "RMT",
+                "indices": [],
+                "year_open_price": 0.005,
+                "previous_close_price": 0.004,
+                "year_change_price": -0.001,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2100235625,
+                "eps": -0.0001,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 2100235625,
+                "pe": 0,
+                "offer_price": 0.005,
+                "suspended": false,
+                "last_price": 0.004,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-16T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-04T11:00:00+1100",
+                "year_high_price": 0.005,
+                "bid_price": 0.004,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-20%",
+                "average_daily_volume": 218452,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.rmaenergy.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mao Debao",
+                    "first_name": "Mao",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Debao",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Theuns Klopper",
+                    "first_name": "Theuns",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Klopper",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Qin Weihong",
+                    "first_name": "Qin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Weihong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gang Xu",
+                    "first_name": "Gang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Xu",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr TJ Spooner",
+                    "first_name": "TJ",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spooner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Abby Siew",
+                    "first_name": "Abby",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Siew",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

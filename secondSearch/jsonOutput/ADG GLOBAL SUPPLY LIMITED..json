@@ -1,0 +1,113 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ADQ",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "ADG GLOBAL SUPPLY LIMITED.",
+    "ASXcode": "ADQ",
+    "data": {
+        "summary": {
+            "name_short": "ADG GLOBAL",
+            "name_full": "ADG GLOBAL SUPPLY LIMITED.",
+            "code": "ADQ",
+            "primary_share_code": "ADQ",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "ADG GLOBAL SUPPLY.",
+            "foreign_exempt": false,
+            "listing_date": "1998-08-06T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "johnc@merchant.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 92797600",
+            "mailing_address": "Unit 132, 15 Hall Street, PORT MELBOURNE, VIC, AUSTRALIA, 3207",
+            "principal_activities": "ADG Global Supply (ASX:ADQ) provides industrial products, global procurement and supply chain management services. The Company has offices in Australia, United Kingdom and South Africa.",
+            "fax_number": "+61 3 92797699",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "indices": [],
+                "year_open_price": 0.012,
+                "previous_close_price": 0,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 3955924,
+                "eps": 1.7779,
+                "code": "ADQ",
+                "deprecated_number_of_shares": 3955924,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2014-12-02T00:00:00+1100",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.88,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.adgglobalsupply.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Cahill",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cahill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Karen Amos",
+                    "first_name": "Karen",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Amos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Casey",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Casey",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Martin Casey",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Casey",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

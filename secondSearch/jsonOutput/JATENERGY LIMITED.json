@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/JAT",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "JATENERGY LIMITED",
+    "ASXcode": "JAT",
+    "data": {
+        "summary": {
+            "name_short": "JATENERGY",
+            "name_full": "JATENERGY LIMITED",
+            "code": "JAT",
+            "primary_share_code": "JAT",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "JATENERGY LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2008-01-30T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9571 8300",
+            "mailing_address": "Suite 6, Level 4, 55 Miller Street, PYRMONT, NSW, AUSTRALIA, 2009",
+            "principal_activities": "JatEnergy is a company focussed on coal and second generation biofuel feed stocks",
+            "fax_number": "(02) 9571 8200",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-29T18:32:00+1000",
+                    "number_of_pages": 66,
+                    "id": "01902760",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T18:34:46+1000",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtqng4w45vqm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 32577591,
+                "status": [],
+                "market_cap": 6418106,
+                "code": "JAT",
+                "indices": [],
+                "year_open_price": 0.016,
+                "previous_close_price": 0.026,
+                "year_change_price": 0.054,
+                "year_low_date": "2017-10-18T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 246850238,
+                "eps": -0.0022,
+                "change_in_percent": "169.231%",
+                "change_price": 0.044,
+                "deprecated_number_of_shares": 246850238,
+                "pe": 0,
+                "offer_price": 0.073,
+                "suspended": false,
+                "last_price": 0.07,
+                "deprecated_market_cap": 17280000,
+                "day_low_price": 0.029,
+                "open_price": 0.029,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.095,
+                "bid_price": 0.069,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.095,
+                "year_change_in_percentage": "337.5%",
+                "average_daily_volume": 536592,
+                "year_low_price": 0.01,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.jatenergy.com",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Anthony Crimmins",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crimmins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Xipeng Li",
+                    "first_name": "Xipeng",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wilton Yao",
+                    "first_name": "Wilton",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yao",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Nicholas Falzon",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Falzon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme Hogan",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hogan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

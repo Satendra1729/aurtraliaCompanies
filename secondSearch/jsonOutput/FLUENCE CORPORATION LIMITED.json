@@ -1,0 +1,164 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/FLC",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "FLUENCE CORPORATION LIMITED",
+    "ASXcode": "FLC",
+    "data": {
+        "summary": {
+            "name_full": "FLUENCE CORPORATION LIMITED",
+            "code": "FLC",
+            "name_short": "FLUENCE",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "FLUENCE CORPORATION",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/FLC?image_size=L&v=1511230504000",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-18T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@emefcygroup.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9824 5254",
+            "mailing_address": "Level 3, 62 Lygon Street, CARLTON, VIC, AUSTRALIA, 3053",
+            "principal_activities": "Waste Water Treatment and Recycling\n\nThe Company offers a commercially-proven wastewater treatment solution potentially disrupting large existing markets and addressing the growing global need for clean water.  \n\nIts initial technology, SABRE \u00bf\u00bf\u00bf\u00bf",
+            "fax_number": "+61 3 9822 7735",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 262073,
+                "status": [],
+                "market_cap": 200311765,
+                "code": "FLC",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 1.6,
+                "previous_close_price": 0.51,
+                "year_change_price": -1.075,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 392768167,
+                "eps": -0.1007,
+                "change_in_percent": "2.941%",
+                "change_price": 0.015,
+                "deprecated_number_of_shares": 374159899,
+                "pe": 0,
+                "offer_price": 0.53,
+                "suspended": false,
+                "last_price": 0.525,
+                "deprecated_market_cap": 196434000,
+                "day_low_price": 0.505,
+                "open_price": 0.51,
+                "year_high_date": "2017-05-26T00:00:00+1000",
+                "previous_day_percentage_change": "-4.673%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.025,
+                "bid_price": 0.525,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.525,
+                "year_change_in_percentage": "-67.188%",
+                "average_daily_volume": 457154,
+                "year_low_price": 0.505,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "FLC",
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.emefcy.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": "http://www.emefcy.com/investors.php"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Henry Irving",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Irving",
+                    "middle_name": "Henry"
+                },
+                {
+                    "full_name": "Mr Eytan Baruch Levy",
+                    "first_name": "Eytan",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Levy",
+                    "middle_name": "Baruch"
+                },
+                {
+                    "full_name": "Mr Ross Haghighat",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haghighat",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Ashley Marks",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marks",
+                    "middle_name": "Ashley"
+                },
+                {
+                    "full_name": "Mr Robert Wale",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wale",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lior Zitershpiler",
+                    "first_name": "Lior",
+                    "roles": [
+                        "Finance Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zitershpiler",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ross James Kennedy",
+                    "first_name": "Ross",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kennedy",
+                    "middle_name": "James"
+                }
+            ]
+        }
+    }
+}

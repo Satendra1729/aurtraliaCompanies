@@ -1,0 +1,84 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/WSZ",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "SERIES 2014-1 WST TRUST",
+    "ASXcode": "WSZ",
+    "data": {
+        "summary": {
+            "name_full": "SERIES 2014-1 WST TRUST",
+            "products": [],
+            "email_address": "investorelations@westpac.com.auq",
+            "mailing_address": "Westpac Securitisation Management P/L, Level 20, 275 Kent Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "name_short": "WST S14-1",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "SERIES 2014-1 WST",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "WSZ",
+            "listing_date": "2014-07-02T00:00:00+1000",
+            "phone_number": "02 8253 3589",
+            "web_address": "http://www.estpac.com.au/investorcentre",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Richard Neil Burton",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burton",
+                    "middle_name": "Neil"
+                },
+                {
+                    "full_name": "Mr David Anthony Lees",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lees",
+                    "middle_name": "Anthony"
+                },
+                {
+                    "full_name": "Mr Guy Francesco Volpicella",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Volpicella",
+                    "middle_name": "Francesco"
+                },
+                {
+                    "full_name": "Mr Curtis Alan Zuber",
+                    "first_name": "Curtis",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zuber",
+                    "middle_name": "Alan"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Linda La Hood",
+                    "first_name": "Linda",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "La Hood",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

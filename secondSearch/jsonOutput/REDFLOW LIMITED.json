@@ -1,0 +1,184 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RFX",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "REDFLOW LIMITED",
+    "ASXcode": "RFX",
+    "data": {
+        "summary": {
+            "name_short": "REDFLOW",
+            "name_full": "REDFLOW LIMITED",
+            "code": "RFX",
+            "primary_share_code": "RFX",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "REDFLOW LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2010-12-14T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3376 0008",
+            "mailing_address": "1/27 Counihan Road, SEVENTEEN MILE ROCKS, QLD, AUSTRALIA, 4073",
+            "principal_activities": "Energy storage technology.",
+            "fax_number": "(07) 3376 3751",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-11-22T15:22:15+1100",
+                    "number_of_pages": 78,
+                    "id": "01924625",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-22T15:24:34+1100",
+                    "size": "8.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171122/pdf/43pgv5jyrctqsc.pdf"
+                },
+                {
+                    "header": "FY17 Appendix 4E / Annual Report",
+                    "document_date": "2017-08-29T16:11:58+1000",
+                    "number_of_pages": 78,
+                    "id": "01889694",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T16:14:23+1000",
+                    "size": "900.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lvj1qgwvcnx4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 241663,
+                "status": [],
+                "market_cap": 64787355,
+                "code": "RFX",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.13494,
+                "previous_close_price": 0.12,
+                "year_change_price": -0.01494,
+                "year_low_date": "2017-10-24T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 539894623,
+                "eps": -0.0335,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 539894623,
+                "pe": 0,
+                "offer_price": 0.13,
+                "suspended": false,
+                "last_price": 0.12,
+                "deprecated_market_cap": 64787000,
+                "day_low_price": 0.12,
+                "open_price": 0.125,
+                "year_high_date": "2016-12-14T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.33,
+                "bid_price": 0.12,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.125,
+                "year_change_in_percentage": "-11.072%",
+                "average_daily_volume": 1071535,
+                "year_low_price": 0.08,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.redflow.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Simon Hackett",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Executive Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hackett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Howard Stack",
+                    "first_name": "Howard",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stack",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Aird",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Executive Director",
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Aird",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Brown",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Knox",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Knox",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Tapper",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tapper",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Richard Aird",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Aird",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

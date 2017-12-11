@@ -1,0 +1,173 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SSG",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "SHAVER SHOP GROUP LIMITED",
+    "ASXcode": "SSG",
+    "data": {
+        "summary": {
+            "name_short": "SHAVERSHOP",
+            "name_full": "SHAVER SHOP GROUP LIMITED",
+            "last_dividend": {
+                "comments": "2.4C FRANKED @30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-10-10T00:00:00+1100",
+                "payable_date": "2017-10-24T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.024,
+                "ex_date": "2017-10-09T00:00:00+1100"
+            },
+            "code": "SSG",
+            "primary_share_code": "SSG",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "SHAVER SHOP GRP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2016-07-01T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "investorrelations@shavershop.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9840 5900",
+            "mailing_address": "Level 1, Chadstone Tower One, 1367 Dandenong Road, CHADSTONE, VIC, AUSTRALIA, 3148",
+            "principal_activities": "",
+            "fax_number": "03 9840 5999",
+            "latest_annual_reports": [
+                {
+                    "header": "SSG - 2017 Annual Report",
+                    "document_date": "2017-09-25T09:41:26+1000",
+                    "number_of_pages": 76,
+                    "id": "01899397",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-25T09:44:48+1000",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170925/pdf/43mlnx2g4ccfzw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 59422,
+                "status": [],
+                "market_cap": 59658124,
+                "code": "SSG",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "deprecated_number_of_shares": 127898459,
+                "previous_close_price": 0.465,
+                "year_low_date": "2017-09-28T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 128297040,
+                "eps": 0.072,
+                "change_in_percent": "3.226%",
+                "change_price": 0.015,
+                "pe": 6.67,
+                "offer_price": 0.48,
+                "suspended": false,
+                "last_price": 0.48,
+                "deprecated_market_cap": 61391000,
+                "day_low_price": 0.47,
+                "open_price": 0.47,
+                "year_high_date": "2016-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-1.064%",
+                "year_open_date": null,
+                "year_high_price": 1.035,
+                "bid_price": 0.46,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.48,
+                "average_daily_volume": 446340,
+                "year_low_price": 0.385,
+                "annual_dividend_yield": 8.33
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://shavershop.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://investors.shavershop.com.au/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brodie Arnhold",
+                    "first_name": "Brodie",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Arnhold",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cameron Fox",
+                    "first_name": "Cameron",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fox",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Mathieson",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mathieson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trent Peterson",
+                    "first_name": "Trent",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Peterson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brian Singer",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Singer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Melanie Wilson",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Lawrence Hamson",
+                    "first_name": "Lawrence",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hamson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

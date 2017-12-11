@@ -1,0 +1,197 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GZL",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "GAZAL CORPORATION LIMITED",
+    "ASXcode": "GZL",
+    "data": {
+        "summary": {
+            "name_short": "GAZAL",
+            "name_full": "GAZAL CORPORATION LIMITED",
+            "code": "GZL",
+            "primary_share_code": "GZL",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "GAZAL CORPORATION",
+            "foreign_exempt": false,
+            "listing_date": "1965-04-29T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "8C FRANKED @ 30%; DR P SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-25T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-10-03T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.08,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9316 2800",
+            "mailing_address": "3-7 McPherson Street, BANKSMEADOW, NSW, AUSTRALIA, 2019",
+            "principal_activities": "Importation, manufacture and distribution of apparel.",
+            "fax_number": "(02) 9316 4704",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-09-28T16:57:12+1000",
+                    "number_of_pages": 96,
+                    "id": "01901414",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T17:00:33+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr1bgmyjdbw9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5000,
+                "status": [],
+                "market_cap": 116709714,
+                "code": "GZL",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 2.9,
+                "previous_close_price": 2,
+                "year_change_price": -0.91,
+                "year_low_date": "2017-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 58354857,
+                "eps": 0.181,
+                "change_in_percent": "-0.5%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 58354857,
+                "pe": 10.99,
+                "offer_price": 2.14,
+                "suspended": false,
+                "last_price": 1.99,
+                "deprecated_market_cap": 116126000,
+                "day_low_price": 1.99,
+                "open_price": 2,
+                "year_high_date": "2017-05-18T00:00:00+1000",
+                "previous_day_percentage_change": "0.503%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.4,
+                "bid_price": 1.99,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2,
+                "year_change_in_percentage": "-31.379%",
+                "average_daily_volume": 5152,
+                "year_low_price": 1.95,
+                "annual_dividend_yield": 7.04
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.gazal.com.au/",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael J Gazal",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gazal",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Patrick Robinson",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David J Gazal",
+                    "first_name": "David",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gazal",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Richard V Gazal",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gazal",
+                    "middle_name": "V"
+                },
+                {
+                    "full_name": "Mr Craig Kimberley",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kimberley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Klatsky",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Klatsky",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Paton",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Guy Griffiths",
+                    "first_name": "Guy",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Griffiths",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter J Wood",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wood",
+                    "middle_name": "J"
+                }
+            ]
+        }
+    }
+}

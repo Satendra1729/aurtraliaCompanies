@@ -1,0 +1,65 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CFF",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "COMPAGNIE DE FINANCEMENT FONCIER",
+    "ASXcode": "CFF",
+    "data": {
+        "summary": {
+            "name_full": "COMPAGNIE DE FINANCEMENT FONCIER",
+            "products": [],
+            "email_address": "sean.smatt@creditfoncier.fr",
+            "mailing_address": "4 Quaide Bercy, SYDNEY, ., AUSTRALIA, 2000",
+            "principal_activities": "",
+            "name_short": "COMPAGNIE",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "COMPAGNIE DE FINANCE",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "CFF",
+            "fax_number": "+33 1 57 44 78 89",
+            "listing_date": "2005-02-18T00:00:00+1100",
+            "phone_number": "+33 1 57 44 92 20",
+            "web_address": null,
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Thierry Dufour",
+                    "first_name": "Thierry",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dufour",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sandrine Guerin",
+                    "first_name": "Sandrine",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Guerin",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Thibaut Bienaime",
+                    "first_name": "Thibaut",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bienaime",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

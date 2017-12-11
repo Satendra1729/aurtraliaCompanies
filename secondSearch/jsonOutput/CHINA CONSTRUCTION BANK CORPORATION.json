@@ -1,0 +1,43 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CCB",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "CHINA CONSTRUCTION BANK CORPORATION",
+    "ASXcode": "CCB",
+    "data": {
+        "summary": {
+            "name_full": "CHINA CONSTRUCTION BANK CORPORATION",
+            "products": [],
+            "email_address": "Coliza.Cheng@ccbaustralia.com",
+            "mailing_address": "Suite 33, Level 33, 126-130 Phillip Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "name_short": "CCB CORP",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "CHINA CONSTRUCT BANK",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "CCB",
+            "listing_date": "2014-07-08T00:00:00+1000",
+            "phone_number": "+61 2 8031 6100",
+            "web_address": "http://au.ccb.com/sydney/en/index.html",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Cathy Cheng Pui Ling",
+                    "first_name": "Cathy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ling",
+                    "middle_name": "Cheng Pui"
+                }
+            ]
+        }
+    }
+}

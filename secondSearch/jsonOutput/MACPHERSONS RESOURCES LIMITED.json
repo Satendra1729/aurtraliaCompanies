@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MRP",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MACPHERSONS RESOURCES LIMITED",
+    "ASXcode": "MRP",
+    "data": {
+        "summary": {
+            "name_short": "MAC RES",
+            "name_full": "MACPHERSONS RESOURCES LIMITED",
+            "code": "MRP",
+            "primary_share_code": "MRP",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MACPHERSONS RESOURCE",
+            "foreign_exempt": false,
+            "listing_date": "2010-12-24T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9068 1300",
+            "mailing_address": "109 Maritana Street, KALGOORLIE, KALGOORLIE, WA, AUSTRALIA, 6430",
+            "principal_activities": "Precious and base metal exploration and development",
+            "fax_number": "(08) 9068 1310",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T16:33:26+1000",
+                    "number_of_pages": 74,
+                    "id": "01902520",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:34:56+1000",
+                    "size": "4.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt8ghdmkybxp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 647080,
+                "status": [],
+                "market_cap": 43508121,
+                "code": "MRP",
+                "indices": [],
+                "year_open_price": 0.19,
+                "previous_close_price": 0.125,
+                "year_change_price": -0.055,
+                "year_low_date": "2016-12-30T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 348064964,
+                "eps": -0.0331,
+                "change_in_percent": "8%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 351026501,
+                "pe": 0,
+                "offer_price": 0.135,
+                "suspended": false,
+                "last_price": 0.135,
+                "deprecated_market_cap": 47389000,
+                "day_low_price": 0.135,
+                "open_price": 0.135,
+                "year_high_date": "2017-03-28T00:00:00+1100",
+                "previous_day_percentage_change": "8.696%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.3,
+                "bid_price": 0.125,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.145,
+                "year_change_in_percentage": "-28.947%",
+                "average_daily_volume": 334549,
+                "year_low_price": 0.078,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.mrpresources.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ashok Parekh",
+                    "first_name": "Ashok",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Parekh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeffrey Williams",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Rozenauers",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rozenauers",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Stephen Hewitt-Dutton",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hewitt-Dutton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

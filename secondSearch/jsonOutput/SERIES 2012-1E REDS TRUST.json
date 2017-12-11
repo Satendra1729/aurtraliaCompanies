@@ -1,0 +1,55 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RFB",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "SERIES 2012-1E REDS TRUST",
+    "ASXcode": "RFB",
+    "data": {
+        "summary": {
+            "name_full": "SERIES 2012-1E REDS TRUST",
+            "products": [],
+            "phone_number": "07 3212 3981",
+            "mailing_address": "B.Q.L. Management Pty Ltd, Level 6, 100 Skyring Terrace, NEWSTEAD, QLD, AUSTRALIA, 4006",
+            "principal_activities": "",
+            "name_short": "SER 12-01E",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "SERIES 2012-1E RED",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "RFB",
+            "registry_address": "LEVEL 7, 9 CASTLEREAGH STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "listing_date": "2013-03-14T00:00:00+1100",
+            "fax_number": "07 3212 3951",
+            "web_address": null,
+            "registry_name": "PERPETUAL TRUSTEE COMPANY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr James Shaw",
+                    "first_name": "James",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shaw",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Amita Laroiya",
+                    "first_name": "Amita",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Laroiya",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

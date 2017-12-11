@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RIE",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RIEDEL RESOURCES LIMITED",
+    "ASXcode": "RIE",
+    "data": {
+        "summary": {
+            "name_short": "RIEDEL RES",
+            "name_full": "RIEDEL RESOURCES LIMITED",
+            "code": "RIE",
+            "primary_share_code": "RIE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RIEDEL RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-01-31T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9226 0866",
+            "mailing_address": "Suite 1, 6 Richardson Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mineral exploration (gold and base metals).",
+            "fax_number": "(08) 9486 7375",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-09-26T18:45:08+1000",
+                    "number_of_pages": 69,
+                    "id": "01900185",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T18:48:43+1000",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mndc08hbtxgh.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 237603,
+                "status": [],
+                "market_cap": 33685738,
+                "code": "RIE",
+                "indices": [],
+                "year_open_price": 0.017,
+                "previous_close_price": 0.09,
+                "year_change_price": 0.068,
+                "year_low_date": "2016-12-28T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 374285980,
+                "eps": 0.0006,
+                "change_in_percent": "-5.556%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 374285980,
+                "pe": 141.67,
+                "offer_price": 0.089,
+                "suspended": false,
+                "last_price": 0.085,
+                "deprecated_market_cap": 31814000,
+                "day_low_price": 0.085,
+                "open_price": 0.09,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "5.882%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.095,
+                "bid_price": 0.085,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.09,
+                "year_change_in_percentage": "400%",
+                "average_daily_volume": 1464270,
+                "year_low_price": 0.008,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.riedelresources.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jeffrey John Moore",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moore",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Scott Cuomo",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cuomo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alexander Sutherland",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sutherland",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Abby Siew",
+                    "first_name": "Abby",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Siew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Henko Vos",
+                    "first_name": "Henko",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vos",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

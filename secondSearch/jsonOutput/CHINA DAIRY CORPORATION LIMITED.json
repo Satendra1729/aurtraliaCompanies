@@ -1,0 +1,164 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CDC",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "CHINA DAIRY CORPORATION LIMITED",
+    "ASXcode": "CDC",
+    "data": {
+        "summary": {
+            "name_short": "CHINADAIRY",
+            "name_full": "CHINA DAIRY CORPORATION LIMITED",
+            "code": "CDC",
+            "primary_share_code": "CDC",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "CHINA DAIRY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2016-04-08T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI;  DRP NIL DISC",
+                "franked_percentage": "0%",
+                "created_date": "2017-02-21T00:00:00+1100",
+                "record_date": "2017-03-07T00:00:00+1100",
+                "payable_date": "2017-04-21T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.0064,
+                "ex_date": "2017-03-06T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9191 0135",
+            "mailing_address": "1B/205-207, Johnston Street, FITZROY, VIC, AUSTRALIA, 3065",
+            "principal_activities": "The Company is primarily engaged in the production and wholesale of raw milk and the rearing, breeding and sale of dairy cows in Harbin, People\u00bf\u00bf\u00bf\u00bf\u00bf\u00bfs Republic of China.",
+            "fax_number": "-",
+            "latest_annual_reports": [
+                {
+                    "header": "Updated Annual Report to Shareholders",
+                    "document_date": "2017-10-05T16:31:16+1100",
+                    "number_of_pages": 48,
+                    "id": "01904805",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-05T16:38:03+1100",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171005/pdf/43mzns6by06kw4.pdf"
+                },
+                {
+                    "header": "Updated Annual Report to Shareholders",
+                    "document_date": "2017-10-02T08:16:12+1100",
+                    "number_of_pages": 48,
+                    "id": "01903106",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:52:30+1100",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvw8c89x4333.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-30T07:35:22+1000",
+                    "number_of_pages": 48,
+                    "id": "01902949",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:02:35+1100",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvl4zsnhg0wl.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 205193,
+                "status": [],
+                "market_cap": 49238738,
+                "code": "CDC",
+                "indices": [],
+                "deprecated_number_of_shares": 734906541,
+                "previous_close_price": 0.067,
+                "year_low_date": "2017-12-04T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 734906541,
+                "eps": 0.0744,
+                "change_in_percent": "-1.493%",
+                "change_price": -0.001,
+                "pe": 0.89,
+                "offer_price": 0.069,
+                "suspended": false,
+                "last_price": 0.066,
+                "deprecated_market_cap": 48504000,
+                "day_low_price": 0.066,
+                "open_price": 0.067,
+                "year_high_date": "2016-12-09T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.155,
+                "bid_price": 0.066,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0.067,
+                "average_daily_volume": 180511,
+                "year_low_price": 0.065,
+                "annual_dividend_yield": 9.7
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.chinadairyco.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Enjia Liu",
+                    "first_name": "Enjia",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "The Hon Andrew John Stoner",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Deputy Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "Stoner",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Youliang Wang",
+                    "first_name": "Youliang",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Paul Batten",
+                    "first_name": "David",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Batten",
+                    "middle_name": "Paul"
+                },
+                {
+                    "full_name": "Mr Lidong Jiang",
+                    "first_name": "Lidong",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jiang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": []
+        }
+    }
+}

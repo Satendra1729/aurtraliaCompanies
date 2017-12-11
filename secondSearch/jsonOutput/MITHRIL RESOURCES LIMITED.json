@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MTH",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MITHRIL RESOURCES LIMITED",
+    "ASXcode": "MTH",
+    "data": {
+        "summary": {
+            "name_short": "MITHRIL",
+            "name_full": "MITHRIL RESOURCES LIMITED",
+            "code": "MTH",
+            "primary_share_code": "MTH",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MITHRIL RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2002-11-18T00:00:00+1100",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 8132 8800",
+            "mailing_address": "22B Beulah Road, NORWOOD, SA, AUSTRALIA, 5067",
+            "principal_activities": "Nickel exploration.",
+            "fax_number": "(08) 8132 8899",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-13T16:26:35+1100",
+                    "number_of_pages": 61,
+                    "id": "01907831",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T16:29:31+1100",
+                    "size": "867.2KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6v3jsh1zm4w.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 609735,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 3058119,
+                "code": "MTH",
+                "indices": [],
+                "year_open_price": 0.0099,
+                "previous_close_price": 0.031,
+                "year_change_price": 0.0211,
+                "year_low_date": "2017-09-26T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 98649014,
+                "eps": -0.011,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 98649014,
+                "pe": 0,
+                "offer_price": 0.032,
+                "suspended": false,
+                "last_price": 0.031,
+                "deprecated_market_cap": 3058000,
+                "day_low_price": 0.029,
+                "open_price": 0.031,
+                "year_high_date": "2017-02-21T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.08,
+                "bid_price": 0.03,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.031,
+                "year_change_in_percentage": "213.131%",
+                "average_daily_volume": 4120775,
+                "year_low_price": 0.02,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.mithrilresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Graham Ascough",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ascough",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Hutton",
+                    "first_name": "David",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hutton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Donald Stephens",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephens",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Donald Stephens",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cormac Byrne",
+                    "first_name": "Cormac",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Byrne",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

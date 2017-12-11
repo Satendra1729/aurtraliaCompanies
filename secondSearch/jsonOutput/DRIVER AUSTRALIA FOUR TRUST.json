@@ -1,0 +1,44 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DAZ",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "DRIVER AUSTRALIA FOUR TRUST",
+    "ASXcode": "DAZ",
+    "data": {
+        "summary": {
+            "name_full": "DRIVER AUSTRALIA FOUR TRUST",
+            "products": [],
+            "phone_number": "tba",
+            "mailing_address": "., ., ., ., NSW, AUSTRALIA, .",
+            "principal_activities": ".",
+            "name_short": "DRIVERFOUR",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "DRIVER AU FOUR TRUST",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "DAZ",
+            "listing_date": "2017-06-19T00:00:00+1000",
+            "registry_address": "123 PITT STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "PERPETUAL CORPORATE TRUST LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Romano",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Romano",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

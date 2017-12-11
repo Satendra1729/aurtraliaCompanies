@@ -1,0 +1,80 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IXU",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "IXUP LIMITED",
+    "ASXcode": "IXU",
+    "data": {
+        "summary": {
+            "name_short": "IXUP",
+            "name_full": "IXUP LIMITED",
+            "code": "IXU",
+            "primary_share_code": "IXU",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "IXUP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2017-11-15T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8206 8888",
+            "mailing_address": "Lot 10, Level 3, 7 Bridge Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Data software",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 1214424,
+                "status": [],
+                "market_cap": 93503938,
+                "code": "IXU",
+                "indices": [],
+                "deprecated_number_of_shares": 95943750,
+                "previous_close_price": 0.59,
+                "year_low_date": "2017-11-15T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 158481251,
+                "eps": 0,
+                "change_in_percent": "-0.847%",
+                "change_price": -0.005,
+                "pe": 0,
+                "offer_price": 0.595,
+                "suspended": false,
+                "last_price": 0.585,
+                "deprecated_market_cap": 56127000,
+                "day_low_price": 0.555,
+                "open_price": 0.59,
+                "year_high_date": "2017-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.635,
+                "bid_price": 0.585,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.595,
+                "average_daily_volume": 1885241,
+                "year_low_price": 0.35,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.ixup.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Scott Mison",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mison",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

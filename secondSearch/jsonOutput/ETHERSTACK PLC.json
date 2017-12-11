@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ESK",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "ETHERSTACK PLC",
+    "ASXcode": "ESK",
+    "data": {
+        "summary": {
+            "name_short": "ETHERSTACK",
+            "name_full": "ETHERSTACK PLC",
+            "code": "ESK",
+            "primary_share_code": "ESK",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "ETHERSTACK PLC",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ESK?image_size=L&v=1450738691000",
+            "foreign_exempt": false,
+            "listing_date": "2012-09-07T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8399 7500",
+            "mailing_address": "Level 1, 93 A Sheperd Street, CHIPPENDALE, NSW, AUSTRALIA, 2008",
+            "principal_activities": "Wireless technology.",
+            "fax_number": "(02) 8399 7507",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-03-30T09:13:40+1100",
+                    "number_of_pages": 68,
+                    "id": "01843257",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T09:16:27+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h4pzcsxqttvp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 13402238,
+                "code": "ESK",
+                "indices": [],
+                "year_open_price": 0.35,
+                "previous_close_price": 0.12,
+                "year_change_price": -0.23,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 111685313,
+                "eps": 0.0171,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 111685313,
+                "pe": 7.02,
+                "offer_price": 0.155,
+                "suspended": false,
+                "last_price": 0.12,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-08-15T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.28,
+                "bid_price": 0.1,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-65.714%",
+                "average_daily_volume": 20539,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.etherstack.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Stephens",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Deacon",
+                    "first_name": "David",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Deacon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Barnes",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barnes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Minehane",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Minehane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Carter",
+                    "first_name": "David",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carter",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Carter",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Barnes",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barnes",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

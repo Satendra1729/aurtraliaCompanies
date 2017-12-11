@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GSC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GLOBAL GEOSCIENCE LIMITED",
+    "ASXcode": "GSC",
+    "data": {
+        "summary": {
+            "name_short": "GEOSCI",
+            "name_full": "GLOBAL GEOSCIENCE LIMITED",
+            "code": "GSC",
+            "primary_share_code": "GSC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GLOBAL GEOSCIENCE",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-19T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "61 2 9922 5800",
+            "mailing_address": "Suite 203, 161 Walker Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Exploration for mineral deposits in the USA.",
+            "fax_number": "61 2 9922 4004",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-08-28T16:38:43+1000",
+                    "number_of_pages": 69,
+                    "id": "01889119",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-28T16:41:51+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170828/pdf/43lt89264k8tjt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 973788,
+                "status": [],
+                "market_cap": 281840294,
+                "code": "GSC",
+                "indices": [
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.03211,
+                "previous_close_price": 0.215,
+                "year_change_price": 0.18789,
+                "year_low_date": "2016-12-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1310885087,
+                "eps": -0.0148,
+                "change_in_percent": "2.326%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 1310885087,
+                "pe": 0,
+                "offer_price": 0.23,
+                "suspended": false,
+                "last_price": 0.22,
+                "deprecated_market_cap": 288395000,
+                "day_low_price": 0.22,
+                "open_price": 0.22,
+                "year_high_date": "2017-10-12T00:00:00+1100",
+                "previous_day_percentage_change": "2.381%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.255,
+                "bid_price": 0.22,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.23,
+                "year_change_in_percentage": "585.145%",
+                "average_daily_volume": 2297249,
+                "year_low_price": 0.056,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.globalgeo.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr James Derrick Calaway",
+                    "first_name": "James",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Calaway",
+                    "middle_name": "Derrick"
+                },
+                {
+                    "full_name": "Mr Bernard Rowe",
+                    "first_name": "Bernard",
+                    "roles": [
+                        "Managing Director",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan John Bruce Davies",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davies",
+                    "middle_name": "John Bruce"
+                },
+                {
+                    "full_name": "Mr Patrick Elliott",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Elliott",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Daniel Hofmeister",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hofmeister",
+                    "middle_name": "Daniel"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Joanna Morbey",
+                    "first_name": "Joanna",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morbey",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

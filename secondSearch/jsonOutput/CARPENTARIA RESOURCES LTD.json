@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CAP",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CARPENTARIA RESOURCES LTD",
+    "ASXcode": "CAP",
+    "data": {
+        "summary": {
+            "name_short": "CARPENTARI",
+            "name_full": "CARPENTARIA RESOURCES LTD",
+            "code": "CAP",
+            "primary_share_code": "CAP",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CARPENTARIA RESOURCE",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CAP?image_size=L&v=1509956371000",
+            "foreign_exempt": false,
+            "listing_date": "2007-11-14T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3220 2022",
+            "mailing_address": "Level 6, 345 Ann Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "(07) 3220 1291",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-19T17:45:47+1000",
+                    "number_of_pages": 50,
+                    "id": "01897658",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-19T17:49:41+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170919/pdf/43mgbq4v623np0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 300000,
+                "status": [],
+                "market_cap": 20915024,
+                "code": "CAP",
+                "indices": [],
+                "year_open_price": 0.11,
+                "previous_close_price": 0.105,
+                "year_change_price": -0.01,
+                "year_low_date": "2017-05-24T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 199190706,
+                "eps": -0.007,
+                "change_in_percent": "-4.762%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 199190706,
+                "pe": 0,
+                "offer_price": 0.115,
+                "suspended": false,
+                "last_price": 0.1,
+                "deprecated_market_cap": 19919000,
+                "day_low_price": 0.1,
+                "open_price": 0.11,
+                "year_high_date": "2017-11-27T00:00:00+1100",
+                "previous_day_percentage_change": "-8.696%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.125,
+                "bid_price": 0.1,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.11,
+                "year_change_in_percentage": "-9.091%",
+                "average_daily_volume": 170034,
+                "year_low_price": 0.051,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.capex.net.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Neil Williams",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Quentin Hill",
+                    "first_name": "Quentin",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bin Cai",
+                    "first_name": "Bin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cai",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Cholakos",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cholakos",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Bob Hair",
+                    "first_name": "Bob",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hair",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

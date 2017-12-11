@@ -1,0 +1,161 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BPF",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "BULLETPROOF GROUP LIMITED",
+    "ASXcode": "BPF",
+    "data": {
+        "summary": {
+            "name_full": "BULLETPROOF GROUP LIMITED",
+            "code": "BPF",
+            "name_short": "BULLETPRF",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "BULLETPROOF GROUP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BPF?image_size=L&v=1390371540000",
+            "foreign_exempt": false,
+            "listing_date": "2012-03-29T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "investors@bulletproof.net",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9663 9000",
+            "mailing_address": "Level 17, 60 Margaret Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Managed Cloud services for enterprise, corporate and government customers.",
+            "fax_number": "(02) 9662 4744",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report FY17",
+                    "document_date": "2017-08-30T14:06:37+1000",
+                    "number_of_pages": 64,
+                    "id": "01890277",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-30T14:12:14+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lwrw20j0n9vn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 852415,
+                "status": [],
+                "market_cap": 18673213,
+                "code": "BPF",
+                "indices": [],
+                "year_open_price": 0.345,
+                "previous_close_price": 0.115,
+                "year_change_price": -0.235,
+                "year_low_date": "2017-10-25T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 162375769,
+                "eps": -0.0384,
+                "change_in_percent": "-4.348%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 162375769,
+                "pe": 0,
+                "offer_price": 0.115,
+                "suspended": false,
+                "last_price": 0.11,
+                "deprecated_market_cap": 17861000,
+                "day_low_price": 0.11,
+                "open_price": 0.115,
+                "year_high_date": "2017-01-13T00:00:00+1100",
+                "previous_day_percentage_change": "4.545%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.265,
+                "bid_price": 0.11,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.12,
+                "year_change_in_percentage": "-68.116%",
+                "average_daily_volume": 344768,
+                "year_low_price": 0.065,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "BPF",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.bulletproof.net.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://www.bulletproof.net.au/about/investors/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Paterson",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paterson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Farrow",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Farrow",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Woodward",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "CEO",
+                        "Executive Director",
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Woodward",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kenneth Martin Carr",
+                    "first_name": "Kenneth",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carr",
+                    "middle_name": "Martin"
+                },
+                {
+                    "full_name": "Ms Paula Kensington",
+                    "first_name": "Paula",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kensington",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Damien Scott Connor",
+                    "first_name": "Damien",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Connor",
+                    "middle_name": "Scott"
+                },
+                {
+                    "full_name": "Ms Paula Kensington",
+                    "first_name": "Paula",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kensington",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

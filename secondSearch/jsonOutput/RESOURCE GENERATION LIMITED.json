@@ -1,0 +1,208 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RES",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "RESOURCE GENERATION LIMITED",
+    "ASXcode": "RES",
+    "data": {
+        "summary": {
+            "name_short": "RES GENER",
+            "name_full": "RESOURCE GENERATION LIMITED",
+            "code": "RES",
+            "primary_share_code": "RES",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "RESOURCE GENERATION",
+            "foreign_exempt": false,
+            "listing_date": "2003-10-31T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@resgen.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+27 12 345 1057",
+            "mailing_address": "Level 1, 17 Station Road, INDOOROOPILLY, QLD, AUSTRALIA, 4068",
+            "principal_activities": "Exploration and development of energy related resources",
+            "fax_number": "+27 12 345 5314",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report - 2017",
+                    "document_date": "2017-09-26T08:43:39+1000",
+                    "number_of_pages": 104,
+                    "id": "01899770",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T08:50:30+1000",
+                    "size": "4.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mmk427v6nng3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 28315,
+                "status": [],
+                "market_cap": 34882820,
+                "code": "RES",
+                "indices": [],
+                "year_open_price": 0.18,
+                "previous_close_price": 0.06,
+                "year_change_price": -0.119,
+                "year_low_date": "2017-10-26T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 581380338,
+                "eps": -0.0034,
+                "change_in_percent": "1.667%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 581380338,
+                "pe": 0,
+                "offer_price": 0.067,
+                "suspended": false,
+                "last_price": 0.061,
+                "deprecated_market_cap": 35464000,
+                "day_low_price": 0.061,
+                "open_price": 0.061,
+                "year_high_date": "2017-01-20T00:00:00+1100",
+                "previous_day_percentage_change": "-4.762%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.13,
+                "bid_price": 0.06,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.061,
+                "year_change_in_percentage": "-66.111%",
+                "average_daily_volume": 185479,
+                "year_low_price": 0.041,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.resgen.com.au/",
+            "fiscal_year_end": "30/6",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Lulamile Xate",
+                    "first_name": "Lulamile",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Xate",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rob Lowe",
+                    "first_name": "Rob",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lowe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Croll",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Croll",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Manish Dahiya",
+                    "first_name": "Manish",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dahiya",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colin Gilligan",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gilligan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Papi Molotsane",
+                    "first_name": "Papi",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Molotsane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Konji Sebati",
+                    "first_name": "Konji",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Sebati",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Watson",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Watson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gregory Hunter",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hunter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Zirk Van der Bank",
+                    "first_name": "Zirk",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Van der Bank",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brendan O'Regan",
+                    "first_name": "Brendan",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Regan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mike Meintjes",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Meintjes",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KLL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KALIUM LAKES LIMITED",
+    "ASXcode": "KLL",
+    "data": {
+        "summary": {
+            "name_full": "KALIUM LAKES LIMITED",
+            "code": "KLL",
+            "name_short": "KALIUMLAKE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "KALIUM LAKES LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/KLL?image_size=L&v=1493256197000",
+            "foreign_exempt": false,
+            "listing_date": "2016-12-22T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@kaliumlakes.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9240 3200",
+            "mailing_address": "Unit 1, 152 Balcatta Road, BALCATTA, WA, AUSTRALIA, 6021",
+            "principal_activities": "Mineral exploration to become a sulphate of potash producer",
+            "fax_number": "00 0000 0000",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-09T13:57:04+1100",
+                    "number_of_pages": 70,
+                    "id": "01905793",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-09T13:58:42+1100",
+                    "size": "5.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171009/pdf/43n28b0d1hdh7y.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 292932,
+                "status": [],
+                "market_cap": 67640988,
+                "code": "KLL",
+                "indices": [],
+                "deprecated_number_of_shares": 107208172,
+                "previous_close_price": 0.41,
+                "year_low_date": "2016-12-30T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 164978019,
+                "eps": -0.054,
+                "change_in_percent": "-2.439%",
+                "change_price": -0.01,
+                "pe": 0,
+                "offer_price": 0.415,
+                "suspended": false,
+                "last_price": 0.4,
+                "deprecated_market_cap": 42883000,
+                "day_low_price": 0.4,
+                "open_price": 0.415,
+                "year_high_date": "2017-10-05T00:00:00+1100",
+                "previous_day_percentage_change": "-1.205%",
+                "year_open_date": null,
+                "year_high_price": 0.555,
+                "bid_price": 0.4,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.415,
+                "average_daily_volume": 85684,
+                "year_low_price": 0.195,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "KLL",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.kaliumlakes.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.kaliumlakes.com.au/investor-information"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mal Randall",
+                    "first_name": "Mal",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Randall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Hazelden",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hazelden",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brendan O'Hara",
+                    "first_name": "Brendan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Hara",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rudolph van Niekerk",
+                    "first_name": "Rudolph",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "van Niekerk",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gareth Widger",
+                    "first_name": "Gareth",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Widger",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

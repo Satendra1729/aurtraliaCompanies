@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MGT",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MAGNETITE MINES LIMITED.",
+    "ASXcode": "MGT",
+    "data": {
+        "summary": {
+            "name_short": "MAGNETITE",
+            "name_full": "MAGNETITE MINES LIMITED.",
+            "code": "MGT",
+            "primary_share_code": "MGT",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MAGNETITE MINES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MGT?image_size=L&v=1452140497000",
+            "foreign_exempt": false,
+            "listing_date": "2006-04-06T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 8427 0516",
+            "mailing_address": "118B Glen Osmond Road, PARKSIDE, SA, AUSTRALIA, 5063",
+            "principal_activities": "iron ore and uranium exploration",
+            "fax_number": "08 8427 0515",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-29T16:49:41+1000",
+                    "number_of_pages": 72,
+                    "id": "01902566",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:52:16+1000",
+                    "size": "4.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtc528sltq53.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 36564,
+                "status": [],
+                "market_cap": 18574005,
+                "code": "MGT",
+                "indices": [],
+                "year_open_price": 0.042,
+                "previous_close_price": 0.034,
+                "year_change_price": -0.007,
+                "year_low_date": "2017-08-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 546294264,
+                "eps": -0.0097,
+                "change_in_percent": "2.941%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 546294264,
+                "pe": 0,
+                "offer_price": 0.035,
+                "suspended": false,
+                "last_price": 0.035,
+                "deprecated_market_cap": 19120000,
+                "day_low_price": 0.035,
+                "open_price": 0.035,
+                "year_high_date": "2017-01-30T00:00:00+1100",
+                "previous_day_percentage_change": "-2.857%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.056,
+                "bid_price": 0.034,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.035,
+                "year_change_in_percentage": "-16.667%",
+                "average_daily_volume": 236186,
+                "year_low_price": 0.019,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.magnetitemines.com/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gordon Toll",
+                    "first_name": "Gordon",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Toll",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gordon Toll",
+                    "first_name": "Gordon",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Toll",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank DeMarte",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Non Exec. Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "DeMarte",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Malcolm Randall",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Randall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Schubert",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schubert",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Frank DeMarte",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "DeMarte",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

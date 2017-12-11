@@ -1,0 +1,161 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BLK",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BLACKHAM RESOURCES LIMITED",
+    "ASXcode": "BLK",
+    "data": {
+        "summary": {
+            "name_short": "BLACKHAM",
+            "name_full": "BLACKHAM RESOURCES LIMITED",
+            "code": "BLK",
+            "primary_share_code": "BLK",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BLACKHAM RESOURCES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BLK?image_size=L&v=1458281025000",
+            "foreign_exempt": false,
+            "listing_date": "2006-09-28T00:00:00+1000",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9322 6418",
+            "mailing_address": "Level 2, 38 Richardson Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Resource producer,  explorer & developer",
+            "fax_number": "+61 8 9322 6398",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-25T16:50:58+1100",
+                    "number_of_pages": 80,
+                    "id": "01912554",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-25T16:55:11+1100",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171025/pdf/43nkyl04qyg9v7.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3722666,
+                "status": [
+                    "XR"
+                ],
+                "market_cap": 48474224,
+                "code": "BLK",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    }
+                ],
+                "year_open_price": 0.22,
+                "previous_close_price": 0.105,
+                "year_change_price": -0.11,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 461659279,
+                "eps": -0.0228,
+                "change_in_percent": "4.762%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 359068328,
+                "pe": 0,
+                "offer_price": 0.11,
+                "suspended": false,
+                "last_price": 0.11,
+                "deprecated_market_cap": 39498000,
+                "day_low_price": 0.1,
+                "open_price": 0.105,
+                "year_high_date": "2017-02-07T00:00:00+1100",
+                "previous_day_percentage_change": "-4.545%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.83,
+                "bid_price": 0.105,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.11,
+                "year_change_in_percentage": "-50%",
+                "average_daily_volume": 2328334,
+                "year_low_price": 0.1,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.blackhamresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Milan Jerkovic",
+                    "first_name": "Milan",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jerkovic",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bryan Dixon",
+                    "first_name": "Bryan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dixon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Miles",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Miles",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Rechichi",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rechichi",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mike James Robbins",
+                    "first_name": "Mike",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robbins",
+                    "middle_name": "James"
+                }
+            ]
+        }
+    }
+}

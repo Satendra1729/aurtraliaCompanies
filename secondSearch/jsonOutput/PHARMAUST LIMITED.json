@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PAA",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "PHARMAUST LIMITED",
+    "ASXcode": "PAA",
+    "data": {
+        "summary": {
+            "name_short": "PHARMAUST",
+            "name_full": "PHARMAUST LIMITED",
+            "code": "PAA",
+            "primary_share_code": "PAA",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "PHARMAUST LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2001-10-05T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 6364 0899",
+            "mailing_address": "Suite 39, 1 Freshwater Parade, CLAREMONT, WA, AUSTRALIA, 6010",
+            "principal_activities": "To develop its own drug discovery intellectual property as well as providing highly specialised medicinal and synthetic chemistry services on a contract basis to clients.",
+            "fax_number": "08 9467 6111",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E & Full Year Statutory Accounts 2017",
+                    "document_date": "2017-08-31T22:35:33+1000",
+                    "number_of_pages": 54,
+                    "id": "01891574",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-09-01T08:21:33+1000",
+                    "size": "928.8KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170901/pdf/43lzhj85sr2r5x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 141945,
+                "status": [],
+                "market_cap": 7396369,
+                "code": "PAA",
+                "indices": [],
+                "year_open_price": 0.016,
+                "previous_close_price": 0.047,
+                "year_change_price": 0.031,
+                "year_low_date": "2017-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 157369553,
+                "eps": -0.0108,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 157369553,
+                "pe": 0,
+                "offer_price": 0.048,
+                "suspended": false,
+                "last_price": 0.047,
+                "deprecated_market_cap": 7396000,
+                "day_low_price": 0.047,
+                "open_price": 0.047,
+                "year_high_date": "2017-05-26T00:00:00+1000",
+                "previous_day_percentage_change": "2.174%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.089,
+                "bid_price": 0.047,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.048,
+                "year_change_in_percentage": "193.75%",
+                "average_daily_volume": 362684,
+                "year_low_price": 0.046,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.pharmaust.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Roger Aston",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Aston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Richard Hopkins",
+                    "first_name": "Richard",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Hopkins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Bishop",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bishop",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Wayne Best",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Best",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Wright",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Finance Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wright",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Sam Wright",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wright",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

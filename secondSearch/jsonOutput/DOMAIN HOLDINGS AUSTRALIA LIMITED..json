@@ -1,0 +1,124 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DHG",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "DOMAIN HOLDINGS AUSTRALIA LIMITED.",
+    "ASXcode": "DHG",
+    "data": {
+        "summary": {
+            "name_short": "DOMAIN",
+            "name_full": "DOMAIN HOLDINGS AUSTRALIA LIMITED.",
+            "code": "DHG",
+            "primary_share_code": "DHG",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "DOMAIN HOLDINGS AUS",
+            "foreign_exempt": false,
+            "listing_date": "2017-11-16T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+612 9282 2833",
+            "mailing_address": "1 Darling Island Road, PYRMONT, NSW, AUSTRALIA, 2009",
+            "principal_activities": "Real estate media and technology services business focussed on the Australian property market",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 1588984,
+                "status": [],
+                "market_cap": 1943064196,
+                "code": "DHG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Tech",
+                        "index_code": "XIJ",
+                        "name_abrev": "Info Technology",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Information Technology (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 574871064,
+                "previous_close_price": 3.38,
+                "year_low_date": "2017-11-30T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 574871064,
+                "eps": 0,
+                "change_in_percent": "4.438%",
+                "change_price": 0.15,
+                "pe": 0,
+                "offer_price": 3.53,
+                "suspended": false,
+                "last_price": 3.53,
+                "deprecated_market_cap": 2029295000,
+                "day_low_price": 3.37,
+                "open_price": 3.38,
+                "year_high_date": "2017-11-16T00:00:00+1100",
+                "previous_day_percentage_change": "-0.295%",
+                "year_open_date": null,
+                "year_high_price": 3.98,
+                "bid_price": 3.5,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.53,
+                "average_daily_volume": 3264298,
+                "year_low_price": 3.335,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": null,
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Alethea Lee",
+                    "first_name": "Alethea",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BLG",
+    "GICSindustrygroup": "Semiconductors & Semiconductor Equipment",
+    "Companyname": "BLUGLASS LIMITED",
+    "ASXcode": "BLG",
+    "data": {
+        "summary": {
+            "name_short": "BLUGLASS",
+            "name_full": "BLUGLASS LIMITED",
+            "code": "BLG",
+            "primary_share_code": "BLG",
+            "industry_group_name": "Semiconductors & Semiconductor Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "BLUGLASS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2006-09-22T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9334 2300",
+            "mailing_address": "74 Asquith Street, SILVERWATER, NSW, AUSTRALIA, 2128",
+            "principal_activities": "Development and commercialisation of semiconductor material gallium nitride.",
+            "fax_number": "(02) 9748 2122",
+            "latest_annual_reports": [
+                {
+                    "header": "Amended 2017 Annual Report",
+                    "document_date": "2017-09-29T14:06:26+1000",
+                    "number_of_pages": 64,
+                    "id": "01902253",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T14:09:00+1000",
+                    "size": "3.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msrm9cywjrt0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 64302,
+                "status": [],
+                "market_cap": 143545668,
+                "code": "BLG",
+                "indices": [],
+                "year_open_price": 0.18,
+                "previous_close_price": 0.37,
+                "year_change_price": 0.185,
+                "year_low_date": "2017-05-12T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 387961266,
+                "eps": -0.0098,
+                "change_in_percent": "-1.351%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 387961266,
+                "pe": 0,
+                "offer_price": 0.37,
+                "suspended": false,
+                "last_price": 0.365,
+                "deprecated_market_cap": 141606000,
+                "day_low_price": 0.36,
+                "open_price": 0.36,
+                "year_high_date": "2017-11-09T00:00:00+1100",
+                "previous_day_percentage_change": "-2.632%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.43,
+                "bid_price": 0.365,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.37,
+                "year_change_in_percentage": "102.778%",
+                "average_daily_volume": 512094,
+                "year_low_price": 0.225,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.bluglass.com.au/",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr William Johnson",
+                    "first_name": "William",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Johnson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Giles Bourne",
+                    "first_name": "Giles",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bourne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Cornelsen",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cornelsen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chandra Kantamneni",
+                    "first_name": "Chandra",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kantamneni",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Vivek Rao",
+                    "first_name": "Vivek",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rao",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James David Walker",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walker",
+                    "middle_name": "David"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Emmanuel Correia",
+                    "first_name": "Emmanuel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Correia",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ICB",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED",
+    "ASXcode": "ICB",
+    "data": {
+        "summary": {
+            "name_full": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED",
+            "products": [],
+            "phone_number": "02 9475 5528",
+            "mailing_address": "Level 1, 220 George Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "name_short": "ICB CHINA",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "INDST COM BANK CHINA",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "ICB",
+            "listing_date": "2014-09-29T00:00:00+1000",
+            "recent_announcement": false,
+            "web_address": null,
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Anthony Issa",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Issa",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

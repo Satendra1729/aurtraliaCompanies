@@ -1,0 +1,163 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NWH",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "NRW HOLDINGS LIMITED",
+    "ASXcode": "NWH",
+    "data": {
+        "summary": {
+            "name_short": "NRWHOLDLTD",
+            "name_full": "NRW HOLDINGS LIMITED",
+            "code": "NWH",
+            "primary_share_code": "NWH",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "NRW HOLDINGS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2007-09-05T00:00:00+1000",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@nrw.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9232 4200",
+            "mailing_address": "181 Great Eastern Highway, BELMONT, WA, AUSTRALIA, 6104",
+            "principal_activities": "Provisions of services, including civil contracting, mining services, and equipment to the resources sector.",
+            "fax_number": "(08) 9358 5515",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-23T09:27:35+1100",
+                    "number_of_pages": 97,
+                    "id": "01910896",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-23T09:32:42+1100",
+                    "size": "9.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171023/pdf/43ngfk48nflz17.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 798624,
+                "status": [],
+                "market_cap": 488528951,
+                "code": "NWH",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 1.43,
+                "previous_close_price": 1.335,
+                "year_change_price": -0.09,
+                "year_low_date": "2017-05-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 365939289,
+                "eps": 0.091,
+                "change_in_percent": "0.375%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 365939289,
+                "pe": 14.73,
+                "offer_price": 1.35,
+                "suspended": false,
+                "last_price": 1.34,
+                "deprecated_market_cap": 490359000,
+                "day_low_price": 1.31,
+                "open_price": 1.31,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "3.488%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.45,
+                "bid_price": 1.31,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.35,
+                "year_change_in_percentage": "-6.294%",
+                "average_daily_volume": 1274023,
+                "year_low_price": 0.495,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.nrw.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://www.nrw.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Arnett",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Arnett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Julian Pemberton",
+                    "first_name": "Julian",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pemberton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeff Dowling",
+                    "first_name": "Jeff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dowling",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Johnston",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Walsh",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walsh",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Kim Hyman",
+                    "first_name": "Kim",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hyman",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

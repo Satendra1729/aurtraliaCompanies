@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NSE",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "NEW STANDARD ENERGY LIMITED",
+    "ASXcode": "NSE",
+    "data": {
+        "summary": {
+            "name_short": "NS ENERGY",
+            "name_full": "NEW STANDARD ENERGY LIMITED",
+            "code": "NSE",
+            "primary_share_code": "NSE",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "NEW STANDARD ENERGY",
+            "foreign_exempt": false,
+            "listing_date": "2007-08-15T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@newstandard.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9481 7477",
+            "mailing_address": "6 Outram Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration for Oil and Gas",
+            "fax_number": "(08) 9324 3366",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual report 2017",
+                    "document_date": "2017-09-27T18:39:25+1000",
+                    "number_of_pages": 57,
+                    "id": "01900794",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T18:41:41+1000",
+                    "size": "2.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mpq77sw80r3x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 520000,
+                "status": [],
+                "market_cap": 2149254,
+                "code": "NSE",
+                "indices": [],
+                "year_open_price": 0.185,
+                "previous_close_price": 0.003,
+                "year_change_price": -0.182,
+                "year_low_date": "2017-11-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 716418005,
+                "eps": -0.0015,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 716418005,
+                "pe": 0,
+                "offer_price": 0.004,
+                "suspended": false,
+                "last_price": 0.003,
+                "deprecated_market_cap": 2149000,
+                "day_low_price": 0.003,
+                "open_price": 0.003,
+                "year_high_date": "2017-03-21T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.01,
+                "bid_price": 0.003,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.003,
+                "year_change_in_percentage": "-98.378%",
+                "average_daily_volume": 923865,
+                "year_low_price": 0.002,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.newstandard.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Song Hui",
+                    "first_name": "Song",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hui",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Liu Xiaofeng",
+                    "first_name": "Liu",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Xiaofeng",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ning Han",
+                    "first_name": "Ning",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Han",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hua Li",
+                    "first_name": "Hua",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dongbo Zhang",
+                    "first_name": "Dongbo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Hua Li",
+                    "first_name": "Hua",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GOR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GOLD ROAD RESOURCES LIMITED",
+    "ASXcode": "GOR",
+    "data": {
+        "summary": {
+            "name_short": "GOLDROAD",
+            "name_full": "GOLD ROAD RESOURCES LIMITED",
+            "code": "GOR",
+            "primary_share_code": "GOR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GOLD ROAD RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-07-04T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "cosec@goldroad.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9200 1600",
+            "mailing_address": "LEVEL 2, 26 COLIN STREET, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold and other minerals exploration.",
+            "fax_number": "(08) 9481 6405",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-18T01:01:42+1000",
+                    "number_of_pages": 104,
+                    "id": "01896839",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-18T08:23:16+1000",
+                    "size": "8.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170918/pdf/43mdkfw7jyfb2k.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 847399,
+                "status": [],
+                "market_cap": 613963280,
+                "code": "GOR",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&P AO GLD",
+                        "index_code": "XGD",
+                        "name_abrev": "Gold",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Ordinaries Gold (Sub Industry)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    }
+                ],
+                "year_open_price": 0.175,
+                "previous_close_price": 0.7,
+                "year_change_price": 0.515,
+                "year_low_date": "2017-03-01T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 877090400,
+                "eps": 0.264,
+                "change_in_percent": "-1.429%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 877090400,
+                "pe": 2.61,
+                "offer_price": 0.695,
+                "suspended": false,
+                "last_price": 0.69,
+                "deprecated_market_cap": 605192000,
+                "day_low_price": 0.68,
+                "open_price": 0.695,
+                "year_high_date": "2017-05-19T00:00:00+1000",
+                "previous_day_percentage_change": "2.19%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.75,
+                "bid_price": 0.685,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.695,
+                "year_change_in_percentage": "294.286%",
+                "average_daily_volume": 867765,
+                "year_low_price": 0.505,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.goldroad.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tim Netscher",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Netscher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Murray",
+                    "first_name": "Ian",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murray",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Justin Paul Osborne",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Osborne",
+                    "middle_name": "Paul"
+                },
+                {
+                    "full_name": "Mr Brian Kenneth Levet",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Levet",
+                    "middle_name": "Kenneth"
+                },
+                {
+                    "full_name": "Ms Sharon Warburton",
+                    "first_name": "Sharon",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Warburton",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Carol Marinkovich",
+                    "first_name": "Carol",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Marinkovich",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hayden James Bartrop",
+                    "first_name": "Hayden",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bartrop",
+                    "middle_name": "James"
+                }
+            ]
+        }
+    }
+}

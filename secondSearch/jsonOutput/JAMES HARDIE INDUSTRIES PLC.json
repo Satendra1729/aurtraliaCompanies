@@ -1,0 +1,321 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/JHX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "JAMES HARDIE INDUSTRIES PLC",
+    "ASXcode": "JHX",
+    "data": {
+        "summary": {
+            "name_short": "J HARDIE",
+            "name_full": "JAMES HARDIE INDUSTRIES PLC",
+            "code": "JHX",
+            "primary_share_code": "JHX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "JAMES HARDIE INDUST",
+            "foreign_exempt": false,
+            "listing_date": "2001-10-15T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "US10C; 20% W/HOLD TA X; EST$A",
+                "franked_percentage": "0%",
+                "created_date": "2017-11-09T00:00:00+1100",
+                "record_date": "2017-12-13T00:00:00+1100",
+                "payable_date": "2018-02-23T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.10453416,
+                "ex_date": "2017-12-12T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 8845 3353",
+            "mailing_address": "Level 3, 22 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2001",
+            "principal_activities": "Research, development, manufacture, sale and marketing of fibre cement building materials.",
+            "fax_number": "(02) 9251 9805",
+            "latest_annual_reports": [
+                {
+                    "header": "Lodgement of Annual Report on Form 20-F and Annual Review",
+                    "document_date": "2017-05-19T08:30:24+1000",
+                    "number_of_pages": 1,
+                    "id": "01858694",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-05-19T08:32:58+1000",
+                    "size": "107.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170519/pdf/43jcl5dj7pmyxy.pdf"
+                },
+                {
+                    "header": "Annual Report on Form 20-F",
+                    "document_date": "2017-05-19T08:18:04+1000",
+                    "number_of_pages": 223,
+                    "id": "01858690",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-05-19T08:25:24+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170519/pdf/43jckxyvjcz16v.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3076313,
+                "status": [
+                    "CD"
+                ],
+                "market_cap": 9550695611,
+                "code": "JHX",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    }
+                ],
+                "year_open_price": 13.28552,
+                "previous_close_price": 21.44,
+                "year_change_price": 8.65448,
+                "year_low_date": "2017-09-18T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 445461549,
+                "eps": 0.7489,
+                "change_in_percent": "2.332%",
+                "change_price": 0.5,
+                "deprecated_number_of_shares": 441274149,
+                "pe": 29.3,
+                "offer_price": 21.95,
+                "suspended": false,
+                "last_price": 21.94,
+                "deprecated_market_cap": 9681555000,
+                "day_low_price": 21.45,
+                "open_price": 21.45,
+                "year_high_date": "2017-05-02T00:00:00+1000",
+                "previous_day_percentage_change": "0.657%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 23.195,
+                "bid_price": 21.91,
+                "desc_full": "Chess Depositary Interests 1:1",
+                "day_high_price": 22.08,
+                "year_change_in_percentage": "65.142%",
+                "average_daily_volume": 1552775,
+                "year_low_price": 17.03,
+                "annual_dividend_yield": 1.83
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.ir.jameshardie.com.au/",
+            "fiscal_year_end": "31/03",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.ir.jameshardie.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael N Hammes",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hammes",
+                    "middle_name": "N"
+                },
+                {
+                    "full_name": "Mr Jack Truong",
+                    "first_name": "Jack",
+                    "roles": [
+                        "President"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Truong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jason Miele",
+                    "first_name": "Jason",
+                    "roles": [
+                        "Vice President",
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Miele",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Louis Gries",
+                    "first_name": "Louis",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gries",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brian Anderson",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Russell Chenu",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chenu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Harrison",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harrison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Andrea Gisle Joosen",
+                    "first_name": "Andrea",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Joosen",
+                    "middle_name": "Gisle"
+                },
+                {
+                    "full_name": "Ms Alison Littley",
+                    "first_name": "Alison",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Littley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Simms",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Simms",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rudy M J van der Meer",
+                    "first_name": "Rudy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "van der Meer",
+                    "middle_name": "M J"
+                },
+                {
+                    "full_name": "Mr Matthew Marsh",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marsh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joe Blasko",
+                    "first_name": "Joe",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Blasko",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Laura Vize",
+                    "first_name": "Laura",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Vize",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Natasha Mercer",
+                    "first_name": "Natasha",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Mercer",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

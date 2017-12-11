@@ -1,0 +1,75 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HTB",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "SERIES 2013-1 HARVEY TRUST",
+    "ASXcode": "HTB",
+    "data": {
+        "summary": {
+            "name_full": "SERIES 2013-1 HARVEY TRUST",
+            "products": [],
+            "phone_number": "133282",
+            "mailing_address": "Level 23, 145 Ann Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "",
+            "name_short": "SER 2013-1",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "SERIES 2013-1 HARVEY",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "HTB",
+            "listing_date": "2013-09-04T00:00:00+1000",
+            "registry_address": "LEVEL 7, 9 CASTLEREAGH STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": "http://www.cua.com.au/",
+            "registry_name": "PERPETUAL TRUSTEE COMPANY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Paul John Bedbrook",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bedbrook",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Christopher Michael Whitehead",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whitehead",
+                    "middle_name": "Michael"
+                },
+                {
+                    "full_name": "Mr Alexander Ong",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ong",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Alexander Ong",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ong",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SAM",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "SIV ASSET MANAGEMENT LIMITED",
+    "ASXcode": "SAM",
+    "data": {
+        "summary": {
+            "name_short": "SIVASMNGMT",
+            "name_full": "SIV ASSET MANAGEMENT LIMITED",
+            "code": "SAM",
+            "primary_share_code": "SAM",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "SIV ASSET MGMT LTD",
+            "foreign_exempt": false,
+            "listing_date": "2010-07-13T00:00:00+1000",
+            "registry_address": "LEVEL 6, 2 RUSSELL STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9614 0600",
+            "mailing_address": "Level 17, 500 Collins St, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Asset management and responsible entity (trustee) services.",
+            "fax_number": "03 9614 0550",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T21:35:12+1000",
+                    "number_of_pages": 49,
+                    "id": "01901665",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:18:39+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrmmq1zkp411.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders - June 2016",
+                    "document_date": "2017-04-03T13:05:06+1000",
+                    "number_of_pages": 46,
+                    "id": "01845237",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-05T08:50:19+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170405/pdf/43h9gy8x3brc4k.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "SAM",
+                "indices": [],
+                "year_open_price": 0.65,
+                "previous_close_price": 0.073,
+                "year_change_price": -0.577,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 12842316,
+                "eps": -0.0217,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 12842316,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.073,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-09-27T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.058,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-88.769%",
+                "average_daily_volume": 83022,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 556 635",
+            "web_address": null,
+            "registry_name": "REGISTRY DIRECT",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Melamed",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Melamed",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Lindsay",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Managing Director",
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lindsay",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Isaac Labkowski",
+                    "first_name": "Isaac",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Labkowski",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Adrien Michele Wing",
+                    "first_name": "Adrien",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wing",
+                    "middle_name": "Michele"
+                }
+            ]
+        }
+    }
+}

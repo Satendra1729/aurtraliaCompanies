@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ACL",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "ALCHEMIA LIMITED",
+    "ASXcode": "ACL",
+    "data": {
+        "summary": {
+            "name_short": "ALCHEMIA",
+            "name_full": "ALCHEMIA LIMITED",
+            "code": "ACL",
+            "primary_share_code": "ACL",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "ALCHEMIA LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2003-12-23T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9692 7222",
+            "mailing_address": "c/- Level 4, 100 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "The development of carbohydrate-based molecules for therapeutic applications.",
+            "fax_number": "03 9077 9233",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and 2017 Annual Report",
+                    "document_date": "2017-08-23T08:38:05+1000",
+                    "number_of_pages": 43,
+                    "id": "01886665",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-23T08:54:08+1000",
+                    "size": "785.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lmpw6cn7yd5q.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1841395,
+                "status": [],
+                "market_cap": 3247236,
+                "code": "ACL",
+                "indices": [],
+                "year_open_price": 0.62,
+                "previous_close_price": 0.01,
+                "year_change_price": -0.61,
+                "year_low_date": "2017-11-03T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 324723621,
+                "eps": -0.0017,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 324723621,
+                "pe": 0,
+                "offer_price": 0.011,
+                "suspended": false,
+                "last_price": 0.01,
+                "deprecated_market_cap": 3247000,
+                "day_low_price": 0.009,
+                "open_price": 0.009,
+                "year_high_date": "2017-02-10T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.015,
+                "bid_price": 0.01,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.011,
+                "year_change_in_percentage": "-98.387%",
+                "average_daily_volume": 1394299,
+                "year_low_price": 0.006,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.alchemia.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Simon Gennari",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gennari",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Darren Book",
+                    "first_name": "Darren",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Book",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Lamm",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lamm",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Melanie Leyden",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leyden",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Melanie Leyden",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leyden",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

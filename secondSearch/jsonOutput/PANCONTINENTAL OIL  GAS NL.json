@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PCL",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "PANCONTINENTAL OIL & GAS NL",
+    "ASXcode": "PCL",
+    "data": {
+        "summary": {
+            "name_short": "PANCONT",
+            "name_full": "PANCONTINENTAL OIL & GAS NL",
+            "code": "PCL",
+            "primary_share_code": "PCL",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "PANCONTINENTAL OIL",
+            "foreign_exempt": false,
+            "listing_date": "1986-09-11T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6363 7090",
+            "mailing_address": "Level 1, 10 Ord Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Petroleum Exploration.",
+            "fax_number": "(08) 6363 7099",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-30T09:50:48+1100",
+                    "number_of_pages": 76,
+                    "id": "01914478",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-30T09:53:55+1100",
+                    "size": "2.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171030/pdf/43nqftwhcykm1d.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 17507010,
+                "status": [],
+                "market_cap": 21047155,
+                "code": "PCL",
+                "indices": [],
+                "year_open_price": 0.039,
+                "previous_close_price": 0.004,
+                "year_change_price": -0.035,
+                "year_low_date": "2017-06-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 5261788655,
+                "eps": -0.0026,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 5261788655,
+                "pe": 0,
+                "offer_price": 0.005,
+                "suspended": false,
+                "last_price": 0.004,
+                "deprecated_market_cap": 23678000,
+                "day_low_price": 0.004,
+                "open_price": 0.005,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.005,
+                "bid_price": 0.004,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.005,
+                "year_change_in_percentage": "-89.744%",
+                "average_daily_volume": 13315093,
+                "year_low_price": 0.001,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.pancon.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Henry David Kennedy",
+                    "first_name": "Henry",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kennedy",
+                    "middle_name": "David"
+                },
+                {
+                    "full_name": "Mr John Douglas Begg",
+                    "first_name": "John",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Begg",
+                    "middle_name": "Douglas"
+                },
+                {
+                    "full_name": "Mr Roy Barry Rushworth",
+                    "first_name": "Roy",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rushworth",
+                    "middle_name": "Barry"
+                },
+                {
+                    "full_name": "Mrs Vesna Petrovic",
+                    "first_name": "Vesna",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Petrovic",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Marie Michele Malaxos",
+                    "first_name": "Marie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Malaxos",
+                    "middle_name": "Michele"
+                },
+                {
+                    "full_name": "Mr Ernest Anthony Myers",
+                    "first_name": "Ernest",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Myers",
+                    "middle_name": "Anthony"
+                },
+                {
+                    "full_name": "Ms Vesna Petrovic",
+                    "first_name": "Vesna",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Petrovic",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Vesna Petrovic",
+                    "first_name": "Vesna",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Petrovic",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

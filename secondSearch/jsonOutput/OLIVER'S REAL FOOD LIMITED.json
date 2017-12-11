@@ -1,0 +1,152 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OLI",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "OLIVER'S REAL FOOD LIMITED",
+    "ASXcode": "OLI",
+    "data": {
+        "summary": {
+            "name_short": "OLIVERS",
+            "name_full": "OLIVER'S REAL FOOD LIMITED",
+            "code": "OLI",
+            "primary_share_code": "OLI",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "OLIVER'S REAL FOOD",
+            "foreign_exempt": false,
+            "listing_date": "2017-06-21T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 4353 8055",
+            "mailing_address": "10 Amsterdam Circuit, WYONG, NSW, AUSTRALIA, 2259",
+            "principal_activities": "Fast Food Restaurant Franchise",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-21T16:14:51+1000",
+                    "number_of_pages": 92,
+                    "id": "01898576",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-21T16:18:06+1000",
+                    "size": "13.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170921/pdf/43mjf0bdbffdvm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 95817,
+                "status": [],
+                "market_cap": 38411565,
+                "code": "OLI",
+                "indices": [],
+                "deprecated_number_of_shares": 139897581,
+                "previous_close_price": 0.18,
+                "year_low_date": "2017-11-14T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 213397581,
+                "eps": 0,
+                "change_in_percent": "5.556%",
+                "change_price": 0.01,
+                "pe": 0,
+                "offer_price": 0.19,
+                "suspended": false,
+                "last_price": 0.19,
+                "deprecated_market_cap": 26581000,
+                "day_low_price": 0.185,
+                "open_price": 0.185,
+                "year_high_date": "2017-07-13T00:00:00+1000",
+                "previous_day_percentage_change": "-2.703%",
+                "year_open_date": null,
+                "year_high_price": 0.44,
+                "bid_price": 0.185,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.19,
+                "average_daily_volume": 576142,
+                "year_low_price": 0.145,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://http:www.//oliversrealfood.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Richardson",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Richardson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jason Gunn",
+                    "first_name": "Jason",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gunn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Diddams",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Diddams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathy Hatzis",
+                    "first_name": "Kathy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hatzis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Rodwell",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rodwell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan Lee",
+                    "first_name": "Alan",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lee",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Emma Emma Lawler",
+                    "first_name": "Emma",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Emma Lawler",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

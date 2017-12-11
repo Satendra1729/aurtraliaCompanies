@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CT1",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "CCP TECHNOLOGIES LIMITED",
+    "ASXcode": "CT1",
+    "data": {
+        "summary": {
+            "name_short": "CCP TECH",
+            "name_full": "CCP TECHNOLOGIES LIMITED",
+            "code": "CT1",
+            "primary_share_code": "CT1",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "CCP TECHNOLOGIES LTD",
+            "foreign_exempt": false,
+            "listing_date": "1987-10-08T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 8592 4883",
+            "mailing_address": "Suite 202, 22 St Kilda Road, ST KILDA, VIC, AUSTRALIA, 3182",
+            "principal_activities": "Technology",
+            "fax_number": "+61 3 8362 3977",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-31T13:04:48+1000",
+                    "number_of_pages": 97,
+                    "id": "01890991",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T13:09:11+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43ly8db10v5z6y.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 831430,
+                "status": [],
+                "market_cap": 8831511,
+                "code": "CT1",
+                "indices": [],
+                "year_open_price": 0.028,
+                "previous_close_price": 0.028,
+                "year_change_price": 0.0,
+                "year_low_date": "2017-05-19T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 315411118,
+                "eps": -0.02,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 213627332,
+                "pe": 0,
+                "offer_price": 0.028,
+                "suspended": false,
+                "last_price": 0.028,
+                "deprecated_market_cap": 5982000,
+                "day_low_price": 0.026,
+                "open_price": 0.028,
+                "year_high_date": "2017-11-30T00:00:00+1100",
+                "previous_day_percentage_change": "12%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.041,
+                "bid_price": 0.026,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.028,
+                "year_change_in_percentage": "0%",
+                "average_daily_volume": 971275,
+                "year_low_price": 0.014,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.agenix.com",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Leath Nicholson",
+                    "first_name": "Leath",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nicholson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Amery White",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "White",
+                    "middle_name": "Amery"
+                },
+                {
+                    "full_name": "Mr Anthony Rowley",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Director",
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adam Gallagher",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gallagher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anoosh Manzoori",
+                    "first_name": "Anoosh",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Manzoori",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phillip Hains",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hains",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Adam Gallagher",
+                    "first_name": "Adam",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gallagher",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

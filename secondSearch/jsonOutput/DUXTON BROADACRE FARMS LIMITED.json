@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DBF",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "DUXTON BROADACRE FARMS LIMITED",
+    "ASXcode": "DBF",
+    "data": {
+        "summary": {
+            "name_short": "DUXTON BAF",
+            "name_full": "DUXTON BROADACRE FARMS LIMITED",
+            "code": "DBF",
+            "primary_share_code": "DBF",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "DUXTON BROADACRE",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 8130 9500",
+            "mailing_address": "7 Pomona Road, STIRLING, SA, AUSTRALIA, 5152",
+            "principal_activities": "Mixed farming operations",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "DBF",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.duxtonbroadacre.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Donald Stephens",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stephens",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

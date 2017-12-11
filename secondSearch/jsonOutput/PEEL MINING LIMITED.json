@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PEX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PEEL MINING LIMITED",
+    "ASXcode": "PEX",
+    "data": {
+        "summary": {
+            "name_short": "PEEL MNG",
+            "name_full": "PEEL MINING LIMITED",
+            "code": "PEX",
+            "primary_share_code": "PEX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PEEL MINING LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2007-05-17T00:00:00+1000",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@peelmining.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9382 3955",
+            "mailing_address": "Unit 1, 34 Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration for precious & base metals.",
+            "fax_number": "(08) 9388 1025",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-26T18:26:02+1100",
+                    "number_of_pages": 80,
+                    "id": "01913259",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-26T18:29:15+1100",
+                    "size": "3.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171026/pdf/43nmggr5wc92tc.pdf"
+                },
+                {
+                    "header": "2017 Annual Report & Appendix 4G",
+                    "document_date": "2017-09-20T22:38:31+1000",
+                    "number_of_pages": 80,
+                    "id": "01898225",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-21T08:24:33+1000",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170921/pdf/43mhpzdvg88t31.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 211074,
+                "status": [],
+                "market_cap": 123414279,
+                "code": "PEX",
+                "indices": [],
+                "year_open_price": 0.27,
+                "previous_close_price": 0.675,
+                "year_change_price": 0.35,
+                "year_low_date": "2017-01-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 182835969,
+                "eps": -0.0076,
+                "change_in_percent": "-8.148%",
+                "change_price": -0.055,
+                "deprecated_number_of_shares": 183835969,
+                "pe": 0,
+                "offer_price": 0.64,
+                "suspended": false,
+                "last_price": 0.62,
+                "deprecated_market_cap": 113978000,
+                "day_low_price": 0.62,
+                "open_price": 0.665,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "12.5%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.675,
+                "bid_price": 0.62,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.665,
+                "year_change_in_percentage": "129.63%",
+                "average_daily_volume": 357926,
+                "year_low_price": 0.145,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.peelmining.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Simon Hadfield",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hadfield",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rob Tyson",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tyson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Hardie",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hardie",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ryan Woodhouse",
+                    "first_name": "Ryan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Woodhouse",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

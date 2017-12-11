@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MCT",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "METALICITY LIMITED",
+    "ASXcode": "MCT",
+    "data": {
+        "summary": {
+            "name_short": "METALICITY",
+            "name_full": "METALICITY LIMITED",
+            "code": "MCT",
+            "primary_share_code": "MCT",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "METALICITY LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2005-12-21T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "0403 535 391",
+            "mailing_address": "6 Outram Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Admiral Bay Zinc Project Development and Rocky Gully Nickel Project Exploration",
+            "fax_number": "08 9388 3006",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Financial Report",
+                    "document_date": "2017-09-29T17:19:37+1000",
+                    "number_of_pages": 60,
+                    "id": "01902634",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T17:22:36+1000",
+                    "size": "3.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mth58dr9jt5k.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1031069,
+                "status": [],
+                "market_cap": 19168687,
+                "code": "MCT",
+                "indices": [],
+                "year_open_price": 0.00488,
+                "previous_close_price": 0.038,
+                "year_change_price": 0.03212,
+                "year_low_date": "2017-09-01T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 504439136,
+                "eps": -0.0062,
+                "change_in_percent": "-2.632%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 485064136,
+                "pe": 0,
+                "offer_price": 0.038,
+                "suspended": false,
+                "last_price": 0.037,
+                "deprecated_market_cap": 17947000,
+                "day_low_price": 0.036,
+                "open_price": 0.038,
+                "year_high_date": "2017-01-09T00:00:00+1100",
+                "previous_day_percentage_change": "-2.564%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.088,
+                "bid_price": 0.037,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.038,
+                "year_change_in_percentage": "658.197%",
+                "average_daily_volume": 2522331,
+                "year_low_price": 0.034,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.metalicity.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Daley",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Daley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew George Gauci",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gauci",
+                    "middle_name": "George"
+                },
+                {
+                    "full_name": "Mr Christopher Bain",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bain",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mathew Longworth",
+                    "first_name": "Mathew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Longworth",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Neil John Hackett",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hackett",
+                    "middle_name": "John"
+                }
+            ]
+        }
+    }
+}

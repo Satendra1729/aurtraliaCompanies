@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PAB",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "PATRYS LIMITED",
+    "ASXcode": "PAB",
+    "data": {
+        "summary": {
+            "name_full": "PATRYS LIMITED",
+            "code": "PAB",
+            "name_short": "PATRYS",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "PATRYS LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PAB?image_size=L&v=1474941264000",
+            "foreign_exempt": false,
+            "listing_date": "2007-07-13T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "info@patrys.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9670 3273",
+            "mailing_address": "Level 4, 100 Albert Road, SOUTH MELBOURNE, VIC, AUSTRALIA, 3205",
+            "principal_activities": "Development of natural human antibody-based therapies for the treatment of life threatening diseases including cancer.",
+            "fax_number": "(03) 9077 9233",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and 2017 Annual Report",
+                    "document_date": "2017-08-29T09:49:42+1000",
+                    "number_of_pages": 56,
+                    "id": "01889471",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T09:56:16+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lv1r7tpgbgyx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 439050,
+                "status": [],
+                "market_cap": 11721131,
+                "code": "PAB",
+                "indices": [],
+                "year_open_price": 0.041,
+                "previous_close_price": 0.015,
+                "year_change_price": -0.026,
+                "year_low_date": "2017-09-13T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 781408744,
+                "eps": -0.0014,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 781408744,
+                "pe": 0,
+                "offer_price": 0.016,
+                "suspended": false,
+                "last_price": 0.015,
+                "deprecated_market_cap": 11721000,
+                "day_low_price": 0.015,
+                "open_price": 0.015,
+                "year_high_date": "2017-09-18T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.033,
+                "bid_price": 0.015,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.015,
+                "year_change_in_percentage": "-63.415%",
+                "average_daily_volume": 14717127,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "PAB",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.patrys.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Read",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Read",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr James Campbell",
+                    "first_name": "James",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Campbell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Suzy Jones",
+                    "first_name": "Suzy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Stork",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stork",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Melanie Leydin",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leydin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LCY",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LEGACY IRON ORE LIMITED",
+    "ASXcode": "LCY",
+    "data": {
+        "summary": {
+            "name_short": "LEGACYIRON",
+            "name_full": "LEGACY IRON ORE LIMITED",
+            "code": "LCY",
+            "primary_share_code": "LCY",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LEGACY IRON ORE",
+            "foreign_exempt": false,
+            "listing_date": "2008-07-08T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9421 2000",
+            "mailing_address": "Level 2, 1-5 Havelock Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Iron ore and gold exploration.",
+            "fax_number": "(08) 9421 2001",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-05-18T16:20:35+1000",
+                    "number_of_pages": 91,
+                    "id": "01858590",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-05-18T16:23:14+1000",
+                    "size": "7.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170518/pdf/43jc8694s4q634.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6712691,
+                "status": [],
+                "market_cap": 8809585,
+                "code": "LCY",
+                "indices": [],
+                "year_open_price": 0.02719,
+                "previous_close_price": 0.006,
+                "year_change_price": -0.02019,
+                "year_low_date": "2017-11-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1468264157,
+                "eps": -0.0007,
+                "change_in_percent": "16.667%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 1468264157,
+                "pe": 0,
+                "offer_price": 0.007,
+                "suspended": false,
+                "last_price": 0.007,
+                "deprecated_market_cap": 10278000,
+                "day_low_price": 0.006,
+                "open_price": 0.006,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "-25%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.01,
+                "bid_price": 0.005,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.007,
+                "year_change_in_percentage": "-74.255%",
+                "average_daily_volume": 2986028,
+                "year_low_price": 0.003,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.legacyiron.com.au",
+            "fiscal_year_end": "31/03",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Narendra Kumar Nanda",
+                    "first_name": "Narendra",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nanda",
+                    "middle_name": "Kumar"
+                },
+                {
+                    "full_name": "Mr Rakesh Gupta",
+                    "first_name": "Rakesh",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gupta",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Devinder Singh Ahluwalia",
+                    "first_name": "Devinder Singh",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ahluwalia",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Devanathan Ramachandran",
+                    "first_name": "Devanathan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ramachandran",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tangula Rama Kishan Rao",
+                    "first_name": "Tangula Rama Kishan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rao",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Turner",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Turner",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ben Donovan",
+                    "first_name": "Ben",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Donovan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

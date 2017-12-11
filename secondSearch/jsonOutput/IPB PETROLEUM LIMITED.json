@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IPB",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "IPB PETROLEUM LIMITED",
+    "ASXcode": "IPB",
+    "data": {
+        "summary": {
+            "name_short": "IPB PET",
+            "name_full": "IPB PETROLEUM LIMITED",
+            "code": "IPB",
+            "primary_share_code": "IPB",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "IPB PETROLEUM LTD",
+            "foreign_exempt": false,
+            "listing_date": "2013-04-30T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9598 0188",
+            "mailing_address": "23 Small Street, HAMPTON, VIC, AUSTRALIA, 3188",
+            "principal_activities": "Oil and gas exploration.",
+            "fax_number": "(03) 9598 0199",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-31T18:22:34+1000",
+                    "number_of_pages": 72,
+                    "id": "01891446",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-31T18:26:13+1000",
+                    "size": "3.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lz4mz71y69ss.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 100000,
+                "status": [],
+                "market_cap": 1763688,
+                "code": "IPB",
+                "indices": [],
+                "year_open_price": 0.29,
+                "previous_close_price": 0.011,
+                "year_change_price": -0.277,
+                "year_low_date": "2017-07-18T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 160335252,
+                "eps": -0.022,
+                "change_in_percent": "18.182%",
+                "change_price": 0.002,
+                "deprecated_number_of_shares": 160335252,
+                "pe": 0,
+                "offer_price": 0.013,
+                "suspended": false,
+                "last_price": 0.013,
+                "deprecated_market_cap": 2084000,
+                "day_low_price": 0.012,
+                "open_price": 0.012,
+                "year_high_date": "2017-02-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.026,
+                "bid_price": 0.011,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.013,
+                "year_change_in_percentage": "-95.517%",
+                "average_daily_volume": 513206,
+                "year_low_price": 0.009,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.ipbpet.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bruce G McKay",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McKay",
+                    "middle_name": "G"
+                },
+                {
+                    "full_name": "Mr Brendan Brown",
+                    "first_name": "Brendan",
+                    "roles": [
+                        "Managing Director",
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Smith",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoffrey King",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "King",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brodrick Wray",
+                    "first_name": "Brodrick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wray",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Martin Warwick",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warwick",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

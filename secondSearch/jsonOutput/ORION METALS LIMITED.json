@@ -1,0 +1,140 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ORM",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ORION METALS LIMITED",
+    "ASXcode": "ORM",
+    "data": {
+        "summary": {
+            "name_full": "ORION METALS LIMITED",
+            "code": "ORM",
+            "name_short": "ORION MET",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ORION METALS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ORM?image_size=L&v=1423716330000",
+            "foreign_exempt": false,
+            "listing_date": "2007-01-03T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@orionmetals.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 3272 1725",
+            "mailing_address": "35 Hamish Street, CALAMVALE, QLD, AUSTRALIA, 4116",
+            "principal_activities": "Minerals exploration, particularly gold and rare earths",
+            "fax_number": ".",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-06-20T17:33:53+1000",
+                    "number_of_pages": 61,
+                    "id": "01866985",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-06-20T17:36:51+1000",
+                    "size": "3.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170620/pdf/43k22kctd2l8tl.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 37354452,
+                "code": "ORM",
+                "indices": [],
+                "year_open_price": 0.028,
+                "previous_close_price": 0.097,
+                "year_change_price": 0.069,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 385097443,
+                "eps": -0.0091,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 385097443,
+                "pe": 0,
+                "offer_price": 0.094,
+                "suspended": false,
+                "last_price": 0.097,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-13T11:00:00+1100",
+                "year_high_price": 0.098,
+                "bid_price": 0.04,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "246.429%",
+                "average_daily_volume": 93876,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "ORM",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.orionmetals.com.au",
+            "fiscal_year_end": "28/02",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Yi Yang",
+                    "first_name": "Yi",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bin Cai",
+                    "first_name": "Bin",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cai",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Feng Wu",
+                    "first_name": "Feng",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bo Wang",
+                    "first_name": "Bo",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Bill Lyne",
+                    "first_name": "Bill",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lyne",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

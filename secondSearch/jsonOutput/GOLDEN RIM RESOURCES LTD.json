@@ -1,0 +1,91 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GMR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GOLDEN RIM RESOURCES LTD",
+    "ASXcode": "GMR",
+    "data": {
+        "summary": {
+            "name_full": "GOLDEN RIM RESOURCES LTD",
+            "code": "GMR",
+            "name_short": "GOLDEN RIM",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GOLDEN RIM RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "1987-08-13T00:00:00+1000",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@goldenrim.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9836 4146",
+            "mailing_address": "Office 7, Level 2, 609 Canterbury Road, SURREY HILLS, VIC, AUSTRALIA, 3127",
+            "principal_activities": "Exploration for gold & other minerals",
+            "fax_number": "0",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-27T18:12:59+1000",
+                    "number_of_pages": 58,
+                    "id": "01900772",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T18:17:31+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mpnw42r3b785.pdf"
+                }
+            ],
+            "web_address": "http://www.goldenrim.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://www.goldenrim.com.au/irm/content/ir-contacts1.aspx?RID=278"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Glenister Lamont",
+                    "first_name": "Glenister",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lamont",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Mackay",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackay",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathryn Davies",
+                    "first_name": "Kathryn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Davies",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Hayley Butcher",
+                    "first_name": "Hayley",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Butcher",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

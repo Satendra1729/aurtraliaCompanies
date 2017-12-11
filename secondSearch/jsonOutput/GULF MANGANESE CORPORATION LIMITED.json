@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GMC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "GULF MANGANESE CORPORATION LIMITED",
+    "ASXcode": "GMC",
+    "data": {
+        "summary": {
+            "name_short": "GULFMANGA",
+            "name_full": "GULF MANGANESE CORPORATION LIMITED",
+            "code": "GMC",
+            "primary_share_code": "GMC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "GULF MANGANESE CORP",
+            "foreign_exempt": false,
+            "listing_date": "2007-08-03T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@gulfmanganese.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9367 9228",
+            "mailing_address": "T2,, 152 Great Eastern Highway, ASCOT, WA, AUSTRALIA, 6104",
+            "principal_activities": "Mineral Processing",
+            "fax_number": "+61 8 9367 9229",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T16:54:50+1100",
+                    "number_of_pages": 67,
+                    "id": "01914029",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T17:01:03+1100",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43np293b8h1fg4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6987384,
+                "status": [],
+                "market_cap": 41826504,
+                "code": "GMC",
+                "indices": [],
+                "year_open_price": 0.1483,
+                "previous_close_price": 0.017,
+                "year_change_price": -0.1333,
+                "year_low_date": "2017-10-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2460382591,
+                "eps": -0.0039,
+                "change_in_percent": "-11.765%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 2460382591,
+                "pe": 0,
+                "offer_price": 0.016,
+                "suspended": false,
+                "last_price": 0.015,
+                "deprecated_market_cap": 36906000,
+                "day_low_price": 0.015,
+                "open_price": 0.017,
+                "year_high_date": "2016-12-09T00:00:00+1100",
+                "previous_day_percentage_change": "-5.556%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.042,
+                "bid_price": 0.015,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.017,
+                "year_change_in_percentage": "-89.885%",
+                "average_daily_volume": 16536882,
+                "year_low_price": 0.005,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.gulfmanganese.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Craig Munro",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Munro",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hamish Bohannan",
+                    "first_name": "Hamish",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bohannan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Wilson",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leonard Math",
+                    "first_name": "Leonard",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Math",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Leonard Math",
+                    "first_name": "Leonard",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Math",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

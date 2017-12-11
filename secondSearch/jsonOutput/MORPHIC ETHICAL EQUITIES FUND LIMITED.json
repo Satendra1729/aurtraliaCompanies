@@ -1,0 +1,101 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MEC",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "MORPHIC ETHICAL EQUITIES FUND LIMITED",
+    "ASXcode": "MEC",
+    "data": {
+        "summary": {
+            "name_short": "MORPHICEEF",
+            "name_full": "MORPHIC ETHICAL EQUITIES FUND LIMITED",
+            "code": "MEC",
+            "primary_share_code": "MEC",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "MORPHIC EEF LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-05-03T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9194 6707",
+            "mailing_address": "Level 3, 139 Macquarie Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Listed Investment Company",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report Sent to Shareholders",
+                    "document_date": "2017-11-14T16:02:51+1100",
+                    "number_of_pages": 56,
+                    "id": "01921314",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-14T16:05:05+1100",
+                    "size": "1.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171114/pdf/43p73wyx0q6rv9.pdf"
+                },
+                {
+                    "header": "4E and FY17 Annual Report",
+                    "document_date": "2017-11-03T13:47:59+1100",
+                    "number_of_pages": 44,
+                    "id": "01917895",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-11-03T13:53:36+1100",
+                    "size": "856.6KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171103/pdf/43nyl07mfjbz7x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 48653143,
+                "code": "MEC",
+                "indices": [],
+                "deprecated_number_of_shares": 45470227,
+                "previous_close_price": 1.07,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 45470227,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 1.095,
+                "suspended": false,
+                "last_price": 1.07,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-07-11T00:00:00+1000",
+                "previous_day_percentage_change": "-1.835%",
+                "year_open_date": null,
+                "year_high_price": 1.16,
+                "bid_price": 1.075,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 30973,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.morethical.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Justin O'Donnell",
+                    "first_name": "Justin",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Donnell",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

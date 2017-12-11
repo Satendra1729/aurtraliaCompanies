@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PFM",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "PACIFIC MINING LIMITED",
+    "ASXcode": "PFM",
+    "data": {
+        "summary": {
+            "name_short": "PAC.MINING",
+            "name_full": "PACIFIC MINING LIMITED",
+            "code": "PFM",
+            "primary_share_code": "PFM",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "PACIFIC MINING LTD",
+            "foreign_exempt": false,
+            "listing_date": "1971-08-02T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9411 4443",
+            "mailing_address": "C/- Hall Consulting Group, Suite 4.02, Level 4, 9 Help Street, CHATSWOOD, NSW, AUSTRALIA, 2067",
+            "principal_activities": "Mining and Investment.",
+            "fax_number": "(02) 9411 4010",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to shareholders",
+                    "document_date": "2017-08-30T13:08:21+1000",
+                    "number_of_pages": 44,
+                    "id": "01890244",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-30T13:11:59+1000",
+                    "size": "1.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lwpqtgmth3zb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 5601078,
+                "code": "PFM",
+                "indices": [],
+                "year_open_price": 0.35,
+                "previous_close_price": 0.4,
+                "year_change_price": 0.05,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 14002696,
+                "eps": 0.0022,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 14002696,
+                "pe": 181.82,
+                "offer_price": 0.7,
+                "suspended": false,
+                "last_price": 0.4,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-31T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-11T11:00:00+1100",
+                "year_high_price": 0.4,
+                "bid_price": 0.4,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "14.286%",
+                "average_daily_volume": 5500,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": null,
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David L Bentley",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bentley",
+                    "middle_name": "L"
+                },
+                {
+                    "full_name": "Mr Peter B White",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "White",
+                    "middle_name": "B"
+                },
+                {
+                    "full_name": "Mr Nicholas Peter Dawes",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dawes",
+                    "middle_name": "Peter"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Christopher J Hall",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hall",
+                    "middle_name": "J"
+                }
+            ]
+        }
+    }
+}

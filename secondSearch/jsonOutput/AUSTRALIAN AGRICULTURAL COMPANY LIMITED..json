@@ -1,0 +1,222 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AAC",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "AUSTRALIAN AGRICULTURAL COMPANY LIMITED.",
+    "ASXcode": "AAC",
+    "data": {
+        "summary": {
+            "name_short": "AUST AG CO",
+            "name_full": "AUSTRALIAN AGRICULTURAL COMPANY LIMITED.",
+            "code": "AAC",
+            "primary_share_code": "AAC",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "AUSTRALIAN AGRICULT.",
+            "foreign_exempt": false,
+            "listing_date": "2001-08-10T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(07) 3368 4449",
+            "mailing_address": "Tower A, Level 1, Gasworks Plaza, 76 Skyring Terrace, NEWSTEAD, QLD, AUSTRALIA, 4006",
+            "principal_activities": "Agriculture",
+            "fax_number": "07 3367 8612",
+            "latest_annual_reports": [
+                {
+                    "header": "AACo 2017 Annual Report",
+                    "document_date": "2017-07-21T16:03:29+1000",
+                    "number_of_pages": 98,
+                    "id": "01876038",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-07-21T16:08:31+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170721/pdf/43ksr43rdxvk8x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1057128,
+                "status": [],
+                "market_cap": 783596771,
+                "code": "AAC",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Stap",
+                        "index_code": "XSJ",
+                        "name_abrev": "Consumer Staples",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Staples (Sector)"
+                    }
+                ],
+                "year_open_price": 1.22,
+                "previous_close_price": 1.3,
+                "year_change_price": 0.08,
+                "year_low_date": "2017-11-27T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 602766747,
+                "eps": -0.0224,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 602766747,
+                "pe": 0,
+                "offer_price": 1.305,
+                "suspended": false,
+                "last_price": 1.3,
+                "deprecated_market_cap": 783597000,
+                "day_low_price": 1.285,
+                "open_price": 1.31,
+                "year_high_date": "2017-06-20T00:00:00+1000",
+                "previous_day_percentage_change": "0.386%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.98,
+                "bid_price": 1.29,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.31,
+                "year_change_in_percentage": "6.557%",
+                "average_daily_volume": 1524688,
+                "year_low_price": 1.25,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.aaco.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Donald Gordon McGauchie",
+                    "first_name": "Donald",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGauchie",
+                    "middle_name": "Gordon"
+                },
+                {
+                    "full_name": "Mr Jason Strong",
+                    "first_name": "Jason",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Strong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Abraham",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Abraham",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Alexander Black",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Black",
+                    "middle_name": "Alexander"
+                },
+                {
+                    "full_name": "Mr David Charles Crombie",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crombie",
+                    "middle_name": "Charles"
+                },
+                {
+                    "full_name": "Dr Shehan Bharatha Dissanayake",
+                    "first_name": "Shehan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Dissanayake",
+                    "middle_name": "Bharatha"
+                },
+                {
+                    "full_name": "Mr Thomas Keene",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keene",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Bennett",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bennett",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Bruce Bennett",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bennett",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

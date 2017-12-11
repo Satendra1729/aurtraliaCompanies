@@ -1,0 +1,130 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MEM",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "MEMPHASYS LIMITED.",
+    "ASXcode": "MEM",
+    "data": {
+        "summary": {
+            "name_short": "MEMPHASYS",
+            "name_full": "MEMPHASYS LIMITED.",
+            "code": "MEM",
+            "primary_share_code": "MEM",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "MEMPHASYS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-05-14T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@memphasys.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8415 7300",
+            "mailing_address": "30 -32 Richmond Road, HOMEBUSH WEST, NSW, AUSTRALIA, 2140",
+            "principal_activities": "Memphasys Limited (ASX:MEM) specialises in biological separations for commercial applications.  The Company's patented membrane processes enable the selection of high value substances or contaminants from the fluid in which they are contained.",
+            "fax_number": "(02) 8415 7399",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-11-01T10:01:01+1100",
+                    "number_of_pages": 60,
+                    "id": "01916746",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-01T10:13:33+1100",
+                    "size": "1.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171101/pdf/43nw0xds3k1r6j.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 7167619,
+                "status": [
+                    "XE"
+                ],
+                "market_cap": 1399643,
+                "code": "MEM",
+                "indices": [],
+                "year_open_price": 0.063,
+                "previous_close_price": 0.002,
+                "year_change_price": -0.061,
+                "year_low_date": "2017-07-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 699821360,
+                "eps": -0.003,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 699821360,
+                "pe": 0,
+                "offer_price": 0.002,
+                "suspended": false,
+                "last_price": 0.002,
+                "deprecated_market_cap": 1400000,
+                "day_low_price": 0.002,
+                "open_price": 0.002,
+                "year_high_date": "2017-08-08T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.004,
+                "bid_price": 0.001,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.002,
+                "year_change_in_percentage": "-96.825%",
+                "average_daily_volume": 1417272,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.memphasys.com/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Alison Coutts",
+                    "first_name": "Alison",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Coutts",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Goodall",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goodall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr JOHN PEREIRA",
+                    "first_name": "JOHN",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "PEREIRA",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Metcalfe",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Metcalfe",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

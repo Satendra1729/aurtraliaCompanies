@@ -1,0 +1,177 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ADR",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "ADHERIUM LIMITED",
+    "ASXcode": "ADR",
+    "data": {
+        "summary": {
+            "name_full": "ADHERIUM LIMITED",
+            "code": "ADR",
+            "name_short": "ADHERIUM",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "ADHERIUM LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ADR?image_size=L&v=1441068056000",
+            "foreign_exempt": false,
+            "listing_date": "2015-08-26T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "investors@adherium.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+64 9 307 2771",
+            "mailing_address": "Collins Square, Tower 4, Level 18, 727 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3008",
+            "principal_activities": "Digital health company which develops and manufactures solutions to monitor and increase patient adherence to prescribed therapies.",
+            "fax_number": "+61 3 8676 4938",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T14:04:10+1000",
+                    "number_of_pages": 53,
+                    "id": "01902250",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T14:06:30+1000",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msrfn10c82y7.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 55500,
+                "status": [],
+                "market_cap": 13116095,
+                "code": "ADR",
+                "indices": [],
+                "deprecated_number_of_shares": 174881264,
+                "previous_close_price": 0.075,
+                "year_low_date": "2017-11-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 174881264,
+                "eps": -0.076,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.078,
+                "suspended": false,
+                "last_price": 0.075,
+                "deprecated_market_cap": 13116000,
+                "day_low_price": 0.075,
+                "open_price": 0.075,
+                "year_high_date": "2016-12-19T00:00:00+1100",
+                "previous_day_percentage_change": "-1.316%",
+                "year_open_date": null,
+                "year_high_price": 0.38,
+                "bid_price": 0.075,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.075,
+                "average_daily_volume": 239123,
+                "year_low_price": 0.068,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "ADR",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.adherium.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.adherium.com/investors"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Thomas Gerard Lynch",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lynch",
+                    "middle_name": "Gerard"
+                },
+                {
+                    "full_name": "Mr Arik Anderson",
+                    "first_name": "Arik",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeremy Curnock Cook",
+                    "first_name": "Jeremy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Curnock Cook",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr William Hunter",
+                    "first_name": "William",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Hunter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce McHarrie",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McHarrie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Prof. John Mills",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Mills",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bryan Mogridge",
+                    "first_name": "Bryan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mogridge",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Licciardo",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Licciardo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rob Turnbull",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Turnbull",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

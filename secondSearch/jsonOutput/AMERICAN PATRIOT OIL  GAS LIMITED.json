@@ -1,0 +1,124 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AOW",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "AMERICAN PATRIOT OIL & GAS LIMITED",
+    "ASXcode": "AOW",
+    "data": {
+        "summary": {
+            "name_short": "AMERICAN",
+            "name_full": "AMERICAN PATRIOT OIL & GAS LIMITED",
+            "code": "AOW",
+            "primary_share_code": "AOW",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "AMERICAN PATRIOT OIL",
+            "foreign_exempt": false,
+            "listing_date": "2014-07-09T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9021 6106",
+            "mailing_address": "Level 1, 23 Oxford Street, OAKLEIGH, VIC, AUSTRALIA, 3166",
+            "principal_activities": "Oil and natural gas exploration and development.",
+            "fax_number": "03 9530 4117",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-09-28T13:25:59+1000",
+                    "number_of_pages": 51,
+                    "id": "01901185",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T13:27:32+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqlcg1kswl2g.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 500000,
+                "status": [],
+                "market_cap": 7823462,
+                "code": "AOW",
+                "indices": [],
+                "deprecated_number_of_shares": 237074615,
+                "previous_close_price": 0.033,
+                "year_low_date": "2017-05-26T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 237074615,
+                "eps": -0.0322,
+                "change_in_percent": "6.061%",
+                "change_price": 0.002,
+                "pe": 0,
+                "offer_price": 0.037,
+                "suspended": false,
+                "last_price": 0.035,
+                "deprecated_market_cap": 8298000,
+                "day_low_price": 0.035,
+                "open_price": 0.035,
+                "year_high_date": "2016-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.086,
+                "bid_price": 0.035,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.035,
+                "average_daily_volume": 537144,
+                "year_low_price": 0.014,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.americanpatriotoilandgas.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alexis Clark",
+                    "first_name": "Alexis",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clark",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frank Joseph Pirera",
+                    "first_name": "Frank Joseph",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pirera",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Shaw",
+                    "first_name": "David",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shaw",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Frank Joseph Pirera",
+                    "first_name": "Frank Joseph",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pirera",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

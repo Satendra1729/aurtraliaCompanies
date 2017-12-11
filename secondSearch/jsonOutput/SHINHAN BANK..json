@@ -1,0 +1,45 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SHZ",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "SHINHAN BANK.",
+    "ASXcode": "SHZ",
+    "data": {
+        "summary": {
+            "name_full": "SHINHAN BANK.",
+            "products": [],
+            "phone_number": "+82 2 2151 3962",
+            "mailing_address": "Macquarie Bank Limited, ., ., SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": ".",
+            "name_short": "SHINHAN.",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "SHINHAN BANK.",
+            "registry_phone_number": "(02) 9256 0689",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "SHZ",
+            "listing_date": "2017-06-19T00:00:00+1000",
+            "registry_address": "20 BRIDGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "AUSTRACLEAR SERVICES LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jae Shim",
+                    "first_name": "Jae",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shim",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

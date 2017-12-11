@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/QTG",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "Q TECHNOLOGY GROUP LIMITED",
+    "ASXcode": "QTG",
+    "data": {
+        "summary": {
+            "name_short": "Q TECH",
+            "name_full": "Q TECHNOLOGY GROUP LIMITED",
+            "code": "QTG",
+            "primary_share_code": "QTGDD",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "Q TECHNOLOGY GRP LTD",
+            "foreign_exempt": false,
+            "listing_date": "1987-12-02T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "enquiries@qtechnologygroup.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9676 7000",
+            "mailing_address": "Unit 5, 435 Williamstown Rd, PORT MELBOURNE, VIC, AUSTRALIA, 3207",
+            "principal_activities": "Design, supply and delivery of turnkey electronic security, alarm and access control systems for the Australasian market.",
+            "fax_number": "+61 3 9646 9086",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-29T17:44:05+1000",
+                    "number_of_pages": 89,
+                    "id": "01889764",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T17:46:08+1000",
+                    "size": "943.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lvnfc170s8lc.pdf"
+                }
+            ],
+            "primary_share": {
+                "status": [],
+                "year_high_price": 0,
+                "deprecated_number_of_shares": 0,
+                "year_low_date": null,
+                "indices": [],
+                "number_of_shares": 0,
+                "eps": 0,
+                "code": "QTGDD",
+                "pe": 0,
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 0,
+                "year_high_date": null,
+                "deprecated_market_cap": 0,
+                "market_cap": 0,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid Deferred Settlement",
+                "annual_dividend_yield": 0,
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "year_open_date": null
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.qtechnologygroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Douglas Potter",
+                    "first_name": "Douglas",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Potter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warren Sainsbury",
+                    "first_name": "Warren",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sainsbury",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rob Rosa",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rosa",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Edmond Tern",
+                    "first_name": "Edmond",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tern",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Howard Whitesmith",
+                    "first_name": "Howard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whitesmith",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Phillips",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Phillips",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Phillips",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Phillips",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

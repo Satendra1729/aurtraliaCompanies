@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AML",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AEON METALS LIMITED.",
+    "ASXcode": "AML",
+    "data": {
+        "summary": {
+            "name_short": "AEON METAL",
+            "name_full": "AEON METALS LIMITED.",
+            "code": "AML",
+            "primary_share_code": "AML",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AEON METALS LTD.",
+            "foreign_exempt": false,
+            "listing_date": "2007-06-14T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 5574 3830",
+            "mailing_address": "Suite 32, Level 7, 88 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Exploration for copper and molybdenum",
+            "fax_number": "(07) 5574 3568",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-17T14:55:02+1100",
+                    "number_of_pages": 96,
+                    "id": "01908861",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-17T14:57:55+1100",
+                    "size": "8.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171017/pdf/43n9jdrwm9qkyf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2061170,
+                "status": [],
+                "market_cap": 128133874,
+                "code": "AML",
+                "indices": [],
+                "year_open_price": 0.125,
+                "previous_close_price": 0.32,
+                "year_change_price": 0.185,
+                "year_low_date": "2017-08-17T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 400418355,
+                "eps": -0.0237,
+                "change_in_percent": "-3.125%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 400418355,
+                "pe": 0,
+                "offer_price": 0.31,
+                "suspended": false,
+                "last_price": 0.31,
+                "deprecated_market_cap": 124130000,
+                "day_low_price": 0.31,
+                "open_price": 0.32,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.35,
+                "bid_price": 0.305,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.33,
+                "year_change_in_percentage": "148%",
+                "average_daily_volume": 1041004,
+                "year_low_price": 0.13,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.aeonmetals.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Thomas J Mann",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mann",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Hamish Collins",
+                    "first_name": "Hamish",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Collins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Harris",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Lonergan",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lonergan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ivan Wong",
+                    "first_name": "Ivan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wong",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Stephen Lonergan",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lonergan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

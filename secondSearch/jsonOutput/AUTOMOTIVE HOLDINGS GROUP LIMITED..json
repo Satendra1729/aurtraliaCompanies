@@ -1,0 +1,248 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AHG",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "AUTOMOTIVE HOLDINGS GROUP LIMITED.",
+    "ASXcode": "AHG",
+    "data": {
+        "summary": {
+            "name_short": "AHG LTD",
+            "name_full": "AUTOMOTIVE HOLDINGS GROUP LIMITED.",
+            "code": "AHG",
+            "primary_share_code": "AHG",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "AUTOMOTIVE HOLDINGS.",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AHG?image_size=L&v=1443329258000",
+            "foreign_exempt": false,
+            "listing_date": "2005-11-03T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "9.5C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-25T00:00:00+1000",
+                "record_date": "2017-09-22T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.095,
+                "ex_date": "2017-09-21T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+61 8 9422 7676",
+            "mailing_address": "21 Old Aberdeen Place, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Automotive retail and Logistics",
+            "fax_number": "+61 8 9422 7686",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 ANNUAL REPORT TO SHAREHOLDERS",
+                    "document_date": "2017-09-29T16:18:33+1000",
+                    "number_of_pages": 76,
+                    "id": "01902488",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:21:01+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt6l2d288l1b.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1431347,
+                "status": [],
+                "market_cap": 1233637612,
+                "code": "AHG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    }
+                ],
+                "year_open_price": 3.78,
+                "previous_close_price": 3.72,
+                "year_change_price": -0.05,
+                "year_low_date": "2017-05-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 331623014,
+                "eps": 0.1675,
+                "change_in_percent": "0.269%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 331623014,
+                "pe": 22.27,
+                "offer_price": 3.73,
+                "suspended": false,
+                "last_price": 3.73,
+                "deprecated_market_cap": 1236954000,
+                "day_low_price": 3.7,
+                "open_price": 3.71,
+                "year_high_date": "2017-03-29T00:00:00+1100",
+                "previous_day_percentage_change": "-0.268%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 4.2,
+                "bid_price": 3.72,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.74,
+                "year_change_in_percentage": "-1.323%",
+                "average_daily_volume": 980976,
+                "year_low_price": 2.905,
+                "annual_dividend_yield": 5.09
+            },
+            "web_address": "http://www.ahg.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Griffiths",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Griffiths",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Patrick McConnell",
+                    "first_name": "John",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McConnell",
+                    "middle_name": "Patrick"
+                },
+                {
+                    "full_name": "Mr Howard Critchley",
+                    "first_name": "Howard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Critchley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gregory Duncan",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Duncan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Groppoli",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Groppoli",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert McEniry",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McEniry",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jane McKellar",
+                    "first_name": "Jane",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McKellar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Mirams",
+                    "first_name": "Philip",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mirams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Rowland",
+                    "first_name": "David",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowland",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Rowland",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowland",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

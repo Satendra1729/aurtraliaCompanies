@@ -1,0 +1,177 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ABA",
+    "GICSindustrygroup": "Banks",
+    "Companyname": "AUSWIDE BANK LTD",
+    "ASXcode": "ABA",
+    "data": {
+        "summary": {
+            "name_full": "AUSWIDE BANK LTD",
+            "last_dividend": {
+                "comments": "17C FRANKED@30%; DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-18T00:00:00+1000",
+                "record_date": "2017-09-05T00:00:00+1000",
+                "payable_date": "2017-09-22T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.17,
+                "ex_date": "2017-09-04T00:00:00+1000"
+            },
+            "code": "ABA",
+            "name_short": "AUSWIDE",
+            "industry_group_name": "Banks",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "AUSWIDE BANK LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ABA?image_size=L&v=1429851676000",
+            "foreign_exempt": false,
+            "listing_date": "1994-09-19T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "auswide@auswidebank.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 138 831",
+            "mailing_address": "Floor 5, 16 - 20 Barolin Street, BUNDABERG, QLD, AUSTRALIA, 4670",
+            "principal_activities": "Licenced Credit and Financial Services provider and Authorised Deposit Taking Institution - providing finance (principally mortgage finance), investment opportunities and associated banking, insurance and financial services.",
+            "fax_number": "(07) 4152 3499",
+            "latest_annual_reports": [
+                {
+                    "header": "Auswide Bank 2016-17 Annual Report",
+                    "document_date": "2017-10-20T11:53:01+1100",
+                    "number_of_pages": 108,
+                    "id": "01910345",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T11:56:03+1100",
+                    "size": "2.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43ndv01p64x3l3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5492,
+                "status": [],
+                "market_cap": 226652621,
+                "code": "ABA",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 5.67,
+                "previous_close_price": 5.38,
+                "year_change_price": -0.28,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 42128740,
+                "eps": 0.3735,
+                "change_in_percent": "0.186%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 42128740,
+                "pe": 14.43,
+                "offer_price": 5.4,
+                "suspended": false,
+                "last_price": 5.39,
+                "deprecated_market_cap": 227074000,
+                "day_low_price": 5.38,
+                "open_price": 5.4,
+                "year_high_date": "2017-08-30T00:00:00+1000",
+                "previous_day_percentage_change": "-0.555%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 5.6,
+                "bid_price": 5.38,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 5.4,
+                "year_change_in_percentage": "-4.938%",
+                "average_daily_volume": 17802,
+                "year_low_price": 5.02,
+                "annual_dividend_yield": 5.75
+            },
+            "primary_share_code": "ABA",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.auswidebank.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Humphrey",
+                    "first_name": "John",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Humphrey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin John Barrett",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barrett",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Ms Sandra Birkensleigh",
+                    "first_name": "Sandra",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Birkensleigh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Barry Dangerfield",
+                    "first_name": "Barry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dangerfield",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gregory Noel Kenny",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kenny",
+                    "middle_name": "Noel"
+                },
+                {
+                    "full_name": "Mr William Schafer",
+                    "first_name": "William",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schafer",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr William Schafer",
+                    "first_name": "William",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schafer",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

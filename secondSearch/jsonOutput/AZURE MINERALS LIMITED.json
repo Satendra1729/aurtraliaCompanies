@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AZS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AZURE MINERALS LIMITED",
+    "ASXcode": "AZS",
+    "data": {
+        "summary": {
+            "name_short": "AZURE MINS",
+            "name_full": "AZURE MINERALS LIMITED",
+            "code": "AZS",
+            "primary_share_code": "AZS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AZURE MINERALS",
+            "foreign_exempt": false,
+            "listing_date": "2003-12-16T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9481 2555",
+            "mailing_address": "Level 1, 34 Colin Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Base and Precious Metals Exploration",
+            "fax_number": "08 9485 1290",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-12T12:23:24+1100",
+                    "number_of_pages": 74,
+                    "id": "01907183",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-12T12:25:30+1100",
+                    "size": "941.9KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171012/pdf/43n5dvycdnqz1x.pdf"
+                },
+                {
+                    "header": "Annual Report and Full Year Statutory Accounts",
+                    "document_date": "2017-09-15T16:49:54+1000",
+                    "number_of_pages": 58,
+                    "id": "01896718",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-15T16:51:58+1000",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170915/pdf/43mct48dz0hwth.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 202620,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 38053163,
+                "code": "AZS",
+                "indices": [],
+                "year_open_price": 0.03783,
+                "previous_close_price": 0.455,
+                "year_change_price": 0.39217,
+                "year_low_date": "2017-05-19T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 83633326,
+                "eps": -0.084,
+                "change_in_percent": "-5.495%",
+                "change_price": -0.025,
+                "deprecated_number_of_shares": 83633326,
+                "pe": 0,
+                "offer_price": 0.455,
+                "suspended": false,
+                "last_price": 0.43,
+                "deprecated_market_cap": 35962000,
+                "day_low_price": 0.43,
+                "open_price": 0.46,
+                "year_high_date": "2017-11-27T00:00:00+1100",
+                "previous_day_percentage_change": "-14.151%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.75,
+                "bid_price": 0.44,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.465,
+                "year_change_in_percentage": "1,036.664%",
+                "average_daily_volume": 3095687,
+                "year_low_price": 0.22,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.azureminerals.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Ingram",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ingram",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Rovira",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rovira",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Wolf Martinick",
+                    "first_name": "Wolf",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Martinick",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brett Dickson",
+                    "first_name": "Brett",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dickson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Brett Dickson",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dickson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

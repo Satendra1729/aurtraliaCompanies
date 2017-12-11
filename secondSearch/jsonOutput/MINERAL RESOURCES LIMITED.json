@@ -1,0 +1,235 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MIN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MINERAL RESOURCES LIMITED",
+    "ASXcode": "MIN",
+    "data": {
+        "summary": {
+            "name_short": "MINERALRES",
+            "name_full": "MINERAL RESOURCES LIMITED",
+            "code": "MIN",
+            "primary_share_code": "MIN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MINERAL RESOURCES.",
+            "foreign_exempt": false,
+            "listing_date": "2006-07-28T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "33C FRANKED@30%; DRP  NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-16T00:00:00+1000",
+                "record_date": "2017-08-31T00:00:00+1000",
+                "payable_date": "2017-09-20T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.33,
+                "ex_date": "2017-08-30T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(08) 9329 3600",
+            "mailing_address": "1 Sleat Road, APPLECROSS, WA, AUSTRALIA, 6153",
+            "principal_activities": "Mining services",
+            "fax_number": "(08) 9329 3601",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-18T16:54:31+1100",
+                    "number_of_pages": 67,
+                    "id": "01909505",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-18T16:56:58+1100",
+                    "size": "9.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171018/pdf/43nbxwyy4ffvbl.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 965292,
+                "status": [],
+                "market_cap": 3343551226,
+                "code": "MIN",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 12.32,
+                "previous_close_price": 17.83,
+                "year_change_price": 5.54,
+                "year_low_date": "2017-06-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 187523905,
+                "eps": 1.0766,
+                "change_in_percent": "0.168%",
+                "change_price": 0.03,
+                "deprecated_number_of_shares": 187523905,
+                "pe": 16.59,
+                "offer_price": 18.1,
+                "suspended": false,
+                "last_price": 17.86,
+                "deprecated_market_cap": 3349177000,
+                "day_low_price": 17.69,
+                "open_price": 17.93,
+                "year_high_date": "2017-11-27T00:00:00+1100",
+                "previous_day_percentage_change": "0.056%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 20.695,
+                "bid_price": 17.83,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 18.19,
+                "year_change_in_percentage": "44.968%",
+                "average_daily_volume": 1228878,
+                "year_low_price": 9.15,
+                "annual_dividend_yield": 3.02
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.mineralresources.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Wade",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wade",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Ellison",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ellison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kelvin Flynn",
+                    "first_name": "Kelvin",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Flynn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James McClements",
+                    "first_name": "James",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McClements",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Andrew Roberts",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roberts",
+                    "middle_name": "Andrew"
+                },
+                {
+                    "full_name": "Ms Xi Xi",
+                    "first_name": "Xi",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Xi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Goulds",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goulds",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Bruce Goulds",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goulds",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

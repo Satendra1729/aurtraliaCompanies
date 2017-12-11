@@ -1,0 +1,117 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AMD",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ARROW MINERALS LTD",
+    "ASXcode": "AMD",
+    "data": {
+        "summary": {
+            "name_short": "ARROW MIN",
+            "name_full": "ARROW MINERALS LTD",
+            "code": "AMD",
+            "primary_share_code": "AMD",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ARROW MINERALS",
+            "foreign_exempt": false,
+            "listing_date": "2005-10-28T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9383 3330",
+            "mailing_address": "Unit 16, 40 St Quentin Ave, CLAREMONT, WA, AUSTRALIA, 6010",
+            "principal_activities": "Exploration in the Fraser Range Province of Western Australia.",
+            "fax_number": "+61 8 9486 4799",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 981364,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 7360862,
+                "code": "AMD",
+                "indices": [],
+                "year_open_price": 0.009,
+                "previous_close_price": 0.042,
+                "year_change_price": 0.036,
+                "year_low_date": "2017-06-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 175258615,
+                "eps": -0.0087,
+                "change_in_percent": "7.143%",
+                "change_price": 0.003,
+                "deprecated_number_of_shares": 175258615,
+                "pe": 0,
+                "offer_price": 0.046,
+                "suspended": false,
+                "last_price": 0.045,
+                "deprecated_market_cap": 7887000,
+                "day_low_price": 0.04,
+                "open_price": 0.042,
+                "year_high_date": "2017-11-06T00:00:00+1100",
+                "previous_day_percentage_change": "-2.326%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.105,
+                "bid_price": 0.041,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.046,
+                "year_change_in_percentage": "400%",
+                "average_daily_volume": 5486713,
+                "year_low_price": 0.023,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.segueresources.com",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Steven Michael",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Michael",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nicholas Ong",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Frazer Tabeart",
+                    "first_name": "Frazer",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tabeart",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Matthew Foy",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Foy",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

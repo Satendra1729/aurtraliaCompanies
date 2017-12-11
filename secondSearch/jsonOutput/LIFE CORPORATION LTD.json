@@ -1,0 +1,130 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LFC",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "LIFE CORPORATION LTD",
+    "ASXcode": "LFC",
+    "data": {
+        "summary": {
+            "name_short": "LIFE CORP",
+            "name_full": "LIFE CORPORATION LTD",
+            "code": "LFC",
+            "primary_share_code": "LFC",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "LIFE CORPORATION",
+            "foreign_exempt": false,
+            "listing_date": "2004-06-18T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9600 0162",
+            "mailing_address": "Level 10, 167 Queen Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Life Corporation Limited is a provider of multi-religion funeral services relating to burials or cremations and including other related ancillary services and supplies",
+            "fax_number": "(03) 9640 0946",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report For the year ended 30 June 2017",
+                    "document_date": "2017-09-30T17:46:36+1000",
+                    "number_of_pages": 103,
+                    "id": "01902973",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:04:45+1100",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvmk4mry88wh.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 90830,
+                "code": "LFC",
+                "indices": [],
+                "year_open_price": 0.1,
+                "previous_close_price": 0.006,
+                "year_change_price": -0.094,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 15138395,
+                "eps": -8.48,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 15138395,
+                "pe": 0,
+                "offer_price": 1,
+                "suspended": false,
+                "last_price": 0.006,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-07T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-13T11:00:00+1100",
+                "year_high_price": 1,
+                "bid_price": 0.006,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-94%",
+                "average_daily_volume": 350,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.lifecorplimited.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Samuel Kong",
+                    "first_name": "Samuel",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kong",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Victor Hoo",
+                    "first_name": "Victor",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hoo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Voiron Chor",
+                    "first_name": "Voiron",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chor",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Lord",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lord",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

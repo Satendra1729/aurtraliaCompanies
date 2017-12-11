@@ -1,0 +1,175 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/QIN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "QUINTIS LTD",
+    "ASXcode": "QIN",
+    "data": {
+        "summary": {
+            "name_short": "QUINTIS",
+            "name_full": "QUINTIS LTD",
+            "code": "QIN",
+            "primary_share_code": "QIN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "QUINTIS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-12-21T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "3C FRANKED @ 30%; DR P",
+                "franked_percentage": "100%",
+                "created_date": "2016-08-26T00:00:00+1000",
+                "record_date": "2016-10-10T00:00:00+1100",
+                "payable_date": "2016-11-08T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.03,
+                "ex_date": "2016-10-07T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9215 3000",
+            "mailing_address": "The Old Swan Brewery, Level 2, 171-173 Mounts Bay Road, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Sandalwood products company.",
+            "fax_number": "(08) 9215 3090",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-11-14T18:41:56+1100",
+                    "number_of_pages": 137,
+                    "id": "01921389",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-14T18:44:21+1100",
+                    "size": "4.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171114/pdf/43p78v7gh036sq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "QIN",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.17,
+                "previous_close_price": 0.295,
+                "year_change_price": -0.875,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 390291753,
+                "eps": -1.07,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 390291753,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.295,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-23T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 1.7,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-74.786%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 10.17
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.quintis.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Dalton Leslie Gooding",
+                    "first_name": "Dalton",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gooding",
+                    "middle_name": "Leslie"
+                },
+                {
+                    "full_name": "Mr Julius Matthys",
+                    "first_name": "Julius",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Matthys",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Giovanni Groppoli",
+                    "first_name": "Giovanni",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Groppoli",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Graham Doveton Kay",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kay",
+                    "middle_name": "Graham Doveton"
+                },
+                {
+                    "full_name": "Mr Alistair Stevens",
+                    "first_name": "Alistair",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stevens",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Simon Storm",
+                    "first_name": "Simon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Storm",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Quentin Megson",
+                    "first_name": "Quentin",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Megson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

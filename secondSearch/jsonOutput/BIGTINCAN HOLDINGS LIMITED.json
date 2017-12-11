@@ -1,0 +1,90 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BTH",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "BIGTINCAN HOLDINGS LIMITED",
+    "ASXcode": "BTH",
+    "data": {
+        "summary": {
+            "name_full": "BIGTINCAN HOLDINGS LIMITED",
+            "primary_share_code": "BTH",
+            "mailing_address": "Level 9, 257 Clarence Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provider of enterprise mobility software",
+            "name_short": "BIGTINCAN",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "primary_share": {
+                "volume": 1332315,
+                "status": [],
+                "market_cap": 52020330,
+                "code": "BTH",
+                "indices": [],
+                "deprecated_number_of_shares": 129613020,
+                "previous_close_price": 0.295,
+                "year_low_date": "2017-05-11T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 176340101,
+                "eps": 0,
+                "change_in_percent": "-6.78%",
+                "change_price": -0.02,
+                "pe": 0,
+                "offer_price": 0.28,
+                "suspended": false,
+                "last_price": 0.275,
+                "deprecated_market_cap": 35644000,
+                "day_low_price": 0.27,
+                "open_price": 0.3,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "13.462%",
+                "year_open_date": null,
+                "year_high_price": 0.33,
+                "bid_price": 0.27,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.3,
+                "average_daily_volume": 501744,
+                "year_low_price": 0.16,
+                "annual_dividend_yield": 0
+            },
+            "name_abbrev": "BIGTINCAN HLDGS LTD",
+            "registry_phone_number": "1300 787 272",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-30T15:30:32+1000",
+                    "number_of_pages": 64,
+                    "id": "01902933",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:01:15+1100",
+                    "size": "13.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvk76yyyflxj.pdf"
+                }
+            ],
+            "products": [
+                "shares"
+            ],
+            "foreign_exempt": false,
+            "code": "BTH",
+            "listing_date": "2017-03-24T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "web_address": "http://www.bigtincan.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Theodore Ohlsson",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ohlsson",
+                    "middle_name": "Theodore"
+                }
+            ]
+        }
+    }
+}

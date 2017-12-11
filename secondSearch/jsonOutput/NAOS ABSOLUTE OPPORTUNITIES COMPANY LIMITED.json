@@ -1,0 +1,132 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NAC",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "NAOS ABSOLUTE OPPORTUNITIES COMPANY LIMITED",
+    "ASXcode": "NAC",
+    "data": {
+        "summary": {
+            "name_short": "NAOSABSOPP",
+            "name_full": "NAOS ABSOLUTE OPPORTUNITIES COMPANY LIMITED",
+            "code": "NAC",
+            "primary_share_code": "NAC",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "NAOS ABSOLUTE OPP",
+            "foreign_exempt": false,
+            "listing_date": "2014-11-12T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "2.5C FRANKED@30%;DRP  NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-10-24T00:00:00+1100",
+                "payable_date": "2017-11-08T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.025,
+                "ex_date": "2017-10-23T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9064 0568",
+            "mailing_address": "Level 34, MLC Centre, 19 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E & Annual Report - 30 June 2017",
+                    "document_date": "2017-08-24T08:37:42+1000",
+                    "number_of_pages": 49,
+                    "id": "01887388",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-24T08:44:35+1000",
+                    "size": "5.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lp7414yznqsm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 72522,
+                "status": [],
+                "market_cap": 54112996,
+                "code": "NAC",
+                "indices": [],
+                "deprecated_number_of_shares": 52536889,
+                "previous_close_price": 1.03,
+                "year_low_date": "2017-11-03T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 52536889,
+                "eps": 0.0259,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 39.77,
+                "offer_price": 1.035,
+                "suspended": false,
+                "last_price": 1.03,
+                "deprecated_market_cap": 54113000,
+                "day_low_price": 1.025,
+                "open_price": 1.035,
+                "year_high_date": "2016-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.215,
+                "bid_price": 1.03,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.035,
+                "average_daily_volume": 80723,
+                "year_low_price": 1,
+                "annual_dividend_yield": 4.85
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.naos.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Rickards",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rickards",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warwick Evans",
+                    "first_name": "Warwick",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sebastian Evans",
+                    "first_name": "Sebastian",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Sebastian Evans",
+                    "first_name": "Sebastian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Evans",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

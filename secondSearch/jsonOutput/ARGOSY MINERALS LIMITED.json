@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AGY",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ARGOSY MINERALS LIMITED",
+    "ASXcode": "AGY",
+    "data": {
+        "summary": {
+            "name_full": "ARGOSY MINERALS LIMITED",
+            "code": "AGY",
+            "name_short": "ARGOSY",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ARGOSY MINERALS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AGY?image_size=L&v=1474623528000",
+            "foreign_exempt": false,
+            "listing_date": "1997-04-03T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "abetti@consiliumcorp.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6188 8181",
+            "mailing_address": "Level 3, 216 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Mining Exploration",
+            "fax_number": "+61 8 6188 8182",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-31T18:45:36+1100",
+                    "number_of_pages": 46,
+                    "id": "01844104",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T18:49:49+1100",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h6j529gc0s74.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2779413,
+                "status": [],
+                "market_cap": 205504212,
+                "code": "AGY",
+                "indices": [],
+                "year_open_price": 0.01125,
+                "previous_close_price": 0.23,
+                "year_change_price": 0.21375,
+                "year_low_date": "2017-02-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 893496575,
+                "eps": -0.0034,
+                "change_in_percent": "-2.174%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 893496575,
+                "pe": 0,
+                "offer_price": 0.23,
+                "suspended": false,
+                "last_price": 0.225,
+                "deprecated_market_cap": 201037000,
+                "day_low_price": 0.225,
+                "open_price": 0.235,
+                "year_high_date": "2017-10-05T00:00:00+1100",
+                "previous_day_percentage_change": "-8%",
+                "year_open_date": "2014-03-12T11:00:00+1100",
+                "year_high_price": 0.355,
+                "bid_price": 0.225,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.24,
+                "year_change_in_percentage": "1,900%",
+                "average_daily_volume": 7206729,
+                "year_low_price": 0.021,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "AGY",
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.argosyminerals.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alexander Molyneux",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Molyneux",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jerko Zuvela",
+                    "first_name": "Jerko",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zuvela",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ranko Matic",
+                    "first_name": "Ranko",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Matic",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Malcolm Randall",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Randall",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Andrea Simone Betti",
+                    "first_name": "Andrea",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Betti",
+                    "middle_name": "Simone"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KOP",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "KOREA SOUTH-EAST POWER CO LTD",
+    "ASXcode": "KOP",
+    "data": {
+        "summary": {
+            "name_full": "KOREA SOUTH-EAST POWER CO LTD",
+            "products": [],
+            "phone_number": "+82 70 8898 1320",
+            "mailing_address": "32, Sadeul-ro, 123 beon-gil, Jinju-si, AUSTRALIA,",
+            "principal_activities": "",
+            "name_short": "KOREASEPOW",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "KOREA SE POWER LTD",
+            "registry_phone_number": "1300 787 272",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "KOP",
+            "listing_date": "2013-10-02T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": "https://www.kosep.co.kr/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Sun Jic Hong",
+                    "first_name": "Sun",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hong",
+                    "middle_name": "Jic"
+                },
+                {
+                    "full_name": "Mr Do Soo Jang",
+                    "first_name": "Do",
+                    "roles": [
+                        "President",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jang",
+                    "middle_name": "Soo"
+                },
+                {
+                    "full_name": "Mr Young Sam Choi",
+                    "first_name": "Young",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Choi",
+                    "middle_name": "Sam"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Woo Jang Cho",
+                    "first_name": "Woo",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cho",
+                    "middle_name": "Jang"
+                }
+            ]
+        }
+    }
+}

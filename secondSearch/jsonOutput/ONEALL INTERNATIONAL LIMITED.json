@@ -1,0 +1,170 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/1AL",
+    "GICSindustrygroup": "Consumer Durables & Apparel",
+    "Companyname": "ONEALL INTERNATIONAL LIMITED",
+    "ASXcode": "1AL",
+    "data": {
+        "summary": {
+            "name_short": "ONEALL",
+            "name_full": "ONEALL INTERNATIONAL LIMITED",
+            "code": "1AL",
+            "primary_share_code": "1AL",
+            "industry_group_name": "Consumer Durables & Apparel",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "ONEALL IN LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2015-12-03T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "UNFRANKED; 100% CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-10-20T00:00:00+1100",
+                "payable_date": "2017-10-27T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.035,
+                "ex_date": "2017-10-19T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9225 0200",
+            "mailing_address": "Level 27, AMP Centre, 50 Bridge Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "The Company is an outdoor furniture designer, manufacturer and distributor in China.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-21T10:03:50+1000",
+                    "number_of_pages": 64,
+                    "id": "01849476",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-21T10:13:33+1000",
+                    "size": "6.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170421/pdf/43hnb31pjrjj0s.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 123840000,
+                "code": "1AL",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 129000000,
+                "previous_close_price": 0.96,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 129000000,
+                "eps": 0.0789,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 12.17,
+                "offer_price": 0.945,
+                "suspended": false,
+                "last_price": 0.96,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1,
+                "bid_price": 0.925,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 3453,
+                "year_low_price": 0,
+                "annual_dividend_yield": 6.25
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.oneallinternational.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Huatang Li",
+                    "first_name": "Huatang",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jianhui Cao",
+                    "first_name": "Jianhui",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cao",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jia Ying Chen",
+                    "first_name": "Jia Ying",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Fook Weng Au",
+                    "first_name": "Fook Weng",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Au",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Neville Hogan",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hogan",
+                    "middle_name": "Neville"
+                },
+                {
+                    "full_name": "Mr Richard Yang",
+                    "first_name": "Richard",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yang",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Su-King Hii",
+                    "first_name": "Su-King",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hii",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

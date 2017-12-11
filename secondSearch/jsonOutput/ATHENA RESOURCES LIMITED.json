@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AHN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ATHENA RESOURCES LIMITED",
+    "ASXcode": "AHN",
+    "data": {
+        "summary": {
+            "name_short": "ATHENA RES",
+            "name_full": "ATHENA RESOURCES LIMITED",
+            "code": "AHN",
+            "primary_share_code": "AHN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ATHENA RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2006-11-22T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9222 5888",
+            "mailing_address": "24 Colin Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Iron Ore, Gold, Nickel and Copper exploration.",
+            "fax_number": "+61 8 9222 5810",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-19T11:44:31+1100",
+                    "number_of_pages": 36,
+                    "id": "01909807",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-19T11:46:31+1100",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171019/pdf/43ncn0sqx7p20q.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 4985498,
+                "code": "AHN",
+                "indices": [],
+                "year_open_price": 0.035,
+                "previous_close_price": 0.023,
+                "year_change_price": -0.012,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 216760789,
+                "eps": -0.0006,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 216760789,
+                "pe": 0,
+                "offer_price": 0.037,
+                "suspended": false,
+                "last_price": 0.023,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-05T11:00:00+1100",
+                "year_high_price": 0.045,
+                "bid_price": 0.016,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-34.286%",
+                "average_daily_volume": 53710,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.athenaresources.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Webster",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Webster",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Edmond William Edwards",
+                    "first_name": "Edmond",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Edwards",
+                    "middle_name": "William"
+                },
+                {
+                    "full_name": "Mr Jian Li",
+                    "first_name": "Jian",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Newcomb",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Newcomb",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

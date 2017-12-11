@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HGL",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "HUDSON INVESTMENT GROUP LIMITED",
+    "ASXcode": "HGL",
+    "data": {
+        "summary": {
+            "name_short": "HUDSON INV",
+            "name_full": "HUDSON INVESTMENT GROUP LIMITED",
+            "code": "HGL",
+            "primary_share_code": "HGL",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "HUDSON INVESTMENT",
+            "foreign_exempt": false,
+            "listing_date": "1994-06-09T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9251 7177",
+            "mailing_address": "Hudson House, Level 2, 131 Macquarie Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment in commerical property and the production and marketing of attapulgite",
+            "fax_number": "(02) 9251 7500",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-30T14:03:31+1100",
+                    "number_of_pages": 76,
+                    "id": "01843427",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T14:06:46+1100",
+                    "size": "2.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h51s4jds3r9g.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 8973340,
+                "code": "HGL",
+                "indices": [],
+                "year_open_price": 0.066,
+                "previous_close_price": 0.032,
+                "year_change_price": -0.034,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 280416865,
+                "eps": 0.0134,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 280416865,
+                "pe": 2.39,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 0.032,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-08-04T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.042,
+                "bid_price": 0.028,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-51.515%",
+                "average_daily_volume": 25494,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.higl.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John W Farey",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Farey",
+                    "middle_name": "W"
+                },
+                {
+                    "full_name": "Mr Alan Beasley",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beasley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Foley",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Foley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Cheng Fong Han",
+                    "first_name": "Cheng",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Han",
+                    "middle_name": "Fong"
+                },
+                {
+                    "full_name": "Mr Warren Wen-Shih Choo",
+                    "first_name": "Warren",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Choo",
+                    "middle_name": "Wen-Shih"
+                },
+                {
+                    "full_name": "Mr Francis Choy",
+                    "first_name": "Francis",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Choy",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gananatha Minithantri",
+                    "first_name": "Gananatha",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Minithantri",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Henry Kinstlinger",
+                    "first_name": "Henry",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kinstlinger",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

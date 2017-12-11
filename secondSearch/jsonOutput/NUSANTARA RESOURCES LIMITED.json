@@ -1,0 +1,80 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NUS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NUSANTARA RESOURCES LIMITED",
+    "ASXcode": "NUS",
+    "data": {
+        "summary": {
+            "name_short": "NUSANTARA",
+            "name_full": "NUSANTARA RESOURCES LIMITED",
+            "code": "NUS",
+            "primary_share_code": "NUS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NUSANTARA RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2017-08-02T00:00:00+1000",
+            "registry_address": "AXA ASIA PACIFIC HOLDINGS LIMITED, LEVEL 12, 565 BOURKE STREET, MELBOURNE, VIC, AUSTRALIA, 3001",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9620 0718",
+            "mailing_address": "Level 2, 175-177 Flinders Lane, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Mining and mineral exploration",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 3056,
+                "status": [],
+                "market_cap": 27796077,
+                "code": "NUS",
+                "indices": [],
+                "deprecated_number_of_shares": 66927035,
+                "previous_close_price": 0.285,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 97530096,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.29,
+                "suspended": false,
+                "last_price": 0.285,
+                "deprecated_market_cap": 19074000,
+                "day_low_price": 0.285,
+                "open_price": 0.285,
+                "year_high_date": "2017-08-02T00:00:00+1000",
+                "previous_day_percentage_change": "-10.938%",
+                "year_open_date": null,
+                "year_high_price": 0.45,
+                "bid_price": 0.22,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.285,
+                "average_daily_volume": 88053,
+                "year_low_price": 0.285,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 367 373",
+            "web_address": "http://www.nusantararesources.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Jane Rose",
+                    "first_name": "Jane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Rose",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

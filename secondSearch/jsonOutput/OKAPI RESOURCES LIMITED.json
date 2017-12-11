@@ -1,0 +1,91 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OKR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "OKAPI RESOURCES LIMITED",
+    "ASXcode": "OKR",
+    "data": {
+        "summary": {
+            "name_short": "OKAPI RES",
+            "name_full": "OKAPI RESOURCES LIMITED",
+            "code": "OKR",
+            "primary_share_code": "OKR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "OKAPI RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2017-09-28T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9481 1111",
+            "mailing_address": "Level 1, 7 Ventnor Avenue, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mineral Exploration",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T23:54:47+1100",
+                    "number_of_pages": 49,
+                    "id": "01916478",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-11-01T08:14:07+1100",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171101/pdf/43nvj2zrng0q04.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 14168004,
+                "code": "OKR",
+                "indices": [],
+                "deprecated_number_of_shares": 25500010,
+                "previous_close_price": 0.44,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 32200010,
+                "eps": 0,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.48,
+                "suspended": false,
+                "last_price": 0.44,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-27T00:00:00+1100",
+                "previous_day_percentage_change": "-12%",
+                "year_open_date": null,
+                "year_high_price": 0.6,
+                "bid_price": 0.45,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 242149,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.okapiresources.com",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Craig Nelmes",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nelmes",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

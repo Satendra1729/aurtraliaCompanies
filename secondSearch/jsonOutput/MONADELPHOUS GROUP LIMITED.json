@@ -1,0 +1,233 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MND",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "MONADELPHOUS GROUP LIMITED",
+    "ASXcode": "MND",
+    "data": {
+        "summary": {
+            "name_short": "MONADEL",
+            "name_full": "MONADELPHOUS GROUP LIMITED",
+            "code": "MND",
+            "primary_share_code": "MND",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "MONADELPHOUS GROUP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MND?image_size=L&v=1382583846000",
+            "foreign_exempt": false,
+            "listing_date": "1991-03-28T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "last_dividend": {
+                "comments": "30C FRANKED @ 30%; D RP NIL DISCOUNT",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-22T00:00:00+1000",
+                "record_date": "2017-09-08T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.3,
+                "ex_date": "2017-09-07T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(08) 9316 1255",
+            "mailing_address": "59 Albany Highway, VICTORIA PARK, WA, AUSTRALIA, 6100",
+            "principal_activities": "Provision of engineering services within Australia.",
+            "fax_number": "(08) 9316 1950",
+            "latest_annual_reports": [
+                {
+                    "header": "Amended Monadelphous 2017 Annual Report",
+                    "document_date": "2017-10-16T20:09:53+1100",
+                    "number_of_pages": 53,
+                    "id": "01908509",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-16T20:13:19+1100",
+                    "size": "3.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171016/pdf/43n8qg8cqrjjr8.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-15T20:50:07+1100",
+                    "number_of_pages": 52,
+                    "id": "01907969",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-16T08:23:20+1100",
+                    "size": "3.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171016/pdf/43n7ml7w3tn3x4.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 207162,
+                "status": [],
+                "market_cap": 1689349421,
+                "code": "MND",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Inds",
+                        "index_code": "XNJ",
+                        "name_abrev": "Industrials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Industrials (Sector)"
+                    }
+                ],
+                "year_open_price": 18.09,
+                "previous_close_price": 17.97,
+                "year_change_price": -0.18,
+                "year_low_date": "2017-02-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 94009428,
+                "eps": 0.6141,
+                "change_in_percent": "-0.334%",
+                "change_price": -0.06,
+                "deprecated_number_of_shares": 94009428,
+                "pe": 29.16,
+                "offer_price": 18,
+                "suspended": false,
+                "last_price": 17.91,
+                "deprecated_market_cap": 1683709000,
+                "day_low_price": 17.69,
+                "open_price": 18,
+                "year_high_date": "2017-11-22T00:00:00+1100",
+                "previous_day_percentage_change": "1.069%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 19.81,
+                "bid_price": 17.77,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 18.03,
+                "year_change_in_percentage": "-0.995%",
+                "average_daily_volume": 360617,
+                "year_low_price": 10.17,
+                "annual_dividend_yield": 3.02
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.monadelphous.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Calogero G Rubino",
+                    "first_name": "Calogero",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rubino",
+                    "middle_name": "G"
+                },
+                {
+                    "full_name": "Mr Robert Velletri",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Managing Director",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Velletri",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Dempsey",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dempsey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Michelmore",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Michelmore",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dietmar Voss",
+                    "first_name": "Dietmar",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Voss",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Trueman",
+                    "first_name": "Philip",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trueman",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Philip Trueman",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trueman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kristy Glasgow",
+                    "first_name": "Kristy",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Glasgow",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/EGH",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "EUREKA GROUP HOLDINGS LIMITED",
+    "ASXcode": "EGH",
+    "data": {
+        "summary": {
+            "name_short": "EUR GROUP",
+            "name_full": "EUREKA GROUP HOLDINGS LIMITED",
+            "code": "EGH",
+            "primary_share_code": "EGH",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "EUREKA GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-07-01T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 5568 0205",
+            "mailing_address": "Level 2, 7 Short St, SOUTHPORT, QLD, AUSTRALIA, 4215",
+            "principal_activities": "Specialist property manager.",
+            "fax_number": "(07) 5568 0206",
+            "latest_annual_reports": [
+                {
+                    "header": "Eureka 2017 Annual Report",
+                    "document_date": "2017-08-24T09:33:30+1000",
+                    "number_of_pages": 80,
+                    "id": "01887574",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-24T09:40:10+1000",
+                    "size": "3.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lpkxw4z6styz.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 104670,
+                "status": [],
+                "market_cap": 76940094,
+                "code": "EGH",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.12,
+                "previous_close_price": 0.335,
+                "year_change_price": 0.215,
+                "year_low_date": "2017-09-13T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 229671923,
+                "eps": 0.0284,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 229671923,
+                "pe": 11.8,
+                "offer_price": 0.34,
+                "suspended": false,
+                "last_price": 0.335,
+                "deprecated_market_cap": 76940000,
+                "day_low_price": 0.325,
+                "open_price": 0.33,
+                "year_high_date": "2016-12-12T00:00:00+1100",
+                "previous_day_percentage_change": "3.077%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.755,
+                "bid_price": 0.335,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.335,
+                "year_change_in_percentage": "179.167%",
+                "average_daily_volume": 301811,
+                "year_low_price": 0.295,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.eurekagroupholdings.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robin Levison",
+                    "first_name": "Robin",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Levison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeff Weigh",
+                    "first_name": "Jeff",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Weigh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nirmal Hansra",
+                    "first_name": "Nirmal",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hansra",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lachlan McIntosh",
+                    "first_name": "Lachlan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McIntosh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Cochrane",
+                    "first_name": "Paul",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cochrane",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Oliver Schweizer",
+                    "first_name": "Oliver",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Schweizer",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

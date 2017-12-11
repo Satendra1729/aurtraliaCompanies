@@ -1,0 +1,241 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/REA",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "REA GROUP LTD",
+    "ASXcode": "REA",
+    "data": {
+        "summary": {
+            "name_full": "REA GROUP LTD",
+            "last_dividend": {
+                "comments": "51C FRANKED @30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-11T00:00:00+1000",
+                "record_date": "2017-08-23T00:00:00+1000",
+                "payable_date": "2017-09-14T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.51,
+                "ex_date": "2017-08-22T00:00:00+1000"
+            },
+            "code": "REA",
+            "name_short": "REA GROUP",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "REA GROUP",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/REA?image_size=L&v=1432203204000",
+            "foreign_exempt": false,
+            "listing_date": "1999-12-01T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "investor_relations_email": "sarah.turner@rea-group.com",
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(03) 9897 1121",
+            "mailing_address": "511 Church Street, Richmond, VIC, AUSTRALIA, 3121",
+            "principal_activities": "Media/publishing.",
+            "fax_number": "(03) 9897 1114",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-20T08:11:22+1100",
+                    "number_of_pages": 108,
+                    "id": "01910127",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T08:23:57+1100",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43nddp3qwlw8f0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 203743,
+                "status": [],
+                "market_cap": 10197351997,
+                "code": "REA",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Tech",
+                        "index_code": "XIJ",
+                        "name_abrev": "Info Technology",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Information Technology (Sector)"
+                    }
+                ],
+                "year_open_price": 49.29,
+                "previous_close_price": 77.42,
+                "year_change_price": 27.91,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 131714699,
+                "eps": 1.564,
+                "change_in_percent": "-0.284%",
+                "change_price": -0.22,
+                "deprecated_number_of_shares": 131714699,
+                "pe": 49.36,
+                "offer_price": 78,
+                "suspended": false,
+                "last_price": 77.2,
+                "deprecated_market_cap": 10168375000,
+                "day_low_price": 76.72,
+                "open_price": 77.42,
+                "year_high_date": "2017-11-29T00:00:00+1100",
+                "previous_day_percentage_change": "1.322%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 81.1,
+                "bid_price": 76,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 77.81,
+                "year_change_in_percentage": "56.624%",
+                "average_daily_volume": 207345,
+                "year_low_price": 49.9,
+                "annual_dividend_yield": 1.18
+            },
+            "primary_share_code": "REA",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.rea-group.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Hamish McLennan",
+                    "first_name": "Hamish",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McLennan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Tracey Fellows",
+                    "first_name": "Tracey",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Fellows",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Roger Amos",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Amos",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathleen Conlon",
+                    "first_name": "Kathleen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Conlon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Freudenstein",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Freudenstein",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John McGrath",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGrath",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Miller",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Miller",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ryan O'Hara",
+                    "first_name": "Ryan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Hara",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sarah Turner",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Turner",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

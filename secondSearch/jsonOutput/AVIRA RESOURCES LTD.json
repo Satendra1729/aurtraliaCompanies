@@ -1,0 +1,153 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AVW",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AVIRA RESOURCES LTD",
+    "ASXcode": "AVW",
+    "data": {
+        "summary": {
+            "name_short": "AVIRARESOU",
+            "name_full": "AVIRA RESOURCES LTD",
+            "code": "AVW",
+            "primary_share_code": "AVW",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AVIRA RESOURCES LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AVW?image_size=L&v=1486423014000",
+            "foreign_exempt": false,
+            "listing_date": "2013-01-09T00:00:00+1100",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9262 1122",
+            "mailing_address": "Suite 1305, Level 13, 109 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Tin & gold exploration in Queensland.",
+            "fax_number": "(02) 9299 5175",
+            "latest_annual_reports": [
+                {
+                    "header": "Avira Energy Ltd Group Annual Report 2017",
+                    "document_date": "2017-09-28T13:35:54+1000",
+                    "number_of_pages": 87,
+                    "id": "01901188",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T13:37:57+1000",
+                    "size": "5.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqll68fyhdxm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "XE"
+                ],
+                "market_cap": 2177207,
+                "code": "AVW",
+                "indices": [],
+                "year_open_price": 0.067,
+                "previous_close_price": 0.025,
+                "year_change_price": -0.042,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 87088295,
+                "eps": -0.1937,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 87088295,
+                "pe": 0,
+                "offer_price": 0.048,
+                "suspended": false,
+                "last_price": 0.025,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-14T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.14,
+                "bid_price": 0.006,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-62.687%",
+                "average_daily_volume": 32986,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.mgt.net.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jonathan Back",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Executive Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Back",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Kuo",
+                    "first_name": "Gary",
+                    "roles": [
+                        "CEO",
+                        "Executive Director",
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kuo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rui Zhang",
+                    "first_name": "Rui",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wenshan Zhang",
+                    "first_name": "Wenshan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Chen",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Sonu Cheema",
+                    "first_name": "Sonu",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cheema",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

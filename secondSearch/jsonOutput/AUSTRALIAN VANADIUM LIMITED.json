@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AVL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AUSTRALIAN VANADIUM LIMITED",
+    "ASXcode": "AVL",
+    "data": {
+        "summary": {
+            "name_short": "AUSTVANAD",
+            "name_full": "AUSTRALIAN VANADIUM LIMITED",
+            "code": "AVL",
+            "primary_share_code": "AVL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AUST VANADIUM LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-02-21T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9321 5594",
+            "mailing_address": "Level 1, 85 Havelock Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Vanadium, Copper & Gold, Uranium Exploration",
+            "fax_number": "08 6268 2699",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T17:49:01+1000",
+                    "number_of_pages": 56,
+                    "id": "01902694",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T17:50:46+1000",
+                    "size": "3.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtlpz418fcvc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 766273,
+                "status": [],
+                "market_cap": 25200956,
+                "code": "AVL",
+                "indices": [],
+                "year_open_price": 0.01192,
+                "previous_close_price": 0.018,
+                "year_change_price": 0.00608,
+                "year_low_date": "2017-10-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1400053087,
+                "eps": -0.0018,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1413076559,
+                "pe": 0,
+                "offer_price": 0.018,
+                "suspended": false,
+                "last_price": 0.018,
+                "deprecated_market_cap": 25435000,
+                "day_low_price": 0.017,
+                "open_price": 0.018,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.025,
+                "bid_price": 0.017,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.018,
+                "year_change_in_percentage": "51.007%",
+                "average_daily_volume": 6697746,
+                "year_low_price": 0.013,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.australianvanadium.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Vincent Algar",
+                    "first_name": "Vincent",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Algar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leslie Ingraham",
+                    "first_name": "Leslie",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ingraham",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Harris",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brenton Lewis",
+                    "first_name": "Brenton",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lewis",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Neville Bassett",
+                    "first_name": "Neville",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bassett",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

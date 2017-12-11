@@ -1,0 +1,134 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HOT",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "HOTCOPPER HOLDINGS LIMITED",
+    "ASXcode": "HOT",
+    "data": {
+        "summary": {
+            "name_short": "HOTCOPPER",
+            "name_full": "HOTCOPPER HOLDINGS LIMITED",
+            "code": "HOT",
+            "primary_share_code": "HOT",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "HOTCOPPER HOLDINGS",
+            "foreign_exempt": false,
+            "listing_date": "2016-09-15T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 6169 3199",
+            "mailing_address": "Level 11, 28 The Esplanade, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Australian Stock Market Forum Website.",
+            "fax_number": "08 9315 2233",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-31T22:55:04+1000",
+                    "number_of_pages": 64,
+                    "id": "01891587",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-09-01T08:23:13+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170901/pdf/43lzj8kwnc69nj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 24200000,
+                "code": "HOT",
+                "indices": [],
+                "deprecated_number_of_shares": 110000001,
+                "previous_close_price": 0.22,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 110000001,
+                "eps": 0.0034,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 64.71,
+                "offer_price": 0.215,
+                "suspended": false,
+                "last_price": 0.22,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-06T00:00:00+1100",
+                "previous_day_percentage_change": "-4.348%",
+                "year_open_date": null,
+                "year_high_price": 0.235,
+                "bid_price": 0.205,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 341421,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.hotcopper.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alec Pismiris",
+                    "first_name": "Alec",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pismiris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ben Newport",
+                    "first_name": "Ben",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Newport",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gavin Argyle",
+                    "first_name": "Gavin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Argyle",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colin Chenu",
+                    "first_name": "Colin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chenu",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Susan Hunter",
+                    "first_name": "Susan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hunter",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

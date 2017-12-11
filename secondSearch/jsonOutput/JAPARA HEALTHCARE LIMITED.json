@@ -1,0 +1,227 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/JHC",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "JAPARA HEALTHCARE LIMITED",
+    "ASXcode": "JHC",
+    "data": {
+        "summary": {
+            "name_short": "JAPARA",
+            "name_full": "JAPARA HEALTHCARE LIMITED",
+            "code": "JHC",
+            "primary_share_code": "JHC",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "JAPARA HEALTHCARE LT",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/JHC?image_size=L&v=1461920971000",
+            "foreign_exempt": false,
+            "listing_date": "2014-04-17T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "4.025C FRANKED@30%;N IL CFI;DRP NIL DISC",
+                "franked_percentage": "70%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-30T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.0575,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(03) 9649 2100",
+            "mailing_address": "Q1 Building, Level 4, 1 Southbank Boulevard, SOUTHBANK, VIC, AUSTRALIA, 3006",
+            "principal_activities": "Residential aged care operator.",
+            "fax_number": "(03) 9649 2129",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-26T10:53:00+1000",
+                    "number_of_pages": 80,
+                    "id": "01899932",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T10:55:56+1000",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mmvwym0bbtjf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1808045,
+                "status": [],
+                "market_cap": 582025081,
+                "code": "JHC",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Health",
+                        "index_code": "XHJ",
+                        "name_abrev": "Health Care",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Health Care (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 265764877,
+                "previous_close_price": 2.19,
+                "year_low_date": "2017-09-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 265764877,
+                "eps": 0.1122,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 19.52,
+                "offer_price": 2.19,
+                "suspended": false,
+                "last_price": 2.19,
+                "deprecated_market_cap": 582025000,
+                "day_low_price": 2.125,
+                "open_price": 2.18,
+                "year_high_date": "2016-12-16T00:00:00+1100",
+                "previous_day_percentage_change": "1.86%",
+                "year_open_date": null,
+                "year_high_price": 2.35,
+                "bid_price": 2.17,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.19,
+                "average_daily_volume": 1726409,
+                "year_low_price": 1.63,
+                "annual_dividend_yield": 5.14
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://japarahealthcare.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Linda Bardo Nicholls AO",
+                    "first_name": "Linda",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Nicholls AO",
+                    "middle_name": "Bardo"
+                },
+                {
+                    "full_name": "Mr Andrew Sudholz",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sudholz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Blight",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Blight",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard England",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "England",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms JoAnne Stephenson",
+                    "first_name": "JoAnne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stephenson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Price",
+                    "first_name": "Chris",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Price",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Bruce Paterson",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paterson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Price",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Price",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

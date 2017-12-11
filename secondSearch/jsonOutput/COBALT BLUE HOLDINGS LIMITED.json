@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/COB",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "COBALT BLUE HOLDINGS LIMITED",
+    "ASXcode": "COB",
+    "data": {
+        "summary": {
+            "name_short": "COBALT BLU",
+            "name_full": "COBALT BLUE HOLDINGS LIMITED",
+            "code": "COB",
+            "primary_share_code": "COB",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "COBALT BLUE LTD",
+            "foreign_exempt": false,
+            "listing_date": "2017-02-02T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "0434 563 456",
+            "mailing_address": "Level 2, 66 Hunter Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Cobalt exploration and development",
+            "fax_number": "02 9221 6333",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report June 2017",
+                    "document_date": "2017-09-25T19:00:50+1000",
+                    "number_of_pages": 67,
+                    "id": "01899702",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-25T19:03:31+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170925/pdf/43mm9pfdjnsv0j.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2079881,
+                "status": [],
+                "market_cap": 58507346,
+                "code": "COB",
+                "indices": [],
+                "deprecated_number_of_shares": 85884809,
+                "previous_close_price": 0.55,
+                "year_low_date": "2017-07-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 106376993,
+                "eps": 0,
+                "change_in_percent": "3.636%",
+                "change_price": 0.02,
+                "pe": 0,
+                "offer_price": 0.58,
+                "suspended": false,
+                "last_price": 0.57,
+                "deprecated_market_cap": 48954000,
+                "day_low_price": 0.555,
+                "open_price": 0.56,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "14.583%",
+                "year_open_date": null,
+                "year_high_price": 0.715,
+                "bid_price": 0.57,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.61,
+                "average_daily_volume": 1173755,
+                "year_low_price": 0.14,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.cobaltblueholdings.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Biancardi",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Biancardi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Josef Kaderavek",
+                    "first_name": "Josef",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kaderavek",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Hill",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hill",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Trangie Johnston",
+                    "first_name": "Anthony Trangie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hugh Keller",
+                    "first_name": "Hugh",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keller",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Morgan",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

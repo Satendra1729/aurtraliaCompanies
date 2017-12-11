@@ -1,0 +1,219 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RCR",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "RCR TOMLINSON LIMITED",
+    "ASXcode": "RCR",
+    "data": {
+        "summary": {
+            "name_full": "RCR TOMLINSON LIMITED",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI;  DRP SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-09-21T00:00:00+1000",
+                "payable_date": "2017-10-05T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.06,
+                "ex_date": "2017-09-20T00:00:00+1000"
+            },
+            "code": "RCR",
+            "name_short": "RCR",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "RCR TOMLINSON",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RCR?image_size=L&v=1486705013000",
+            "foreign_exempt": false,
+            "listing_date": "1996-11-15T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "darryl.edwards@rcrtom.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9355 9800",
+            "mailing_address": "Level 39, 50 Bridge Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provision of fully integrated engineering services to the Resources, Energy and Infrastructure sectors.",
+            "fax_number": "(08) 9261 2363",
+            "latest_annual_reports": [
+                {
+                    "header": "RCR FY17 Annual Report",
+                    "document_date": "2017-08-24T09:00:45+1000",
+                    "number_of_pages": 132,
+                    "id": "01887513",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-24T09:20:55+1000",
+                    "size": "5.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170824/pdf/43lpgcv0fgtjr5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 343136,
+                "status": [],
+                "market_cap": 648203532,
+                "code": "RCR",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 3.38,
+                "previous_close_price": 3.92,
+                "year_change_price": 0.59,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 165358044,
+                "eps": 0.1834,
+                "change_in_percent": "1.276%",
+                "change_price": 0.05,
+                "deprecated_number_of_shares": 165358044,
+                "pe": 21.65,
+                "offer_price": 3.97,
+                "suspended": false,
+                "last_price": 3.97,
+                "deprecated_market_cap": 656471000,
+                "day_low_price": 3.88,
+                "open_price": 3.89,
+                "year_high_date": "2017-09-13T00:00:00+1000",
+                "previous_day_percentage_change": "2.35%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 4.74,
+                "bid_price": 3.93,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.98,
+                "year_change_in_percentage": "17.456%",
+                "average_daily_volume": 744825,
+                "year_low_price": 2.58,
+                "annual_dividend_yield": 1.51
+            },
+            "primary_share_code": "RCR",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.rcrtom.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.rcrtom.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Roderick Brown",
+                    "first_name": "Roderick",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brown",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Paul Dalgleish",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Dalgleish",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Dippie",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dippie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce James",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "James",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lloyd Jones",
+                    "first_name": "Lloyd",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sue Palmer",
+                    "first_name": "Sue",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Palmer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Eva Skira",
+                    "first_name": "Eva",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Skira",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Phipps",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Phipps",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Darryl Edwards",
+                    "first_name": "Darryl",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

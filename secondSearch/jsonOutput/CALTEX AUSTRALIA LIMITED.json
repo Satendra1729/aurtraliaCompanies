@@ -1,0 +1,274 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CTX",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "CALTEX AUSTRALIA LIMITED",
+    "ASXcode": "CTX",
+    "data": {
+        "summary": {
+            "name_short": "CALTEX",
+            "name_full": "CALTEX AUSTRALIA LIMITED",
+            "code": "CTX",
+            "primary_share_code": "CTX",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "CALTEX AUSTRALIA",
+            "foreign_exempt": false,
+            "listing_date": "1980-12-31T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "60C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-09-12T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.6,
+                "ex_date": "2017-09-11T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(02) 9250 5000",
+            "mailing_address": "Level 24, 2 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Purchase, refining, distribution, and marketing of petroleum products and the operation of convenience stores.",
+            "fax_number": "(02) 9250 5018",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-03-31T08:36:22+1100",
+                    "number_of_pages": 128,
+                    "id": "01843643",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T08:42:41+1100",
+                    "size": "4.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h5lmgfqspcw6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 488641,
+                "status": [],
+                "market_cap": 8867557646,
+                "code": "CTX",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Energy",
+                        "index_code": "XEJ",
+                        "name_abrev": "Energy",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Energy (Sector)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 20.95,
+                "previous_close_price": 34,
+                "year_change_price": 13.09,
+                "year_low_date": "2017-03-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 260810519,
+                "eps": 2.134,
+                "change_in_percent": "0.118%",
+                "change_price": 0.04,
+                "deprecated_number_of_shares": 260810519,
+                "pe": 15.95,
+                "offer_price": 34.1,
+                "suspended": false,
+                "last_price": 34.04,
+                "deprecated_market_cap": 8877990000,
+                "day_low_price": 34,
+                "open_price": 34.42,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 35.76,
+                "bid_price": 33.93,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 34.42,
+                "year_change_in_percentage": "62.482%",
+                "average_daily_volume": 911686,
+                "year_low_price": 27.55,
+                "annual_dividend_yield": 3.29
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.caltex.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Steven Gregg",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gregg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Julian Segal",
+                    "first_name": "Julian",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Segal",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Bourne",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bourne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Melinda Conrad",
+                    "first_name": "Melinda",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Conrad",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Morgan",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Barbara Ward AM",
+                    "first_name": "Barbara",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ward AM",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Penny Winn",
+                    "first_name": "Penny",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Winn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Simon Hepworth",
+                    "first_name": "Simon",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hepworth",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lyndall Stoyles",
+                    "first_name": "Lyndall",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stoyles",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Lyndall Stoyles",
+                    "first_name": "Lyndall",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Stoyles",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Kara Nicholls",
+                    "first_name": "Kara",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Nicholls",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

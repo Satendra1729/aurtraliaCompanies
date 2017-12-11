@@ -1,0 +1,153 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GVF",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "GLOBAL VALUE FUND LIMITED",
+    "ASXcode": "GVF",
+    "data": {
+        "summary": {
+            "name_short": "GLOBALVAL",
+            "name_full": "GLOBAL VALUE FUND LIMITED",
+            "code": "GVF",
+            "primary_share_code": "GVF",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "GLOBAL VALUE FND LTD",
+            "foreign_exempt": false,
+            "listing_date": "2014-07-21T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "1.575C FRANKED@30%;  NIL CFI; DRP",
+                "franked_percentage": "50%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-10-09T00:00:00+1100",
+                "payable_date": "2017-11-03T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.0315,
+                "ex_date": "2017-10-06T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8689 9997",
+            "mailing_address": "C/- Mertons Corporate Services Pty Ltd, Level 7, 330 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Listed investment company, investing in equities or closed-end funds listing on major global stock exchanges.",
+            "fax_number": "NA",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and 2017 Annual Report",
+                    "document_date": "2017-08-29T13:32:46+1000",
+                    "number_of_pages": 48,
+                    "id": "01889611",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-29T13:38:07+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lvbnl7nmv0vh.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 78577,
+                "status": [],
+                "market_cap": 142429643,
+                "code": "GVF",
+                "indices": [],
+                "deprecated_number_of_shares": 121734738,
+                "previous_close_price": 1.17,
+                "year_low_date": "2017-04-07T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 121734738,
+                "eps": 0.1028,
+                "change_in_percent": "-0.855%",
+                "change_price": -0.01,
+                "pe": 11.28,
+                "offer_price": 1.165,
+                "suspended": false,
+                "last_price": 1.16,
+                "deprecated_market_cap": 141212000,
+                "day_low_price": 1.16,
+                "open_price": 1.165,
+                "year_high_date": "2017-11-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.25,
+                "bid_price": 1.16,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.165,
+                "average_daily_volume": 77445,
+                "year_low_price": 1.075,
+                "annual_dividend_yield": 5.43
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.globalvaluefund.com.au",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jonathan Trollip",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trollip",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Cuffe",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cuffe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Miles Staude",
+                    "first_name": "Miles",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Staude",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Wilson",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Licciardo",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Licciardo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Lobb",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lobb",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

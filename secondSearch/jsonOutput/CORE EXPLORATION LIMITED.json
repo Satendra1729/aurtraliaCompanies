@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CXO",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CORE EXPLORATION LIMITED",
+    "ASXcode": "CXO",
+    "data": {
+        "summary": {
+            "name_short": "CORE EXP",
+            "name_full": "CORE EXPLORATION LIMITED",
+            "code": "CXO",
+            "primary_share_code": "CXO",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CORE EXPLORATION LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CXO?image_size=L&v=1426741245000",
+            "foreign_exempt": false,
+            "listing_date": "2011-02-11T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 7324 2987",
+            "mailing_address": "26 Gray Court, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "Lithium, copper and uranium exploration.",
+            "fax_number": "0",
+            "latest_annual_reports": [
+                {
+                    "header": "Core Exploration 2017 Annual Report to Shareholders",
+                    "document_date": "2017-09-28T12:48:30+1000",
+                    "number_of_pages": 56,
+                    "id": "01901161",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T12:51:17+1000",
+                    "size": "6.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqjv6r2m3z0k.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2342623,
+                "status": [],
+                "market_cap": 41194631,
+                "code": "CXO",
+                "indices": [],
+                "year_open_price": 0.056,
+                "previous_close_price": 0.083,
+                "year_change_price": 0.03,
+                "year_low_date": "2017-08-25T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 496320860,
+                "eps": -0.0056,
+                "change_in_percent": "3.614%",
+                "change_price": 0.003,
+                "deprecated_number_of_shares": 496320860,
+                "pe": 0,
+                "offer_price": 0.086,
+                "suspended": false,
+                "last_price": 0.086,
+                "deprecated_market_cap": 42684000,
+                "day_low_price": 0.083,
+                "open_price": 0.084,
+                "year_high_date": "2017-02-07T00:00:00+1100",
+                "previous_day_percentage_change": "-4.598%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.11,
+                "bid_price": 0.084,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.088,
+                "year_change_in_percentage": "53.571%",
+                "average_daily_volume": 4867381,
+                "year_low_price": 0.033,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.coreexploration.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Greg English",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "English",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Biggins",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Biggins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Heath Hellewell",
+                    "first_name": "Heath",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hellewell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jarek Kopias",
+                    "first_name": "Jarek",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kopias",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jarek Kopias",
+                    "first_name": "Jarek",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kopias",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

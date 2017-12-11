@@ -1,0 +1,150 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ETE",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "ENTEK ENERGY LTD",
+    "ASXcode": "ETE",
+    "data": {
+        "summary": {
+            "name_short": "ENTEK",
+            "name_full": "ENTEK ENERGY LTD",
+            "code": "ETE",
+            "primary_share_code": "ETE",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "ENTEK ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-08-16T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@entekenergy.com.au ",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9381 4975",
+            "mailing_address": "338 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Oil & Gas exploration",
+            "fax_number": "08 9381 4975",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T12:55:47+1100",
+                    "number_of_pages": 66,
+                    "id": "01913727",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T13:00:00+1100",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nnh0c051nwy2.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-29T17:47:38+1000",
+                    "number_of_pages": 66,
+                    "id": "01889767",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-29T17:50:38+1000",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170829/pdf/43lvnm7wmgf1jn.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 7618223,
+                "code": "ETE",
+                "indices": [],
+                "year_open_price": 0.034,
+                "previous_close_price": 0.025,
+                "year_change_price": -0.009,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 304728934,
+                "eps": -0.0028,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 304728934,
+                "pe": 0,
+                "offer_price": 0.028,
+                "suspended": false,
+                "last_price": 0.025,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-21T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.038,
+                "bid_price": 0.025,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-26.471%",
+                "average_daily_volume": 488313,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.entekenergy.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark McAuliffe",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McAuliffe",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Clare Pope",
+                    "first_name": "Clare",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Pope",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Stern",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stern",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Walsh",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walsh",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Nerida Schmidt",
+                    "first_name": "Nerida",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Schmidt",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

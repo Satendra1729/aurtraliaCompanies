@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ODY",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "ODYSSEY ENERGY LIMITED",
+    "ASXcode": "ODY",
+    "data": {
+        "summary": {
+            "name_short": "ODYSSEY",
+            "name_full": "ODYSSEY ENERGY LIMITED",
+            "code": "ODY",
+            "primary_share_code": "ODY",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "ODYSSEY ENERGY",
+            "foreign_exempt": false,
+            "listing_date": "2005-11-30T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 6322",
+            "mailing_address": "Level 9, BGC Centre, 28 The Esplanade, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Oil & gas exploration and production in the USA.",
+            "fax_number": "(08) 9322 6558",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-13T18:17:46+1000",
+                    "number_of_pages": 52,
+                    "id": "01895780",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-13T18:26:33+1000",
+                    "size": "2.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170913/pdf/43m9pr2f3thssm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 23909723,
+                "code": "ODY",
+                "indices": [],
+                "year_open_price": 0.096,
+                "previous_close_price": 0.073,
+                "year_change_price": -0.023,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 327530455,
+                "eps": -0.0017,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 327530455,
+                "pe": 0,
+                "offer_price": 0.072,
+                "suspended": false,
+                "last_price": 0.073,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-11-20T00:00:00+1100",
+                "previous_day_percentage_change": "2.817%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.078,
+                "bid_price": 0.065,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-23.958%",
+                "average_daily_volume": 226723,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.odysseyenergy.com.au/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Middlemas",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Middlemas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Cruse",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cruse",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Pearce",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pearce",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Clint McGhie",
+                    "first_name": "Clint",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McGhie",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

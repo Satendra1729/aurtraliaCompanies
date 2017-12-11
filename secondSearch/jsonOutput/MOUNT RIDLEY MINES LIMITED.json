@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MRD",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MOUNT RIDLEY MINES LIMITED",
+    "ASXcode": "MRD",
+    "data": {
+        "summary": {
+            "name_full": "MOUNT RIDLEY MINES LIMITED",
+            "code": "MRD",
+            "name_short": "MOUNT RID",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MOUNT RIDLEY MINES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MRD?image_size=L&v=1430355423000",
+            "foreign_exempt": false,
+            "listing_date": "2004-09-15T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@mtridleymines.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9381 2266",
+            "mailing_address": "Unit 10, 100 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "mining exploration",
+            "fax_number": "+61 8 9481 0655",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T19:01:51+1000",
+                    "number_of_pages": 66,
+                    "id": "01902804",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T19:08:36+1000",
+                    "size": "5.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtt9qys34w7t.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2911117,
+                "status": [],
+                "market_cap": 19778632,
+                "code": "MRD",
+                "indices": [],
+                "year_open_price": 0.005,
+                "previous_close_price": 0.013,
+                "year_change_price": 0.008,
+                "year_low_date": "2017-07-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1521433243,
+                "eps": -0.0024,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1521433243,
+                "pe": 0,
+                "offer_price": 0.013,
+                "suspended": false,
+                "last_price": 0.013,
+                "deprecated_market_cap": 19779000,
+                "day_low_price": 0.013,
+                "open_price": 0.013,
+                "year_high_date": "2017-05-08T00:00:00+1000",
+                "previous_day_percentage_change": "8.333%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.017,
+                "bid_price": 0.012,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.013,
+                "year_change_in_percentage": "160%",
+                "average_daily_volume": 3670033,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "MRD",
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.mtridleymines.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Pedley",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pedley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ashley Hood",
+                    "first_name": "Ashley",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Guy Le Page",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Page",
+                    "middle_name": "Le"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Johnathon Busing",
+                    "first_name": "Johnathon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Busing",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

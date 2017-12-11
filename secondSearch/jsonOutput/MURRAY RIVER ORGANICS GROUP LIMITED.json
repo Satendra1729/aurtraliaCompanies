@@ -1,0 +1,134 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MRG",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "MURRAY RIVER ORGANICS GROUP LIMITED",
+    "ASXcode": "MRG",
+    "data": {
+        "summary": {
+            "name_short": "MRORGANICS",
+            "name_full": "MURRAY RIVER ORGANICS GROUP LIMITED",
+            "code": "MRG",
+            "primary_share_code": "MRG",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "MURRAY RIVER GRP",
+            "foreign_exempt": false,
+            "listing_date": "2016-12-16T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8792 8500",
+            "mailing_address": "32 Crompton Way, DANDENONG SOUTH, VIC, AUSTRALIA, 3175",
+            "principal_activities": "Australian producer, marketer, manufacturer and seller of certified organic, natural and better-for-you food products.",
+            "fax_number": "(03) 8792 2916",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T10:17:09+1100",
+                    "number_of_pages": 72,
+                    "id": "01915444",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T10:19:09+1100",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nsfbrscdw90x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 17317,
+                "status": [],
+                "market_cap": 52249680,
+                "code": "MRG",
+                "indices": [],
+                "deprecated_number_of_shares": 127438243,
+                "previous_close_price": 0.41,
+                "year_low_date": "2017-05-24T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 127438243,
+                "eps": -0.0715,
+                "change_in_percent": "1.22%",
+                "change_price": 0.005,
+                "pe": 0,
+                "offer_price": 0.42,
+                "suspended": false,
+                "last_price": 0.415,
+                "deprecated_market_cap": 52887000,
+                "day_low_price": 0.41,
+                "open_price": 0.41,
+                "year_high_date": "2017-01-16T00:00:00+1100",
+                "previous_day_percentage_change": "-1.205%",
+                "year_open_date": null,
+                "year_high_price": 1.318,
+                "bid_price": 0.415,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.415,
+                "average_daily_volume": 524002,
+                "year_low_price": 0.269,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.murrayriverorganics.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Craig Lehmann Farrow",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Farrow",
+                    "middle_name": "Lehmann"
+                },
+                {
+                    "full_name": "Mr George Haggar",
+                    "first_name": "George",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haggar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Kenneth Martin Carr",
+                    "first_name": "Kenneth",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Carr",
+                    "middle_name": "Martin"
+                },
+                {
+                    "full_name": "Ms Lisa Hennessy",
+                    "first_name": "Lisa",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hennessy",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Geoffrey Sinclair",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sinclair",
+                    "middle_name": "Geoffrey"
+                }
+            ]
+        }
+    }
+}

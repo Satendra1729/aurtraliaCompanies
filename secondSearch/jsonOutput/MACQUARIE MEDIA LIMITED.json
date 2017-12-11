@@ -1,0 +1,175 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MRN",
+    "GICSindustrygroup": "Media",
+    "Companyname": "MACQUARIE MEDIA LIMITED",
+    "ASXcode": "MRN",
+    "data": {
+        "summary": {
+            "name_short": "MACQMEDIA",
+            "name_full": "MACQUARIE MEDIA LIMITED",
+            "code": "MRN",
+            "primary_share_code": "MRN",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "MACQ MEDIA LTD",
+            "foreign_exempt": false,
+            "listing_date": "2005-04-20T00:00:00+1000",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "3C FRANKED@30%; SPEC IAL",
+                "franked_percentage": "100%",
+                "created_date": "2017-09-20T00:00:00+1000",
+                "record_date": "2017-09-26T00:00:00+1000",
+                "payable_date": "2017-10-03T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.03,
+                "ex_date": "2017-09-25T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8570 0120",
+            "mailing_address": "Level 1, 33-35 Saunders Street, PYRMONT, NSW, AUSTRALIA, 2009",
+            "principal_activities": "The Company operates two Sydney metropolitan commercial AM radio stations, 2GB 873 and 2CH 1170.",
+            "fax_number": "(02) 8570 0125",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts and Annual Report",
+                    "document_date": "2017-10-05T09:01:45+1100",
+                    "number_of_pages": 80,
+                    "id": "01904544",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-05T09:05:46+1100",
+                    "size": "4.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171005/pdf/43mz3ybjn0d2fy.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 31500,
+                "status": [],
+                "market_cap": 216318509,
+                "code": "MRN",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 1.13,
+                "previous_close_price": 1.265,
+                "year_change_price": 0.22,
+                "year_low_date": "2016-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 171002774,
+                "eps": 0.098,
+                "change_in_percent": "6.719%",
+                "change_price": 0.085,
+                "deprecated_number_of_shares": 171002774,
+                "pe": 13.78,
+                "offer_price": 1.35,
+                "suspended": false,
+                "last_price": 1.35,
+                "deprecated_market_cap": 230854000,
+                "day_low_price": 1.3,
+                "open_price": 1.3,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 1.36,
+                "bid_price": 1.3,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.35,
+                "year_change_in_percentage": "19.469%",
+                "average_daily_volume": 11042,
+                "year_low_price": 0.838,
+                "annual_dividend_yield": 5.19
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.mrn.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Russell Tate",
+                    "first_name": "Russell",
+                    "roles": [
+                        "Executive Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tate",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Hywood",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hywood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Monique Marks",
+                    "first_name": "Monique",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Marks",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Louise McCann",
+                    "first_name": "Louise",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McCann",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Millar",
+                    "first_name": "James",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Millar",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lisa Young",
+                    "first_name": "Lisa",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Young",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Lisa Young",
+                    "first_name": "Lisa",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Young",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

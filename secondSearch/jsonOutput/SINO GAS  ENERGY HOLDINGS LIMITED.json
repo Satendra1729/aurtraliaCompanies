@@ -1,0 +1,178 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SEH",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "SINO GAS & ENERGY HOLDINGS LIMITED",
+    "ASXcode": "SEH",
+    "data": {
+        "summary": {
+            "name_short": "SGEHOLDING",
+            "name_full": "SINO GAS & ENERGY HOLDINGS LIMITED",
+            "code": "SEH",
+            "primary_share_code": "SEH",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "SINO GAS ENERGY",
+            "foreign_exempt": false,
+            "listing_date": "2009-09-15T00:00:00+1000",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9388 8618",
+            "mailing_address": "311-313 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Exploration for and production and development of gas assets in China.",
+            "fax_number": "+61 8 9388 3701",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report",
+                    "document_date": "2017-03-14T18:12:31+1100",
+                    "number_of_pages": 72,
+                    "id": "01838796",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-14T18:17:45+1100",
+                    "size": "12.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170314/pdf/43gskkbyryv3h0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 11441158,
+                "status": [],
+                "market_cap": 274780692,
+                "code": "SEH",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.21,
+                "previous_close_price": 0.13,
+                "year_change_price": -0.08,
+                "year_low_date": "2017-08-14T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2113697633,
+                "eps": -0.0037,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 2113697633,
+                "pe": 0,
+                "offer_price": 0.14,
+                "suspended": false,
+                "last_price": 0.13,
+                "deprecated_market_cap": 274781000,
+                "day_low_price": 0.125,
+                "open_price": 0.13,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "-3.704%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.15,
+                "bid_price": 0.125,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.15,
+                "year_change_in_percentage": "-38.095%",
+                "average_daily_volume": 3537285,
+                "year_low_price": 0.073,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.sinogasenergy.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Philip Bainbridge",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bainbridge",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Glenn Corrie",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Corrie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Ginsburg",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ginsburg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gavin Harper",
+                    "first_name": "Gavin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harper",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bernie Ridgeway",
+                    "first_name": "Bernie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ridgeway",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Harry Spindler",
+                    "first_name": "Harry",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spindler",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

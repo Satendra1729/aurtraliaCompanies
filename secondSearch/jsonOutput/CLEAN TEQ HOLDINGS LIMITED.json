@@ -1,0 +1,219 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CLQ",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "CLEAN TEQ HOLDINGS LIMITED",
+    "ASXcode": "CLQ",
+    "data": {
+        "summary": {
+            "name_short": "CLEANTEQ",
+            "name_full": "CLEAN TEQ HOLDINGS LIMITED",
+            "code": "CLQ",
+            "primary_share_code": "CLQ",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "CLEAN TEQ HLDGS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-11-09T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9797 6700",
+            "mailing_address": "Unit 12, 21 Howleys Road, NOTTING HILL, VIC, AUSTRALIA, 3168",
+            "principal_activities": "The Company is an environmental and mining services group serving the air purification, resources recovery and water purification markets.",
+            "fax_number": "(03) 9706 8344",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report to Shareholders",
+                    "document_date": "2017-10-04T08:53:26+1100",
+                    "number_of_pages": 98,
+                    "id": "01903986",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-04T08:55:41+1100",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171004/pdf/43mxww306j6tc3.pdf"
+                },
+                {
+                    "header": "Annual Report - 30 June 2017",
+                    "document_date": "2017-08-25T16:46:55+1000",
+                    "number_of_pages": 107,
+                    "id": "01888454",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-25T16:49:24+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170825/pdf/43lrfzkyhpbns5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2833293,
+                "status": [],
+                "market_cap": 785832497,
+                "code": "CLQ",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.068,
+                "previous_close_price": 1.355,
+                "year_change_price": 1.187,
+                "year_low_date": "2017-01-13T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 579950182,
+                "eps": -0.0249,
+                "change_in_percent": "-7.38%",
+                "change_price": -0.1,
+                "deprecated_number_of_shares": 579950182,
+                "pe": 0,
+                "offer_price": 1.27,
+                "suspended": false,
+                "last_price": 1.255,
+                "deprecated_market_cap": 727837000,
+                "day_low_price": 1.25,
+                "open_price": 1.345,
+                "year_high_date": "2017-11-02T00:00:00+1100",
+                "previous_day_percentage_change": "-8.136%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 1.78,
+                "bid_price": 1.255,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.385,
+                "year_change_in_percentage": "1,745.588%",
+                "average_daily_volume": 1843139,
+                "year_low_price": 0.45,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.cleanteq.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Friedland",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Friedland",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jiang Zhaobai",
+                    "first_name": "Jiang",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhaobai",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Riggall",
+                    "first_name": "Sam",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Riggall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Li Binghan",
+                    "first_name": "Li",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Binghan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Eric Finlayson",
+                    "first_name": "Eric",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Finlayson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Knight",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Knight",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Stefanie Loader",
+                    "first_name": "Stefanie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Loader",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Spreadborough",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Spreadborough",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ben Stockdale",
+                    "first_name": "Ben",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stockdale",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Melanie Leydin",
+                    "first_name": "Melanie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Leydin",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

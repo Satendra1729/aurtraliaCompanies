@@ -1,0 +1,228 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GEM",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "G8 EDUCATION LIMITED",
+    "ASXcode": "GEM",
+    "data": {
+        "summary": {
+            "name_short": "G8 EDUCATE",
+            "name_full": "G8 EDUCATION LIMITED",
+            "code": "GEM",
+            "primary_share_code": "GEM",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "G8 EDUCATION LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-05T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "last_dividend": {
+                "comments": "6C FRANKED @ 30%; DR P",
+                "franked_percentage": "100%",
+                "created_date": "2017-09-20T00:00:00+1000",
+                "record_date": "2017-09-27T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.06,
+                "ex_date": "2017-09-26T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "07 5581 5300",
+            "mailing_address": "159 Varsity Parade, VARSITY LAKES, Qld, AUSTRALIA, 4227",
+            "principal_activities": "Child care operator",
+            "fax_number": "07 5581 5311",
+            "latest_annual_reports": [
+                {
+                    "header": "Preliminary Final Report and Annual Report 2016",
+                    "document_date": "2017-02-20T09:26:11+1100",
+                    "number_of_pages": 119,
+                    "id": "01829745",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-20T09:31:52+1100",
+                    "size": "12.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170220/pdf/43g3sy88mrv1lm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1591679,
+                "status": [],
+                "market_cap": 1542967025,
+                "code": "GEM",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    }
+                ],
+                "year_open_price": 4.12,
+                "previous_close_price": 3.44,
+                "year_change_price": -0.66,
+                "year_low_date": "2017-05-24T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 448536926,
+                "eps": 0.2214,
+                "change_in_percent": "0.581%",
+                "change_price": 0.02,
+                "deprecated_number_of_shares": 448536926,
+                "pe": 15.63,
+                "offer_price": 3.47,
+                "suspended": false,
+                "last_price": 3.46,
+                "deprecated_market_cap": 1551938000,
+                "day_low_price": 3.44,
+                "open_price": 3.45,
+                "year_high_date": "2017-10-24T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 4.71,
+                "bid_price": 3.45,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.47,
+                "year_change_in_percentage": "-16.019%",
+                "average_daily_volume": 2277926,
+                "year_low_price": 3.12,
+                "annual_dividend_yield": 6.94
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.g8education.edu.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Johnson",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Grant Carroll",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carroll",
+                    "middle_name": "Grant"
+                },
+                {
+                    "full_name": "Mr Brian Bailison",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bailison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Prof. Julie Ann Cogin",
+                    "first_name": "Julie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Prof.",
+                    "last_name": "Cogin",
+                    "middle_name": "Ann"
+                },
+                {
+                    "full_name": "Ms Susan Forrester",
+                    "first_name": "Susan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Forrester",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Foster",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Foster",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Margaret Anna Alicja Zabel",
+                    "first_name": "Margaret",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Zabel",
+                    "middle_name": "Anna Alicja"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sarah Zeljko",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Zeljko",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

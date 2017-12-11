@@ -1,0 +1,229 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SIQ",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "SMARTGROUP CORPORATION LTD",
+    "ASXcode": "SIQ",
+    "data": {
+        "summary": {
+            "name_short": "SMARTGROUP",
+            "name_full": "SMARTGROUP CORPORATION LTD",
+            "code": "SIQ",
+            "primary_share_code": "SIQ",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "SMARTGRP CORPORATION",
+            "foreign_exempt": false,
+            "listing_date": "2014-07-02T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "16.5C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-22T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.165,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9119 8500",
+            "mailing_address": "Level 8, 133-145 Castlereagh Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Salary packaging administration and fleet management services.",
+            "fax_number": "TBA",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report to shareholders",
+                    "document_date": "2017-02-22T17:01:28+1100",
+                    "number_of_pages": 95,
+                    "id": "01831119",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-22T17:06:15+1100",
+                    "size": "3.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170222/pdf/43g6r35kswhtd0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 568610,
+                "status": [],
+                "market_cap": 1238290751,
+                "code": "SIQ",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 123213010,
+                "previous_close_price": 10.05,
+                "year_low_date": "2016-12-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 123213010,
+                "eps": 0.2973,
+                "change_in_percent": "3.383%",
+                "change_price": 0.34,
+                "pe": 34.95,
+                "offer_price": 10.7,
+                "suspended": false,
+                "last_price": 10.39,
+                "deprecated_market_cap": 1280183000,
+                "day_low_price": 10.08,
+                "open_price": 10.12,
+                "year_high_date": "2017-11-16T00:00:00+1100",
+                "previous_day_percentage_change": "1.515%",
+                "year_open_date": null,
+                "year_high_price": 11.07,
+                "bid_price": 10.25,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 10.4,
+                "average_daily_volume": 183861,
+                "year_low_price": 5.51,
+                "annual_dividend_yield": 3.03
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.smartgroup.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Carapiet",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carapiet",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Deven Billimoria",
+                    "first_name": "Deven",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Billimoria",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gavin Bell",
+                    "first_name": "Gavin",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Bolam",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bolam",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Deborah Homewood",
+                    "first_name": "Deborah",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Homewood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Prendiville",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Prendiville",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Ian James Watt",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Watt",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Timothy Looi",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Looi",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Amanda Morgan",
+                    "first_name": "Amanda",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sophie MacIntosh",
+                    "first_name": "Sophie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "MacIntosh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Amanda Morgan",
+                    "first_name": "Amanda",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

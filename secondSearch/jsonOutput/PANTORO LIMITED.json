@@ -1,0 +1,174 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PNR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PANTORO LIMITED",
+    "ASXcode": "PNR",
+    "data": {
+        "summary": {
+            "name_full": "PANTORO LIMITED",
+            "code": "PNR",
+            "name_short": "PANTORO",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "PANTORO LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PNR?image_size=L&v=1475651561000",
+            "foreign_exempt": false,
+            "listing_date": "1987-05-21T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@pantoro.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 6263 1110",
+            "mailing_address": "1187 Hay Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold production, exploration and development in WA and mineral exploration in PNG.",
+            "fax_number": "08 9220 5757",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report Highlights",
+                    "document_date": "2017-09-22T09:07:22+1000",
+                    "number_of_pages": 1,
+                    "id": "01898806",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T09:08:21+1000",
+                    "size": "173.7KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mjzgdrcn13l0.pdf"
+                },
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-22T09:02:32+1000",
+                    "number_of_pages": 142,
+                    "id": "01898799",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T09:06:46+1000",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mjz1vjwswrkk.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1342027,
+                "status": [],
+                "market_cap": 156713362,
+                "code": "PNR",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.07347,
+                "previous_close_price": 0.2,
+                "year_change_price": 0.13153,
+                "year_low_date": "2016-12-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 783566810,
+                "eps": -0.0215,
+                "change_in_percent": "2.5%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 783566810,
+                "pe": 0,
+                "offer_price": 0.205,
+                "suspended": false,
+                "last_price": 0.205,
+                "deprecated_market_cap": 160631000,
+                "day_low_price": 0.19,
+                "open_price": 0.19,
+                "year_high_date": "2017-06-07T00:00:00+1000",
+                "previous_day_percentage_change": "8.108%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.255,
+                "bid_price": 0.195,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.205,
+                "year_change_in_percentage": "179.025%",
+                "average_daily_volume": 735915,
+                "year_low_price": 0.15,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "PNR",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.pantoro.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Jefferies",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jefferies",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Cmrlec",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cmrlec",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott James Huffadine",
+                    "first_name": "Scott",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Huffadine",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Mr Kyle Edwards",
+                    "first_name": "Kyle",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Edwards",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Scott Balloch",
+                    "first_name": "Scott",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Balloch",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Walter Okeby",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Okeby",
+                    "middle_name": "Walter"
+                }
+            ]
+        }
+    }
+}

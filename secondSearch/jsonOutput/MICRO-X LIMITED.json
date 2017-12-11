@@ -1,0 +1,152 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MX1",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "MICRO-X LIMITED",
+    "ASXcode": "MX1",
+    "data": {
+        "summary": {
+            "name_short": "MICRO-X",
+            "name_full": "MICRO-X LIMITED",
+            "code": "MX1",
+            "primary_share_code": "MX1",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "MICRO-X LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2015-12-22T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 386 019",
+            "mailing_address": "A14, 6 MAB Eastern Promernade, Tonsley, CLOVELLY PARK, SA, AUSTRALIA, 5042",
+            "principal_activities": "",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and 2017 Annual Report",
+                    "document_date": "2017-08-30T20:51:40+1000",
+                    "number_of_pages": 58,
+                    "id": "01890559",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-31T08:18:00+1000",
+                    "size": "775.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170831/pdf/43lxfljxmd7q9y.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 56625,
+                "status": [],
+                "market_cap": 50522744,
+                "code": "MX1",
+                "indices": [],
+                "deprecated_number_of_shares": 116196128,
+                "previous_close_price": 0.35,
+                "year_low_date": "2017-11-28T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 144350698,
+                "eps": -0.1044,
+                "change_in_percent": "2.857%",
+                "change_price": 0.01,
+                "pe": 0,
+                "offer_price": 0.36,
+                "suspended": false,
+                "last_price": 0.36,
+                "deprecated_market_cap": 41831000,
+                "day_low_price": 0.36,
+                "open_price": 0.36,
+                "year_high_date": "2017-03-17T00:00:00+1100",
+                "previous_day_percentage_change": "-5.405%",
+                "year_open_date": null,
+                "year_high_price": 0.545,
+                "bid_price": 0.355,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.365,
+                "average_daily_volume": 75832,
+                "year_low_price": 0.32,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.micro-x.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Patrick O'Brien",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Brien",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Rowland",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rowland",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Hannebery",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hannebery",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alexander Gosling",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gosling",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Symons",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Symons",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Georgina Carpendale",
+                    "first_name": "Georgina",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Carpendale",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Georgina Carpendale",
+                    "first_name": "Georgina",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Carpendale",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

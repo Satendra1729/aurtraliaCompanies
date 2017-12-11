@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RDG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RESOURCE DEVELOPMENT GROUP LIMITED",
+    "ASXcode": "RDG",
+    "data": {
+        "summary": {
+            "name_short": "RESDEV",
+            "name_full": "RESOURCE DEVELOPMENT GROUP LIMITED",
+            "code": "RDG",
+            "primary_share_code": "RDG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RES DEV GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-05-19T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9443 2928",
+            "mailing_address": "Level 1, 46 Edward Street, OSBORNE PARK, WA, AUSTRALIA, 6017",
+            "principal_activities": "The provision of contract management and engineering services for mining projects.",
+            "fax_number": "(08) 9443 2926",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-20T12:41:45+1100",
+                    "number_of_pages": 62,
+                    "id": "01910394",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T12:43:58+1100",
+                    "size": "359.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43ndy04x3thrvb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 54447,
+                "status": [],
+                "market_cap": 10733869,
+                "code": "RDG",
+                "indices": [],
+                "year_open_price": 0.038,
+                "previous_close_price": 0.017,
+                "year_change_price": -0.02,
+                "year_low_date": "2017-09-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 631404067,
+                "eps": -0.0018,
+                "change_in_percent": "5.882%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 631404067,
+                "pe": 0,
+                "offer_price": 0.018,
+                "suspended": false,
+                "last_price": 0.018,
+                "deprecated_market_cap": 11365000,
+                "day_low_price": 0.018,
+                "open_price": 0.018,
+                "year_high_date": "2017-01-06T00:00:00+1100",
+                "previous_day_percentage_change": "-5.556%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.039,
+                "bid_price": 0.017,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.018,
+                "year_change_in_percentage": "-52.632%",
+                "average_daily_volume": 167111,
+                "year_low_price": 0.015,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.resdevgroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Andrew Ellison",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Chairman",
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ellison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Eden",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Executive Director",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Eden",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Reid",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reid",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Kenyon",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kenyon",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Michael Kenyon",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kenyon",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

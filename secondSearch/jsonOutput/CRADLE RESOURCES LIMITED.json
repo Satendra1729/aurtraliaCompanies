@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CXX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CRADLE RESOURCES LIMITED",
+    "ASXcode": "CXX",
+    "data": {
+        "summary": {
+            "name_short": "CRADLE RES",
+            "name_full": "CRADLE RESOURCES LIMITED",
+            "code": "CXX",
+            "primary_share_code": "CXX",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "CRADLE RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2011-09-16T00:00:00+1000",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 6322",
+            "mailing_address": "Level 9 BGC Centre, 28 The Esplanade, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Exploration for niobium.",
+            "fax_number": "(08) 9322 6558",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders (revised)",
+                    "document_date": "2017-09-29T15:42:49+1000",
+                    "number_of_pages": 53,
+                    "id": "01902408",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T15:44:45+1000",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt1vxgmvxkj0.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T14:48:22+1000",
+                    "number_of_pages": 53,
+                    "id": "01901251",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T14:51:12+1000",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqqh887tf5nr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 23172116,
+                "code": "CXX",
+                "indices": [],
+                "year_open_price": 0.21,
+                "previous_close_price": 0.14,
+                "year_change_price": -0.07,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 165515117,
+                "eps": -0.0101,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 165515117,
+                "pe": 0,
+                "offer_price": 0.15,
+                "suspended": false,
+                "last_price": 0.14,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-06-30T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.325,
+                "bid_price": 0.14,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-33.333%",
+                "average_daily_volume": 278072,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.cradleresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Middlemas",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Middlemas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Davey",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Ian Burton",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burton",
+                    "middle_name": "Ian"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Gregory David Swan",
+                    "first_name": "Gregory",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Swan",
+                    "middle_name": "David"
+                }
+            ]
+        }
+    }
+}

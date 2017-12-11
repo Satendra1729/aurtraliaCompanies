@@ -1,0 +1,250 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BGA",
+    "GICSindustrygroup": "Food, Beverage & Tobacco",
+    "Companyname": "BEGA CHEESE LIMITED",
+    "ASXcode": "BGA",
+    "data": {
+        "summary": {
+            "name_short": "BEGA",
+            "name_full": "BEGA CHEESE LIMITED",
+            "code": "BGA",
+            "primary_share_code": "BGA",
+            "industry_group_name": "Food, Beverage & Tobacco",
+            "delisting_date": null,
+            "sector_name": "Consumer Staples",
+            "name_abbrev": "BEGA CHEESE LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/BGA?image_size=L&v=1408434518000",
+            "foreign_exempt": false,
+            "listing_date": "2011-08-19T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "5C FRANKED@30%; DRP  SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-08-30T00:00:00+1000",
+                "payable_date": "2017-09-13T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.05,
+                "ex_date": "2017-08-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 6491 7777",
+            "mailing_address": "23-45 Ridge Street, BEGA, NSW, AUSTRALIA, 2550",
+            "principal_activities": "Processing, manufacturing, cutting and packaging traditional cheese products, as well as the manufacture of other high value dairy products.",
+            "fax_number": "(02) 6491 7700",
+            "latest_annual_reports": [
+                {
+                    "header": "Preliminary Final Report / 2017 Annual Report",
+                    "document_date": "2017-08-23T08:54:17+1000",
+                    "number_of_pages": 94,
+                    "id": "01886702",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-23T09:01:38+1000",
+                    "size": "9.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lms0hyxpk6lj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 379348,
+                "status": [],
+                "market_cap": 1458231745,
+                "code": "BGA",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Stap",
+                        "index_code": "XSJ",
+                        "name_abrev": "Consumer Staples",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Staples (Sector)"
+                    }
+                ],
+                "year_open_price": 5.43,
+                "previous_close_price": 7.88,
+                "year_change_price": 2.41,
+                "year_low_date": "2016-12-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 185054790,
+                "eps": 0.909,
+                "change_in_percent": "-0.508%",
+                "change_price": -0.04,
+                "deprecated_number_of_shares": 185054790,
+                "pe": 8.62,
+                "offer_price": 7.9,
+                "suspended": false,
+                "last_price": 7.84,
+                "deprecated_market_cap": 1450830000,
+                "day_low_price": 7.8,
+                "open_price": 7.86,
+                "year_high_date": "2017-10-26T00:00:00+1100",
+                "previous_day_percentage_change": "-0.756%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 8.15,
+                "bid_price": 7.8,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 7.96,
+                "year_change_in_percentage": "44.383%",
+                "average_daily_volume": 529589,
+                "year_low_price": 3.82,
+                "annual_dividend_yield": 1.28
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.begacheese.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Barry Irvin",
+                    "first_name": "Barry",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Irvin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul van Heerwaarden",
+                    "first_name": "Paul",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "van Heerwaarden",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rick Cross",
+                    "first_name": "Rick",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cross",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeff Odgers",
+                    "first_name": "Jeff",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Odgers",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Parbery",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Parbery",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Platts",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Platts",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Max Roberts",
+                    "first_name": "Max",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roberts",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Margin",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Margin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Raelene Murphy",
+                    "first_name": "Raelene",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Murphy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Colin Griffin",
+                    "first_name": "Colin",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Griffin",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Brett Kelly",
+                    "first_name": "Brett",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/OEQ",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "ORION EQUITIES LIMITED",
+    "ASXcode": "OEQ",
+    "data": {
+        "summary": {
+            "name_short": "ORION EQ",
+            "name_full": "ORION EQUITIES LIMITED",
+            "code": "OEQ",
+            "primary_share_code": "OEQ",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "ORION EQUITIES",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/OEQ?image_size=L&v=1441040944000",
+            "foreign_exempt": false,
+            "listing_date": "1970-11-19T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "last_dividend": {
+                "comments": "0.9C FRANKED @ 27.5% ; SPECIAL",
+                "franked_percentage": "100%",
+                "created_date": "2017-09-01T00:00:00+1000",
+                "record_date": "2017-09-22T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.009,
+                "ex_date": "2017-09-21T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9214 9797",
+            "mailing_address": "Level 2, 23 Ventnor Avenue, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "An investment entity whose investment objectives are to: \n1. Achieve a consistent high real rate of return, comprising both income and capital growth, whilst operating within acceptable risk parameters set by the Board; \n2. Deliver a regular income stream for shareholders in the form of franked dividends; \n3. Preserve and protect the capital of the Company.",
+            "fax_number": "(08) 9214 9701",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-18T18:51:25+1100",
+                    "number_of_pages": 54,
+                    "id": "01909557",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-18T18:55:09+1100",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171018/pdf/43nc1csnh1q085.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 2939374,
+                "code": "OEQ",
+                "indices": [],
+                "year_open_price": 0.27,
+                "previous_close_price": 0.165,
+                "year_change_price": -0.105,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 17814389,
+                "eps": -0.1294,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 17814389,
+                "pe": 0,
+                "offer_price": 0.2,
+                "suspended": false,
+                "last_price": 0.165,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-04-19T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.171,
+                "bid_price": 0.175,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-38.889%",
+                "average_daily_volume": 18547,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.orionequities.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Farooq Khan",
+                    "first_name": "Farooq",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Khan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Victor Poh Hong Ho",
+                    "first_name": "Victor",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ho",
+                    "middle_name": "Poh Hong"
+                },
+                {
+                    "full_name": "Mr Yaqoob Khan",
+                    "first_name": "Yaqoob",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Khan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Victor Poh Hong Ho",
+                    "first_name": "Victor",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ho",
+                    "middle_name": "Poh Hong"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AZI",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "ALTA ZINC LIMITED",
+    "ASXcode": "AZI",
+    "data": {
+        "summary": {
+            "name_short": "ALTAZINC",
+            "name_full": "ALTA ZINC LIMITED",
+            "code": "AZI",
+            "primary_share_code": "AZI",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "ALTA ZINC LTD",
+            "foreign_exempt": false,
+            "listing_date": "2009-12-24T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "info@altazinc.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9321 5000",
+            "mailing_address": "Level 2, 20 Kings Park Road, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mineral exploration.",
+            "fax_number": "+61 8 9321 7177",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 340000,
+                "status": [],
+                "market_cap": 14251100,
+                "code": "AZI",
+                "indices": [],
+                "year_open_price": 0.02575,
+                "previous_close_price": 0.013,
+                "year_change_price": -0.01375,
+                "year_low_date": "2017-07-13T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1096238436,
+                "eps": -0.0146,
+                "change_in_percent": "-7.692%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 1096238436,
+                "pe": 0,
+                "offer_price": 0.013,
+                "suspended": false,
+                "last_price": 0.012,
+                "deprecated_market_cap": 13155000,
+                "day_low_price": 0.012,
+                "open_price": 0.012,
+                "year_high_date": "2017-02-02T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.054,
+                "bid_price": 0.012,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.012,
+                "year_change_in_percentage": "-53.398%",
+                "average_daily_volume": 665494,
+                "year_low_price": 0.01,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.altazinc.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Alexander S Burns",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Executive Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Burns",
+                    "middle_name": "S"
+                },
+                {
+                    "full_name": "Mr Marcello Cardaci",
+                    "first_name": "Marcello",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cardaci",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Hills",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Finance Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hills",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jamie Armes",
+                    "first_name": "Jamie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Armes",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PWH",
+    "GICSindustrygroup": "Automobiles & Components",
+    "Companyname": "PWR HOLDINGS LIMITED",
+    "ASXcode": "PWH",
+    "data": {
+        "summary": {
+            "name_full": "PWR HOLDINGS LIMITED",
+            "last_dividend": {
+                "comments": "4.7C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-25T00:00:00+1000",
+                "record_date": "2017-09-05T00:00:00+1000",
+                "payable_date": "2017-09-15T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.047,
+                "ex_date": "2017-09-04T00:00:00+1000"
+            },
+            "code": "PWH",
+            "name_short": "PWR HLDING",
+            "industry_group_name": "Automobiles & Components",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "PWR HOLDINGS LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PWH?image_size=L&v=1511401530000",
+            "foreign_exempt": false,
+            "listing_date": "2015-11-18T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "investors@pwr.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 5547 1600",
+            "mailing_address": "103 Lahrs Road, ORMEAU, QLD, AUSTRALIA, 4208",
+            "principal_activities": "The design and production of customised cooling solutions for international elite motorsports and high performance automotive applications around the world",
+            "fax_number": "07 5547 1666",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-18T16:35:17+1000",
+                    "number_of_pages": 68,
+                    "id": "01897166",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-18T16:36:59+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170918/pdf/43mf75mnk0j9wm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 53297,
+                "status": [],
+                "market_cap": 248000000,
+                "code": "PWH",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "deprecated_number_of_shares": 100000000,
+                "previous_close_price": 2.48,
+                "year_low_date": "2017-08-24T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 100000000,
+                "eps": 0.0928,
+                "change_in_percent": "-2.823%",
+                "change_price": -0.07,
+                "pe": 25.97,
+                "offer_price": 2.48,
+                "suspended": false,
+                "last_price": 2.41,
+                "deprecated_market_cap": 241000000,
+                "day_low_price": 2.41,
+                "open_price": 2.47,
+                "year_high_date": "2017-11-01T00:00:00+1100",
+                "previous_day_percentage_change": "1.224%",
+                "year_open_date": null,
+                "year_high_price": 2.67,
+                "bid_price": 2.4,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.48,
+                "average_daily_volume": 157754,
+                "year_low_price": 1.87,
+                "annual_dividend_yield": 2.32
+            },
+            "primary_share_code": "PWH",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.pwr.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "https://www.pwr.com.au/investors"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms Teresa Gayle Handicott",
+                    "first_name": "Teresa",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Handicott",
+                    "middle_name": "Gayle"
+                },
+                {
+                    "full_name": "Mr Kees Cornelius Weel",
+                    "first_name": "Kees",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Weel",
+                    "middle_name": "Cornelius"
+                },
+                {
+                    "full_name": "Mr Roland William Surrey Dane",
+                    "first_name": "Roland",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dane",
+                    "middle_name": "William Surrey"
+                },
+                {
+                    "full_name": "Mr Jeffrey Ian Forbes",
+                    "first_name": "Jeffrey",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Forbes",
+                    "middle_name": "Ian"
+                },
+                {
+                    "full_name": "Mr Stuart Smith",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Lisa Jane Dalton",
+                    "first_name": "Lisa Jane",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Dalton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

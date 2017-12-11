@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CGR",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "CML GROUP LIMITED",
+    "ASXcode": "CGR",
+    "data": {
+        "summary": {
+            "name_short": "CML GROUP",
+            "name_full": "CML GROUP LIMITED",
+            "code": "CGR",
+            "primary_share_code": "CGR",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "CML GROUP LTD",
+            "foreign_exempt": false,
+            "listing_date": "2010-02-23T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "0.75C FRANKED @ 30%;  DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-23T00:00:00+1000",
+                "record_date": "2017-09-15T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.0075,
+                "ex_date": "2017-09-14T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 666 177",
+            "mailing_address": "Level 4, 61 Lavender Street, MILSONS POINT, NSW, AUSTRALIA, 2061",
+            "principal_activities": "Finance and payroll related services",
+            "fax_number": "(02) 9267 1567",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-21T06:53:25+1000",
+                    "number_of_pages": 69,
+                    "id": "01898239",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-21T08:27:18+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170921/pdf/43mhqsj23wnsyt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 494318,
+                "status": [],
+                "market_cap": 77822726,
+                "code": "CGR",
+                "indices": [],
+                "year_open_price": 0.25,
+                "previous_close_price": 0.445,
+                "year_change_price": 0.195,
+                "year_low_date": "2017-03-22T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 174882531,
+                "eps": 0.0192,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 174882531,
+                "pe": 23.18,
+                "offer_price": 0.45,
+                "suspended": false,
+                "last_price": 0.445,
+                "deprecated_market_cap": 77823000,
+                "day_low_price": 0.435,
+                "open_price": 0.44,
+                "year_high_date": "2017-11-30T00:00:00+1100",
+                "previous_day_percentage_change": "-1.111%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.47,
+                "bid_price": 0.435,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.445,
+                "year_change_in_percentage": "78%",
+                "average_daily_volume": 318638,
+                "year_low_price": 0.2,
+                "annual_dividend_yield": 2.81
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.cml-group.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Greg Riley",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Riley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Riley",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Riley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Sue Healy",
+                    "first_name": "Sue",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Healy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Sam",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sam",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ilkka Tales",
+                    "first_name": "Ilkka",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tales",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Steve Jung-Min Shin",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shin",
+                    "middle_name": "Jung-Min"
+                }
+            ]
+        }
+    }
+}

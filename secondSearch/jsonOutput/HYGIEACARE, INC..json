@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HGC",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "HYGIEACARE, INC.",
+    "ASXcode": "HGC",
+    "data": {
+        "summary": {
+            "name_short": "HYGIEACARE",
+            "name_full": "HYGIEACARE, INC.",
+            "code": "HGC",
+            "primary_share_code": "HGC",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "HYGIEACARE",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+1 (512) 717 0772",
+            "mailing_address": "160 Greentree Drive, Suite 101, DOVER, KENT COUNTY, DEL, UNITED STATES OF AMERICA, 19904",
+            "principal_activities": "Healthcare services provider",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "HGC",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Chess Depositary Interests 1:1"
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://hygieacare.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Unknown Leslie Smith",
+                    "first_name": "Leslie",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Unknown",
+                    "last_name": "Smith",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

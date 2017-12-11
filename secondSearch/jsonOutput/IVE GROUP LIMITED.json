@@ -1,0 +1,207 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IGL",
+    "GICSindustrygroup": "Media",
+    "Companyname": "IVE GROUP LIMITED",
+    "ASXcode": "IGL",
+    "data": {
+        "summary": {
+            "name_short": "IVEGROUP",
+            "name_full": "IVE GROUP LIMITED",
+            "code": "IGL",
+            "primary_share_code": "IGL",
+            "industry_group_name": "Media",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "IVEGROUP",
+            "foreign_exempt": false,
+            "listing_date": "2015-12-16T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "6.4C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-25T00:00:00+1000",
+                "payable_date": "2017-10-25T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.064,
+                "ex_date": "2017-09-22T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8020 4400",
+            "mailing_address": "Building B, 350 Parramatta Road, HOMEBUSH, NSW, AUSTRALIA, 2140",
+            "principal_activities": "Marketing and print communications",
+            "latest_annual_reports": [
+                {
+                    "header": "IVE Group Limited 2017 Annual Report",
+                    "document_date": "2017-10-13T15:18:15+1100",
+                    "number_of_pages": 60,
+                    "id": "01907763",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T15:21:36+1100",
+                    "size": "13.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6py7t881spq.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 323738,
+                "status": [],
+                "market_cap": 315460785,
+                "code": "IGL",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "deprecated_number_of_shares": 148103655,
+                "previous_close_price": 2.13,
+                "year_low_date": "2017-11-20T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 148103655,
+                "eps": 0.11,
+                "change_in_percent": "2.347%",
+                "change_price": 0.05,
+                "pe": 19.82,
+                "offer_price": 2.19,
+                "suspended": false,
+                "last_price": 2.18,
+                "deprecated_market_cap": 322866000,
+                "day_low_price": 2.13,
+                "open_price": 2.13,
+                "year_high_date": "2017-02-27T00:00:00+1100",
+                "previous_day_percentage_change": "1.429%",
+                "year_open_date": null,
+                "year_high_price": 2.673,
+                "bid_price": 2.18,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.19,
+                "average_daily_volume": 376629,
+                "year_low_price": 1.935,
+                "annual_dividend_yield": 5.83
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.ivegroup.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Geoff Selig",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Selig",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Warwick Hay",
+                    "first_name": "Warwick",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hay",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sandra Hook",
+                    "first_name": "Sandra",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hook",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Selig",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Selig",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Todd",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Todd",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gavin Bell",
+                    "first_name": "Gavin",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Harrison",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harrison",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Darren Dunkley",
+                    "first_name": "Darren",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dunkley",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Emma Lawler",
+                    "first_name": "Emma",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lawler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Darren Dunkley",
+                    "first_name": "Darren",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dunkley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,314 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BOQ",
+    "GICSindustrygroup": "Banks",
+    "Companyname": "BANK OF QUEENSLAND LIMITED.",
+    "ASXcode": "BOQ",
+    "data": {
+        "summary": {
+            "name_short": "BANK QLD",
+            "name_full": "BANK OF QUEENSLAND LIMITED.",
+            "code": "BOQ",
+            "primary_share_code": "BOQ",
+            "industry_group_name": "Banks",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "BANK OF QUEENSLAND.",
+            "foreign_exempt": false,
+            "listing_date": "1971-08-24T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "46C FRANKED @30%; 8C  SPECIAL; DRP SUSP",
+                "franked_percentage": "100%",
+                "created_date": "2017-10-12T00:00:00+1100",
+                "record_date": "2017-11-03T00:00:00+1100",
+                "payable_date": "2017-11-23T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.46,
+                "ex_date": "2017-11-02T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "hybrid-securities",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "07 3212 3333",
+            "mailing_address": "Level 6, 100 Skyring Terrace, NEWSTEAD, QLD, AUSTRALIA, 4006",
+            "principal_activities": "Banking, financial and related services.",
+            "fax_number": "07 3212 3409",
+            "latest_annual_reports": [
+                {
+                    "header": "FY2017 Annual Report",
+                    "document_date": "2017-10-12T08:45:10+1100",
+                    "number_of_pages": 156,
+                    "id": "01907012",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-12T08:48:09+1100",
+                    "size": "6.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171012/pdf/43n525hlccp7p5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 736705,
+                "status": [],
+                "market_cap": 4962334175,
+                "code": "BOQ",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 11.78686,
+                "previous_close_price": 12.64,
+                "year_change_price": 0.89314,
+                "year_low_date": "2017-06-08T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 392589729,
+                "eps": 0.909,
+                "change_in_percent": "0.316%",
+                "change_price": 0.04,
+                "deprecated_number_of_shares": 392589729,
+                "pe": 13.95,
+                "offer_price": 12.73,
+                "suspended": false,
+                "last_price": 12.68,
+                "deprecated_market_cap": 4978038000,
+                "day_low_price": 12.66,
+                "open_price": 12.67,
+                "year_high_date": "2017-10-31T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 13.458,
+                "bid_price": 12.65,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 12.76,
+                "year_change_in_percentage": "7.577%",
+                "average_daily_volume": 1587906,
+                "year_low_price": 10.576,
+                "annual_dividend_yield": 5.99
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.boq.com.au/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Roger Davis",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jon Sutton",
+                    "first_name": "Jon",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sutton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Carter",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Haire",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haire",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Howard Lorimer",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lorimer",
+                    "middle_name": "Howard"
+                },
+                {
+                    "full_name": "Mr Wawick Negus",
+                    "first_name": "Wawick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Negus",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Karen Lee Penrose",
+                    "first_name": "Karen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Penrose",
+                    "middle_name": "Lee"
+                },
+                {
+                    "full_name": "Ms Margaret Seale",
+                    "first_name": "Margaret",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Seale",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Michelle Tredenick",
+                    "first_name": "Michelle",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tredenick",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Willis",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Willis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Rose",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rose",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Michelle Thomsen",
+                    "first_name": "Michelle",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Thomsen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Ryan",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ryan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Vicki Clarkson",
+                    "first_name": "Vicki",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Clarkson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Michelle Thomsen",
+                    "first_name": "Michelle",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Thomsen",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

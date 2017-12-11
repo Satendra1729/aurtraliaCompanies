@@ -1,0 +1,117 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LWP",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "LWP TECHNOLOGIES LIMITED",
+    "ASXcode": "LWP",
+    "data": {
+        "summary": {
+            "name_short": "LWPTECH",
+            "name_full": "LWP TECHNOLOGIES LIMITED",
+            "code": "LWP",
+            "primary_share_code": "LWP",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "LWP TECHNOLOGIES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2006-08-31T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "dan.lanskey@lwptech.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 3122 2233",
+            "mailing_address": "Suite 29, Level 54, 111 Eagle Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "LWP Technologiesis an oil and gas technology company with its core business being the development of a unique technology for the manufacture of ceramic proppants for use in the Hydraulic Fracturing market .",
+            "fax_number": "+61 7 3012 6699",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": -1,
+                "code": "LWP",
+                "indices": [],
+                "year_open_price": 0.006,
+                "previous_close_price": 0.001,
+                "year_change_price": -0.005,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 5929872725,
+                "eps": -0.0023,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 5929872725,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": true,
+                "last_price": 0.001,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-04-18T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.002,
+                "bid_price": 0,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-83.333%",
+                "average_daily_volume": 0,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.Lwptech.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Siegfried Konig",
+                    "first_name": "Siegfried",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Konig",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Declan McCaffrey",
+                    "first_name": "Declan",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McCaffrey",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Henson",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Henson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Bursill",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bursill",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

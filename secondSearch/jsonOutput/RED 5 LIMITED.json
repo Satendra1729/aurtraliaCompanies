@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RED",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RED 5 LIMITED",
+    "ASXcode": "RED",
+    "data": {
+        "summary": {
+            "name_full": "RED 5 LIMITED",
+            "code": "RED",
+            "name_short": "RED 5 LTD",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RED 5 LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RED?image_size=L&v=1385014030000",
+            "foreign_exempt": false,
+            "listing_date": "1996-10-16T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "info@red5limited.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9322 4455",
+            "mailing_address": "Level 2, 35 Ventnor Avenue, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold mining and exploration",
+            "fax_number": "(08) 9481 5950",
+            "latest_annual_reports": [
+                {
+                    "header": "Red 5 2017 annual report",
+                    "document_date": "2017-10-18T10:44:01+1100",
+                    "number_of_pages": 64,
+                    "id": "01909250",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-18T10:46:01+1100",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171018/pdf/43nbdr56mtp5zc.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 278575,
+                "status": [],
+                "market_cap": 66997423,
+                "code": "RED",
+                "indices": [],
+                "year_open_price": 0.105,
+                "previous_close_price": 0.054,
+                "year_change_price": -0.053,
+                "year_low_date": "2017-04-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1240693011,
+                "eps": -0.1411,
+                "change_in_percent": "-3.704%",
+                "change_price": -0.002,
+                "deprecated_number_of_shares": 1240693011,
+                "pe": 0,
+                "offer_price": 0.053,
+                "suspended": false,
+                "last_price": 0.052,
+                "deprecated_market_cap": 64516000,
+                "day_low_price": 0.052,
+                "open_price": 0.053,
+                "year_high_date": "2016-12-06T00:00:00+1100",
+                "previous_day_percentage_change": "3.846%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.099,
+                "bid_price": 0.052,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.053,
+                "year_change_in_percentage": "-50.476%",
+                "average_daily_volume": 800961,
+                "year_low_price": 0.029,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "RED",
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.red5limited.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Mark Williams",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kevin Dundo",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dundo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Colin Loosemore",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Loosemore",
+                    "middle_name": "Colin"
+                },
+                {
+                    "full_name": "Mr Ian Macpherson",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Macpherson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Tasovac",
+                    "first_name": "John",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tasovac",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Frank Campagna",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Campagna",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,438 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BHP",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BHP BILLITON LIMITED",
+    "ASXcode": "BHP",
+    "data": {
+        "summary": {
+            "name_short": "BHP BLT",
+            "name_full": "BHP BILLITON LIMITED",
+            "code": "BHP",
+            "primary_share_code": "BHP",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BHP BILLITON LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1885-08-13T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "US 43C FRANKED @30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-22T00:00:00+1000",
+                "record_date": "2017-09-08T00:00:00+1000",
+                "payable_date": "2017-09-26T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.52949144,
+                "ex_date": "2017-09-07T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "options",
+                "warrants"
+            ],
+            "phone_number": "(61) 1300 55 47 57",
+            "mailing_address": "Level 18, 171 Collins Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Minerals exploration, production and processing (particularly coal, iron ore, copper and manganese ore) and hydrocarbon exploration, production and refining.",
+            "fax_number": "(61 3) 9609 3015",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 US Annual Report (Form 20-F)",
+                    "document_date": "2017-09-29T00:47:00+1000",
+                    "number_of_pages": 490,
+                    "id": "01901667",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T08:18:44+1000",
+                    "size": "4.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mrmr9t2hlmqj.pdf"
+                },
+                {
+                    "header": "BHP Annual Report 2017",
+                    "document_date": "2017-09-20T07:42:18+1000",
+                    "number_of_pages": 296,
+                    "id": "01897697",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-20T08:11:29+1000",
+                    "size": "8.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170920/pdf/43mgjn20x0kmtv.pdf"
+                },
+                {
+                    "header": "2016 US Annual Report (Form 20-F/A)",
+                    "document_date": "2017-07-19T08:14:55+1000",
+                    "number_of_pages": 123,
+                    "id": "01875168",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-07-19T08:34:30+1000",
+                    "size": "688.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170719/pdf/43kqpkllpp90jp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 4915033,
+                "status": [],
+                "market_cap": 87165296644,
+                "code": "BHP",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX 20",
+                        "index_code": "XTL",
+                        "name_abrev": "S&P/ASX 20",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 20"
+                    },
+                    {
+                        "name_short": "S&P/ASX 50",
+                        "index_code": "XFL",
+                        "name_abrev": "S&P/ASX 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 50"
+                    },
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 50",
+                        "index_code": "XAF",
+                        "name_abrev": "All Australian 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    },
+                    {
+                        "name_short": "MTL&MINING",
+                        "index_code": "XMM",
+                        "name_abrev": "Metals and Mining",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300 Metals and Mining (Industry)"
+                    },
+                    {
+                        "name_short": "S&P200 Res",
+                        "index_code": "XJR",
+                        "name_abrev": "S&P/ASX 200 Res",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 RESOURCES"
+                    }
+                ],
+                "year_open_price": 39.1,
+                "previous_close_price": 27.14,
+                "year_change_price": -11.93,
+                "year_low_date": "2017-06-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 3211691107,
+                "eps": 1.4392,
+                "change_in_percent": "0.111%",
+                "change_price": 0.03,
+                "deprecated_number_of_shares": 3211691105,
+                "pe": 18.88,
+                "offer_price": 27.18,
+                "suspended": false,
+                "last_price": 27.17,
+                "deprecated_market_cap": 87261647000,
+                "day_low_price": 26.93,
+                "open_price": 27.21,
+                "year_high_date": "2017-11-09T00:00:00+1100",
+                "previous_day_percentage_change": "-0.221%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 28.815,
+                "bid_price": 27.15,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 27.3,
+                "year_change_in_percentage": "-30.512%",
+                "average_daily_volume": 7274970,
+                "year_low_price": 22.06,
+                "annual_dividend_yield": 3.91
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.bhpbilliton.com/",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ken MacKenzie",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "MacKenzie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Mackenzie",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackenzie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Terry Bowen",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bowen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Malcolm Broomhead",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Broomhead",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Anita Frew",
+                    "first_name": "Anita",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Frew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Carolyn Hewson",
+                    "first_name": "Carolyn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hewson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lindsay Maxsted",
+                    "first_name": "Lindsay",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Maxsted",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Mogford",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mogford",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wayne Murdy",
+                    "first_name": "Wayne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Murdy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Baroness Shriti Vadera",
+                    "first_name": "Shriti",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Baroness",
+                    "last_name": "Vadera",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Beaven",
+                    "first_name": "Peter",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beaven",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Arnoud Balhuizen",
+                    "first_name": "Arnoud",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Balhuizen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Healy",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "General Manager",
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Healy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mike Henry",
+                    "first_name": "Mike",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Henry",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Diane Jurgens",
+                    "first_name": "Diane",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Jurgens",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Malchuk",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Malchuk",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steve Pastor",
+                    "first_name": "Steve",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pastor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Miss Laura Tyler",
+                    "first_name": "Laura",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Miss",
+                    "last_name": "Tyler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Athalie Williams",
+                    "first_name": "Athalie",
+                    "roles": [
+                        "General Manager"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Adrian Wood",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wood",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Rachel Agnew",
+                    "first_name": "Rachel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Agnew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Margaret Taylor",
+                    "first_name": "Margaret",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Taylor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kate Griffiths",
+                    "first_name": "Kate",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Griffiths",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Megan Pepper",
+                    "first_name": "Megan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Pepper",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

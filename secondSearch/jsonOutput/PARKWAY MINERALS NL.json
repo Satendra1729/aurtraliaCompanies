@@ -1,0 +1,139 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PWN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "PARKWAY MINERALS NL",
+    "ASXcode": "PWN",
+    "data": {
+        "summary": {
+            "name_full": "PARKWAY MINERALS NL",
+            "code": "PWN",
+            "name_short": "PARKWAY",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "PARKWAY MINLS NL",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/PWN?image_size=L&v=1480920859000",
+            "foreign_exempt": false,
+            "listing_date": "2011-05-13T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "info@parkwayminerals.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9479 5386",
+            "mailing_address": "Level 1, 675 Murray Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration for glauconite and phosphate mineralisation.",
+            "fax_number": "(08) 9475 0847",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T17:37:27+1000",
+                    "number_of_pages": 98,
+                    "id": "01902666",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T17:39:13+1000",
+                    "size": "3.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtk20y8btg0j.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 50000,
+                "status": [],
+                "market_cap": 5993816,
+                "code": "PWN",
+                "indices": [],
+                "year_open_price": 0.071,
+                "previous_close_price": 0.012,
+                "year_change_price": -0.059,
+                "year_low_date": "2017-06-21T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 499484634,
+                "eps": -0.0043,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 499484634,
+                "pe": 0,
+                "offer_price": 0.013,
+                "suspended": false,
+                "last_price": 0.012,
+                "deprecated_market_cap": 5994000,
+                "day_low_price": 0.012,
+                "open_price": 0.012,
+                "year_high_date": "2017-01-03T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.026,
+                "bid_price": 0.01,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.012,
+                "year_change_in_percentage": "-83.099%",
+                "average_daily_volume": 733678,
+                "year_low_price": 0.008,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "PWN",
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.parkwayminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Adrian Christopher Griffin",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Griffin",
+                    "middle_name": "Christopher"
+                },
+                {
+                    "full_name": "Mr Patrick Bernard David McManus",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McManus",
+                    "middle_name": "Bernard David"
+                },
+                {
+                    "full_name": "Mr Wai Chuen Chew",
+                    "first_name": "Wai Chuen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Natalia Streltsova",
+                    "first_name": "Natalia",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Streltsova",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Elizabeth Hunt",
+                    "first_name": "Elizabeth",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Hunt",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

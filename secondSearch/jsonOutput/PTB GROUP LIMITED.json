@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PTB",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "PTB GROUP LIMITED",
+    "ASXcode": "PTB",
+    "data": {
+        "summary": {
+            "name_short": "PTB GROUP",
+            "name_full": "PTB GROUP LIMITED",
+            "code": "PTB",
+            "primary_share_code": "PTB",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "PTB GROUP LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2006-12-18T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "5C FRANKED@30%; DRP",
+                "franked_percentage": "100%",
+                "created_date": "2017-05-18T00:00:00+1000",
+                "record_date": "2017-05-30T00:00:00+1000",
+                "payable_date": "2017-06-26T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.05,
+                "ex_date": "2017-05-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3637 7000",
+            "mailing_address": "22 Orient Avenue, PINKENBA, QLD, AUSTRALIA, 4008",
+            "principal_activities": "Specialist turbine repair and overhaul services",
+            "fax_number": "(07) 3260 1180",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-26T10:47:36+1000",
+                    "number_of_pages": 96,
+                    "id": "01899926",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T10:51:26+1000",
+                    "size": "959.1KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mmvjrkjb48x1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 39218368,
+                "code": "PTB",
+                "indices": [],
+                "year_open_price": 0.29,
+                "previous_close_price": 0.625,
+                "year_change_price": 0.335,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 62749389,
+                "eps": 0.0566,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 62749389,
+                "pe": 11.04,
+                "offer_price": 0.63,
+                "suspended": false,
+                "last_price": 0.625,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-10-03T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.67,
+                "bid_price": 0.6,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "115.517%",
+                "average_daily_volume": 38610,
+                "year_low_price": 0,
+                "annual_dividend_yield": 8
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.pacificturbine.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Harvey Parker",
+                    "first_name": "Harvey",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Parker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Louis Baker",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baker",
+                    "middle_name": "Louis"
+                },
+                {
+                    "full_name": "Mr Steve Ferris",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Garry Smith",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Smith",
+                    "middle_name": "Garry"
+                },
+                {
+                    "full_name": "Mr Andrew Kemp",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kemp",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Zgrajewski",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zgrajewski",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Daniel Zgrajewski",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zgrajewski",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

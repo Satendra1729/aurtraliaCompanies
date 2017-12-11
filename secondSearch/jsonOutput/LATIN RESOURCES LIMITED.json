@@ -1,0 +1,148 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LRS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LATIN RESOURCES LIMITED",
+    "ASXcode": "LRS",
+    "data": {
+        "summary": {
+            "name_short": "LATRES",
+            "name_full": "LATIN RESOURCES LIMITED",
+            "code": "LRS",
+            "primary_share_code": "LRS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LATIN RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2010-09-21T00:00:00+1000",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6181 9798",
+            "mailing_address": "Unit 3, Harrogate Street, WEST LEEDERVILLE, WA, AUSTRALIA, 6007",
+            "principal_activities": "Iron and gold exploration.",
+            "fax_number": "(08) 9380 9666",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-03-31T16:34:33+1100",
+                    "number_of_pages": 86,
+                    "id": "01843999",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-31T16:37:30+1100",
+                    "size": "6.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170331/pdf/43h69pcddd5g54.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 24725316,
+                "status": [],
+                "market_cap": 31468394,
+                "code": "LRS",
+                "indices": [],
+                "year_open_price": 0.048,
+                "previous_close_price": 0.012,
+                "year_change_price": -0.037,
+                "year_low_date": "2017-10-27T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2622366170,
+                "eps": -0.0038,
+                "change_in_percent": "-8.333%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 2622366170,
+                "pe": 0,
+                "offer_price": 0.012,
+                "suspended": false,
+                "last_price": 0.011,
+                "deprecated_market_cap": 28846000,
+                "day_low_price": 0.011,
+                "open_price": 0.012,
+                "year_high_date": "2017-03-07T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.024,
+                "bid_price": 0.011,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.012,
+                "year_change_in_percentage": "-77.083%",
+                "average_daily_volume": 37968410,
+                "year_low_price": 0.003,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.latinresources.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Vilensky",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Vilensky",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Gale",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gale",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brent Jones",
+                    "first_name": "Brent",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jon Grygorcewicz",
+                    "first_name": "Jon",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grygorcewicz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sharnah Joanne Meier",
+                    "first_name": "Sharnah",
+                    "roles": [
+                        "Administrator"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Meier",
+                    "middle_name": "Joanne"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sarah Jayne Smith",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Smith",
+                    "middle_name": "Jayne"
+                }
+            ]
+        }
+    }
+}

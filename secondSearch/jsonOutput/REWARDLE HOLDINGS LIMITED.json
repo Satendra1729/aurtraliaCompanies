@@ -1,0 +1,122 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RXH",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "REWARDLE HOLDINGS LIMITED",
+    "ASXcode": "RXH",
+    "data": {
+        "summary": {
+            "name_short": "REWARDLE",
+            "name_full": "REWARDLE HOLDINGS LIMITED",
+            "code": "RXH",
+            "primary_share_code": "RXH",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "REWARDLE HOLDING LTD",
+            "foreign_exempt": false,
+            "listing_date": "2014-10-07T00:00:00+1100",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 407 891",
+            "mailing_address": "Suite 5, 95 Hay Street, SUBIACO, WA, AUSTRALIA, 6008",
+            "principal_activities": "Digital engagement and business intelligence.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T18:26:40+1000",
+                    "number_of_pages": 58,
+                    "id": "01901530",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T18:38:29+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr8ch1w697x3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 50000,
+                "status": [],
+                "market_cap": 3876397,
+                "code": "RXH",
+                "indices": [],
+                "deprecated_number_of_shares": 323033055,
+                "previous_close_price": 0.012,
+                "year_low_date": "2017-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 323033055,
+                "eps": -0.0209,
+                "change_in_percent": "8.333%",
+                "change_price": 0.001,
+                "pe": 0,
+                "offer_price": 0.013,
+                "suspended": false,
+                "last_price": 0.013,
+                "deprecated_market_cap": 4199000,
+                "day_low_price": 0.013,
+                "open_price": 0.013,
+                "year_high_date": "2017-01-16T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.05,
+                "bid_price": 0.012,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.013,
+                "average_daily_volume": 204661,
+                "year_low_price": 0.01,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.rewardleholdings.com",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ruwan Weerasooriya",
+                    "first_name": "Ruwan",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Weerasooriya",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Niall",
+                    "first_name": "David",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Niall",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Pawlowitsch",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pawlowitsch",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Ian Hobson",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hobson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SXY",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "SENEX ENERGY LIMITED",
+    "ASXcode": "SXY",
+    "data": {
+        "summary": {
+            "name_short": "SENEX",
+            "name_full": "SENEX ENERGY LIMITED",
+            "code": "SXY",
+            "primary_share_code": "SXY",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "SENEX ENERGY LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SXY?image_size=L&v=1385336472000",
+            "foreign_exempt": false,
+            "listing_date": "1984-08-15T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3335 9000",
+            "mailing_address": "Level 14, 144 Edward Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Petroleum production, exploration and development.",
+            "fax_number": "(07) 3335 9999",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-08-22T07:05:22+1000",
+                    "number_of_pages": 128,
+                    "id": "01886024",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-22T08:15:25+1000",
+                    "size": "6.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170822/pdf/43llb3k3kw6w9x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1807970,
+                "status": [],
+                "market_cap": 492072172,
+                "code": "SXY",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 0.78,
+                "previous_close_price": 0.34,
+                "year_change_price": -0.42,
+                "year_low_date": "2017-06-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1447271094,
+                "eps": -0.0181,
+                "change_in_percent": "5.882%",
+                "change_price": 0.02,
+                "deprecated_number_of_shares": 1447271094,
+                "pe": 0,
+                "offer_price": 0.36,
+                "suspended": false,
+                "last_price": 0.36,
+                "deprecated_market_cap": 521018000,
+                "day_low_price": 0.345,
+                "open_price": 0.345,
+                "year_high_date": "2017-02-14T00:00:00+1100",
+                "previous_day_percentage_change": "1.493%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.405,
+                "bid_price": 0.355,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.36,
+                "year_change_in_percentage": "-53.846%",
+                "average_daily_volume": 1980769,
+                "year_low_price": 0.235,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.senexenergy.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Trevor Bourne",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bourne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Richard Davies",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davies",
+                    "middle_name": "Richard"
+                },
+                {
+                    "full_name": "Ms Yanina Andrea Barila",
+                    "first_name": "Yanina",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Barila",
+                    "middle_name": "Andrea"
+                },
+                {
+                    "full_name": "Dr Ralph Howard Craven",
+                    "first_name": "Ralph",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Craven",
+                    "middle_name": "Howard"
+                },
+                {
+                    "full_name": "Mr Tim Crommelin",
+                    "first_name": "Tim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crommelin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Debra Goodin",
+                    "first_name": "Debra",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Goodin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr John Warburton",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Warburton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Kenneth Yerbury",
+                    "first_name": "Graham",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yerbury",
+                    "middle_name": "Kenneth"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Frank Connolly",
+                    "first_name": "Frank",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Connolly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Pegg",
+                    "first_name": "David",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pegg",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

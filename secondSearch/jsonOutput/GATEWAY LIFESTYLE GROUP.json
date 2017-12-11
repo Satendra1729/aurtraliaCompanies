@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GTY",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "GATEWAY LIFESTYLE GROUP",
+    "ASXcode": "GTY",
+    "data": {
+        "summary": {
+            "name_short": "GATEWYLIFE",
+            "name_full": "GATEWAY LIFESTYLE GROUP",
+            "code": "GTY",
+            "primary_share_code": "GTY",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "GATEWAY LIFESTYLE",
+            "foreign_exempt": false,
+            "listing_date": "2015-06-11T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "4.8888C TAX DEFERRED ; DRP",
+                "franked_percentage": "0%",
+                "created_date": "2017-06-21T00:00:00+1000",
+                "record_date": "2017-06-30T00:00:00+1000",
+                "payable_date": "2017-09-15T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.056,
+                "ex_date": "2017-06-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "1300 361 311",
+            "mailing_address": "Suite 303, 7-9 Irvine Place, BELLA VISTA, NSW, AUSTRALIA, 2153",
+            "principal_activities": "Operating residential parks, primarily manufactured home estates.",
+            "latest_annual_reports": [
+                {
+                    "header": "FY17 Appendix 4E and Annual Report",
+                    "document_date": "2017-08-30T08:29:04+1000",
+                    "number_of_pages": 97,
+                    "id": "01889934",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-30T08:33:43+1000",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lw2xm1gbkrm5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1485605,
+                "status": [],
+                "market_cap": 650797621,
+                "code": "GTY",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    }
+                ],
+                "deprecated_number_of_shares": 301295195,
+                "previous_close_price": 2.16,
+                "year_low_date": "2017-08-29T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 301295195,
+                "eps": 0.1994,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 10.83,
+                "offer_price": 2.17,
+                "suspended": false,
+                "last_price": 2.16,
+                "deprecated_market_cap": 650798000,
+                "day_low_price": 2.145,
+                "open_price": 2.16,
+                "year_high_date": "2017-05-11T00:00:00+1000",
+                "previous_day_percentage_change": "-0.461%",
+                "year_open_date": null,
+                "year_high_price": 2.3,
+                "bid_price": 2.14,
+                "desc_full": "Stapled Securities",
+                "day_high_price": 2.17,
+                "average_daily_volume": 991064,
+                "year_low_price": 1.855,
+                "annual_dividend_yield": 4.21
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.gatewaylifestyle.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": []
+        }
+    }
+}

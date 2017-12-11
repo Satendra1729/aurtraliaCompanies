@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AEG",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "ABSOLUTE EQUITY PERFORMANCE FUND LIMITED",
+    "ASXcode": "AEG",
+    "data": {
+        "summary": {
+            "name_full": "ABSOLUTE EQUITY PERFORMANCE FUND LIMITED",
+            "last_dividend": {
+                "comments": "2.5C FRANKED@30%; DR P SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-14T00:00:00+1000",
+                "record_date": "2017-11-23T00:00:00+1100",
+                "payable_date": "2017-12-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.025,
+                "ex_date": "2017-11-22T00:00:00+1100"
+            },
+            "code": "AEG",
+            "name_short": "AB EQ PERF",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "ABSOLUTE EQUITY PERF",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/AEG?image_size=L&v=1450761807000",
+            "foreign_exempt": false,
+            "listing_date": "2015-12-16T00:00:00+1100",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@aepfund.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8639 1291",
+            "mailing_address": "LEVEL 12, GROSVENOR PLACE, 225 GEORGE ST, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "",
+            "fax_number": "03 8611 6534",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-08-30T19:22:29+1000",
+                    "number_of_pages": 47,
+                    "id": "01890505",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-30T19:30:16+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170830/pdf/43lx76djgrh5d6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 120286,
+                "status": [],
+                "market_cap": 106865419,
+                "code": "AEG",
+                "indices": [],
+                "deprecated_number_of_shares": 101294236,
+                "previous_close_price": 1.055,
+                "year_low_date": "2017-03-17T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 101294236,
+                "eps": 0.0384,
+                "change_in_percent": "-0.948%",
+                "change_price": -0.01,
+                "pe": 27.21,
+                "offer_price": 1.05,
+                "suspended": false,
+                "last_price": 1.045,
+                "deprecated_market_cap": 105852000,
+                "day_low_price": 1.015,
+                "open_price": 1.045,
+                "year_high_date": "2017-07-18T00:00:00+1000",
+                "previous_day_percentage_change": "-0.472%",
+                "year_open_date": null,
+                "year_high_price": 1.145,
+                "bid_price": 1.015,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.05,
+                "average_daily_volume": 132262,
+                "year_low_price": 0.965,
+                "annual_dividend_yield": 2.39
+            },
+            "primary_share_code": "AEG",
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.aepfund.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Marc Fisher",
+                    "first_name": "Marc",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fisher",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graham Hand",
+                    "first_name": "Graham",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hand",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Reeve-Parker",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Reeve-Parker",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Tharun Kuppanda",
+                    "first_name": "Tharun",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kuppanda",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeff Glanville Phillips",
+                    "first_name": "Jeff",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Phillips",
+                    "middle_name": "Glanville"
+                }
+            ]
+        }
+    }
+}

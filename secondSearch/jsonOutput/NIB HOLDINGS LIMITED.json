@@ -1,0 +1,259 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NHF",
+    "GICSindustrygroup": "Insurance",
+    "Companyname": "NIB HOLDINGS LIMITED",
+    "ASXcode": "NHF",
+    "data": {
+        "summary": {
+            "name_short": "NIBHOLDING",
+            "name_full": "NIB HOLDINGS LIMITED",
+            "code": "NHF",
+            "primary_share_code": "NHF",
+            "industry_group_name": "Insurance",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "NIB HOLDINGS LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/NHF?image_size=L&v=1425335380000",
+            "foreign_exempt": false,
+            "listing_date": "2007-11-05T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "10.5C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-21T00:00:00+1000",
+                "record_date": "2017-09-08T00:00:00+1000",
+                "payable_date": "2017-10-06T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.105,
+                "ex_date": "2017-09-07T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "13 14 63",
+            "mailing_address": "22 Honeysuckle Drive, NEWCASTLE, NSW, AUSTRALIA, 2300",
+            "principal_activities": "Private health insurer",
+            "fax_number": "(02) 4925 2151",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-28T10:00:40+1000",
+                    "number_of_pages": 121,
+                    "id": "01901053",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T10:03:11+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mq9z034x3drx.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 680403,
+                "status": [],
+                "market_cap": 3165748128,
+                "code": "NHF",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Financ",
+                        "index_code": "XFJ",
+                        "name_abrev": "Financials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financials (Sector)"
+                    },
+                    {
+                        "name_short": "FxPrp",
+                        "index_code": "XXJ",
+                        "name_abrev": "Financial-x-A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Financial-x-A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 2.49139,
+                "previous_close_price": 6.96,
+                "year_change_price": 4.27861,
+                "year_low_date": "2017-02-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 454848869,
+                "eps": 0.272,
+                "change_in_percent": "-2.73%",
+                "change_price": -0.19,
+                "deprecated_number_of_shares": 454848869,
+                "pe": 24.89,
+                "offer_price": 6.95,
+                "suspended": false,
+                "last_price": 6.77,
+                "deprecated_market_cap": 3079327000,
+                "day_low_price": 6.77,
+                "open_price": 7.03,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "3.571%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 7.04,
+                "bid_price": 6.76,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 7.04,
+                "year_change_in_percentage": "171.736%",
+                "average_daily_volume": 1136165,
+                "year_low_price": 4.52,
+                "annual_dividend_yield": 2.81
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.nib.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Steve Crane",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Crane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Fitzgibbon",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzgibbon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Michelle McPherson",
+                    "first_name": "Michelle",
+                    "roles": [
+                        "Deputy CEO",
+                        "CFO"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "McPherson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Lee Ausburn",
+                    "first_name": "Lee",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ausburn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Philip Gardner",
+                    "first_name": "Philip",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gardner",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Anne Loveridge",
+                    "first_name": "Anne",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Loveridge",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Christine McLoughlin",
+                    "first_name": "Christine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McLoughlin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Roslyn Toms",
+                    "first_name": "Roslyn",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Toms",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Neat",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Neat",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Roslyn Toms",
+                    "first_name": "Roslyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Toms",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jordon French",
+                    "first_name": "Jordon",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "French",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

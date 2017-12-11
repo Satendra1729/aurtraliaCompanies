@@ -1,0 +1,44 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RTC",
+    "GICSindustrygroup": "Not Applic",
+    "Companyname": "RESIMAC TRIOMPHE TRUST PREMIER 2017-2",
+    "ASXcode": "RTC",
+    "data": {
+        "summary": {
+            "name_full": "RESIMAC TRIOMPHE TRUST PREMIER 2017-2",
+            "products": [],
+            "phone_number": "(02) 9248 0304",
+            "mailing_address": "tba, ., ., AUSTRALIA, .",
+            "principal_activities": ".",
+            "name_short": "RES 17-02",
+            "industry_group_name": "Not Applic",
+            "delisting_date": null,
+            "sector_name": "Not Applic",
+            "name_abbrev": "RESIMAC 2017-2",
+            "latest_annual_reports": [],
+            "foreign_exempt": false,
+            "code": "RTC",
+            "listing_date": "2017-09-11T00:00:00+1000",
+            "registry_address": "LEVEL 12, ANGEL PLACE, 123 PITT STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "web_address": null,
+            "registry_name": "PERPETUAL TRUSTEES CONSOLIDATED LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Fitzpatrick",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzpatrick",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

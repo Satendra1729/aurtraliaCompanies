@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AUZ",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AUSTRALIAN MINES LIMITED",
+    "ASXcode": "AUZ",
+    "data": {
+        "summary": {
+            "name_short": "AUST MINES",
+            "name_full": "AUSTRALIAN MINES LIMITED",
+            "code": "AUZ",
+            "primary_share_code": "AUZ",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AUSTRALIAN MINES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2001-09-28T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "investor_relations_email": "jhollister@australianmines.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9481 5811",
+            "mailing_address": "Level 1, 83 Havelock Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Exploration for gold and nickel.",
+            "fax_number": "+61 8 9481 5611",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-13T17:33:01+1100",
+                    "number_of_pages": 92,
+                    "id": "01907875",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-13T17:35:32+1100",
+                    "size": "2.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171013/pdf/43n6xx5yzm6ls9.pdf"
+                },
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-27T15:10:33+1000",
+                    "number_of_pages": 89,
+                    "id": "01900615",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-27T15:13:45+1000",
+                    "size": "717.8KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170927/pdf/43mpc48460z6fb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 58206132,
+                "status": [],
+                "market_cap": 232968919,
+                "code": "AUZ",
+                "indices": [],
+                "year_open_price": 0.00296,
+                "previous_close_price": 0.087,
+                "year_change_price": 0.09004,
+                "year_low_date": "2016-12-28T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 2677803672,
+                "eps": -0.0012,
+                "change_in_percent": "6.897%",
+                "change_price": 0.006,
+                "deprecated_number_of_shares": 2677803672,
+                "pe": 0,
+                "offer_price": 0.094,
+                "suspended": false,
+                "last_price": 0.093,
+                "deprecated_market_cap": 249036000,
+                "day_low_price": 0.083,
+                "open_price": 0.085,
+                "year_high_date": "2017-11-09T00:00:00+1100",
+                "previous_day_percentage_change": "-4.396%",
+                "year_open_date": "2014-03-05T11:00:00+1100",
+                "year_high_price": 0.155,
+                "bid_price": 0.093,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.097,
+                "year_change_in_percentage": "3,041.892%",
+                "average_daily_volume": 74034771,
+                "year_low_price": 0.007,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.australianmines.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael Ramsden",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ramsden",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Benjamin Bell",
+                    "first_name": "Benjamin",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mick Elias",
+                    "first_name": "Mick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Elias",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Dominic Marinelli",
+                    "first_name": "Dominic",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marinelli",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil Warburton",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Warburton",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Michael Ramsden",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ramsden",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

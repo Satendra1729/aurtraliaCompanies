@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DM1",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "DIRECTMONEY LIMITED",
+    "ASXcode": "DM1",
+    "data": {
+        "summary": {
+            "name_full": "DIRECTMONEY LIMITED",
+            "code": "DM1",
+            "name_short": "DRECTMONEY",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "DIRECTMONEY LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/DM1?image_size=L&v=1436496601000",
+            "foreign_exempt": false,
+            "listing_date": "1989-03-16T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "contact@directmoney.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9252 2888",
+            "mailing_address": "Suite 33, Level 8, 58 Pitt Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Marketplace Lending Platform. Provider of personal loans and retail investment products",
+            "fax_number": "(02) 8076 3341",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-10-27T19:35:03+1100",
+                    "number_of_pages": 66,
+                    "id": "01914204",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T19:43:34+1100",
+                    "size": "3.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43npdznj285kvl.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 150000,
+                "status": [],
+                "market_cap": 13167753,
+                "code": "DM1",
+                "indices": [],
+                "year_open_price": 0.485,
+                "previous_close_price": 0.03,
+                "year_change_price": -0.456,
+                "year_low_date": "2017-01-31T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 438925084,
+                "eps": -0.0137,
+                "change_in_percent": "-3.333%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 438925084,
+                "pe": 0,
+                "offer_price": 0.03,
+                "suspended": false,
+                "last_price": 0.029,
+                "deprecated_market_cap": 12729000,
+                "day_low_price": 0.027,
+                "open_price": 0.027,
+                "year_high_date": "2017-03-03T00:00:00+1100",
+                "previous_day_percentage_change": "7.143%",
+                "year_open_date": "2013-12-24T11:00:00+1100",
+                "year_high_price": 0.075,
+                "bid_price": 0.029,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.029,
+                "year_change_in_percentage": "-94.021%",
+                "average_daily_volume": 392354,
+                "year_low_price": 0.019,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "DM1",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.directmoney.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "https://www.directmoney.com.au/About/ShareholderInformation"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Nantes",
+                    "first_name": "John",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nantes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Nantes",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Nantes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Craig Swanger",
+                    "first_name": "Craig",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Swanger",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Whitehead",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Whitehead",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Goodwin",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Goodwin",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Miss May Ho",
+                    "first_name": "May",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Miss",
+                    "last_name": "Ho",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Leanne Ralph",
+                    "first_name": "Leanne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ralph",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

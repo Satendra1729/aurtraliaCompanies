@@ -1,0 +1,127 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LCM",
+    "GICSindustrygroup": "Capital Goods",
+    "Companyname": "LOGICAMMS LIMITED",
+    "ASXcode": "LCM",
+    "data": {
+        "summary": {
+            "name_short": "LOGICAMMS",
+            "name_full": "LOGICAMMS LIMITED",
+            "code": "LCM",
+            "primary_share_code": "LCM",
+            "industry_group_name": "Capital Goods",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "LOGICAMMS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2007-12-11T00:00:00+1100",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 3058 7000",
+            "mailing_address": "Level 14, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Provider of multidiscipline engineering, project management and asset management services to the mining and mineral, hydrocarbon, infrastructure and specialist industries.",
+            "fax_number": "+61 7 3058 7111",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-13T11:13:50+1000",
+                    "number_of_pages": 76,
+                    "id": "01895528",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-13T11:16:26+1000",
+                    "size": "835.5KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170913/pdf/43m95jzwfpbdk6.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 6732,
+                "status": [],
+                "market_cap": 25339352,
+                "code": "LCM",
+                "indices": [],
+                "year_open_price": 1.025,
+                "previous_close_price": 0.31,
+                "year_change_price": -0.71,
+                "year_low_date": "2017-07-17T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 81739845,
+                "eps": -0.306,
+                "change_in_percent": "1.613%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 81739845,
+                "pe": 0,
+                "offer_price": 0.315,
+                "suspended": false,
+                "last_price": 0.315,
+                "deprecated_market_cap": 25748000,
+                "day_low_price": 0.31,
+                "open_price": 0.31,
+                "year_high_date": "2017-01-11T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.43,
+                "bid_price": 0.31,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.315,
+                "year_change_in_percentage": "-69.268%",
+                "average_daily_volume": 41607,
+                "year_low_price": 0.16,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.logicamms.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Watson",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Watson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Robinson",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Wall",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wall",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr David Shaw",
+                    "first_name": "David",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shaw",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

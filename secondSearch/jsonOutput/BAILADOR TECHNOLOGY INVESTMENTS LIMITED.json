@@ -1,0 +1,142 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BTI",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "BAILADOR TECHNOLOGY INVESTMENTS LIMITED",
+    "ASXcode": "BTI",
+    "data": {
+        "summary": {
+            "name_short": "BAILADOR",
+            "name_full": "BAILADOR TECHNOLOGY INVESTMENTS LIMITED",
+            "code": "BTI",
+            "primary_share_code": "BTI",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "BAILADOR TECH INV",
+            "foreign_exempt": false,
+            "listing_date": "2014-11-21T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9223 2344",
+            "mailing_address": "Suite 4, Level 11, 6 O'Connell Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "An investment company which will invest in businesses in the information technology sector.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-11T11:44:57+1000",
+                    "number_of_pages": 62,
+                    "id": "01894679",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-11T11:48:52+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170911/pdf/43m76z1bt02h0n.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 10000,
+                "status": [],
+                "market_cap": 107020570,
+                "code": "BTI",
+                "indices": [],
+                "deprecated_number_of_shares": 120247831,
+                "previous_close_price": 0.89,
+                "year_low_date": "2017-10-19T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 120247831,
+                "eps": -0.0444,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.89,
+                "suspended": false,
+                "last_price": 0.89,
+                "deprecated_market_cap": 107021000,
+                "day_low_price": 0.89,
+                "open_price": 0.89,
+                "year_high_date": "2016-12-28T00:00:00+1100",
+                "previous_day_percentage_change": "1.714%",
+                "year_open_date": null,
+                "year_high_price": 1.07,
+                "bid_price": 0.88,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.89,
+                "average_daily_volume": 57196,
+                "year_low_price": 0.81,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.bailador.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Edward Kirk",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kirk",
+                    "middle_name": "Edward"
+                },
+                {
+                    "full_name": "Mr Paul Robert Wilson",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wilson",
+                    "middle_name": "Robert"
+                },
+                {
+                    "full_name": "Mr Andrew Barton Bullock",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bullock",
+                    "middle_name": "Barton"
+                },
+                {
+                    "full_name": "Mr Heith Mackay-Cruise",
+                    "first_name": "Heith",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mackay-Cruise",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sankar Murthy Narayan",
+                    "first_name": "Sankar",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Narayan",
+                    "middle_name": "Murthy"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Helen Mary Plesek",
+                    "first_name": "Helen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Plesek",
+                    "middle_name": "Mary"
+                }
+            ]
+        }
+    }
+}

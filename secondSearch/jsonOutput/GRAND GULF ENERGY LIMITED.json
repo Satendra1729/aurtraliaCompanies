@@ -1,0 +1,157 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GGE",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "GRAND GULF ENERGY LIMITED",
+    "ASXcode": "GGE",
+    "data": {
+        "summary": {
+            "name_short": "GRAND GULF",
+            "name_full": "GRAND GULF ENERGY LIMITED",
+            "code": "GGE",
+            "primary_share_code": "GGE",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "GRAND GULF ENERGY",
+            "foreign_exempt": false,
+            "listing_date": "1998-03-20T00:00:00+1100",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9389 2000",
+            "mailing_address": "Level 7, 1008 Hay Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "",
+            "fax_number": "+61 8 9389 2099",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Financial Report",
+                    "document_date": "2017-09-26T13:53:06+1000",
+                    "number_of_pages": 63,
+                    "id": "01900019",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T13:55:32+1000",
+                    "size": "877.4KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mn1mm6hdczy7.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 2280990,
+                "status": [],
+                "market_cap": 3837494,
+                "code": "GGE",
+                "indices": [],
+                "year_open_price": 0.011,
+                "previous_close_price": 0.005,
+                "year_change_price": -0.006,
+                "year_low_date": "2017-07-14T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 767498870,
+                "eps": -0.003,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 767498870,
+                "pe": 0,
+                "offer_price": 0.005,
+                "suspended": false,
+                "last_price": 0.005,
+                "deprecated_market_cap": 3837000,
+                "day_low_price": 0.005,
+                "open_price": 0.005,
+                "year_high_date": "2016-12-13T00:00:00+1100",
+                "previous_day_percentage_change": "25%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.008,
+                "bid_price": 0.004,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.005,
+                "year_change_in_percentage": "-54.545%",
+                "average_daily_volume": 3264574,
+                "year_low_price": 0.002,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.grandgulfenergy.com",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Charlie Morgan",
+                    "first_name": "Charlie",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Freeman",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Freeman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan Boss",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Boss",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Keenihan",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keenihan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Pam Ryan",
+                    "first_name": "Pam",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ryan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Freeman",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Freeman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sylvia Moss",
+                    "first_name": "Sylvia",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Moss",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

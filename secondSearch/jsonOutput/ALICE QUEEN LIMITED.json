@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AQX",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "ALICE QUEEN LIMITED",
+    "ASXcode": "AQX",
+    "data": {
+        "summary": {
+            "name_short": "ALICEQUEEN",
+            "name_full": "ALICE QUEEN LIMITED",
+            "code": "AQX",
+            "primary_share_code": "AQX",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "ALICE QUEEN LTD",
+            "foreign_exempt": false,
+            "listing_date": "2004-09-09T00:00:00+1000",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 8669 1408",
+            "mailing_address": "Suite 2, Ground Floor, 21-25 Macquarie Sreet, PRAHRAN, VIC, AUSTRALIA, 3181",
+            "principal_activities": "Minerals Exploration, including uranium and geothermal energy",
+            "fax_number": "03 9620 5200",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T11:50:11+1000",
+                    "number_of_pages": 57,
+                    "id": "01902105",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T11:52:39+1000",
+                    "size": "1.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msglkxbt4zlz.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 353993,
+                "status": [],
+                "market_cap": 27301134,
+                "code": "AQX",
+                "indices": [],
+                "year_open_price": 0.01,
+                "previous_close_price": 0.067,
+                "year_change_price": 0.054,
+                "year_low_date": "2016-12-30T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 407479607,
+                "eps": -0.0051,
+                "change_in_percent": "-4.478%",
+                "change_price": -0.003,
+                "deprecated_number_of_shares": 407479607,
+                "pe": 0,
+                "offer_price": 0.065,
+                "suspended": false,
+                "last_price": 0.064,
+                "deprecated_market_cap": 26079000,
+                "day_low_price": 0.064,
+                "open_price": 0.066,
+                "year_high_date": "2017-11-08T00:00:00+1100",
+                "previous_day_percentage_change": "3.077%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.078,
+                "bid_price": 0.064,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.067,
+                "year_change_in_percentage": "540%",
+                "average_daily_volume": 562546,
+                "year_low_price": 0.025,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.alicequeen.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Phillip Harman",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Thomas Buxton",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Buxton",
+                    "middle_name": "Thomas"
+                },
+                {
+                    "full_name": "Mr Mark Gregory Kerr",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kerr",
+                    "middle_name": "Gregory"
+                },
+                {
+                    "full_name": "Mrs Anne Adaley",
+                    "first_name": "Anne",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Adaley",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Anne Adaley",
+                    "first_name": "Anne",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Adaley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

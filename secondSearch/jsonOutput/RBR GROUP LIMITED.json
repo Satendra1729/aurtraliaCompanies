@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RBR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "RBR GROUP LIMITED",
+    "ASXcode": "RBR",
+    "data": {
+        "summary": {
+            "name_short": "RBR GROUP",
+            "name_full": "RBR GROUP LIMITED",
+            "code": "RBR",
+            "primary_share_code": "RBR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "RBR GROUP LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RBR?image_size=L&v=1452141928000",
+            "foreign_exempt": false,
+            "listing_date": "2007-02-02T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "08 9214 7500",
+            "mailing_address": "Level 2, 33 Colin Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Offshore: provision of services to the resources industry. Onshore: preservation of mineral resource assets.",
+            "fax_number": "08 9214 7575",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-27T11:10:27+1100",
+                    "number_of_pages": 56,
+                    "id": "01913606",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T11:11:45+1100",
+                    "size": "3.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nn7mmcvpczsf.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 7593216,
+                "status": [],
+                "market_cap": 3951753,
+                "code": "RBR",
+                "indices": [],
+                "year_open_price": 0.007,
+                "previous_close_price": 0.007,
+                "year_change_price": 0.001,
+                "year_low_date": "2017-05-05T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 564536078,
+                "eps": -0.0026,
+                "change_in_percent": "14.286%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 564536078,
+                "pe": 0,
+                "offer_price": 0.009,
+                "suspended": false,
+                "last_price": 0.008,
+                "deprecated_market_cap": 4516000,
+                "day_low_price": 0.007,
+                "open_price": 0.007,
+                "year_high_date": "2017-09-15T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-03-06T11:00:00+1100",
+                "year_high_price": 0.011,
+                "bid_price": 0.008,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.01,
+                "year_change_in_percentage": "14.286%",
+                "average_daily_volume": 1569731,
+                "year_low_price": 0.004,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.rbrgroup.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Macpherson",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Macpherson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Anthony Edouard Carcenac",
+                    "first_name": "Richard",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carcenac",
+                    "middle_name": "Anthony Edouard"
+                },
+                {
+                    "full_name": "Mr Ian Buchhorn",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Buchhorn",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Graham-Clarke",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Graham-Clarke",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Patrick Soh",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Soh",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

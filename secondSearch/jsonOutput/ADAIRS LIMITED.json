@@ -1,0 +1,116 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ADH",
+    "GICSindustrygroup": "Retailing",
+    "Companyname": "ADAIRS LIMITED",
+    "ASXcode": "ADH",
+    "data": {
+        "summary": {
+            "name_short": "ADAIRS",
+            "name_full": "ADAIRS LIMITED",
+            "code": "ADH",
+            "primary_share_code": "ADH",
+            "industry_group_name": "Retailing",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "ADAIRS LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2015-06-17T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "4.5C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-14T00:00:00+1000",
+                "payable_date": "2017-09-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.045,
+                "ex_date": "2017-09-13T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8888 4500",
+            "mailing_address": "2 International Court, SCORESBY, VIC, AUSTRALIA, 3179",
+            "principal_activities": "Specialty retailer of home furnishings.",
+            "latest_annual_reports": [
+                {
+                    "header": "ADH FY2017 Annual Report",
+                    "document_date": "2017-09-28T08:49:51+1000",
+                    "number_of_pages": 88,
+                    "id": "01900918",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T08:53:00+1000",
+                    "size": "4.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mq1z3ptp183t.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1053076,
+                "status": [],
+                "market_cap": 296915865,
+                "code": "ADH",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "deprecated_number_of_shares": 165874785,
+                "previous_close_price": 1.79,
+                "year_low_date": "2017-06-15T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 165874785,
+                "eps": 0.127,
+                "change_in_percent": "-1.117%",
+                "change_price": -0.02,
+                "pe": 13.94,
+                "offer_price": 1.78,
+                "suspended": false,
+                "last_price": 1.77,
+                "deprecated_market_cap": 293598000,
+                "day_low_price": 1.7,
+                "open_price": 1.72,
+                "year_high_date": "2017-11-13T00:00:00+1100",
+                "previous_day_percentage_change": "0.28%",
+                "year_open_date": null,
+                "year_high_price": 1.89,
+                "bid_price": 1.7,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.775,
+                "average_daily_volume": 221343,
+                "year_low_price": 0.56,
+                "annual_dividend_yield": 4.52
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.adairs.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Ronan",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ronan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

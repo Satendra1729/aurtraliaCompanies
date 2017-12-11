@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/LNY",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "LANEWAY RESOURCES LTD",
+    "ASXcode": "LNY",
+    "data": {
+        "summary": {
+            "name_short": "LANEWAY",
+            "name_full": "LANEWAY RESOURCES LTD",
+            "code": "LNY",
+            "primary_share_code": "LNY",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "LANEWAY RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "1987-04-02T00:00:00+1000",
+            "registry_address": "LEVEL 15, 324 QUEEN STREET, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 31083500",
+            "mailing_address": "Level 9, Waterfront Place, 1 Eagle St, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Minerals exploration in Australia.",
+            "fax_number": "(07) 3108 3501",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-28T16:08:26+1000",
+                    "number_of_pages": 56,
+                    "id": "01901340",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T16:10:13+1000",
+                    "size": "2.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mqwx06pt77wl.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 9509072,
+                "code": "LNY",
+                "indices": [],
+                "year_open_price": 0.005,
+                "previous_close_price": 0.003,
+                "year_change_price": -0.002,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 3169690556,
+                "eps": -0.0002,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 3169690556,
+                "pe": 0,
+                "offer_price": 0.004,
+                "suspended": false,
+                "last_price": 0.003,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-09-14T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.005,
+                "bid_price": 0.003,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-40%",
+                "average_daily_volume": 3348674,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.lanewayresources.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stephen G Bizzell",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bizzell",
+                    "middle_name": "G"
+                },
+                {
+                    "full_name": "Mr Richard S Anthon",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anthon",
+                    "middle_name": "S"
+                },
+                {
+                    "full_name": "Mr Mark Baker",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Baker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Paul Marshall",
+                    "first_name": "Paul",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marshall",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Paul Marshall",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marshall",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

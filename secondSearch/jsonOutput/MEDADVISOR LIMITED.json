@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MDR",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "MEDADVISOR LIMITED",
+    "ASXcode": "MDR",
+    "data": {
+        "summary": {
+            "name_full": "MEDADVISOR LIMITED",
+            "code": "MDR",
+            "name_short": "MEDADVISOR",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "MEDADVISOR LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/MDR?image_size=L&v=1449201843000",
+            "foreign_exempt": false,
+            "listing_date": "2011-05-26T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "corporate@medadvisor.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9095 3036",
+            "mailing_address": "Level 4, 969 Burke Road, CAMBERWELL, VIC, AUSTRALIA, 3124",
+            "principal_activities": "E-healthcare software developer",
+            "fax_number": "+61 3 9428 4664",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 107514,
+                "status": [],
+                "market_cap": 59097509,
+                "code": "MDR",
+                "indices": [],
+                "year_open_price": 0.022,
+                "previous_close_price": 0.045,
+                "year_change_price": 0.023,
+                "year_low_date": "2017-06-19T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1313277982,
+                "eps": -0.004,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 814477909,
+                "pe": 0,
+                "offer_price": 0.047,
+                "suspended": false,
+                "last_price": 0.045,
+                "deprecated_market_cap": 36652000,
+                "day_low_price": 0.045,
+                "open_price": 0.045,
+                "year_high_date": "2017-11-09T00:00:00+1100",
+                "previous_day_percentage_change": "-4.255%",
+                "year_open_date": "2014-03-10T11:00:00+1100",
+                "year_high_price": 0.056,
+                "bid_price": 0.044,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.045,
+                "year_change_in_percentage": "104.545%",
+                "average_daily_volume": 2752887,
+                "year_low_price": 0.027,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "MDR",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.medadvisor.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peter Bennetto",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bennetto",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Leonard Read",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Read",
+                    "middle_name": "Leonard"
+                },
+                {
+                    "full_name": "Mr Joshua Fraser Swinnerton",
+                    "first_name": "Joshua",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Swinnerton",
+                    "middle_name": "Fraser"
+                },
+                {
+                    "full_name": "Ms Sandra Margaret Hook",
+                    "first_name": "Sandra",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hook",
+                    "middle_name": "Margaret"
+                },
+                {
+                    "full_name": "Mr Jim Xenos",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Xenos",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Carlo Maurizio Campiciano",
+                    "first_name": "Carlo",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Campiciano",
+                    "middle_name": "Maurizio"
+                }
+            ]
+        }
+    }
+}

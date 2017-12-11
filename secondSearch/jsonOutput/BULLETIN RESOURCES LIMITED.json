@@ -1,0 +1,150 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BNR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BULLETIN RESOURCES LIMITED",
+    "ASXcode": "BNR",
+    "data": {
+        "summary": {
+            "name_short": "BULLETIN",
+            "name_full": "BULLETIN RESOURCES LIMITED",
+            "code": "BNR",
+            "primary_share_code": "BNR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BULLETIN RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2010-12-20T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "achapman@bulletinresources.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9230 3585",
+            "mailing_address": "Suite 11, 139 Newcastle Street, NORTHBRIDGE, WA, AUSTRALIA, 6000",
+            "principal_activities": "Gold exploration.",
+            "fax_number": "(08) 9227 0370",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-24T12:51:14+1100",
+                    "number_of_pages": 70,
+                    "id": "01911727",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-24T12:53:13+1100",
+                    "size": "3.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171024/pdf/43nj62pp10j4r6.pdf"
+                },
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-26T16:46:14+1000",
+                    "number_of_pages": 69,
+                    "id": "01900104",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-26T16:48:28+1000",
+                    "size": "1.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170926/pdf/43mn76w0140p7r.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 6095965,
+                "code": "BNR",
+                "indices": [],
+                "year_open_price": 0.017,
+                "previous_close_price": 0.034,
+                "year_change_price": 0.017,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 179293074,
+                "eps": 0.0897,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 179293074,
+                "pe": 0.38,
+                "offer_price": 0.035,
+                "suspended": false,
+                "last_price": 0.034,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-05-16T00:00:00+1000",
+                "previous_day_percentage_change": "-2.857%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.04,
+                "bid_price": 0.034,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "100%",
+                "average_daily_volume": 138323,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.bulletinresources.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Paul Poli",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Poli",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Rob Martin",
+                    "first_name": "Rob",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Martin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Franciscus Sibbel",
+                    "first_name": "Franciscus",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sibbel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew David Chapman",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chapman",
+                    "middle_name": "David"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew David Chapman",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary",
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chapman",
+                    "middle_name": "David"
+                }
+            ]
+        }
+    }
+}

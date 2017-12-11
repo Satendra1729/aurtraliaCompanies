@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/QFY",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "QUANTIFY TECHNOLOGY HOLDINGS LIMITED",
+    "ASXcode": "QFY",
+    "data": {
+        "summary": {
+            "name_short": "QUANTIFY",
+            "name_full": "QUANTIFY TECHNOLOGY HOLDINGS LIMITED",
+            "code": "QFY",
+            "primary_share_code": "QFY",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "QUANTIFY TECH LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-09-10T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 6268 2622",
+            "mailing_address": "Level 4, 216 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Oil & Gas Exploration",
+            "fax_number": "(08) 9268 2699",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T20:46:21+1000",
+                    "number_of_pages": 94,
+                    "id": "01902884",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T07:57:10+1100",
+                    "size": "11.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvgd1cy2hdq2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 130437,
+                "status": [],
+                "market_cap": 30155489,
+                "code": "QFY",
+                "indices": [],
+                "year_open_price": 0.11,
+                "previous_close_price": 0.062,
+                "year_change_price": -0.049,
+                "year_low_date": "2017-09-08T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 486378858,
+                "eps": -0.03,
+                "change_in_percent": "-1.613%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 339261676,
+                "pe": 0,
+                "offer_price": 0.064,
+                "suspended": false,
+                "last_price": 0.061,
+                "deprecated_market_cap": 20695000,
+                "day_low_price": 0.061,
+                "open_price": 0.063,
+                "year_high_date": "2017-03-08T00:00:00+1100",
+                "previous_day_percentage_change": "-1.587%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.115,
+                "bid_price": 0.061,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.063,
+                "year_change_in_percentage": "-44.545%",
+                "average_daily_volume": 1095834,
+                "year_low_price": 0.057,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.quantifytechnology.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Aidan Montague",
+                    "first_name": "Aidan",
+                    "roles": [
+                        "Chairman",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Montague",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Lapins",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lapins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alexander Paior",
+                    "first_name": "Alexander",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Paior",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Neville Bassett",
+                    "first_name": "Neville",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bassett",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

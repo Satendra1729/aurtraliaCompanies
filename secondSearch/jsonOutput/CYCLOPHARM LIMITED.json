@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CYC",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "CYCLOPHARM LIMITED",
+    "ASXcode": "CYC",
+    "data": {
+        "summary": {
+            "name_short": "CYCLOPHARM",
+            "name_full": "CYCLOPHARM LIMITED",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-09-11T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.005,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "code": "CYC",
+            "primary_share_code": "CYC",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "CYCLOPHARM LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2007-01-18T00:00:00+1100",
+            "registry_address": "Level 16, 1 Market Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "enquiries@cyclopharm.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9541 0411",
+            "mailing_address": "Unit 4, 1 The Crescent, KINGSGROVE, NSW, AUSTRALIA, 2208",
+            "principal_activities": "The Company produces and supplies the medical profession with proprietary lung radiopharmaceuticals.",
+            "fax_number": "(02) 9543 0960",
+            "latest_annual_reports": [
+                {
+                    "header": "CYC Annual Report to Shareholders",
+                    "document_date": "2017-03-28T16:50:02+1100",
+                    "number_of_pages": 110,
+                    "id": "01842689",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-28T16:53:56+1100",
+                    "size": "1.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170328/pdf/43h3btg8lxsd1n.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 64159057,
+                "code": "CYC",
+                "indices": [],
+                "year_open_price": 0.21,
+                "previous_close_price": 0.94,
+                "year_change_price": 0.73,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 68254316,
+                "eps": -0.0155,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 68254316,
+                "pe": 0,
+                "offer_price": 0.96,
+                "suspended": false,
+                "last_price": 0.94,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-02-01T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 1.001,
+                "bid_price": 0.88,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "347.619%",
+                "average_daily_volume": 15510,
+                "year_low_price": 0,
+                "annual_dividend_yield": 1.06
+            },
+            "web_address": "http://www.cyclopharm.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "NEXTREGISTRIES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Heaney",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Heaney",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James McBrayer",
+                    "first_name": "James",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McBrayer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Vanda R Gould",
+                    "first_name": "Vanda",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gould",
+                    "middle_name": "R"
+                },
+                {
+                    "full_name": "Mr Thomas Arthur McDonald",
+                    "first_name": "Thomas",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDonald",
+                    "middle_name": "Arthur"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr James McBrayer",
+                    "first_name": "James",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McBrayer",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HRL",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "HRL HOLDINGS LTD",
+    "ASXcode": "HRL",
+    "data": {
+        "summary": {
+            "name_full": "HRL HOLDINGS LTD",
+            "code": "HRL",
+            "name_short": "HRLHOLDING",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "HRLHOLDING",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/HRL?image_size=L&v=1430693906000",
+            "foreign_exempt": false,
+            "listing_date": "2007-11-14T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@hrlholdings.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 3105 5960",
+            "mailing_address": "HopgoodGanim, Level 8 Watrfront Place, 1 Eagle St, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Environmental services, hazardous material, waste management and ongoing compliance solutions utilising technological platforms.",
+            "fax_number": "07 3010 9001",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report to Shareholders",
+                    "document_date": "2017-08-21T09:02:58+1000",
+                    "number_of_pages": 77,
+                    "id": "01885608",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-21T09:05:43+1000",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170821/pdf/43lkchhs66y8n2.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 118462,
+                "status": [],
+                "market_cap": 59208315,
+                "code": "HRL",
+                "indices": [],
+                "year_open_price": 0.0038,
+                "previous_close_price": 0.12,
+                "year_change_price": 0.1112,
+                "year_low_date": "2017-09-07T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 493402627,
+                "eps": 0.0007,
+                "change_in_percent": "-4.167%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 493402627,
+                "pe": 164.29,
+                "offer_price": 0.12,
+                "suspended": false,
+                "last_price": 0.115,
+                "deprecated_market_cap": 56741000,
+                "day_low_price": 0.115,
+                "open_price": 0.12,
+                "year_high_date": "2017-10-25T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.15,
+                "bid_price": 0.115,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.12,
+                "year_change_in_percentage": "2,926.316%",
+                "average_daily_volume": 579371,
+                "year_low_price": 0.075,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "HRL",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.hrlholdings.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kevin Maloney",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Maloney",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Dabelstein",
+                    "first_name": "Steven",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dabelstein",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Darren Anderson",
+                    "first_name": "Darren",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Anderson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Mark Elliott",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Elliott",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Taylor",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Taylor",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Fred Kempson",
+                    "first_name": "Fred",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kempson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Harvey",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harvey",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Paul Marshall",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Marshall",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

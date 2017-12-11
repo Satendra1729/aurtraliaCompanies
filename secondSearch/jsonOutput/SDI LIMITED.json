@@ -1,0 +1,190 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SDI",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "SDI LIMITED",
+    "ASXcode": "SDI",
+    "data": {
+        "summary": {
+            "name_short": "SDI",
+            "name_full": "SDI LIMITED",
+            "code": "SDI",
+            "primary_share_code": "SDI",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "SDI LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1985-11-07T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "1.3C FRANKED @ 30%;  DRP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-25T00:00:00+1000",
+                "record_date": "2017-09-08T00:00:00+1000",
+                "payable_date": "2017-09-22T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.013,
+                "ex_date": "2017-09-07T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 8727 7111",
+            "mailing_address": "5-9 Brunsdon Street, BAYSWATER, VIC, AUSTRALIA, 3153",
+            "principal_activities": "Manufacture and distribution of amalgam and composite restorative materials, other dental materials, and product research and development.",
+            "fax_number": "(03) 8727 7222",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-28T17:42:43+1000",
+                    "number_of_pages": 62,
+                    "id": "01901475",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T17:56:08+1000",
+                    "size": "3.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr51ps2djzgb.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 7264,
+                "status": [],
+                "market_cap": 71319318,
+                "code": "SDI",
+                "indices": [],
+                "year_open_price": 0.55,
+                "previous_close_price": 0.6,
+                "year_change_price": 0.055,
+                "year_low_date": "2017-02-24T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 118865530,
+                "eps": 0.0469,
+                "change_in_percent": "0.833%",
+                "change_price": 0.005,
+                "deprecated_number_of_shares": 118865530,
+                "pe": 12.9,
+                "offer_price": 0.605,
+                "suspended": false,
+                "last_price": 0.605,
+                "deprecated_market_cap": 71914000,
+                "day_low_price": 0.605,
+                "open_price": 0.605,
+                "year_high_date": "2016-12-28T00:00:00+1100",
+                "previous_day_percentage_change": "1.695%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.8,
+                "bid_price": 0.6,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.605,
+                "year_change_in_percentage": "10%",
+                "average_daily_volume": 59981,
+                "year_low_price": 0.525,
+                "annual_dividend_yield": 3.8
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.sdi.com.au/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jeffery James Cheetham",
+                    "first_name": "Jeffery",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cheetham",
+                    "middle_name": "James"
+                },
+                {
+                    "full_name": "Ms Samantha Cheetham",
+                    "first_name": "Samantha",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Cheetham",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Slaviero",
+                    "first_name": "John",
+                    "roles": [
+                        "Executive Director",
+                        "Finance Director",
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Slaviero",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Cameron Neil Allen",
+                    "first_name": "Cameron",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Allen",
+                    "middle_name": "Neil"
+                },
+                {
+                    "full_name": "Mr Gerald Allan Bullon",
+                    "first_name": "Gerald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bullon",
+                    "middle_name": "Allan"
+                },
+                {
+                    "full_name": "Mr Gerard Desmond Kennedy",
+                    "first_name": "Gerard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kennedy",
+                    "middle_name": "Desmond"
+                },
+                {
+                    "full_name": "Dr Geoffrey Macdonald Knight",
+                    "first_name": "Geoffrey",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Knight",
+                    "middle_name": "Macdonald"
+                },
+                {
+                    "full_name": "Mrs Pamela Joy Cheetham",
+                    "first_name": "Pamela",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Cheetham",
+                    "middle_name": "Joy"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Slaviero",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Slaviero",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

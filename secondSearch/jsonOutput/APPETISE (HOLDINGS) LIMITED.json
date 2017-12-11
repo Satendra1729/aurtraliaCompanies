@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ATZ",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "APPETISE (HOLDINGS) LIMITED",
+    "ASXcode": "ATZ",
+    "data": {
+        "summary": {
+            "name_short": "APPETISE",
+            "name_full": "APPETISE (HOLDINGS) LIMITED",
+            "code": "ATZ",
+            "primary_share_code": "ATZ",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "APPETISE(HOLDINGS)",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 8072 1400",
+            "mailing_address": "Level 29, 201 Elizabeth Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Online UK takeaway and delivery restaurant marketplace",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "ATZ",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://https//www.appetise.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Anand Sundaraj",
+                    "first_name": "Anand",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sundaraj",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

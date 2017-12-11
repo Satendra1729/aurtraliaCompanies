@@ -1,0 +1,185 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HUB",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "HUB24 LIMITED",
+    "ASXcode": "HUB",
+    "data": {
+        "summary": {
+            "name_short": "HUB24LTD",
+            "name_full": "HUB24 LIMITED",
+            "code": "HUB",
+            "primary_share_code": "HUB",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "HUB24 LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-07-05T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 8274 6000",
+            "mailing_address": "Level 2, 7 Macquarie Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment and superannuation platform services.",
+            "fax_number": "1300 781 689",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-28T08:49:59+1000",
+                    "number_of_pages": 102,
+                    "id": "01888709",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-28T08:52:50+1000",
+                    "size": "886.6KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170828/pdf/43lsfytqmh5gy0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 50636,
+                "status": [],
+                "market_cap": 569695491,
+                "code": "HUB",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 1.1,
+                "previous_close_price": 9.35,
+                "year_change_price": 8.55,
+                "year_low_date": "2017-02-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 60929999,
+                "eps": 0.3495,
+                "change_in_percent": "3.209%",
+                "change_price": 0.3,
+                "deprecated_number_of_shares": 60929999,
+                "pe": 27.61,
+                "offer_price": 9.95,
+                "suspended": false,
+                "last_price": 9.65,
+                "deprecated_market_cap": 587974000,
+                "day_low_price": 9.35,
+                "open_price": 9.4,
+                "year_high_date": "2017-12-04T00:00:00+1100",
+                "previous_day_percentage_change": "0.538%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 10.14,
+                "bid_price": 9.5,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 9.7,
+                "year_change_in_percentage": "777.273%",
+                "average_daily_volume": 116816,
+                "year_low_price": 4.33,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.hub24.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Bruce Higgins",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Higgins",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Alcock",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Alcock",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ian Litster",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Litster",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony McDonald",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McDonald",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Vaughan Webber",
+                    "first_name": "Vaughan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Webber",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Matthew Haes",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haes",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Matthew Haes",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Haes",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

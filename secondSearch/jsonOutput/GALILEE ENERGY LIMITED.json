@@ -1,0 +1,137 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GLL",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "GALILEE ENERGY LIMITED",
+    "ASXcode": "GLL",
+    "data": {
+        "summary": {
+            "name_short": "GAL ENERGY",
+            "name_full": "GALILEE ENERGY LIMITED",
+            "code": "GLL",
+            "primary_share_code": "GLL",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "GALILEE ENERGY LTD",
+            "foreign_exempt": false,
+            "listing_date": "1996-02-15T00:00:00+1100",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(07) 3177 9970",
+            "mailing_address": "Level 4, Rowes Building, 235 Edward Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Exploration and development of hydrocarbons",
+            "fax_number": "(07)",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to Shareholders",
+                    "document_date": "2017-10-27T10:24:53+1100",
+                    "number_of_pages": 66,
+                    "id": "01913562",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-27T10:28:24+1100",
+                    "size": "8.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171027/pdf/43nn4xz9v0x4vs.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 383349,
+                "status": [],
+                "market_cap": 30353230,
+                "code": "GLL",
+                "indices": [],
+                "year_open_price": 0.135,
+                "previous_close_price": 0.16,
+                "year_change_price": 0.035,
+                "year_low_date": "2017-09-13T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 189707690,
+                "eps": 0.025,
+                "change_in_percent": "6.25%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 189707690,
+                "pe": 6.8,
+                "offer_price": 0.17,
+                "suspended": false,
+                "last_price": 0.17,
+                "deprecated_market_cap": 32250000,
+                "day_low_price": 0.16,
+                "open_price": 0.16,
+                "year_high_date": "2017-11-17T00:00:00+1100",
+                "previous_day_percentage_change": "-5.882%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.23,
+                "bid_price": 0.16,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.17,
+                "year_change_in_percentage": "25.926%",
+                "average_daily_volume": 756263,
+                "year_low_price": 0.079,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.galilee-energy.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Ms David William King",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "King",
+                    "middle_name": "William"
+                },
+                {
+                    "full_name": "Mr Peter Barry Lansom",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lansom",
+                    "middle_name": "Barry"
+                },
+                {
+                    "full_name": "Mr Ray Shorrocks",
+                    "first_name": "Ray",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shorrocks",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Don Langdon",
+                    "first_name": "Don",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Langdon",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Stephen Rodgers",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rodgers",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

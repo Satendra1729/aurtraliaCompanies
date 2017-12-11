@@ -1,0 +1,105 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ALI",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "ARGO GLOBAL LISTED INFRASTRUCTURE LIMITED",
+    "ASXcode": "ALI",
+    "data": {
+        "summary": {
+            "name_full": "ARGO GLOBAL LISTED INFRASTRUCTURE LIMITED",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI;  DRP NIL DISC",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-28T00:00:00+1000",
+                "record_date": "2017-09-11T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.025,
+                "ex_date": "2017-09-08T00:00:00+1000"
+            },
+            "code": "ALI",
+            "name_short": "ARGO GLOBL",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "ARGO GLOBAL LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ALI?image_size=L&v=1438571208000",
+            "foreign_exempt": false,
+            "listing_date": "2015-07-03T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "investor_relations_email": "invest@argoinfrastructure.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 8210 9555",
+            "mailing_address": "Level 12, 19 Grenfell Street, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "",
+            "fax_number": "08 8212 1658",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-08T17:07:42+1000",
+                    "number_of_pages": 60,
+                    "id": "01894364",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-08T17:09:51+1000",
+                    "size": "886.7KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170908/pdf/43m62v68d7l2tz.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 86264,
+                "status": [],
+                "market_cap": 274962029,
+                "code": "ALI",
+                "indices": [],
+                "deprecated_number_of_shares": 143583305,
+                "previous_close_price": 1.915,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 143583305,
+                "eps": 0.0544,
+                "change_in_percent": "-0.261%",
+                "change_price": -0.005,
+                "pe": 35.11,
+                "offer_price": 1.91,
+                "suspended": false,
+                "last_price": 1.91,
+                "deprecated_market_cap": 274244000,
+                "day_low_price": 1.905,
+                "open_price": 1.915,
+                "year_high_date": "2017-11-29T00:00:00+1100",
+                "previous_day_percentage_change": "0.262%",
+                "year_open_date": null,
+                "year_high_price": 1.945,
+                "bid_price": 1.905,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.92,
+                "average_daily_volume": 110242,
+                "year_low_price": 1.615,
+                "annual_dividend_yield": 1.83
+            },
+            "primary_share_code": "ALI",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.argoinfrastructure.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Timothy Binks",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Binks",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

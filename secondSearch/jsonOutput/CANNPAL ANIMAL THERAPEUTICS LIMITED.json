@@ -1,0 +1,92 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CP1",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "CANNPAL ANIMAL THERAPEUTICS LIMITED",
+    "ASXcode": "CP1",
+    "data": {
+        "summary": {
+            "name_short": "CANNPAL",
+            "name_full": "CANNPAL ANIMAL THERAPEUTICS LIMITED",
+            "code": "CP1",
+            "primary_share_code": "CP1",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "CANNPAL ANIMAL",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CP1?image_size=L&v=1508808089000",
+            "foreign_exempt": false,
+            "listing_date": "2017-10-25T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 6108 3622",
+            "mailing_address": "Level 3, 45a Bay Street, DOUBLE BAY, NSW, AUSTRALIA, 2028",
+            "principal_activities": "Biomedical Research Animal Pharmaceuticals",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 214560,
+                "status": [],
+                "market_cap": 19425000,
+                "code": "CP1",
+                "indices": [],
+                "deprecated_number_of_shares": 37549997,
+                "previous_close_price": 0.21,
+                "year_low_date": "2017-10-25T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 92500000,
+                "eps": 0,
+                "change_in_percent": "-2.381%",
+                "change_price": -0.005,
+                "pe": 0,
+                "offer_price": 0.21,
+                "suspended": false,
+                "last_price": 0.205,
+                "deprecated_market_cap": 7698000,
+                "day_low_price": 0.205,
+                "open_price": 0.21,
+                "year_high_date": "2017-11-22T00:00:00+1100",
+                "previous_day_percentage_change": "-2.326%",
+                "year_open_date": null,
+                "year_high_price": 0.305,
+                "bid_price": 0.205,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.21,
+                "average_daily_volume": 1179446,
+                "year_low_price": 0.155,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.cannpal.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Layton Patrick Mills",
+                    "first_name": "Layton",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mills",
+                    "middle_name": "Patrick"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Baden Maxwell Bowen",
+                    "first_name": "Baden",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bowen",
+                    "middle_name": "Maxwell"
+                }
+            ]
+        }
+    }
+}

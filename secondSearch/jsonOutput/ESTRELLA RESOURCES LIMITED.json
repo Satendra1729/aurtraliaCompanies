@@ -1,0 +1,138 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ESR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ESTRELLA RESOURCES LIMITED",
+    "ASXcode": "ESR",
+    "data": {
+        "summary": {
+            "name_short": "ESTRELLA R",
+            "name_full": "ESTRELLA RESOURCES LIMITED",
+            "code": "ESR",
+            "primary_share_code": "ESR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ESTRELLA RES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2012-05-09T00:00:00+1000",
+            "registry_address": "LEVEL 2, 267 St Georges Terrace,, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@estrellaresources.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9481 0389",
+            "mailing_address": "Level 11, 216 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Gold-copper exploration in Chile.",
+            "fax_number": "+61 8 9463 6103",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T16:33:14+1000",
+                    "number_of_pages": 67,
+                    "id": "01902523",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:35:36+1000",
+                    "size": "6.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt8mwft7xdy9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1782133,
+                "status": [],
+                "market_cap": 9091516,
+                "code": "ESR",
+                "indices": [],
+                "year_open_price": 0.125,
+                "previous_close_price": 0.023,
+                "year_change_price": -0.098,
+                "year_low_date": "2017-06-23T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 395283292,
+                "eps": -0.0027,
+                "change_in_percent": "17.391%",
+                "change_price": 0.004,
+                "deprecated_number_of_shares": 395283292,
+                "pe": 0,
+                "offer_price": 0.028,
+                "suspended": false,
+                "last_price": 0.027,
+                "deprecated_market_cap": 10673000,
+                "day_low_price": 0.025,
+                "open_price": 0.025,
+                "year_high_date": "2017-01-27T00:00:00+1100",
+                "previous_day_percentage_change": "-4.167%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.14,
+                "bid_price": 0.027,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.027,
+                "year_change_in_percentage": "-78.4%",
+                "average_daily_volume": 2584181,
+                "year_low_price": 0.021,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9324 2099",
+            "web_address": "http://www.estrellaresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Christopher Daws",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Daws",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Kingswood",
+                    "first_name": "John",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kingswood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Michael Brockhurst",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brockhurst",
+                    "middle_name": "Michael"
+                },
+                {
+                    "full_name": "Mr Ray Shorrocks",
+                    "first_name": "Ray",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shorrocks",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Stephen Michael Brockhurst",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brockhurst",
+                    "middle_name": "Michael"
+                }
+            ]
+        }
+    }
+}

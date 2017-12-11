@@ -1,0 +1,182 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AGO",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ATLAS IRON LIMITED",
+    "ASXcode": "AGO",
+    "data": {
+        "summary": {
+            "name_short": "ATLAS IRON",
+            "name_full": "ATLAS IRON LIMITED",
+            "code": "AGO",
+            "primary_share_code": "AGO",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ATLAS IRON LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2004-12-17T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6228 8000",
+            "mailing_address": "Level 18, Raine Square, 300 Murray Street, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Atlas is an independent Australian iron ore company, mining and exporting Direct Shipping Ore from its operations in the Northern Pilbara region of Western Australia.",
+            "fax_number": "+61 8 6228 8999",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 36453011,
+                "status": [],
+                "market_cap": 185592155,
+                "code": "AGO",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 1.06,
+                "previous_close_price": 0.02,
+                "year_change_price": -1.04,
+                "year_low_date": "2017-06-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 9279607773,
+                "eps": 0.0052,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 9279607773,
+                "pe": 3.85,
+                "offer_price": 0.021,
+                "suspended": false,
+                "last_price": 0.02,
+                "deprecated_market_cap": 185592000,
+                "day_low_price": 0.019,
+                "open_price": 0.019,
+                "year_high_date": "2017-02-16T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.053,
+                "bid_price": 0.02,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.021,
+                "year_change_in_percentage": "-98.113%",
+                "average_daily_volume": 34034228,
+                "year_low_price": 0.012,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.atlasiron.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": "http://www.atlasiron.com.au"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Eugene I Davis",
+                    "first_name": "Eugene",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davis",
+                    "middle_name": "I"
+                },
+                {
+                    "full_name": "Mr Cliff Lawrenson",
+                    "first_name": "Cliff",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lawrenson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Alan J Carr",
+                    "first_name": "Alan",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carr",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "The Hon Cheryl Lynn Edwardes",
+                    "first_name": "Cheryl",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "The Hon",
+                    "last_name": "Edwardes",
+                    "middle_name": "Lynn"
+                },
+                {
+                    "full_name": "Mr Daniel Harris",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Els",
+                    "first_name": "Chris",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Els",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Bronwyn Rachel Kerr",
+                    "first_name": "Bronwyn",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kerr",
+                    "middle_name": "Rachel"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Bronwyn Rachel Kerr",
+                    "first_name": "Bronwyn",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kerr",
+                    "middle_name": "Rachel"
+                },
+                {
+                    "full_name": "Mr Mark Hancock",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hancock",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/N1H",
+    "GICSindustrygroup": "Banks",
+    "Companyname": "N1 HOLDINGS LIMITED",
+    "ASXcode": "N1H",
+    "data": {
+        "summary": {
+            "name_short": "N1HOLDINGS",
+            "name_full": "N1 HOLDINGS LIMITED",
+            "code": "N1H",
+            "primary_share_code": "N1H",
+            "industry_group_name": "Banks",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "N1 HOLDINGS LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/N1H?image_size=L&v=1458696695000",
+            "foreign_exempt": false,
+            "listing_date": "2016-03-18T00:00:00+1100",
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@n1loans.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 9262 6262",
+            "mailing_address": "Level 29, 201 Elizabeth Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Residential mortgage broking",
+            "fax_number": "+61 2 8072 1440",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 8155557,
+                "code": "N1H",
+                "indices": [],
+                "deprecated_number_of_shares": 30118073,
+                "previous_close_price": 0.1,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 81555573,
+                "eps": -0.015,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.15,
+                "suspended": false,
+                "last_price": 0.1,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-11T00:00:00+1100",
+                "previous_day_percentage_change": "-9.091%",
+                "year_open_date": null,
+                "year_high_price": 0.2,
+                "bid_price": 0.082,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 24326,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "web_address": "http://www.n1holdings.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ren Hor Wong",
+                    "first_name": "Ren",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wong",
+                    "middle_name": "Hor"
+                },
+                {
+                    "full_name": "Ms Jia Penny He",
+                    "first_name": "Jia",
+                    "roles": [
+                        "Executive Director",
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "He",
+                    "middle_name": "Penny"
+                },
+                {
+                    "full_name": "Mr Tarun Kanji",
+                    "first_name": "Tarun",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kanji",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Anand Sundaraj",
+                    "first_name": "Anand",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sundaraj",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

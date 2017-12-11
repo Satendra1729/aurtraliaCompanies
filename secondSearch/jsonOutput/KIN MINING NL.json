@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KIN",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "KIN MINING NL",
+    "ASXcode": "KIN",
+    "data": {
+        "summary": {
+            "name_short": "KIN MINING",
+            "name_full": "KIN MINING NL",
+            "code": "KIN",
+            "primary_share_code": "KIN",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "KIN MIN NL",
+            "foreign_exempt": false,
+            "listing_date": "2013-10-02T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(08) 9242 2227",
+            "mailing_address": "Ground Floor, 342 Scarborough Beach Road, OSBORNE PARK, WA, AUSTRALIA, 6107",
+            "principal_activities": "Exploration for gold, nickel and other base metals in Western Australia.",
+            "fax_number": "(08) 9445 0499",
+            "latest_annual_reports": [
+                {
+                    "header": "Full Year Statutory Accounts",
+                    "document_date": "2017-09-28T18:14:00+1000",
+                    "number_of_pages": 80,
+                    "id": "01901521",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T18:30:19+1000",
+                    "size": "7.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mr7tjlbdvm49.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 261060,
+                "status": [],
+                "market_cap": 50077748,
+                "code": "KIN",
+                "indices": [],
+                "year_open_price": 0.25412,
+                "previous_close_price": 0.285,
+                "year_change_price": 0.02588,
+                "year_low_date": "2016-12-28T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 175711398,
+                "eps": -0.0206,
+                "change_in_percent": "-1.754%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 175711398,
+                "pe": 0,
+                "offer_price": 0.285,
+                "suspended": false,
+                "last_price": 0.28,
+                "deprecated_market_cap": 49199000,
+                "day_low_price": 0.28,
+                "open_price": 0.285,
+                "year_high_date": "2017-05-12T00:00:00+1000",
+                "previous_day_percentage_change": "-9.524%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.45,
+                "bid_price": 0.28,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.3,
+                "year_change_in_percentage": "10.184%",
+                "average_daily_volume": 340829,
+                "year_low_price": 0.17,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.kinmining.com.au",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Terry Grammer",
+                    "first_name": "Terry",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grammer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Donovan Paul Harper",
+                    "first_name": "Donovan",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harper",
+                    "middle_name": "Paul"
+                },
+                {
+                    "full_name": "Mr Trevor Dixon",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dixon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Marvyn (Fritz) Fitton",
+                    "first_name": "Marvyn (Fritz)",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joe Graziano",
+                    "first_name": "Joe",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Graziano",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Joe Graziano",
+                    "first_name": "Joe",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Graziano",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

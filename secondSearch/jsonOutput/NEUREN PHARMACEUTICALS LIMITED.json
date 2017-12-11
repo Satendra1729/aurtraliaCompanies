@@ -1,0 +1,149 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NEU",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "NEUREN PHARMACEUTICALS LIMITED",
+    "ASXcode": "NEU",
+    "data": {
+        "summary": {
+            "name_short": "NEUREN",
+            "name_full": "NEUREN PHARMACEUTICALS LIMITED",
+            "code": "NEU",
+            "primary_share_code": "NEU",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "NEUREN PHARMACEUT.",
+            "foreign_exempt": false,
+            "listing_date": "2005-02-03T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9092 0480",
+            "mailing_address": "At the offices of Lowndes Jordan, Level 15, PWC Tower, 188 Quay Street, AUCKLAND, ., NEW ZEALAND, 1141",
+            "principal_activities": "Biopharmaceutical company with a focus on neurological conditions.",
+            "fax_number": "+64 9 361 7981",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-28T16:31:10+1000",
+                    "number_of_pages": 60,
+                    "id": "01852307",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-28T16:33:17+1000",
+                    "size": "7.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170428/pdf/43hvwwvl8q9rqd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 94435,
+                "status": [
+                    "RE"
+                ],
+                "market_cap": 285152056,
+                "code": "NEU",
+                "indices": [],
+                "year_open_price": 0.099,
+                "previous_close_price": 2.8,
+                "year_change_price": 2.701,
+                "year_low_date": "2017-06-19T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 101840020,
+                "eps": -0.098,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 99340020,
+                "pe": 0,
+                "offer_price": 2.8,
+                "suspended": false,
+                "last_price": 2.8,
+                "deprecated_market_cap": 278152000,
+                "day_low_price": 2.72,
+                "open_price": 2.79,
+                "year_high_date": "2017-11-20T00:00:00+1100",
+                "previous_day_percentage_change": "0.358%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 3.5,
+                "bid_price": 2.72,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.8,
+                "year_change_in_percentage": "2,728.283%",
+                "average_daily_volume": 3377934,
+                "year_low_price": 1.1,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.neurenpharma.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Richard Treagus",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Treagus",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Larry Glass",
+                    "first_name": "Larry",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Glass",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Hancox",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hancox",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Trevor Scott",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scott",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jon Pilcher",
+                    "first_name": "Jon",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pilcher",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Jon Pilcher",
+                    "first_name": "Jon",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pilcher",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

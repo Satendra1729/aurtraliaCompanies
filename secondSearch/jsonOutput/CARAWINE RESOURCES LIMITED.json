@@ -1,0 +1,58 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CWX",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "CARAWINE RESOURCES LIMITED",
+    "ASXcode": "CWX",
+    "data": {
+        "summary": {
+            "name_full": "CARAWINE RESOURCES LIMITED",
+            "primary_share_code": "CWX",
+            "phone_number": "08 6555 8777",
+            "mailing_address": "Level 2, 41-47 Colin Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Mineral exploration and development",
+            "name_short": "CARAWINE",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "CWX",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "name_abbrev": "CARAWINE RESOURCES",
+            "latest_annual_reports": [],
+            "products": [
+                "shares"
+            ],
+            "foreign_exempt": false,
+            "code": "CWX",
+            "listing_date": null,
+            "registry_address": "Level 12, QV1 Building, 250 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "web_address": "http://www.carawine.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null,
+            "recent_announcement": false
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Gemma Davis",
+                    "first_name": "Gemma",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Davis",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

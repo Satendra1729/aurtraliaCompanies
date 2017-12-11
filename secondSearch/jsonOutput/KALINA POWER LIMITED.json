@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KPO",
+    "GICSindustrygroup": "Utilities",
+    "Companyname": "KALINA POWER LIMITED",
+    "ASXcode": "KPO",
+    "data": {
+        "summary": {
+            "name_full": "KALINA POWER LIMITED",
+            "code": "KPO",
+            "name_short": "KALINA",
+            "industry_group_name": "Utilities",
+            "delisting_date": null,
+            "sector_name": "Utilities",
+            "name_abbrev": "KALINA POWER LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/KPO?image_size=L&v=1444887962000",
+            "foreign_exempt": false,
+            "listing_date": "1971-08-02T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "investor_relations_email": "info@kalinapower.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9236 2800",
+            "mailing_address": "585 Burwood Road, HAWTHORN, VIC, AUSTRALIA, 3122",
+            "principal_activities": "Kalina Cycle Power Solutions for Energy Efficiency and Geothermal Projects",
+            "fax_number": "(03) 9818 3656",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-25T16:48:26+1000",
+                    "number_of_pages": 63,
+                    "id": "01899645",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-25T16:53:10+1000",
+                    "size": "853.9KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170925/pdf/43mm5w9tbcsf1g.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 343425,
+                "status": [],
+                "market_cap": 27941937,
+                "code": "KPO",
+                "indices": [],
+                "year_open_price": 3.06,
+                "previous_close_price": 0.063,
+                "year_change_price": -2.996,
+                "year_low_date": "2017-10-31T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 443522812,
+                "eps": -0.036,
+                "change_in_percent": "1.587%",
+                "change_price": 0.001,
+                "deprecated_number_of_shares": 443522812,
+                "pe": 0,
+                "offer_price": 0.065,
+                "suspended": false,
+                "last_price": 0.064,
+                "deprecated_market_cap": 28385000,
+                "day_low_price": 0.062,
+                "open_price": 0.063,
+                "year_high_date": "2017-01-09T00:00:00+1100",
+                "previous_day_percentage_change": "3.279%",
+                "year_open_date": "2013-12-20T11:00:00+1100",
+                "year_high_price": 0.135,
+                "bid_price": 0.063,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.064,
+                "year_change_in_percentage": "-97.908%",
+                "average_daily_volume": 925862,
+                "year_low_price": 0.044,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "KPO",
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.kalinapower.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr John Byrne",
+                    "first_name": "John",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Byrne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ross Maclachlan",
+                    "first_name": "Ross",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Maclachlan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Timothy Horgan",
+                    "first_name": "Timothy",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Horgan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Malcolm Jacques",
+                    "first_name": "Malcolm",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Jacques",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Littlewood",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Littlewood",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jeffry Myers",
+                    "first_name": "Jeffry",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Myers",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Alwyn Davey",
+                    "first_name": "Alwyn",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Davey",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

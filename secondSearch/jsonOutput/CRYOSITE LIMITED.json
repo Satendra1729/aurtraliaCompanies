@@ -1,0 +1,146 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CTE",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "CRYOSITE LIMITED",
+    "ASXcode": "CTE",
+    "data": {
+        "summary": {
+            "name_short": "CRYOSITE",
+            "name_full": "CRYOSITE LIMITED",
+            "code": "CTE",
+            "primary_share_code": "CTE",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "CRYOSITE LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2002-05-09T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI",
+                "franked_percentage": "0%",
+                "created_date": "2017-02-22T00:00:00+1100",
+                "record_date": "2017-03-15T00:00:00+1100",
+                "payable_date": "2017-03-31T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.005,
+                "ex_date": "2017-03-14T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "0288652002",
+            "mailing_address": "13A Ferndell Street,, SOUTH GRANVILLE, NSW, AUSTRALIA, 2142",
+            "principal_activities": "The Company provides an integrated biological storage and sample management service, including:  the collection, processing and storage of cord blood stem cells for private use; the archival storage of biological material for biological based industries; the storage and distribution of temperature crticial products such as drugs, cell lines, micro-organisms and diagnostic reagents.",
+            "fax_number": "0 28865 2090",
+            "latest_annual_reports": [
+                {
+                    "header": "Appendix 4E and Annual Report",
+                    "document_date": "2017-08-23T18:50:50+1000",
+                    "number_of_pages": 69,
+                    "id": "01887188",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-08-23T18:55:16+1000",
+                    "size": "3.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lnr5xs7d17jl.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 6326041,
+                "code": "CTE",
+                "indices": [],
+                "year_open_price": 0.37487,
+                "previous_close_price": 0.135,
+                "year_change_price": -0.23987,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 46859563,
+                "eps": 0.0048,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 46859563,
+                "pe": 28.13,
+                "offer_price": 0.15,
+                "suspended": false,
+                "last_price": 0.135,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-03-03T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.2,
+                "bid_price": 0.135,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-63.988%",
+                "average_daily_volume": 32849,
+                "year_low_price": 0,
+                "annual_dividend_yield": 7.41
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.cryosite.com",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Stephen Roberts",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Roberts",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Kroger",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kroger",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Nicole Swift",
+                    "first_name": "Nicole",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Swift",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Bryne",
+                    "first_name": "Mark",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bryne",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Bryan Dulhunty",
+                    "first_name": "Bryan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Dulhunty",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

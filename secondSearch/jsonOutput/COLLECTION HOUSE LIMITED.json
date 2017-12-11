@@ -1,0 +1,164 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CLH",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "COLLECTION HOUSE LIMITED",
+    "ASXcode": "CLH",
+    "data": {
+        "summary": {
+            "name_short": "COLL HOUSE",
+            "name_full": "COLLECTION HOUSE LIMITED",
+            "code": "CLH",
+            "primary_share_code": "CLH",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "COLLECTION HOUSE",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CLH?image_size=L&v=1421373688000",
+            "foreign_exempt": false,
+            "listing_date": "2000-10-04T00:00:00+1100",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "last_dividend": {
+                "comments": "3.9C FRANKED @ 30%;  DRP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-10-05T00:00:00+1100",
+                "payable_date": "2017-10-27T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.039,
+                "ex_date": "2017-10-04T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "07 3292 1000",
+            "mailing_address": "Level 12, 100 Skyring Terrace, NEWSTEAD, QLD, AUSTRALIA, 4006",
+            "principal_activities": "Financial Services",
+            "fax_number": "07 3832 0222",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-10-26T12:54:31+1100",
+                    "number_of_pages": 104,
+                    "id": "01913020",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-26T12:57:58+1100",
+                    "size": "7.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171026/pdf/43nlzd98lz23g3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 107576,
+                "status": [],
+                "market_cap": 182092284,
+                "code": "CLH",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 1.905,
+                "previous_close_price": 1.34,
+                "year_change_price": -0.595,
+                "year_low_date": "2017-06-30T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 135889764,
+                "eps": 0.128,
+                "change_in_percent": "-2.239%",
+                "change_price": -0.03,
+                "deprecated_number_of_shares": 135889764,
+                "pe": 10.23,
+                "offer_price": 1.335,
+                "suspended": false,
+                "last_price": 1.31,
+                "deprecated_market_cap": 178016000,
+                "day_low_price": 1.31,
+                "open_price": 1.345,
+                "year_high_date": "2017-01-17T00:00:00+1100",
+                "previous_day_percentage_change": "-0.372%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.56,
+                "bid_price": 1.31,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.345,
+                "year_change_in_percentage": "-31.234%",
+                "average_daily_volume": 148800,
+                "year_low_price": 1.15,
+                "annual_dividend_yield": 5.95
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.collectionhouse.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kerry John Daly",
+                    "first_name": "Kerry",
+                    "roles": [
+                        "Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Daly",
+                    "middle_name": "John"
+                },
+                {
+                    "full_name": "Mr Anthony Rivas",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rivas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leigh Berkley",
+                    "first_name": "Leigh",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Berkley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Knox",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Knox",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Kristine May",
+                    "first_name": "Kristine",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "May",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

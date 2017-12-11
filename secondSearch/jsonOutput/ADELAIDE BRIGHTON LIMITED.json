@@ -1,0 +1,290 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ABC",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ADELAIDE BRIGHTON LIMITED",
+    "ASXcode": "ABC",
+    "data": {
+        "summary": {
+            "name_short": "ADEL BRTN",
+            "name_full": "ADELAIDE BRIGHTON LIMITED",
+            "code": "ABC",
+            "primary_share_code": "ABC",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Materials",
+            "name_abbrev": "ADELAIDE BRIGHTON",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/ABC?image_size=L&v=1383548585000",
+            "foreign_exempt": false,
+            "listing_date": "1962-05-31T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "last_dividend": {
+                "comments": "8.5C FRANKED @30%; D RP SUSPENDED",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-17T00:00:00+1000",
+                "record_date": "2017-09-04T00:00:00+1000",
+                "payable_date": "2017-10-05T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.085,
+                "ex_date": "2017-09-01T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(08) 8223 8000",
+            "mailing_address": "Level 1, 157 Grenfell Street, ADELAIDE, SA, AUSTRALIA, 5000",
+            "principal_activities": "Manufacture of cement, lime, concrete and aggregates and concrete masonry products",
+            "fax_number": "(08) 8215 0030",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report to shareholders",
+                    "document_date": "2017-04-24T15:12:38+1000",
+                    "number_of_pages": 109,
+                    "id": "01850014",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-24T15:15:20+1000",
+                    "size": "17.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170424/pdf/43hpxw6fzpgg19.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1406677,
+                "status": [],
+                "market_cap": 4324312092,
+                "code": "ABC",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX100",
+                        "index_code": "XTO",
+                        "name_abrev": "S&P/ASX 100",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 100"
+                    },
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "S&PMid50",
+                        "index_code": "XMD",
+                        "name_abrev": "S&P/ASX Midcap 50",
+                        "index_date": null,
+                        "name_full": "S&P/ASX MIDCAP 50"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Mats",
+                        "index_code": "XMJ",
+                        "name_abrev": "Materials",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Materials (Sector)"
+                    }
+                ],
+                "year_open_price": 4.23061,
+                "previous_close_price": 6.65,
+                "year_change_price": 2.32939,
+                "year_low_date": "2016-12-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 650272495,
+                "eps": 0.274,
+                "change_in_percent": "-1.353%",
+                "change_price": -0.09,
+                "deprecated_number_of_shares": 650272495,
+                "pe": 23.94,
+                "offer_price": 6.67,
+                "suspended": false,
+                "last_price": 6.56,
+                "deprecated_market_cap": 4265788000,
+                "day_low_price": 6.55,
+                "open_price": 6.58,
+                "year_high_date": "2017-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "1.218%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 6.67,
+                "bid_price": 6.54,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 6.67,
+                "year_change_in_percentage": "55.06%",
+                "average_daily_volume": 1172814,
+                "year_low_price": 4.866,
+                "annual_dividend_yield": 3.05
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.adbri.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Les Hosking",
+                    "first_name": "Les",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hosking",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Martin Brydon",
+                    "first_name": "Martin",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brydon",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Raymond Barro",
+                    "first_name": "Raymond",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Barro",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme Pettigrew",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pettigrew",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ken Scott-Mackenzie",
+                    "first_name": "Ken",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scott-Mackenzie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Arlene M Tansey",
+                    "first_name": "Arlene",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Tansey",
+                    "middle_name": "M"
+                },
+                {
+                    "full_name": "Mr Zlatko Todorcevski",
+                    "first_name": "Zlatko",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Todorcevski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Kelly",
+                    "first_name": "Michael",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Marcus Clayton",
+                    "first_name": "Marcus",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clayton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Luba Alexander",
+                    "first_name": "Luba",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Alexander",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Marcus Clayton",
+                    "first_name": "Marcus",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Clayton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Luba Alexander",
+                    "first_name": "Luba",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Alexander",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Kelly",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Assist.Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

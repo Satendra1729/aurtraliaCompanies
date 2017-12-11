@@ -1,0 +1,203 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CTP",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "CENTRAL PETROLEUM LIMITED",
+    "ASXcode": "CTP",
+    "data": {
+        "summary": {
+            "name_short": "CENT PETRL",
+            "name_full": "CENTRAL PETROLEUM LIMITED",
+            "code": "CTP",
+            "primary_share_code": "CTP",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "CENTRAL PETROLEUM",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CTP?image_size=L&v=1440044477000",
+            "foreign_exempt": false,
+            "listing_date": "2006-03-07T00:00:00+1100",
+            "registry_address": "Level 1, 200 Mary Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 7 3181 3800",
+            "mailing_address": "Level 7, 369 Ann Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Oil and Gas exploration and production.",
+            "fax_number": "+61 7 3181 3855",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report Review Presentation",
+                    "document_date": "2017-10-09T16:33:10+1100",
+                    "number_of_pages": 12,
+                    "id": "01905885",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-09T16:35:13+1100",
+                    "size": "422.2KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171009/pdf/43n2g7lvf7t5sj.pdf"
+                },
+                {
+                    "header": "Annual Report Webinar",
+                    "document_date": "2017-10-04T15:42:32+1100",
+                    "number_of_pages": 1,
+                    "id": "01904330",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-04T15:46:33+1100",
+                    "size": "82.7KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171004/pdf/43myl7z33lld00.pdf"
+                },
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-25T16:45:13+1000",
+                    "number_of_pages": 91,
+                    "id": "01899640",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-25T16:48:55+1000",
+                    "size": "3.0MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170925/pdf/43mm5ky79m38jj.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1290090,
+                "status": [],
+                "market_cap": 65748888,
+                "code": "CTP",
+                "indices": [],
+                "year_open_price": 0.46,
+                "previous_close_price": 0.093,
+                "year_change_price": -0.37,
+                "year_low_date": "2017-10-25T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 706977291,
+                "eps": -0.0479,
+                "change_in_percent": "-3.226%",
+                "change_price": -0.003,
+                "deprecated_number_of_shares": 706977291,
+                "pe": 0,
+                "offer_price": 0.091,
+                "suspended": false,
+                "last_price": 0.09,
+                "deprecated_market_cap": 63628000,
+                "day_low_price": 0.09,
+                "open_price": 0.095,
+                "year_high_date": "2017-03-10T00:00:00+1100",
+                "previous_day_percentage_change": "2.198%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.199,
+                "bid_price": 0.09,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.095,
+                "year_change_in_percentage": "-80.435%",
+                "average_daily_volume": 1987003,
+                "year_low_price": 0.078,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.centralpetroleum.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Robert Hubbard",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hubbard",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Richard Cottee",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Managing Director",
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cottee",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Wrixon Gasteen",
+                    "first_name": "Wrixon",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gasteen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Peter Moore",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director",
+                        "Independent Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Moore",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Michael Herrington",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Herrington",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Leon Devaney",
+                    "first_name": "Leon",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Devaney",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel White",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "White",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Joseph Patrick Morfea",
+                    "first_name": "Joseph",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Morfea",
+                    "middle_name": "Patrick"
+                },
+                {
+                    "full_name": "Mr Daniel White",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "White",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

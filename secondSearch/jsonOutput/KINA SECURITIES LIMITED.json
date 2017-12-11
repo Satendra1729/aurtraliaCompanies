@@ -1,0 +1,161 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KSL",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "KINA SECURITIES LIMITED",
+    "ASXcode": "KSL",
+    "data": {
+        "summary": {
+            "name_short": "KINA",
+            "name_full": "KINA SECURITIES LIMITED",
+            "code": "KSL",
+            "primary_share_code": "KSL",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "KINA SECURITIES LTD",
+            "foreign_exempt": false,
+            "listing_date": "2015-07-30T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "UNFRANKED; NIL CFI;  W/H TAX 15%",
+                "franked_percentage": "0%",
+                "created_date": "2017-08-24T00:00:00+1000",
+                "record_date": "2017-08-30T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.017,
+                "ex_date": "2017-08-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+675 308 3888",
+            "mailing_address": "9th Level, Deloitte Tower, Douglas Street, Port Moresby, NATIONAL CAPITAL DISTRICT, ., PAPUA NEW GUINEA, .",
+            "principal_activities": "Diversified financial services provider in Papua New Guinea",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-04-13T15:44:18+1000",
+                    "number_of_pages": 103,
+                    "id": "01848067",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-04-13T15:46:47+1000",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170413/pdf/43hj7ml699397v.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 7664,
+                "status": [],
+                "market_cap": 118075142,
+                "code": "KSL",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 163993253,
+                "previous_close_price": 0.72,
+                "year_low_date": "2017-07-06T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 163993253,
+                "eps": 0.0629,
+                "change_in_percent": "2.083%",
+                "change_price": 0.015,
+                "pe": 11.69,
+                "offer_price": 0.735,
+                "suspended": false,
+                "last_price": 0.735,
+                "deprecated_market_cap": 120535000,
+                "day_low_price": 0.72,
+                "open_price": 0.72,
+                "year_high_date": "2016-12-14T00:00:00+1100",
+                "previous_day_percentage_change": "-1.37%",
+                "year_open_date": null,
+                "year_high_price": 1.15,
+                "bid_price": 0.715,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.74,
+                "average_daily_volume": 46783,
+                "year_low_price": 0.68,
+                "annual_dividend_yield": 6.87
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.kina.com.pg",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Iskeli Taureka",
+                    "first_name": "Iskeli",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Taureka",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sydney Yates",
+                    "first_name": "Sydney",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yates",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Foster",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Foster",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Karen Smith-Pomeroy",
+                    "first_name": "Karen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Smith-Pomeroy",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jim Yap",
+                    "first_name": "Jim",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yap",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Chetan Chopra",
+                    "first_name": "Chetan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chopra",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

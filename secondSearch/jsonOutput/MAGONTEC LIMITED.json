@@ -1,0 +1,177 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MGL",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "MAGONTEC LIMITED",
+    "ASXcode": "MGL",
+    "data": {
+        "summary": {
+            "name_short": "MAGONTEC",
+            "name_full": "MAGONTEC LIMITED",
+            "code": "MGL",
+            "primary_share_code": "MGL",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "MAGONTEC LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "1983-07-07T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 2 8005 4109",
+            "mailing_address": "Suite 1.03, 46a Macleay Street, POTTS POINT, NSW, AUSTRALIA, 2011",
+            "principal_activities": "Manufacture of magnesium alloys and development and commercialisation of magnesium alloy tecchnology",
+            "fax_number": "+61 2 9252 8960",
+            "latest_annual_reports": [
+                {
+                    "header": "2016 Annual Report to shareholders",
+                    "document_date": "2017-02-27T18:12:12+1100",
+                    "number_of_pages": 82,
+                    "id": "01833363",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-02-27T18:17:17+1100",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170227/pdf/43gcsm8wc7kt8p.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 39902572,
+                "code": "MGL",
+                "indices": [],
+                "year_open_price": 0.03,
+                "previous_close_price": 0.035,
+                "year_change_price": 0.005,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1140073483,
+                "eps": 0.0002,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 1140073483,
+                "pe": 175,
+                "offer_price": 0.039,
+                "suspended": false,
+                "last_price": 0.035,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-16T00:00:00+1100",
+                "previous_day_percentage_change": "-2.778%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.046,
+                "bid_price": 0.036,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "16.667%",
+                "average_daily_volume": 140904,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.magontec.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Nicholas Andrews",
+                    "first_name": "Nicholas",
+                    "roles": [
+                        "Executive Chairman",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Andrews",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Kaye",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kaye",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Willie Andre Labuschagne",
+                    "first_name": "Willie",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Labuschagne",
+                    "middle_name": "Andre"
+                },
+                {
+                    "full_name": "Mr Zhong Jun Li",
+                    "first_name": "Zhong Jun",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Li",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Shaw",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shaw",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Kang Min Xie",
+                    "first_name": "Kang Min",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Xie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Talbot",
+                    "first_name": "John",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Talbot",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Judy Zhu",
+                    "first_name": "Judy",
+                    "roles": [
+                        "Administrator"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Zhu",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr John Talbot",
+                    "first_name": "John",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Talbot",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

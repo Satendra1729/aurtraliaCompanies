@@ -1,0 +1,243 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/IRE",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "IRESS LIMITED",
+    "ASXcode": "IRE",
+    "data": {
+        "summary": {
+            "name_full": "IRESS LIMITED",
+            "last_dividend": {
+                "comments": "9.6C FRANKED@30%; 6. 4C CFI; DRP",
+                "franked_percentage": "60%",
+                "created_date": "2017-08-17T00:00:00+1000",
+                "record_date": "2017-09-07T00:00:00+1000",
+                "payable_date": "2017-09-29T00:00:00+1000",
+                "type": "Interim",
+                "amount": 0.16,
+                "ex_date": "2017-09-06T00:00:00+1000"
+            },
+            "code": "IRE",
+            "name_short": "IRESS",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "IRESS LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/IRE?image_size=L&v=1454641673000",
+            "foreign_exempt": false,
+            "listing_date": "2000-11-03T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "investor_relations_email": "irelation@iress.com ",
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "+61 3 9018 5800",
+            "mailing_address": "Level 18, 385 Bourke Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "The provision of IT solutions to financial market participants and wealth managers.",
+            "fax_number": "+61 3 9018 5844",
+            "latest_annual_reports": [
+                {
+                    "header": "IRESS App 4E and Annual Report",
+                    "document_date": "2017-02-22T08:36:03+1100",
+                    "number_of_pages": 82,
+                    "id": "01830727",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-22T08:39:17+1100",
+                    "size": "1.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170222/pdf/43g5yy1c2v3v86.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 123888,
+                "status": [],
+                "market_cap": 1899836839,
+                "code": "IRE",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Tech",
+                        "index_code": "XIJ",
+                        "name_abrev": "Info Technology",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Information Technology (Sector)"
+                    }
+                ],
+                "year_open_price": 9.7,
+                "previous_close_price": 11.09,
+                "year_change_price": 1.39,
+                "year_low_date": "2017-11-14T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 171310806,
+                "eps": 0.3397,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 171310806,
+                "pe": 32.65,
+                "offer_price": 11.19,
+                "suspended": false,
+                "last_price": 11.09,
+                "deprecated_market_cap": 1899837000,
+                "day_low_price": 11.03,
+                "open_price": 11.13,
+                "year_high_date": "2017-07-17T00:00:00+1000",
+                "previous_day_percentage_change": "2.118%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 13.4,
+                "bid_price": 10.99,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 11.15,
+                "year_change_in_percentage": "14.33%",
+                "average_daily_volume": 427224,
+                "year_low_price": 10.74,
+                "annual_dividend_yield": 3.97
+            },
+            "primary_share_code": "IRE",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.iress.com",
+            "fiscal_year_end": "31/12",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://www.iress.com/en/Investor_Relations.html"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tony D'Alosio",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "D'Alosio",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Walsh",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Walsh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Niki Beattie",
+                    "first_name": "Niki",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Beattie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Cameron",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cameron",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Hayes",
+                    "first_name": "John",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hayes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Jenny Seabrook",
+                    "first_name": "Jenny",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Seabrook",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Tomlinson",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tomlinson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr John Harris",
+                    "first_name": "John",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harris",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Ferguson",
+                    "first_name": "Peter",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferguson",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Peter Ferguson",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferguson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

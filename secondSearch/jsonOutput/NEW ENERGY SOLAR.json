@@ -1,0 +1,80 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NEW",
+    "GICSindustrygroup": "Utilities",
+    "Companyname": "NEW ENERGY SOLAR",
+    "ASXcode": "NEW",
+    "data": {
+        "summary": {
+            "name_short": "NEW ENERGY",
+            "name_full": "NEW ENERGY SOLAR",
+            "code": "NEW",
+            "primary_share_code": "NEW",
+            "industry_group_name": "Utilities",
+            "delisting_date": null,
+            "sector_name": "Utilities",
+            "name_abbrev": "NEW ENERGY SOLAR",
+            "foreign_exempt": false,
+            "listing_date": "2017-12-04T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "1300 454 801",
+            "mailing_address": "Level 15, 100 Pacific Highway, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "Owns, acquires and manages a diversified portfolio of solar and renewable energy assets across the globe",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 140109,
+                "status": [],
+                "market_cap": 515550341,
+                "code": "NEW",
+                "indices": [],
+                "deprecated_number_of_shares": 326297684,
+                "previous_close_price": 1.58,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 326297684,
+                "eps": 0,
+                "change_in_percent": "-1.899%",
+                "change_price": -0.03,
+                "pe": 0,
+                "offer_price": 1.57,
+                "suspended": false,
+                "last_price": 1.55,
+                "deprecated_market_cap": 505761000,
+                "day_low_price": 1.54,
+                "open_price": 1.58,
+                "year_high_date": "2017-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 1.65,
+                "bid_price": 1.54,
+                "desc_full": "Stapled Securities Deferred Settlement",
+                "day_high_price": 1.58,
+                "average_daily_volume": 49661,
+                "year_low_price": 1.54,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.nes.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Ms Hannah Chan",
+                    "first_name": "Hannah",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Chan",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

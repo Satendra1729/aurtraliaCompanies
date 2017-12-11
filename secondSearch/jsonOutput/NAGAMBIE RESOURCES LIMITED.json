@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NAG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "NAGAMBIE RESOURCES LIMITED",
+    "ASXcode": "NAG",
+    "data": {
+        "summary": {
+            "name_short": "NAGAMBIE",
+            "name_full": "NAGAMBIE RESOURCES LIMITED",
+            "code": "NAG",
+            "primary_share_code": "NAG",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "NAGAMBIE RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2006-06-23T00:00:00+1000",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "mailing_address": "533 Zanelli Road, NAGAMBIE, VIC, AUSTRALIA, 3608",
+            "principal_activities": ".",
+            "fax_number": "(03) 5794 1790",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-10-31T08:23:10+1100",
+                    "number_of_pages": 52,
+                    "id": "01915180",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T08:25:28+1100",
+                    "size": "6.8MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nrxvd01lnny0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 10335,
+                "status": [],
+                "market_cap": 30295193,
+                "code": "NAG",
+                "indices": [],
+                "year_open_price": 0.04,
+                "previous_close_price": 0.075,
+                "year_change_price": 0.038,
+                "year_low_date": "2017-07-12T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 403935912,
+                "eps": -0.0043,
+                "change_in_percent": "4%",
+                "change_price": 0.003,
+                "deprecated_number_of_shares": 403935912,
+                "pe": 0,
+                "offer_price": 0.078,
+                "suspended": false,
+                "last_price": 0.078,
+                "deprecated_market_cap": 31507000,
+                "day_low_price": 0.073,
+                "open_price": 0.073,
+                "year_high_date": "2016-12-08T00:00:00+1100",
+                "previous_day_percentage_change": "4.167%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.099,
+                "bid_price": 0.076,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.078,
+                "year_change_in_percentage": "95%",
+                "average_daily_volume": 239963,
+                "year_low_price": 0.023,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "02 9698 5414",
+            "web_address": null,
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Michael W Trumbull",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trumbull",
+                    "middle_name": "W"
+                },
+                {
+                    "full_name": "Mr Kevin Perrin",
+                    "first_name": "Kevin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Perrin",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Geoff Turner",
+                    "first_name": "Geoff",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Turner",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Alfonso Grillo",
+                    "first_name": "Alfonso",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Grillo",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

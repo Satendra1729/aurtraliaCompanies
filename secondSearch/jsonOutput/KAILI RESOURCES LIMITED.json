@@ -1,0 +1,136 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KLR",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "KAILI RESOURCES LIMITED",
+    "ASXcode": "KLR",
+    "data": {
+        "summary": {
+            "name_short": "KAILIRESOU",
+            "name_full": "KAILI RESOURCES LIMITED",
+            "code": "KLR",
+            "primary_share_code": "KLR",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "KAILI RESOURCES LTD",
+            "foreign_exempt": false,
+            "listing_date": "1997-03-06T00:00:00+1100",
+            "registry_address": "LEVEL 4, 60 CARRINGTON STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "contact@kailigroup.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9267 5988",
+            "mailing_address": "World Tower, Suite 1312, Level 13, 87-89 Liverpool Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Manufacture and sales of electronic components, the manufacture and sales and the research and development of contactless smart card technology.",
+            "fax_number": "(02) 9283 7166",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report - 31 DEC 2016",
+                    "document_date": "2017-03-30T18:39:36+1100",
+                    "number_of_pages": 47,
+                    "id": "01843549",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-03-30T18:42:15+1100",
+                    "size": "3.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170330/pdf/43h59t4t77s1cw.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 3930677,
+                "code": "KLR",
+                "indices": [],
+                "deprecated_number_of_shares": 98266915,
+                "previous_close_price": 0.04,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 98266915,
+                "eps": -0.0072,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0,
+                "suspended": false,
+                "last_price": 0.04,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2016-12-21T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": null,
+                "year_high_price": 0.049,
+                "bid_price": 0,
+                "desc_full": "125c Ordinary Fully Paid",
+                "day_high_price": 0,
+                "average_daily_volume": 6172,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.kailigroup.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jianzhong Yang",
+                    "first_name": "Jianzhong",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Yang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Miss Kelly Kaiyuan Yang",
+                    "first_name": "Kelly Kaiyuan",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Miss",
+                    "last_name": "Yang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr William Chi Yuen Kuan",
+                    "first_name": "William",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Kuan",
+                    "middle_name": "Chi Yuen"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Long Zhao",
+                    "first_name": "Long",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Zhao",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Robert Lees",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lees",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/KYK",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "KYCKR LIMITED",
+    "ASXcode": "KYK",
+    "data": {
+        "summary": {
+            "name_short": "KYCKRLIMIT",
+            "name_full": "KYCKR LIMITED",
+            "code": "KYK",
+            "primary_share_code": "KYK",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "KYCKR LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2016-09-07T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@kyckr.com",
+            "products": [
+                "shares"
+            ],
+            "fiscal_year_end": "30/06",
+            "mailing_address": "Level 6, 36 Grosvenor Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Provision of corporate data",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T16:27:46+1000",
+                    "number_of_pages": 63,
+                    "id": "01902508",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T16:29:41+1000",
+                    "size": "4.7MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mt7rk4sg1tph.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 182895,
+                "status": [],
+                "market_cap": 12077551,
+                "code": "KYK",
+                "indices": [],
+                "deprecated_number_of_shares": 77240598,
+                "previous_close_price": 0.155,
+                "year_low_date": "2017-11-22T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 77919683,
+                "eps": -0.0392,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "pe": 0,
+                "offer_price": 0.16,
+                "suspended": false,
+                "last_price": 0.155,
+                "deprecated_market_cap": 11972000,
+                "day_low_price": 0.155,
+                "open_price": 0.155,
+                "year_high_date": "2017-07-18T00:00:00+1000",
+                "previous_day_percentage_change": "3.333%",
+                "year_open_date": null,
+                "year_high_price": 0.275,
+                "bid_price": 0.155,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.155,
+                "average_daily_volume": 124655,
+                "year_low_price": 0.14,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.kyckr.com",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Gerard Cassidy",
+                    "first_name": "David",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cassidy",
+                    "middle_name": "Gerard"
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Karl David Pechmann",
+                    "first_name": "Karl",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pechmann",
+                    "middle_name": "David"
+                }
+            ]
+        }
+    }
+}

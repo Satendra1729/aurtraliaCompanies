@@ -1,0 +1,158 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AC8",
+    "GICSindustrygroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "Companyname": "AUSCANN GROUP HOLDINGS LTD",
+    "ASXcode": "AC8",
+    "data": {
+        "summary": {
+            "name_short": "AUSCANN",
+            "name_full": "AUSCANN GROUP HOLDINGS LTD",
+            "code": "AC8",
+            "primary_share_code": "AC8",
+            "industry_group_name": "Pharmaceuticals, Biotechnology & Life Sciences",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "AUSCANN GRP HLGS LTD",
+            "foreign_exempt": false,
+            "listing_date": "1989-05-03T00:00:00+1000",
+            "registry_address": "LEVEL 5, 115 GRENFELL STREET, ADELAIDE, SA, AUSTRALIA, 5000",
+            "recent_announcement": false,
+            "investor_relations_email": "info@auscann.com.au",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9561 8834",
+            "mailing_address": "Suite 8, Level 2, Shenton House, 57 Shenton Avenue, JOONDALUP, WA, AUSTRALIA, 6027",
+            "principal_activities": "Cultivation, manufacture and supply of medical cannabis products.",
+            "fax_number": "+61 8 6255 5031",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T09:42:56+1000",
+                    "number_of_pages": 62,
+                    "id": "01901924",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T09:46:28+1000",
+                    "size": "1.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43ms3qz1kzclzd.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1035403,
+                "status": [],
+                "market_cap": 207600171,
+                "code": "AC8",
+                "indices": [],
+                "year_open_price": 0.004,
+                "previous_close_price": 0.765,
+                "year_change_price": 0.756,
+                "year_low_date": "2017-02-09T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 271372772,
+                "eps": -0.009,
+                "change_in_percent": "-0.654%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 129257557,
+                "pe": 0,
+                "offer_price": 0.76,
+                "suspended": false,
+                "last_price": 0.76,
+                "deprecated_market_cap": 98236000,
+                "day_low_price": 0.75,
+                "open_price": 0.78,
+                "year_high_date": "2017-11-22T00:00:00+1100",
+                "previous_day_percentage_change": "12.5%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.945,
+                "bid_price": 0.755,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.795,
+                "year_change_in_percentage": "18,900%",
+                "average_daily_volume": 1310170,
+                "year_low_price": 0.19,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.auscann.com.au/",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Mal Washer",
+                    "first_name": "Mal",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Washer",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Elaine Darby",
+                    "first_name": "Elaine",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Darby",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Harry Karelis",
+                    "first_name": "Harry",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Karelis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Cheryl Edwardes",
+                    "first_name": "Cheryl",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Edwardes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Linton",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Linton",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce McHarrie",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McHarrie",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Susan Hunter",
+                    "first_name": "Susan",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Hunter",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

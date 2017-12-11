@@ -1,0 +1,183 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RRS",
+    "GICSindustrygroup": "Energy",
+    "Companyname": "RANGE RESOURCES LIMITED",
+    "ASXcode": "RRS",
+    "data": {
+        "summary": {
+            "name_full": "RANGE RESOURCES LIMITED",
+            "code": "RRS",
+            "name_short": "RANGE RES",
+            "industry_group_name": "Energy",
+            "delisting_date": null,
+            "sector_name": "Energy",
+            "name_abbrev": "RANGE RESOURCES LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/RRS?image_size=L&v=1440404934000",
+            "foreign_exempt": false,
+            "listing_date": "1985-01-24T00:00:00+1100",
+            "registry_address": "Level 11, 172 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@rangeresources.co.uk",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 (8) 6205 3012",
+            "mailing_address": "c/o Edwards Mac Scovell, Level 7, 140 St Georges Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Oil and Gas Exploration and Production",
+            "fax_number": "+44 (0) 20 7520 9487",
+            "latest_annual_reports": [
+                {
+                    "header": "Addendum to the Annual Report - Reserves Statement",
+                    "document_date": "2017-10-30T22:52:32+1100",
+                    "number_of_pages": 4,
+                    "id": "01915123",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-10-31T08:18:08+1100",
+                    "size": "360.8KB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43nrtjw7f5dzkj.pdf"
+                },
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-30T02:14:37+1000",
+                    "number_of_pages": 110,
+                    "id": "01902940",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-02T08:01:48+1100",
+                    "size": "3.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171002/pdf/43mvkmt7cm7x3j.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 500000,
+                "status": [],
+                "market_cap": 37979154,
+                "code": "RRS",
+                "indices": [],
+                "year_open_price": 0.02,
+                "previous_close_price": 0.005,
+                "year_change_price": -0.015,
+                "year_low_date": "2017-11-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 7595830782,
+                "eps": -0.0093,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 7595830782,
+                "pe": 0,
+                "offer_price": 0.005,
+                "suspended": false,
+                "last_price": 0.005,
+                "deprecated_market_cap": 37979000,
+                "day_low_price": 0.005,
+                "open_price": 0.005,
+                "year_high_date": "2017-01-06T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.008,
+                "bid_price": 0.004,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.005,
+                "year_change_in_percentage": "-75%",
+                "average_daily_volume": 2569863,
+                "year_low_price": 0.002,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "RRS",
+            "registry_phone_number": "1300 850 505",
+            "web_address": "http://www.rangeresources.co.uk",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Kerry Gu",
+                    "first_name": "Kerry",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Chairman",
+                        "Director",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yan Liu",
+                    "first_name": "Yan",
+                    "roles": [
+                        "CEO",
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lubing Liu",
+                    "first_name": "Lubing",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Liu",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Yu Wang",
+                    "first_name": "Yu",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kiki Wang",
+                    "first_name": "Kiki",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Wang",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Yi Zeng",
+                    "first_name": "Yi",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Zeng",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nick Beattie",
+                    "first_name": "Nick",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Beattie",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Sara Kelly",
+                    "first_name": "Sara",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kelly",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

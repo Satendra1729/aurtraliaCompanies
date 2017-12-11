@@ -1,0 +1,206 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/HSN",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "HANSEN TECHNOLOGIES LIMITED",
+    "ASXcode": "HSN",
+    "data": {
+        "summary": {
+            "name_short": "HANSEN TEC",
+            "name_full": "HANSEN TECHNOLOGIES LIMITED",
+            "code": "HSN",
+            "primary_share_code": "HSN",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "HANSEN TECHNOLOGIES",
+            "foreign_exempt": false,
+            "listing_date": "2000-06-01T00:00:00+1000",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "last_dividend": {
+                "comments": "3C FRANKED@30%; DRP  NIL DISC",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-21T00:00:00+1000",
+                "record_date": "2017-09-05T00:00:00+1000",
+                "payable_date": "2017-09-28T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.03,
+                "ex_date": "2017-09-04T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "03 9840 3000",
+            "mailing_address": "2 Frederick Street, DONCASTER, VIC, AUSTRALIA, 3108",
+            "principal_activities": "Development, Integration and support of billings systems software for the telecommunications and utilities industries.",
+            "fax_number": "03 9840 3099",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-26T09:14:30+1100",
+                    "number_of_pages": 84,
+                    "id": "01912789",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-26T09:17:11+1100",
+                    "size": "5.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171026/pdf/43nlj7xlc0ktz3.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 246440,
+                "status": [],
+                "market_cap": 715600684,
+                "code": "HSN",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    }
+                ],
+                "year_open_price": 1.24,
+                "previous_close_price": 3.65,
+                "year_change_price": 2.4,
+                "year_low_date": "2017-03-06T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 196054982,
+                "eps": 0.132,
+                "change_in_percent": "-0.274%",
+                "change_price": -0.01,
+                "deprecated_number_of_shares": 196054982,
+                "pe": 27.58,
+                "offer_price": 3.64,
+                "suspended": false,
+                "last_price": 3.64,
+                "deprecated_market_cap": 713640000,
+                "day_low_price": 3.6,
+                "open_price": 3.66,
+                "year_high_date": "2016-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "0.551%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 4.11,
+                "bid_price": 3.61,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 3.66,
+                "year_change_in_percentage": "193.548%",
+                "average_daily_volume": 310357,
+                "year_low_price": 3.08,
+                "annual_dividend_yield": 1.65
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.hsntech.com/",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr David Trude",
+                    "first_name": "David",
+                    "roles": [
+                        "Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Trude",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Hansen",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hansen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Sarah Morgan",
+                    "first_name": "Sarah",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Morgan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Bruce Adams",
+                    "first_name": "Bruce",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Adams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Peter Berry",
+                    "first_name": "Peter",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Berry",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Osborne",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Osborne",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Graeme Taylor",
+                    "first_name": "Graeme",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Taylor",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Julia Chand",
+                    "first_name": "Julia",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Chand",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

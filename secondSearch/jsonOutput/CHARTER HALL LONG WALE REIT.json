@@ -1,0 +1,200 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CLW",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "CHARTER HALL LONG WALE REIT",
+    "ASXcode": "CLW",
+    "data": {
+        "summary": {
+            "name_short": "CHTR H LWR",
+            "name_full": "CHARTER HALL LONG WALE REIT",
+            "code": "CLW",
+            "primary_share_code": "CLW",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "CHTR H LWR",
+            "foreign_exempt": false,
+            "listing_date": "2016-11-08T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "DRP SUSPENDED",
+                "franked_percentage": "0%",
+                "created_date": "2017-12-04T00:00:00+1100",
+                "record_date": "2017-12-29T00:00:00+1100",
+                "payable_date": "2018-02-14T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.065,
+                "ex_date": "2017-12-28T00:00:00+1100"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "1300 554 474",
+            "mailing_address": "Level 20, 1 Martin Place, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment in Australian real estate assets.",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report",
+                    "document_date": "2017-09-29T10:04:23+1000",
+                    "number_of_pages": 66,
+                    "id": "01901973",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T10:05:56+1000",
+                    "size": "4.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43ms6m5h1r63v0.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 427943,
+                "status": [
+                    "CD",
+                    "RE",
+                    "XE"
+                ],
+                "market_cap": 907720832,
+                "code": "CLW",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Prop",
+                        "index_code": "XPJ",
+                        "name_abrev": "A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX200 A-REIT (Sector)"
+                    }
+                ],
+                "deprecated_number_of_shares": 209635296,
+                "previous_close_price": 4.33,
+                "year_low_date": "2016-12-05T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 209635296,
+                "eps": 0.2376,
+                "change_in_percent": "0.462%",
+                "change_price": 0.02,
+                "pe": 18.31,
+                "offer_price": 4.39,
+                "suspended": false,
+                "last_price": 4.35,
+                "deprecated_market_cap": 911914000,
+                "day_low_price": 4.31,
+                "open_price": 4.34,
+                "year_high_date": "2017-12-07T00:00:00+1100",
+                "previous_day_percentage_change": "-1.591%",
+                "year_open_date": null,
+                "year_high_price": 4.4,
+                "bid_price": 4.31,
+                "desc_full": "Stapled Securities",
+                "day_high_price": 4.35,
+                "average_daily_volume": 496930,
+                "year_low_price": 3.787,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.charterhall.com.au/lwr",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Peeyush Gupta",
+                    "first_name": "Peeyush",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gupta",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David William Harrison",
+                    "first_name": "David",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Harrison",
+                    "middle_name": "William"
+                },
+                {
+                    "full_name": "Mr Adrian Tasman Francis Taylor",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Taylor",
+                    "middle_name": "Tasman Francis"
+                },
+                {
+                    "full_name": "Mr Glenn Montgomery Fraser",
+                    "first_name": "Glenn",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fraser",
+                    "middle_name": "Montgomery"
+                },
+                {
+                    "full_name": "Ms Ceinwen Kirk-Lennox",
+                    "first_name": "Ceinwen",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Kirk-Lennox",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Bryant",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bryant",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

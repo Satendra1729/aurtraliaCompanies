@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AGS",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "ALLIANCE RESOURCES LIMITED",
+    "ASXcode": "AGS",
+    "data": {
+        "summary": {
+            "name_short": "ALLIANCE",
+            "name_full": "ALLIANCE RESOURCES LIMITED",
+            "code": "AGS",
+            "primary_share_code": "AGS",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "ALLIANCE RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "1994-10-19T00:00:00+1000",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9697 9090",
+            "mailing_address": "Suite 3, 51 - 55 City Road, SOUTHBANK, VIC, AUSTRALIA, 3006",
+            "principal_activities": "Alliance Resources Limited (AGS) is involved in the exploration of minerals deposits in Australia. AGS has various projects in NSW and Western Australia for copper-gold and    nickel.",
+            "fax_number": "+61 3 9697 9091",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-28T08:29:48+1000",
+                    "number_of_pages": 60,
+                    "id": "01900898",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-28T08:34:01+1000",
+                    "size": "1.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170928/pdf/43mq0rh5rlz073.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 222185,
+                "status": [],
+                "market_cap": 9386453,
+                "code": "AGS",
+                "indices": [],
+                "year_open_price": 0.175,
+                "previous_close_price": 0.09,
+                "year_change_price": -0.085,
+                "year_low_date": "2017-08-11T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 104293923,
+                "eps": -0.0124,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 104293923,
+                "pe": 0,
+                "offer_price": 0.093,
+                "suspended": false,
+                "last_price": 0.09,
+                "deprecated_market_cap": 9386000,
+                "day_low_price": 0.09,
+                "open_price": 0.09,
+                "year_high_date": "2017-02-14T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.11,
+                "bid_price": 0.089,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.09,
+                "year_change_in_percentage": "-48.571%",
+                "average_daily_volume": 123299,
+                "year_low_price": 0.075,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.allianceresources.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ian Gandel",
+                    "first_name": "Ian",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gandel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steve Johnston",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Managing Director",
+                        "CEO",
+                        "General Manager"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Johnston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Tony Lethlean",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lethlean",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Bob Tolliday",
+                    "first_name": "Bob",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Tolliday",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

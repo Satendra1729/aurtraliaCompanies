@@ -1,0 +1,128 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/1AG",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "ALTERRA LIMITED",
+    "ASXcode": "1AG",
+    "data": {
+        "summary": {
+            "name_short": "ALTERRA",
+            "name_full": "ALTERRA LIMITED",
+            "code": "1AG",
+            "primary_share_code": "1AG",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "ALTERRA LIMITED",
+            "foreign_exempt": false,
+            "listing_date": "2008-05-16T00:00:00+1000",
+            "registry_address": "110 STIRLING HIGHWAY, NEDLANDS, WA, AUSTRALIA, 6009",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9204 8400",
+            "mailing_address": "Suite 1, 25 Walters Drive, OSBORNE PARK, WA, AUSTRALIA, 6017",
+            "principal_activities": "Alterra Limited is an agricultural project developer, manager and service provider.",
+            "fax_number": "+61 8 9204 8499",
+            "latest_annual_reports": [
+                {
+                    "header": "Notice of 2016 AGM & Proxy Form and Annual Report",
+                    "document_date": "2017-01-13T11:31:33+1100",
+                    "number_of_pages": 81,
+                    "id": "01819758",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-01-13T11:36:00+1100",
+                    "size": "2.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170113/pdf/43f9dlf4gl13r1.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 77830,
+                "status": [],
+                "market_cap": 4308000,
+                "code": "1AG",
+                "indices": [],
+                "year_open_price": 0.025,
+                "previous_close_price": 0.03,
+                "year_change_price": 0.005,
+                "year_low_date": "2017-06-26T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 143599988,
+                "eps": -0.0144,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 143599988,
+                "pe": 0,
+                "offer_price": 0.032,
+                "suspended": false,
+                "last_price": 0.03,
+                "deprecated_market_cap": 4308000,
+                "day_low_price": 0.03,
+                "open_price": 0.03,
+                "year_high_date": "2017-09-18T00:00:00+1000",
+                "previous_day_percentage_change": "-3.226%",
+                "year_open_date": "2014-02-26T11:00:00+1100",
+                "year_high_price": 0.045,
+                "bid_price": 0.028,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.03,
+                "year_change_in_percentage": "20%",
+                "average_daily_volume": 253866,
+                "year_low_price": 0.021,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9389 8033",
+            "web_address": "http://www.alterra.com.au",
+            "fiscal_year_end": "30/09",
+            "registry_name": "ADVANCED SHARE REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Trevor Stoney",
+                    "first_name": "Trevor",
+                    "roles": [
+                        "Non Exec. Chairman",
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Stoney",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew McBain",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McBain",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil McBain",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McBain",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Anthony Fitzgerald",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fitzgerald",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

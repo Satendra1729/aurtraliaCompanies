@@ -1,0 +1,167 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/MVT",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "MERCANTILE INVESTMENT COMPANY LTD",
+    "ASXcode": "MVT",
+    "data": {
+        "summary": {
+            "name_short": "MERC INV",
+            "name_full": "MERCANTILE INVESTMENT COMPANY LTD",
+            "code": "MVT",
+            "primary_share_code": "MVT",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "MERCANTILE INVEST",
+            "foreign_exempt": false,
+            "listing_date": "2007-04-05T00:00:00+1000",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "corporate-bonds"
+            ],
+            "phone_number": "(02) 8014 1188",
+            "mailing_address": "Level 5, 139 Macquarie Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment in ASX listed investment opportunities.",
+            "fax_number": "(02) 8084 9918",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-22T13:34:39+1000",
+                    "number_of_pages": 70,
+                    "id": "01898988",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T13:37:32+1000",
+                    "size": "1.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mkbzq164pyh9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 49000000,
+                "code": "MVT",
+                "indices": [],
+                "year_open_price": 0.135,
+                "previous_close_price": 0.175,
+                "year_change_price": 0.04,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 280000000,
+                "eps": -0.0172,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 280000000,
+                "pe": 0,
+                "offer_price": 0.175,
+                "suspended": false,
+                "last_price": 0.175,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-01-13T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.18,
+                "bid_price": 0.165,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "29.63%",
+                "average_daily_volume": 87473,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.mercantileinvestment.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Sir Ronald Brierley",
+                    "first_name": "Ronald",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Sir",
+                    "last_name": "Brierley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gabriel Radzyminski",
+                    "first_name": "Gabriel",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Radzyminski",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Chirnside",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chirnside",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Ronald Langley",
+                    "first_name": "Ronald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Langley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Daniel Weiss",
+                    "first_name": "Daniel",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Weiss",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Weiss",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Weiss",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mark Licciardo",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Licciardo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Lobb",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lobb",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

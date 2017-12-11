@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/ETK",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "EDEN HEALTH INDUSTRY HOLDINGS LIMITED",
+    "ASXcode": "ETK",
+    "data": {
+        "summary": {
+            "name_short": "EDENHEALTH",
+            "name_full": "EDEN HEALTH INDUSTRY HOLDINGS LIMITED",
+            "code": "ETK",
+            "primary_share_code": "ETK",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "EDEN HEALTH INDUSTRY",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "LEVEL 6, 2 RUSSELL STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 9042 8540",
+            "mailing_address": "Suite 802, Level 8, 167 Queen Street, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "principal_activities": "Agriculture",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "ETK",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 556 635",
+            "web_address": null,
+            "registry_name": "REGISTRY DIRECT",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Andrew Neilson",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Neilson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

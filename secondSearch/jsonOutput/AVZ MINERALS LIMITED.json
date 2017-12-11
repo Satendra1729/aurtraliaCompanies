@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/AVZ",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "AVZ MINERALS LIMITED",
+    "ASXcode": "AVZ",
+    "data": {
+        "summary": {
+            "name_short": "AVZ MINS",
+            "name_full": "AVZ MINERALS LIMITED",
+            "code": "AVZ",
+            "primary_share_code": "AVZ",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "AVZ MINERALS LTD",
+            "foreign_exempt": false,
+            "listing_date": "2007-09-14T00:00:00+1000",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9380 6789",
+            "mailing_address": "Level 2, Suite 9, 389 Oxford Street, MT HAWTHORN, WA, AUSTRALIA, 6016",
+            "principal_activities": "Mineral exploration",
+            "fax_number": "+61 8 9380 6761",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-29T13:55:37+1000",
+                    "number_of_pages": 57,
+                    "id": "01902243",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T13:58:05+1000",
+                    "size": "2.3MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msr04s5mnpfr.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 5376533,
+                "status": [],
+                "market_cap": 384331638,
+                "code": "AVZ",
+                "indices": [],
+                "year_open_price": 0.00634,
+                "previous_close_price": 0.215,
+                "year_change_price": 0.20366,
+                "year_low_date": "2016-12-23T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1787589014,
+                "eps": -0.0021,
+                "change_in_percent": "-2.326%",
+                "change_price": -0.005,
+                "deprecated_number_of_shares": 1787589014,
+                "pe": 0,
+                "offer_price": 0.215,
+                "suspended": false,
+                "last_price": 0.21,
+                "deprecated_market_cap": 375394000,
+                "day_low_price": 0.21,
+                "open_price": 0.215,
+                "year_high_date": "2017-11-08T00:00:00+1100",
+                "previous_day_percentage_change": "-2.273%",
+                "year_open_date": "2014-03-05T11:00:00+1100",
+                "year_high_price": 0.305,
+                "bid_price": 0.21,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.22,
+                "year_change_in_percentage": "3,212.303%",
+                "average_daily_volume": 19124049,
+                "year_low_price": 0.013,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.avzminerals.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Klaus Eckhof",
+                    "first_name": "Klaus",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Eckhof",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Guy Loando",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Loando",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Nigel Ferguson",
+                    "first_name": "Nigel",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ferguson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Hongliang Chen",
+                    "first_name": "Hongliang",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Chen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Flint",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Flint",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Mathew O'Hara",
+                    "first_name": "Mathew",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "O'Hara",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

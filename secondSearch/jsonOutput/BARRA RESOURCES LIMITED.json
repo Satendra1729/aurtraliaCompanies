@@ -1,0 +1,126 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/BAR",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "BARRA RESOURCES LIMITED",
+    "ASXcode": "BAR",
+    "data": {
+        "summary": {
+            "name_short": "BARRA RES",
+            "name_full": "BARRA RESOURCES LIMITED",
+            "code": "BAR",
+            "primary_share_code": "BAR",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "BARRA RESOURCES",
+            "foreign_exempt": false,
+            "listing_date": "2000-12-12T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 9481 3911",
+            "mailing_address": "Ground Floor, 6 Thelma Street, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold exploration.",
+            "fax_number": "+61 8 9481 3283",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-10T16:42:01+1100",
+                    "number_of_pages": 78,
+                    "id": "01906397",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-10T16:43:51+1100",
+                    "size": "4.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171010/pdf/43n3lptts0tq7x.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 943325,
+                "status": [],
+                "market_cap": 21611142,
+                "code": "BAR",
+                "indices": [],
+                "year_open_price": 0.006,
+                "previous_close_price": 0.051,
+                "year_change_price": 0.044,
+                "year_low_date": "2017-10-16T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 423747883,
+                "eps": -0.0035,
+                "change_in_percent": "-1.961%",
+                "change_price": -0.001,
+                "deprecated_number_of_shares": 423747883,
+                "pe": 0,
+                "offer_price": 0.051,
+                "suspended": false,
+                "last_price": 0.05,
+                "deprecated_market_cap": 21187000,
+                "day_low_price": 0.048,
+                "open_price": 0.051,
+                "year_high_date": "2017-02-24T00:00:00+1100",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.14,
+                "bid_price": 0.05,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.051,
+                "year_change_in_percentage": "733.333%",
+                "average_daily_volume": 1578673,
+                "year_low_price": 0.035,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.barraresources.com.au",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Gary Berrell",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Berrell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Lindsay Franker",
+                    "first_name": "Lindsay",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Franker",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Grant Mooney",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mooney",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Grant Mooney",
+                    "first_name": "Grant",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Mooney",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

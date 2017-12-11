@@ -1,0 +1,153 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/RAP",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "RESAPP HEALTH LIMITED",
+    "ASXcode": "RAP",
+    "data": {
+        "summary": {
+            "name_short": "RESAPP",
+            "name_full": "RESAPP HEALTH LIMITED",
+            "code": "RAP",
+            "primary_share_code": "RAP",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "RESAPP HEALTH LTD",
+            "foreign_exempt": false,
+            "listing_date": "2005-01-12T00:00:00+1100",
+            "registry_address": "LEVEL 4 CENTRAL PARK, 152 ST GEORGES TERRACE, PERTH, WA, AUSTRALIA, 6000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6211 5099",
+            "mailing_address": "Level 24, 44 St George's Terrace, PERTH, WA, AUSTRALIA, 6000",
+            "principal_activities": "Research and development of digital healthcare solutions for respiratory disease.",
+            "fax_number": "+61 8 9218 8875",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-09-29T17:24:01+1000",
+                    "number_of_pages": 49,
+                    "id": "01902649",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T17:27:31+1000",
+                    "size": "744.5KB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43mtj1dj9166c5.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1168567,
+                "status": [],
+                "market_cap": 55706431,
+                "code": "RAP",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Emerge Cos",
+                        "index_code": "XEC",
+                        "name_abrev": "Emerging Companies",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Emerging Companies Index"
+                    }
+                ],
+                "year_open_price": 0.007,
+                "previous_close_price": 0.074,
+                "year_change_price": 0.067,
+                "year_low_date": "2017-08-09T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 752789602,
+                "eps": -0.0153,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 659039602,
+                "pe": 0,
+                "offer_price": 0.074,
+                "suspended": false,
+                "last_price": 0.074,
+                "deprecated_market_cap": 48769000,
+                "day_low_price": 0.073,
+                "open_price": 0.075,
+                "year_high_date": "2017-04-13T00:00:00+1000",
+                "previous_day_percentage_change": "2.778%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 0.39,
+                "bid_price": 0.072,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.075,
+                "year_change_in_percentage": "957.143%",
+                "average_daily_volume": 3639981,
+                "year_low_price": 0.055,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.resapphealth.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Roger Aston",
+                    "first_name": "Roger",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Aston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Dr Tony Keating",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Keating",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brian Leedman",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leedman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Chris Ntoumenopoulos",
+                    "first_name": "Chris",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ntoumenopoulos",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Nicki Farley",
+                    "first_name": "Nicki",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Farley",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

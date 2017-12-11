@@ -1,0 +1,159 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/COM",
+    "GICSindustrygroup": "Software & Services",
+    "Companyname": "COMOPS LIMITED",
+    "ASXcode": "COM",
+    "data": {
+        "summary": {
+            "name_full": "COMOPS LIMITED",
+            "code": "COM",
+            "name_short": "COMOPS",
+            "industry_group_name": "Software & Services",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "COMOPS LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/COM?image_size=L&v=1473118281000",
+            "foreign_exempt": false,
+            "listing_date": "1999-12-07T00:00:00+1100",
+            "registry_address": "Suite 310 Level 3, 50 Holt Street, SURRY HILLS, NSW, AUSTRALIA, 2010",
+            "recent_announcement": false,
+            "investor_relations_email": "investor@comops.com.au ",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(02) 9923 8000",
+            "mailing_address": "Level 16, 132 Arthur Street, NORTH SYDNEY, NSW, AUSTRALIA, 2060",
+            "principal_activities": "The provision of workforce management software and services for Australian and international customers.",
+            "fax_number": "(02) 9460 2236",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-02-28T14:50:44+1100",
+                    "number_of_pages": 69,
+                    "id": "01834028",
+                    "market_sensitive": true,
+                    "document_release_date": "2017-02-28T14:55:56+1100",
+                    "size": "1.1MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170228/pdf/43gf56dltykdt9.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 0,
+                "status": [],
+                "market_cap": 5938151,
+                "code": "COM",
+                "indices": [],
+                "year_open_price": 0.036,
+                "previous_close_price": 0.006,
+                "year_change_price": -0.03,
+                "year_low_date": "2017-12-08T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 989691821,
+                "eps": -0.0063,
+                "change_in_percent": "0%",
+                "change_price": 0.0,
+                "deprecated_number_of_shares": 989691821,
+                "pe": 0,
+                "offer_price": 0.007,
+                "suspended": false,
+                "last_price": 0.006,
+                "deprecated_market_cap": 0,
+                "day_low_price": 0,
+                "open_price": 0,
+                "year_high_date": "2017-04-11T00:00:00+1000",
+                "previous_day_percentage_change": "0%",
+                "year_open_date": "2014-02-28T11:00:00+1100",
+                "year_high_price": 0.016,
+                "bid_price": 0.006,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0,
+                "year_change_in_percentage": "-83.333%",
+                "average_daily_volume": 4464579,
+                "year_low_price": 0,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "COM",
+            "registry_phone_number": "02 9698 5414",
+            "web_address": "http://www.comops.com.au",
+            "fiscal_year_end": "31/12",
+            "registry_name": "AUTOMIC REGISTRY SERVICES",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Niall Charles Edgar Cairns",
+                    "first_name": "Niall",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Cairns",
+                    "middle_name": "Charles Edgar"
+                },
+                {
+                    "full_name": "Mr Gerry Williams",
+                    "first_name": "Gerry",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Williams",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Phillip Carter",
+                    "first_name": "Phillip",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carter",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Neil Cornelius Docherty",
+                    "first_name": "Neil",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Docherty",
+                    "middle_name": "Cornelius"
+                },
+                {
+                    "full_name": "Mr Matthew Michalewicz",
+                    "first_name": "Matthew",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Michalewicz",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Christopher Brooke",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brooke",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Christopher Brooke",
+                    "first_name": "Christopher",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brooke",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CTD",
+    "GICSindustrygroup": "Consumer Services",
+    "Companyname": "CORPORATE TRAVEL MANAGEMENT LIMITED",
+    "ASXcode": "CTD",
+    "data": {
+        "summary": {
+            "name_short": "CORP TRAV",
+            "name_full": "CORPORATE TRAVEL MANAGEMENT LIMITED",
+            "code": "CTD",
+            "primary_share_code": "CTD",
+            "industry_group_name": "Consumer Services",
+            "delisting_date": null,
+            "sector_name": "Consumer Discretionary",
+            "name_abbrev": "CORP TRAVEL LIMITED",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CTD?image_size=L&v=1423637580000",
+            "foreign_exempt": false,
+            "listing_date": "2010-12-15T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "18C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-22T00:00:00+1000",
+                "record_date": "2017-09-08T00:00:00+1000",
+                "payable_date": "2017-10-05T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.18,
+                "ex_date": "2017-09-07T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(07) 3211 2400",
+            "mailing_address": "Level 24, 307 Queen Street, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Provider of travel management services to the corporate market.",
+            "fax_number": "(07) 3229 7522",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-09-22T08:14:34+1000",
+                    "number_of_pages": 54,
+                    "id": "01898692",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-22T08:16:56+1000",
+                    "size": "7.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170922/pdf/43mjrr7gc095hm.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 461371,
+                "status": [],
+                "market_cap": 2254804605,
+                "code": "CTD",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "C.Disc",
+                        "index_code": "XDJ",
+                        "name_abrev": "Cons Discretionary",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Consumer Discretionary (Sector)"
+                    }
+                ],
+                "year_open_price": 5.23829,
+                "previous_close_price": 21.25,
+                "year_change_price": 15.77171,
+                "year_low_date": "2016-12-12T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 106108452,
+                "eps": 0.535,
+                "change_in_percent": "-1.129%",
+                "change_price": -0.24,
+                "deprecated_number_of_shares": 106108452,
+                "pe": 39.27,
+                "offer_price": 21.1,
+                "suspended": false,
+                "last_price": 21.01,
+                "deprecated_market_cap": 2229339000,
+                "day_low_price": 20.75,
+                "open_price": 21.4,
+                "year_high_date": "2017-10-30T00:00:00+1100",
+                "previous_day_percentage_change": "4.68%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 24.25,
+                "bid_price": 20.98,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 21.8,
+                "year_change_in_percentage": "301.085%",
+                "average_daily_volume": 333335,
+                "year_low_price": 15.98,
+                "annual_dividend_yield": 1.43
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.travelctm.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Tony Bellas",
+                    "first_name": "Tony",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bellas",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jamie Pherous",
+                    "first_name": "Jamie",
+                    "roles": [
+                        "Managing Director",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pherous",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Laura Ruffles",
+                    "first_name": "Laura",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Ruffles",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Lonie",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lonie",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Greg Moynihan",
+                    "first_name": "Greg",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Moynihan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Admiral Robert J Natter",
+                    "first_name": "Robert",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Admiral",
+                    "last_name": "Natter",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Steve Fleming",
+                    "first_name": "Steve",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fleming",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mrs Allison Dodd",
+                    "first_name": "Allison",
+                    "roles": [
+                        "Investor Relations",
+                        "Administrator"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Dodd",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mrs Suzanne Margaret Yeates",
+                    "first_name": "Suzanne",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mrs",
+                    "last_name": "Yeates",
+                    "middle_name": "Margaret"
+                },
+                {
+                    "full_name": "Mr Steve Fleming",
+                    "first_name": "Steve",
+                    "roles": [
+                        "Joint Co. Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Fleming",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

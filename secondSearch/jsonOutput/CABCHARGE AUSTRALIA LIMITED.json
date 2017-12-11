@@ -1,0 +1,220 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CAB",
+    "GICSindustrygroup": "Commercial & Professional Services",
+    "Companyname": "CABCHARGE AUSTRALIA LIMITED",
+    "ASXcode": "CAB",
+    "data": {
+        "summary": {
+            "name_short": "CABCHARGE",
+            "name_full": "CABCHARGE AUSTRALIA LIMITED",
+            "code": "CAB",
+            "primary_share_code": "CAB",
+            "industry_group_name": "Commercial & Professional Services",
+            "delisting_date": null,
+            "sector_name": "Industrials",
+            "name_abbrev": "CABCHARGE AUSTRALIA",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/CAB?image_size=L&v=1382310889000",
+            "foreign_exempt": false,
+            "listing_date": "1999-12-14T00:00:00+1100",
+            "registry_address": "LEVEL 12, 680 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "last_dividend": {
+                "comments": "10C FRANKED@30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-08-29T00:00:00+1000",
+                "record_date": "2017-09-29T00:00:00+1000",
+                "payable_date": "2017-10-31T00:00:00+1100",
+                "type": "Final",
+                "amount": 0.1,
+                "ex_date": "2017-09-28T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(02) 9332 9248",
+            "mailing_address": "Cabcharge House, 152-162 Riley Street, EAST SYDNEY, NSW, AUSTRALIA, 2010",
+            "principal_activities": "Provision of the Cabcharge facility offering a convenient way to pay for taxi fares domestically and internationally.",
+            "fax_number": "(02) 9332 9263",
+            "latest_annual_reports": [
+                {
+                    "header": "2017 Annual Report",
+                    "document_date": "2017-09-29T10:38:13+1000",
+                    "number_of_pages": 124,
+                    "id": "01902044",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-29T10:41:11+1000",
+                    "size": "4.4MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170929/pdf/43msbtb6jl8rfp.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 247912,
+                "status": [],
+                "market_cap": 222796764,
+                "code": "CAB",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    }
+                ],
+                "year_open_price": 4.27,
+                "previous_close_price": 1.85,
+                "year_change_price": -2.345,
+                "year_low_date": "2017-11-29T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 120430683,
+                "eps": -0.752,
+                "change_in_percent": "4.054%",
+                "change_price": 0.075,
+                "deprecated_number_of_shares": 120430683,
+                "pe": 0,
+                "offer_price": 1.93,
+                "suspended": false,
+                "last_price": 1.925,
+                "deprecated_market_cap": 231829000,
+                "day_low_price": 1.855,
+                "open_price": 1.87,
+                "year_high_date": "2017-03-07T00:00:00+1100",
+                "previous_day_percentage_change": "1.648%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 3.356,
+                "bid_price": 1.92,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.925,
+                "year_change_in_percentage": "-54.918%",
+                "average_daily_volume": 288784,
+                "year_low_price": 1.605,
+                "annual_dividend_yield": 10.39
+            },
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.cabcharge.com.au",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Paul Oneile",
+                    "first_name": "Paul",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Oneile",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew M Skelton",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Skelton",
+                    "middle_name": "M"
+                },
+                {
+                    "full_name": "Mr Andrew M Skelton",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Skelton",
+                    "middle_name": "M"
+                },
+                {
+                    "full_name": "Ms Louise McCann",
+                    "first_name": "Louise",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "McCann",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Donnald S McMichael",
+                    "first_name": "Donnald",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "McMichael",
+                    "middle_name": "S"
+                },
+                {
+                    "full_name": "Mr Richard J Millen",
+                    "first_name": "Richard",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Millen",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Mr Clifford Rosenberg",
+                    "first_name": "Clifford",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rosenberg",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Trudy J Vonhoff",
+                    "first_name": "Trudy",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Vonhoff",
+                    "middle_name": "J"
+                },
+                {
+                    "full_name": "Ms Sheila Lines",
+                    "first_name": "Sheila",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Lines",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Adrian Bartolo Lucchese",
+                    "first_name": "Adrian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lucchese",
+                    "middle_name": "Bartolo"
+                }
+            ]
+        }
+    }
+}

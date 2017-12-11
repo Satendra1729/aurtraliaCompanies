@@ -1,0 +1,59 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/PHR",
+    "GICSindustrygroup": "Class Pend",
+    "Companyname": "PEOPLESHR LIMITED",
+    "ASXcode": "PHR",
+    "data": {
+        "summary": {
+            "name_short": "PEOPLESHR",
+            "name_full": "PEOPLESHR LIMITED",
+            "code": "PHR",
+            "primary_share_code": "PHR",
+            "industry_group_name": "Class Pend",
+            "delisting_date": null,
+            "sector_name": "Class Pend",
+            "name_abbrev": "PEOPLESHR LIMITED",
+            "foreign_exempt": false,
+            "listing_date": null,
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 3 8692 7248",
+            "mailing_address": "24-26 Second Avenue, BOX HILL NORTH, VIC, AUSTRALIA, 3129",
+            "principal_activities": "Human resource management",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "year_low_date": null,
+                "last_trade_date": null,
+                "status": [],
+                "indices": [],
+                "code": "PHR",
+                "suspended": false,
+                "year_high_date": null,
+                "year_open_date": null,
+                "desc_full": "Ordinary Fully Paid"
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": null,
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [],
+            "secretaries": [
+                {
+                    "full_name": "Mr Oliver Carton",
+                    "first_name": "Oliver",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Carton",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

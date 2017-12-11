@@ -1,0 +1,147 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/GFL",
+    "GICSindustrygroup": "Diversified Financials",
+    "Companyname": "GLOBAL MASTERS FUND LIMITED",
+    "ASXcode": "GFL",
+    "data": {
+        "summary": {
+            "name_short": "GBL MASTER",
+            "name_full": "GLOBAL MASTERS FUND LIMITED",
+            "code": "GFL",
+            "primary_share_code": "GFL",
+            "industry_group_name": "Diversified Financials",
+            "delisting_date": null,
+            "sector_name": "Financials",
+            "name_abbrev": "GLOBAL MASTERS FUND",
+            "foreign_exempt": false,
+            "listing_date": "2006-05-16T00:00:00+1000",
+            "registry_address": "LEVEL 12, 225 GEORGE STREET, SYDNEY, NSW, AUSTRALIA, 2000",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "02 9484 8255",
+            "mailing_address": "Level 1, 12 O Connell Street, SYDNEY, NSW, AUSTRALIA, 2000",
+            "principal_activities": "Investment company investing predominantly in Berkshire Hathaway A stock",
+            "fax_number": "02 9484 8785",
+            "latest_annual_reports": [
+                {
+                    "header": "GFL Annual Report to Shareholders",
+                    "document_date": "2017-09-25T14:09:29+1000",
+                    "number_of_pages": 36,
+                    "id": "01899562",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-09-25T14:11:24+1000",
+                    "size": "1.2MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170925/pdf/43mm0g4lgntv1h.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 33578,
+                "status": [],
+                "market_cap": 24127108,
+                "code": "GFL",
+                "indices": [],
+                "year_open_price": 1.15,
+                "previous_close_price": 2.25,
+                "year_change_price": 1.08,
+                "year_low_date": "2016-12-07T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 10723159,
+                "eps": 0.008,
+                "change_in_percent": "-0.889%",
+                "change_price": -0.02,
+                "deprecated_number_of_shares": 10723159,
+                "pe": 278.75,
+                "offer_price": 2.2,
+                "suspended": false,
+                "last_price": 2.23,
+                "deprecated_market_cap": 23913000,
+                "day_low_price": 2.23,
+                "open_price": 2.25,
+                "year_high_date": "2017-07-20T00:00:00+1000",
+                "previous_day_percentage_change": "4.651%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 2.468,
+                "bid_price": 2.16,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 2.28,
+                "year_change_in_percentage": "93.913%",
+                "average_daily_volume": 6573,
+                "year_low_price": 1.483,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "(02) 9290 9600",
+            "web_address": "http://www.globalmastersfund.com.au",
+            "fiscal_year_end": "30/06",
+            "registry_name": "BOARDROOM PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Jonathan Lancelot Addison",
+                    "first_name": "Jonathan",
+                    "roles": [
+                        "Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Addison",
+                    "middle_name": "Lancelot"
+                },
+                {
+                    "full_name": "Dr Emmanuel Clive Pohl",
+                    "first_name": "Emmanuel",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Pohl",
+                    "middle_name": "Clive"
+                },
+                {
+                    "full_name": "Mr Patrick Corrigan",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Corrigan",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Murray d'Almeida",
+                    "first_name": "Murray",
+                    "roles": [
+                        "Independent Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "d'Almeida",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Jason Pohl",
+                    "first_name": "Jason",
+                    "roles": [
+                        "Alternate Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Pohl",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Brian Jones",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jones",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

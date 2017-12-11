@@ -1,0 +1,129 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/DRG",
+    "GICSindustrygroup": "Materials",
+    "Companyname": "DRAIG RESOURCES LIMITED",
+    "ASXcode": "DRG",
+    "data": {
+        "summary": {
+            "name_full": "DRAIG RESOURCES LIMITED",
+            "code": "DRG",
+            "name_short": "DRAIG RESO",
+            "industry_group_name": "Materials",
+            "delisting_date": null,
+            "sector_name": "Metals & Mining",
+            "name_abbrev": "DRAIG RESOURCES LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/DRG?image_size=L&v=1508210425000",
+            "foreign_exempt": false,
+            "listing_date": "2005-12-20T00:00:00+1100",
+            "registry_address": "770 CANNING HIGHWAY, APPLECROSS, WA, AUSTRALIA, 6153",
+            "recent_announcement": false,
+            "investor_relations_email": "admin@draigresources.com",
+            "products": [
+                "shares"
+            ],
+            "phone_number": "+61 8 6143 6740",
+            "mailing_address": "Suite 3, Level 3, 24 Outram Streeet, WEST PERTH, WA, AUSTRALIA, 6005",
+            "principal_activities": "Gold Exploration at Bellevue Gold Project, Western Australia",
+            "fax_number": "+61 8 9388 8824",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report to shareholders",
+                    "document_date": "2017-10-31T16:55:02+1100",
+                    "number_of_pages": 66,
+                    "id": "01916069",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-31T16:57:17+1100",
+                    "size": "2.9MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171031/pdf/43ntmrlk9hncjt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 3587971,
+                "status": [],
+                "market_cap": 79436363,
+                "code": "DRG",
+                "indices": [],
+                "year_open_price": 0.022,
+                "previous_close_price": 0.225,
+                "year_change_price": 0.213,
+                "year_low_date": "2016-12-19T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 353050503,
+                "eps": -0.0093,
+                "change_in_percent": "4.444%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 353050503,
+                "pe": 0,
+                "offer_price": 0.24,
+                "suspended": false,
+                "last_price": 0.235,
+                "deprecated_market_cap": 82967000,
+                "day_low_price": 0.23,
+                "open_price": 0.23,
+                "year_high_date": "2017-11-27T00:00:00+1100",
+                "previous_day_percentage_change": "7.143%",
+                "year_open_date": "2014-02-27T11:00:00+1100",
+                "year_high_price": 0.3,
+                "bid_price": 0.23,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.245,
+                "year_change_in_percentage": "968.182%",
+                "average_daily_volume": 3412604,
+                "year_low_price": 0.02,
+                "annual_dividend_yield": 0
+            },
+            "primary_share_code": "DRG",
+            "registry_phone_number": "(08) 9315 2333",
+            "web_address": "http://www.draigresources.com",
+            "fiscal_year_end": "30/06",
+            "registry_name": "SECURITY TRANSFER AUSTRALIA PTY LTD",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Ray Shorrocks",
+                    "first_name": "Ray",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Shorrocks",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Guy Robertson",
+                    "first_name": "Guy",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Robertson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stephen Parsons",
+                    "first_name": "Stephen",
+                    "roles": [
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Parsons",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Michael Dylan Naylor",
+                    "first_name": "Michael",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Naylor",
+                    "middle_name": "Dylan"
+                }
+            ]
+        }
+    }
+}

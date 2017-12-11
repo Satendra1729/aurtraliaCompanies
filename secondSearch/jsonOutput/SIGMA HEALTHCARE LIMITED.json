@@ -1,0 +1,250 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/SIG",
+    "GICSindustrygroup": "Health Care Equipment & Services",
+    "Companyname": "SIGMA HEALTHCARE LIMITED",
+    "ASXcode": "SIG",
+    "data": {
+        "summary": {
+            "name_full": "SIGMA HEALTHCARE LIMITED",
+            "last_dividend": {
+                "comments": "2.5C FRANKED @ 30%",
+                "franked_percentage": "100%",
+                "created_date": "2017-09-13T00:00:00+1000",
+                "record_date": "2017-09-20T00:00:00+1000",
+                "payable_date": "2017-10-05T00:00:00+1100",
+                "type": "Interim",
+                "amount": 0.025,
+                "ex_date": "2017-09-19T00:00:00+1000"
+            },
+            "code": "SIG",
+            "name_short": "SIGMAHEALT",
+            "industry_group_name": "Health Care Equipment & Services",
+            "delisting_date": null,
+            "sector_name": "Health Care",
+            "name_abbrev": "SIGMA HEALTH LTD",
+            "logo_image_url": "http://data.asx.com.au/data/1/image/logo/SIG?image_size=L&v=1496620759000",
+            "foreign_exempt": false,
+            "listing_date": "2002-10-30T00:00:00+1100",
+            "registry_address": "LEVEL 1, 333 COLLINS STREET, MELBOURNE, VIC, AUSTRALIA, 3000",
+            "recent_announcement": false,
+            "investor_relations_email": "investor.relations@sigmahealthcare.com.au",
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "(03) 9215 9215",
+            "mailing_address": "3 Myer Place, ROWVILLE, VIC, AUSTRALIA, 3178",
+            "principal_activities": "Sigma Healthcare is the largest full line pharmacy wholesaler in Australia, has the largest footprint of branded pharmacies, has an expanding national hospital services business, and provides national third party logistics services.",
+            "fax_number": "(03) 9215 9188",
+            "latest_annual_reports": [],
+            "primary_share": {
+                "volume": 3398752,
+                "status": [],
+                "market_cap": 897015364,
+                "code": "SIG",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Div Opport",
+                        "index_code": "XDI",
+                        "name_abrev": "Div Opportunities",
+                        "index_date": null,
+                        "name_full": "S&P/ASX Dividend Opportunities Index"
+                    },
+                    {
+                        "name_short": "Health",
+                        "index_code": "XHJ",
+                        "name_abrev": "Health Care",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200 Health Care (Sector)"
+                    }
+                ],
+                "year_open_price": 0.655,
+                "previous_close_price": 0.845,
+                "year_change_price": 0.205,
+                "year_low_date": "2017-05-25T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 1061556644,
+                "eps": 0.058,
+                "change_in_percent": "1.775%",
+                "change_price": 0.015,
+                "deprecated_number_of_shares": 1061556644,
+                "pe": 14.83,
+                "offer_price": 0.865,
+                "suspended": false,
+                "last_price": 0.86,
+                "deprecated_market_cap": 912939000,
+                "day_low_price": 0.83,
+                "open_price": 0.845,
+                "year_high_date": "2017-01-10T00:00:00+1100",
+                "previous_day_percentage_change": "1.198%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.34,
+                "bid_price": 0.85,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 0.865,
+                "year_change_in_percentage": "31.298%",
+                "average_daily_volume": 3358510,
+                "year_low_price": 0.725,
+                "annual_dividend_yield": 6.4
+            },
+            "primary_share_code": "SIG",
+            "registry_phone_number": "1300 554 474",
+            "web_address": "http://www.sigmahealthcare.com.au/",
+            "fiscal_year_end": "31/01",
+            "registry_name": "LINK MARKET SERVICES LIMITED",
+            "investor_relations_url": "http://sigmahealthcare.com.au/investor-relations/"
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Brian Jamieson",
+                    "first_name": "Brian",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Jamieson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Mark Robert Hooper",
+                    "first_name": "Mark",
+                    "roles": [
+                        "Managing Director",
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Hooper",
+                    "middle_name": "Robert"
+                },
+                {
+                    "full_name": "Ms Christine Bartlett",
+                    "first_name": "Christine",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Bartlett",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Bayes",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Bayes",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Raymond Gunston",
+                    "first_name": "Raymond",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Gunston",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr David Manuel",
+                    "first_name": "David",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Manuel",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Kathryn Spargo",
+                    "first_name": "Kathryn",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Spargo",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Ms Iona MacPherson",
+                    "first_name": "Iona",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "MacPherson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Sam Lawson",
+                    "first_name": "Sam",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lawson",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Gary Woodford",
+                    "first_name": "Gary",
+                    "roles": [
+                        "Investor Relations"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Woodford",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Sam Lawson",
+                    "first_name": "Sam",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Lawson",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

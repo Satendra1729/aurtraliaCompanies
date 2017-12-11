@@ -1,0 +1,182 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/CAT",
+    "GICSindustrygroup": "Technology Hardware & Equipment",
+    "Companyname": "CATAPULT GROUP INTERNATIONAL LTD",
+    "ASXcode": "CAT",
+    "data": {
+        "summary": {
+            "name_short": "CATAPULT",
+            "name_full": "CATAPULT GROUP INTERNATIONAL LTD",
+            "code": "CAT",
+            "primary_share_code": "CAT",
+            "industry_group_name": "Technology Hardware & Equipment",
+            "delisting_date": null,
+            "sector_name": "Information Technology",
+            "name_abbrev": "CATAPULT GRP INT LTD",
+            "foreign_exempt": false,
+            "listing_date": "2014-12-19T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "recent_announcement": false,
+            "products": [
+                "shares"
+            ],
+            "phone_number": "(03) 9095 8410",
+            "mailing_address": "The Clocktower, 1 Aurora Lane, DOCKLANDS, VIC, AUSTRALIA, 3008",
+            "principal_activities": ".",
+            "latest_annual_reports": [
+                {
+                    "header": "Annual Report 2017",
+                    "document_date": "2017-10-20T16:05:47+1100",
+                    "number_of_pages": 114,
+                    "id": "01910526",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-10-20T16:09:04+1100",
+                    "size": "2.6MB",
+                    "url": "http://www.asx.com.au/asxpdf/20171020/pdf/43nf6f7b98h1nt.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 215179,
+                "status": [],
+                "market_cap": 240273844,
+                "code": "CAT",
+                "indices": [
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    }
+                ],
+                "deprecated_number_of_shares": 168023667,
+                "previous_close_price": 1.43,
+                "year_low_date": "2017-09-27T00:00:00+1000",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 168023667,
+                "eps": -0.086,
+                "change_in_percent": "0.35%",
+                "change_price": 0.005,
+                "pe": 0,
+                "offer_price": 1.44,
+                "suspended": false,
+                "last_price": 1.435,
+                "deprecated_market_cap": 241114000,
+                "day_low_price": 1.42,
+                "open_price": 1.42,
+                "year_high_date": "2016-12-05T00:00:00+1100",
+                "previous_day_percentage_change": "-0.348%",
+                "year_open_date": null,
+                "year_high_price": 2.95,
+                "bid_price": 1.43,
+                "desc_full": "Ordinary Fully Paid",
+                "day_high_price": 1.45,
+                "average_daily_volume": 522857,
+                "year_low_price": 1.12,
+                "annual_dividend_yield": 0
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.catapultsports.com",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Dr Adir Shiffman",
+                    "first_name": "Adir",
+                    "roles": [
+                        "Executive Chairman"
+                    ],
+                    "salutation": "Dr",
+                    "last_name": "Shiffman",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Shaun Holthouse",
+                    "first_name": "Shaun",
+                    "roles": [
+                        "CEO",
+                        "Executive Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Holthouse",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Joe Powell",
+                    "first_name": "Joe",
+                    "roles": [
+                        "CEO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Powell",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Igor van de Griendt",
+                    "first_name": "Igor",
+                    "roles": [
+                        "Executive Director",
+                        "Chief Op. Officer"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Griendt",
+                    "middle_name": "van de"
+                },
+                {
+                    "full_name": "Mr Calvin Ng",
+                    "first_name": "Calvin",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Ng",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr James Orlando",
+                    "first_name": "James",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Orlando",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Brent Scrimshaw",
+                    "first_name": "Brent",
+                    "roles": [
+                        "Non Exec. Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Scrimshaw",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Shane Greenan",
+                    "first_name": "Shane",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Greenan",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Mr Anand Sundaraj",
+                    "first_name": "Anand",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Sundaraj",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}

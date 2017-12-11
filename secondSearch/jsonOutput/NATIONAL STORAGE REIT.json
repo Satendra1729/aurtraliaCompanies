@@ -1,0 +1,230 @@
+{
+    "herf": "http://www.asx.com.au/asx/share-price-research/company/NSR",
+    "GICSindustrygroup": "Real Estate",
+    "Companyname": "NATIONAL STORAGE REIT",
+    "ASXcode": "NSR",
+    "data": {
+        "summary": {
+            "name_short": "NSREIT",
+            "name_full": "NATIONAL STORAGE REIT",
+            "code": "NSR",
+            "primary_share_code": "NSR",
+            "industry_group_name": "Real Estate",
+            "delisting_date": null,
+            "sector_name": "Real Estate",
+            "name_abbrev": "NATIONAL STORAGE",
+            "foreign_exempt": false,
+            "listing_date": "2013-12-19T00:00:00+1100",
+            "registry_address": "YARRA FALLS, 452 JOHNSTON STREET, ABBOTSFORD, VIC, AUSTRALIA, 3067",
+            "last_dividend": {
+                "comments": "DRP",
+                "franked_percentage": "0%",
+                "created_date": "2017-06-22T00:00:00+1000",
+                "record_date": "2017-06-30T00:00:00+1000",
+                "payable_date": "2017-08-30T00:00:00+1000",
+                "type": "Final",
+                "amount": 0.046,
+                "ex_date": "2017-06-29T00:00:00+1000"
+            },
+            "recent_announcement": false,
+            "products": [
+                "shares",
+                "warrants"
+            ],
+            "phone_number": "1800 683 290",
+            "mailing_address": "Level 23, 71 Eagle St, BRISBANE, QLD, AUSTRALIA, 4000",
+            "principal_activities": "Manages and operates self-storage centres.",
+            "fax_number": "0",
+            "latest_annual_reports": [
+                {
+                    "header": "NSR 2017 Annual Report",
+                    "document_date": "2017-08-23T07:55:17+1000",
+                    "number_of_pages": 71,
+                    "id": "01886565",
+                    "market_sensitive": false,
+                    "document_release_date": "2017-08-23T08:20:58+1000",
+                    "size": "3.5MB",
+                    "url": "http://www.asx.com.au/asxpdf/20170823/pdf/43lmj25l4kfbgv.pdf"
+                }
+            ],
+            "primary_share": {
+                "volume": 1145093,
+                "status": [],
+                "market_cap": 810373836,
+                "code": "NSR",
+                "indices": [
+                    {
+                        "name_short": "S&P/ASX200",
+                        "index_code": "XJO",
+                        "name_abrev": "S&P/ASX 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 200"
+                    },
+                    {
+                        "name_short": "S&P/ASX300",
+                        "index_code": "XKO",
+                        "name_abrev": "S&P/ASX 300",
+                        "index_date": null,
+                        "name_full": "S&P/ASX 300"
+                    },
+                    {
+                        "name_short": "ALL ORDS",
+                        "index_code": "XAO",
+                        "name_abrev": "All Ordinaries",
+                        "index_date": null,
+                        "name_full": "ALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Small Ords",
+                        "index_code": "XSO",
+                        "name_abrev": "S&P/ASX Small Ords",
+                        "index_date": null,
+                        "name_full": "S&P/ASX SMALL ORDINARIES"
+                    },
+                    {
+                        "name_short": "Aust 200",
+                        "index_code": "XAT",
+                        "name_abrev": "All Australian 200",
+                        "index_date": null,
+                        "name_full": "S&P/ASX All Australian 200"
+                    },
+                    {
+                        "name_short": "Prop",
+                        "index_code": "XPJ",
+                        "name_abrev": "A-REIT",
+                        "index_date": null,
+                        "name_full": "S&P/ASX200 A-REIT (Sector)"
+                    }
+                ],
+                "year_open_price": 1.09,
+                "previous_close_price": 1.57,
+                "year_change_price": 0.49,
+                "year_low_date": "2017-03-21T00:00:00+1100",
+                "last_trade_date": "2017-12-08T00:00:00+1100",
+                "number_of_shares": 516161679,
+                "eps": 0.0143,
+                "change_in_percent": "0.637%",
+                "change_price": 0.01,
+                "deprecated_number_of_shares": 516161679,
+                "pe": 110.49,
+                "offer_price": 1.59,
+                "suspended": false,
+                "last_price": 1.58,
+                "deprecated_market_cap": 815535000,
+                "day_low_price": 1.57,
+                "open_price": 1.57,
+                "year_high_date": "2017-11-29T00:00:00+1100",
+                "previous_day_percentage_change": "-0.946%",
+                "year_open_date": "2014-02-25T11:00:00+1100",
+                "year_high_price": 1.665,
+                "bid_price": 1.575,
+                "desc_full": "Stapled Security Fully Paid",
+                "day_high_price": 1.595,
+                "year_change_in_percentage": "44.954%",
+                "average_daily_volume": 1409018,
+                "year_low_price": 1.405,
+                "annual_dividend_yield": 5.82
+            },
+            "registry_phone_number": "1300 787 272",
+            "web_address": "http://www.nationalstorage.com.au",
+            "registry_name": "COMPUTERSHARE INVESTOR SERVICES PTY LIMITED",
+            "investor_relations_url": null
+        },
+        "details": {
+            "directors": [
+                {
+                    "full_name": "Mr Laurence Brindle",
+                    "first_name": "Laurence",
+                    "roles": [
+                        "Non Exec. Chairman"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brindle",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Andrew Catsoulis",
+                    "first_name": "Andrew",
+                    "roles": [
+                        "Managing Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Catsoulis",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Howard Brenchley",
+                    "first_name": "Howard",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Brenchley",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Anthony Keane",
+                    "first_name": "Anthony",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Keane",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Steven Leigh",
+                    "first_name": "Steven",
+                    "roles": [
+                        "Director"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Leigh",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Stuart Owen",
+                    "first_name": "Stuart",
+                    "roles": [
+                        "CFO"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Owen",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Rogers",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "General Counsel"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rogers",
+                    "middle_name": ""
+                }
+            ],
+            "secretaries": [
+                {
+                    "full_name": "Ms Claire Fidler",
+                    "first_name": "Claire",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Ms",
+                    "last_name": "Fidler",
+                    "middle_name": ""
+                },
+                {
+                    "full_name": "Mr Patrick Rogers",
+                    "first_name": "Patrick",
+                    "roles": [
+                        "Company Secretary"
+                    ],
+                    "salutation": "Mr",
+                    "last_name": "Rogers",
+                    "middle_name": ""
+                }
+            ]
+        }
+    }
+}
